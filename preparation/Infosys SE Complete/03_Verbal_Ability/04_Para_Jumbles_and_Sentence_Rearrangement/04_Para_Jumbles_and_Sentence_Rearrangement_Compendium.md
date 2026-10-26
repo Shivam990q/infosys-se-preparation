@@ -31,7 +31,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 001 (ID: `OS4U_PJ_0`)
+## Problem 001  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -55,7 +60,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 002 (ID: `OS4U_PJ_0`)
+## Problem 002  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -79,7 +89,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 003 (ID: `OS4U_PJ_0`)
+## Problem 003  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -103,7 +118,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 004 (ID: `OS4U_PJ_0`)
+## Problem 004  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -127,7 +147,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 005 (ID: `OS4U_PJ_0`)
+## Problem 005  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -151,7 +176,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 006 (ID: `OS4U_PJ_0`)
+## Problem 006  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -175,7 +205,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 007 (ID: `OS4U_PJ_0`)
+## Problem 007  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -199,7 +234,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 008 (ID: `OS4U_PJ_0`)
+## Problem 008  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -223,7 +263,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 009 (ID: `OS4U_PJ_0`)
+## Problem 009  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -247,7 +292,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 010 (ID: `OS4U_PJ_0`)
+## Problem 010  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -271,7 +321,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 011 (ID: `OS4U_PJ_0`)
+## Problem 011  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -295,7 +350,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 012 (ID: `OS4U_PJ_0`)
+## Problem 012  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -319,7 +379,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 013 (ID: `OS4U_PJ_0`)
+## Problem 013  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -343,7 +408,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 014 (ID: `OS4U_PJ_0`)
+## Problem 014  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -367,7 +437,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 015 (ID: `OS4U_PJ_0`)
+## Problem 015  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -391,7 +466,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 016 (ID: `OS4U_PJ_0`)
+## Problem 016  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -415,7 +495,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 017 (ID: `OS4U_PJ_0`)
+## Problem 017  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -439,7 +524,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 018 (ID: `OS4U_PJ_0`)
+## Problem 018  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -463,7 +553,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 019 (ID: `OS4U_PJ_0`)
+## Problem 019  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -487,7 +582,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 020 (ID: `OS4U_PJ_0`)
+## Problem 020  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -511,7 +611,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 021 (ID: `OS4U_PJ_0`)
+## Problem 021  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -535,7 +640,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 022 (ID: `OS4U_PJ_0`)
+## Problem 022  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -559,7 +669,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 023 (ID: `OS4U_PJ_0`)
+## Problem 023  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -583,7 +698,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 024 (ID: `OS4U_PJ_0`)
+## Problem 024  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -607,7 +727,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 025 (ID: `OS4U_PJ_0`)
+## Problem 025  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -631,7 +756,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 026 (ID: `OS4U_PJ_0`)
+## Problem 026  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -655,7 +785,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 027 (ID: `OS4U_PJ_0`)
+## Problem 027  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -679,7 +814,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 028 (ID: `OS4U_PJ_0`)
+## Problem 028  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -703,7 +843,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 029 (ID: `OS4U_PJ_0`)
+## Problem 029  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -727,7 +872,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 030 (ID: `OS4U_PJ_0`)
+## Problem 030  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -751,7 +901,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 031 (ID: `OS4U_PJ_0`)
+## Problem 031  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -775,7 +930,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 032 (ID: `OS4U_PJ_0`)
+## Problem 032  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -799,7 +959,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 033 (ID: `OS4U_PJ_0`)
+## Problem 033  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -823,7 +988,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 034 (ID: `OS4U_PJ_0`)
+## Problem 034  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -847,7 +1017,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 035 (ID: `OS4U_PJ_0`)
+## Problem 035  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -871,7 +1046,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 036 (ID: `OS4U_PJ_0`)
+## Problem 036  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -895,7 +1075,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 037 (ID: `OS4U_PJ_0`)
+## Problem 037  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -919,7 +1104,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 038 (ID: `OS4U_PJ_0`)
+## Problem 038  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -943,7 +1133,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 039 (ID: `OS4U_PJ_0`)
+## Problem 039  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -967,7 +1162,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 040 (ID: `OS4U_PJ_0`)
+## Problem 040  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -991,7 +1191,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 041 (ID: `OS4U_PJ_0`)
+## Problem 041  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -1015,7 +1220,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 042 (ID: `OS4U_PJ_0`)
+## Problem 042  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -1039,7 +1249,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 043 (ID: `OS4U_PJ_0`)
+## Problem 043  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -1063,7 +1278,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 044 (ID: `OS4U_PJ_0`)
+## Problem 044  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -1087,7 +1307,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 045 (ID: `OS4U_PJ_0`)
+## Problem 045  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -1111,7 +1336,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 046 (ID: `OS4U_PJ_0`)
+## Problem 046  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -1135,7 +1365,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 047 (ID: `OS4U_PJ_0`)
+## Problem 047  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -1159,7 +1394,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 048 (ID: `OS4U_PJ_0`)
+## Problem 048  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -1183,7 +1423,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 049 (ID: `OS4U_PJ_0`)
+## Problem 049  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -1207,7 +1452,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 050 (ID: `OS4U_PJ_0`)
+## Problem 050  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_PJ_0`)
 - **Source**: OnlineStudy4U (Para Jumbles & Sentence Rearrangement)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 
@@ -1231,7 +1481,12 @@ Below is the exhaustive, forensic compilation of all authentic sentence rearrang
 
 ---
 
-## Problem 051 (ID: `SEC0405_SC1_Q01`)
+## Problem 051  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_SC1_Q01`)
 - **Source**: CampusMonk (1 - Advanced Sentence Correction.pdf)
 - **Sub-Domain Focus**: Sentence Correction: Parallelism / Series Consistency
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_01.png`
@@ -1255,7 +1510,12 @@ Rule: Parallel structure requires that elements in a series share the same gramm
 
 ---
 
-## Problem 052 (ID: `SEC0405_SC2_Q01`)
+## Problem 052  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_SC2_Q01`)
 - **Source**: CampusMonk (2 - Advanced Sentence Correction.pdf)
 - **Sub-Domain Focus**: Sentence Correction (Hard Set): Parallelism in Compound Complements
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_2_page_01.png`
@@ -1279,7 +1539,12 @@ Rule: 'Committed to' is followed by gerunds (-ing forms). All three coordinate i
 
 ---
 
-## Problem 053 (ID: `SEC0405_PYQ50_Q11`)
+## Problem 053  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q11`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Sentence Correction: Parallelism
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_06.png`
@@ -1302,7 +1567,12 @@ Parallelism rule: series of activities must be in parallel gerund form (-ing).
 
 ---
 
-## Problem 054 (ID: `SEC0405_PYQ50_Q41`)
+## Problem 054  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q41`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Para Jumbles: Sentence Ordering
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_11.png`
@@ -1330,7 +1600,12 @@ Sentence B introduces digital age, A introduces contrast with security risk, D d
 
 ---
 
-## Problem 055 (ID: `SEC0405_PYQ50_Q42`)
+## Problem 055  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q42`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Para Jumbles: Sentence Ordering
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_11.png`
@@ -1355,7 +1630,12 @@ Sentence C introduces meditation, B explains mechanism, A describes mental benef
 
 ---
 
-## Problem 056 (ID: `SEC0405_PYQ50_Q43`)
+## Problem 056  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q43`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Para Jumbles: Sentence Ordering
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_11.png`
@@ -1381,7 +1661,12 @@ Sentence B contrasts storefronts, D details lack of overhead, A gives result of 
 
 ---
 
-## Problem 057 (ID: `SEC0405_PYQ50_Q44`)
+## Problem 057  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q44`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Para Jumbles: Sentence Ordering
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_12.png`
@@ -1409,7 +1694,12 @@ Sentence C defines recycling, A explains process, D lists materials, B highlight
 
 ---
 
-## Problem 058 (ID: `SEC0405_PYQ50_Q45`)
+## Problem 058  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q45`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Para Jumbles: Sentence Ordering
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_12.png`
@@ -1438,7 +1728,12 @@ Sentence A introduces goal setting, C elaborates on decisions, B explains task p
 
 ---
 
-## Problem 059 (ID: `TOPMATE_GRAMMAR_Q13`)
+## Problem 059  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q13`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_004.png`
@@ -1460,7 +1755,12 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 
 ---
 
-## Problem 060 (ID: `TOPMATE_GRAMMAR_Q24`)
+## Problem 060  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q24`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_008.png`
@@ -1482,7 +1782,12 @@ Grammar rule application confirms `D` is the strictly standard and syntactically
 
 ---
 
-## Problem 061 (ID: `TOPMATE_GRAMMAR_Q30`)
+## Problem 061  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q30`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_010.png`
@@ -1504,7 +1809,12 @@ Grammar rule application confirms `C` is the strictly standard and syntactically
 
 ---
 
-## Problem 062 (ID: `TOPMATE_GRAMMAR_Q38`)
+## Problem 062  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q38`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_013.png`
@@ -1526,7 +1836,12 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 
 ---
 
-## Problem 063 (ID: `TOPMATE_GRAMMAR_Q45`)
+## Problem 063  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q45`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_015.png`
@@ -1548,7 +1863,12 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 
 ---
 
-## Problem 064 (ID: `TOPMATE_GRAMMAR_Q49`)
+## Problem 064  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q49`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_017.png`
@@ -1570,7 +1890,12 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 
 ---
 
-## Problem 065 (ID: `TOPMATE_GRAMMAR_Q57`)
+## Problem 065  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q57`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_019.png`
@@ -1592,7 +1917,12 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 
 ---
 
-## Problem 066 (ID: `TOPMATE_GRAMMAR_Q67`)
+## Problem 066  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q67`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_023.png`
@@ -1614,7 +1944,12 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 
 ---
 
-## Problem 067 (ID: `TOPMATE_GRAMMAR_Q73`)
+## Problem 067  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q73`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_025.png`
@@ -1636,7 +1971,12 @@ Grammar rule application confirms `C` is the strictly standard and syntactically
 
 ---
 
-## Problem 068 (ID: `ITM-P03-Q38`)
+## Problem 068  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P03-Q38`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 3)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 - **Visual Reference Plate**: `images/paper_03_page_05.png`
@@ -1662,7 +2002,12 @@ Sentence sequence: Q→S→P→R.. Coherent narrative progression establishes lo
 
 ---
 
-## Problem 069 (ID: `ITM-P05-Q36`)
+## Problem 069  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P05-Q36`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 5)
 - **Sub-Domain Focus**: Sentence Rearrangement & Para Jumbles
 - **Visual Reference Plate**: `images/paper_05_page_05.png`

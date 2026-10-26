@@ -10,12 +10,22 @@
 
 ---
 
-## Problem 001 (ID: `SEC03_EBOOK_Q003`)
+## Problem 001  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q003`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 #include<stdio.h> 
 using namespace std; 
@@ -60,12 +70,22 @@ Therefore, the values printed are `7 6 3` (Option A).
 
 ---
 
-## Problem 002 (ID: `SEC03_EBOOK_Q006`)
+## Problem 002  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q006`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Operating Systems & Systems Architecture**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 Which of the following does not 
 interrupt the running process?
@@ -90,12 +110,22 @@ interrupt the running process?
 
 ---
 
-## Problem 003 (ID: `SEC03_EBOOK_Q010`)
+## Problem 003  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q010`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 What does the expression float a = 
 35 / 0 return?
@@ -119,12 +149,22 @@ In Java, floating-point arithmetic follows IEEE 754 standards. Dividing a non-ze
 
 ---
 
-## Problem 004 (ID: `SEC03_EBOOK_Q012`)
+## Problem 004  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q012`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 Construct post order Transversal 
 for the constructed tree with the 
@@ -167,12 +207,22 @@ Given Traversals:
 
 ---
 
-## Problem 005 (ID: `SEC03_EBOOK_Q016`)
+## Problem 005  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q016`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 Which of the following declarations 
 is invalid in C language?
@@ -199,12 +249,22 @@ is invalid in C language?
 
 ---
 
-## Problem 006 (ID: `SEC03_EBOOK_Q018`)
+## Problem 006  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q018`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 What will be the output of this 
 program?  
@@ -238,12 +298,22 @@ main ()
 
 ---
 
-## Problem 007 (ID: `SEC03_EBOOK_Q019`)
+## Problem 007  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q019`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 What will be the output of the 
 following pseudo code? 
@@ -278,12 +348,22 @@ print n
 
 ---
 
-## Problem 008 (ID: `SEC03_EBOOK_Q020`)
+## Problem 008  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q020`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 What will be the output of the 
 following pseudocode? 
@@ -319,12 +399,22 @@ Output sequence: `6 5 4` (Option D).
 
 ---
 
-## Problem 009 (ID: `SEC03_EBOOK_Q021`)
+## Problem 009  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q021`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 If the sequence of operations are 
 performed on a stack, the sequence 
@@ -354,12 +444,22 @@ Push(2), Pop().
 
 ---
 
-## Problem 010 (ID: `SEC03_EBOOK_Q023`)
+## Problem 010  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q023`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 The concatenation of two lists is to 
 be performed in O(1) time. Which of 
@@ -387,12 +487,22 @@ list should be used?
 
 ---
 
-## Problem 011 (ID: `SEC03_EBOOK_Q025`)
+## Problem 011  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q025`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Operating Systems & Systems Architecture**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 Let A be a square matrix of size 
 nxn. 
@@ -432,12 +542,22 @@ Output (A[i][j]);
 
 ---
 
-## Problem 012 (ID: `SEC03_EBOOK_Q026`)
+## Problem 012  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q026`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 The value of j at the end of the 
 execution of the following pseudo 
@@ -474,12 +594,22 @@ end for
 
 ---
 
-## Problem 013 (ID: `SEC03_EBOOK_Q028`)
+## Problem 013  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q028`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 The value returned by the following 
 function for f(1) is? 
@@ -514,12 +644,22 @@ return f(n);
 
 ---
 
-## Problem 014 (ID: `SEC03_EBOOK_Q029`)
+## Problem 014  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q029`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 Find the output of the following 
 pseudo code. 
@@ -559,12 +699,22 @@ Print n
 
 ---
 
-## Problem 015 (ID: `SEC03_EBOOK_Q030`)
+## Problem 015  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q030`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 Find the output of the following 
 pseudo code. 
@@ -603,12 +753,22 @@ Print x+y+z
 
 ---
 
-## Problem 016 (ID: `SEC03_EBOOK_Q031`)
+## Problem 016  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q031`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 Find the output of the following 
 pseudo code. 
@@ -642,12 +802,22 @@ Print x+y+z
 
 ---
 
-## Problem 017 (ID: `SEC03_EBOOK_Q032`)
+## Problem 017  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q032`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 Find the output of the following 
 pseudo code. 
@@ -685,12 +855,22 @@ Print p+q+r
 
 ---
 
-## Problem 018 (ID: `SEC03_EBOOK_Q033`)
+## Problem 018  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q033`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 Find the output of the following 
 pseudo code:  
@@ -728,12 +908,22 @@ Print x + y + z
 
 ---
 
-## Problem 019 (ID: `SEC03_EBOOK_Q037`)
+## Problem 019  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q037`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 What will be the output of the 
 following pseudocode? 
@@ -770,12 +960,22 @@ print a
 
 ---
 
-## Problem 020 (ID: `SEC03_EBOOK_Q038`)
+## Problem 020  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q038`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 What will be the output of the 
 following pseudocode? 
@@ -809,12 +1009,22 @@ Print (stringLength (str1))
 
 ---
 
-## Problem 021 (ID: `SEC03_EBOOK_Q039`)
+## Problem 021  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q039`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 Consider a stack of integers. The 
 stack is allocated 7 memory cells: 
@@ -856,12 +1066,22 @@ or underflow situation occurs:
 
 ---
 
-## Problem 022 (ID: `SEC03_EBOOK_Q040`)
+## Problem 022  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q040`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 Find the output of the following 
 pseudo code, if function is called for 
@@ -900,12 +1120,22 @@ End function fun()
 
 ---
 
-## Problem 023 (ID: `SEC03_EBOOK_Q042`)
+## Problem 023  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q042`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 Find the output of the following 
 pseudo code, if function is called for 
@@ -942,12 +1172,22 @@ End function fun()
 
 ---
 
-## Problem 024 (ID: `SEC03_EBOOK_Q044`)
+## Problem 024  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q044`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 For k= 3 || j=4 
 Integer func(integer k, integer j) 
@@ -982,12 +1222,22 @@ End function func
 
 ---
 
-## Problem 025 (ID: `SEC03_EBOOK_Q045`)
+## Problem 025  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q045`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 Integer x,y,z  
 x = -3, y=0 
@@ -1027,12 +1277,22 @@ Print x+y
 
 ---
 
-## Problem 026 (ID: `SEC03_EBOOK_Q047`)
+## Problem 026  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q047`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 For a B- tree of order 6, to be a 
 multi-way search tree, each non 
@@ -1060,12 +1320,22 @@ Non empty Children?
 
 ---
 
-## Problem 027 (ID: `SEC03_EBOOK_Q049`)
+## Problem 027  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q049`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 If you are using bubble sort to sort 
 the given numbers in ascending 
@@ -1095,12 +1365,22 @@ number of swaps required.
 
 ---
 
-## Problem 028 (ID: `SEC03_EBOOK_Q052`)
+## Problem 028  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q052`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 Integer a,b,c 
 Set a=7, b=7, c=4 
@@ -1134,12 +1414,22 @@ Print a+b
 
 ---
 
-## Problem 029 (ID: `SEC03_EBOOK_Q053`)
+## Problem 029  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q053`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 What will be the output of following 
 pseudocode? 
@@ -1173,12 +1463,22 @@ end-function
 
 ---
 
-## Problem 030 (ID: `SEC03_EBOOK_Q054`)
+## Problem 030  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q054`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 What will be the output of following 
 pseudocode? 
@@ -1209,12 +1509,22 @@ end-for
 
 ---
 
-## Problem 031 (ID: `SEC03_EBOOK_Q055`)
+## Problem 031  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q055`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 What will be the output of following 
 pseudocode? 
@@ -1244,12 +1554,22 @@ end-for
 
 ---
 
-## Problem 032 (ID: `SEC03_EBOOK_Q056`)
+## Problem 032  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q056`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 What will be the output of following 
 pseudocode? 
@@ -1278,12 +1598,22 @@ display res
 
 ---
 
-## Problem 033 (ID: `SEC03_EBOOK_Q057`)
+## Problem 033  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q057`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 What will be the output of following 
 pseudocode? 
@@ -1314,12 +1644,22 @@ end-while
 
 ---
 
-## Problem 034 (ID: `SEC03_EBOOK_Q058`)
+## Problem 034  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q058`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 How many times will the loop 
 execute? 
@@ -1350,12 +1690,22 @@ end-for
 
 ---
 
-## Problem 035 (ID: `SEC03_EBOOK_Q059`)
+## Problem 035  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q059`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 What will be the output of following 
 pseudocode? 
@@ -1386,12 +1736,22 @@ display (a or b and c)
 
 ---
 
-## Problem 036 (ID: `SEC03_EBOOK_Q060`)
+## Problem 036  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q060`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ / Code Snippet
 ```pseudocode
 What will be the output of following 
 pseudocode? 
@@ -1421,12 +1781,22 @@ end-for
 
 ---
 
-## Problem 037 (ID: `SEC03_EBOOK_Q061`)
+## Problem 037  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC03_EBOOK_Q061`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 Set integer m =3 
 Set integer n=5 
@@ -1461,12 +1831,22 @@ Display m
 
 ---
 
-## Problem 038 (ID: `SEC03_EBOOK_Q062`)
+## Problem 038  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q062`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 What will be the output of the 
 following pseudocode? 
@@ -1498,12 +1878,22 @@ end – for
 
 ---
 
-## Problem 039 (ID: `SEC03_EBOOK_Q063`)
+## Problem 039  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q063`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 Integer pp, qq, rr 
 Set pp=3, qq=7, rr=8 
@@ -1535,12 +1925,22 @@ Print pp+qq+rr
 
 ---
 
-## Problem 040 (ID: `SEC03_EBOOK_Q069`)
+## Problem 040  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q069`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 Integer p,q,r  
 Set p=9, q=6, r=8  
@@ -1576,12 +1976,22 @@ Print p+q
 
 ---
 
-## Problem 041 (ID: `SEC03_EBOOK_Q071`)
+## Problem 041  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q071`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 For var 0 to 5 do  
 If var%2==0 and var/2==0 then do 
@@ -1611,12 +2021,22 @@ End for
 
 ---
 
-## Problem 042 (ID: `SEC03_EBOOK_Q072`)
+## Problem 042  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q072`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 What will be the output when num 
 = 3 and values passed are 5,1,8 
@@ -1650,12 +2070,22 @@ Display res
 
 ---
 
-## Problem 043 (ID: `SEC03_EBOOK_Q073`)
+## Problem 043  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q073`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 Set integer marks = 30  
 switch(marks)  
@@ -1688,12 +2118,22 @@ Display marks
 
 ---
 
-## Problem 044 (ID: `SEC03_EBOOK_Q074`)
+## Problem 044  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q074`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **OOP & Language Architecture**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 public class Main 
 { 
@@ -1725,12 +2165,22 @@ args) {
 
 ---
 
-## Problem 045 (ID: `SEC03_EBOOK_Q080`)
+## Problem 045  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q080`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 public class Main { 
 public static void main(string[]args){ 
@@ -1769,12 +2219,22 @@ System.out.printIn(sum);
 
 ---
 
-## Problem 046 (ID: `SEC03_EBOOK_Q081`)
+## Problem 046  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q081`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 public class Main { 
 public static void main(string[]args){ 
@@ -1817,12 +2277,22 @@ System.out.printIn(sum);
 
 ---
 
-## Problem 047 (ID: `SEC03_EBOOK_Q082`)
+## Problem 047  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q082`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **OOP & Language Architecture**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 public class Main { 
 public static void main(string[]args) { 
@@ -1857,12 +2327,22 @@ System.out.printIn(i);
 
 ---
 
-## Problem 048 (ID: `SEC03_EBOOK_Q086`)
+## Problem 048  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q086`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 How many times campus monk will 
 be printed? 
@@ -1899,12 +2379,22 @@ Print”campus monk”
 
 ---
 
-## Problem 049 (ID: `SEC03_EBOOK_Q087`)
+## Problem 049  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q087`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 Set f=9 k=55 
 J=f+k/8 
@@ -1936,12 +2426,22 @@ Print f+k
 
 ---
 
-## Problem 050 (ID: `SEC03_EBOOK_Q088`)
+## Problem 050  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q088`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 What would the following pseudo 
 code do? 
@@ -1976,12 +2476,22 @@ End if
 
 ---
 
-## Problem 051 (ID: `SEC03_EBOOK_Q089`)
+## Problem 051  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q089`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 Int a,b,c 
 Set a=1, c=1 
@@ -2012,12 +2522,22 @@ Print b+c
 
 ---
 
-## Problem 052 (ID: `SEC03_EBOOK_Q090`)
+## Problem 052  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q090`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 Set m=1  
 Int a[3]={1,2,9}  
@@ -2048,12 +2568,22 @@ Print m
 
 ---
 
-## Problem 053 (ID: `SEC03_EBOOK_Q091`)
+## Problem 053  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q091`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 Set m=2  
 Int a[3]={1,1,3,1}  
@@ -2083,12 +2613,22 @@ Print m
 
 ---
 
-## Problem 054 (ID: `SEC03_EBOOK_Q092`)
+## Problem 054  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q092`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 Int count  
 for(each count from 0 to 9) 
@@ -2120,12 +2660,22 @@ End for
 
 ---
 
-## Problem 055 (ID: `SEC03_EBOOK_Q095`)
+## Problem 055  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q095`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 John wants to go to different 
 location of a city in which he is 
@@ -2164,12 +2714,22 @@ uses to determine that location?
 
 ---
 
-## Problem 056 (ID: `SEC03_EBOOK_Q097`)
+## Problem 056  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q097`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 Which of the following data 
 structure is used to convert 
@@ -2197,12 +2757,22 @@ another?
 
 ---
 
-## Problem 057 (ID: `SEC03_EBOOK_Q098`)
+## Problem 057  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q098`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **OOP & Language Architecture**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 what is the output of the following 
 code?  
@@ -2243,12 +2813,22 @@ System.out.print(x);
 
 ---
 
-## Problem 058 (ID: `SEC03_EBOOK_Q106`)
+## Problem 058  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q106`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 Find the output of the code 
 snippet.  
@@ -2288,12 +2868,22 @@ Print n
 
 ---
 
-## Problem 059 (ID: `SEC03_EBOOK_Q108`)
+## Problem 059  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q108`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 Find the output of the code 
 snippet. int main() 
@@ -2328,12 +2918,22 @@ printf("%d",m);
 
 ---
 
-## Problem 060 (ID: `SEC03_EBOOK_Q109`)
+## Problem 060  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q109`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 Find out how many times 
 will “hi” be printed. 
@@ -2370,12 +2970,22 @@ while(i<2020);
 
 ---
 
-## Problem 061 (ID: `SEC03_EBOOK_Q110`)
+## Problem 061  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q110`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 how many times will "abc" 
 be printed.  
@@ -2416,12 +3026,22 @@ printf("abc\n");
 
 ---
 
-## Problem 062 (ID: `SEC03_EBOOK_Q111`)
+## Problem 062  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q111`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 Find the output of the code 
 snippet.  
@@ -2456,12 +3076,22 @@ return 0;
 
 ---
 
-## Problem 063 (ID: `SEC03_EBOOK_Q112`)
+## Problem 063  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q112`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 Find the output of the code 
 snippet. 
@@ -2496,12 +3126,22 @@ return 0;
 
 ---
 
-## Problem 064 (ID: `SEC03_EBOOK_Q116`)
+## Problem 064  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q116`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 If the sequence of 
 operations are performed on a 
@@ -2531,12 +3171,22 @@ Pop().
 
 ---
 
-## Problem 065 (ID: `SEC03_EBOOK_Q117`)
+## Problem 065  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q117`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 Consider the following 
 operations performed on a stack of 
@@ -2566,12 +3216,22 @@ following statements is correct?
 
 ---
 
-## Problem 066 (ID: `SEC03_EBOOK_Q120`)
+## Problem 066  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q120`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 Which of the following 
 relation is correct for a binary 
@@ -2598,12 +3258,22 @@ search tree?
 
 ---
 
-## Problem 067 (ID: `SEC03_EBOOK_Q122`)
+## Problem 067  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q122`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 Find the output of the 
 pseudo code. Integer a, b, c  
@@ -2640,12 +3310,22 @@ Print a+b
 
 ---
 
-## Problem 068 (ID: `SEC03_EBOOK_Q127`)
+## Problem 068  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q127`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 Find the output of the 
 following code. 
@@ -2681,12 +3361,22 @@ End If
 
 ---
 
-## Problem 069 (ID: `SEC03_EBOOK_Q128`)
+## Problem 069  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q128`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 Find the output of the 
 following code. 
@@ -2727,12 +3417,22 @@ Print x+y+z
 
 ---
 
-## Problem 070 (ID: `SEC03_EBOOK_Q133`)
+## Problem 070  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q133`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 Find the output of the 
 following code. 
@@ -2777,12 +3477,22 @@ return 0;
 
 ---
 
-## Problem 071 (ID: `SEC03_EBOOK_Q134`)
+## Problem 071  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q134`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 Which of the following 
 cannot be checked in a switch 
@@ -2810,12 +3520,22 @@ case statement?
 
 ---
 
-## Problem 072 (ID: `SEC03_EBOOK_Q141`)
+## Problem 072  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q141`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 find the output of the 
 following code. 
@@ -2856,12 +3576,22 @@ Output: `Hi4` (Option C).
 
 ---
 
-## Problem 073 (ID: `SEC03_EBOOK_Q143`)
+## Problem 073  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_EBOOK_Q143`)
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 find the output of the 
 following code. 
@@ -2897,12 +3627,22 @@ In C, integer literals starting with `0` are interpreted in OCTAL base:
 
 ---
 
-## Problem 074 (ID: `SEC03_MOCK_Day04_Q03`)
+## Problem 074  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_MOCK_Day04_Q03`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 1.     #include
 using namespace std;
@@ -2935,12 +3675,22 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 
 ---
 
-## Problem 075 (ID: `SEC03_MOCK_Day04_Q06`)
+## Problem 075  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_MOCK_Day04_Q06`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 1.     Which of the following does not interrupt the running process?
 ```
@@ -2963,12 +3713,22 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 
 ---
 
-## Problem 076 (ID: `SEC03_MOCK_Day04_Q10`)
+## Problem 076  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_MOCK_Day04_Q10`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 1.     What does the expression float a = 35 / 0 return?
 ```
@@ -2991,12 +3751,22 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 
 ---
 
-## Problem 077 (ID: `SEC03_MOCK_Day04_Q12`)
+## Problem 077  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_MOCK_Day04_Q12`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
 - **Topic Domain**: **Data Structures, Arrays & Pointers**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 1.    Construct post order Transversal for the constructed tree with the given In-Order and Preorder Traversals:
 In-Order: 9 7 10 6 8
@@ -3021,12 +3791,22 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 
 ---
 
-## Problem 078 (ID: `SEC03_MOCK_Day04_Q18`)
+## Problem 078  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_MOCK_Day04_Q18`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ / Code Snippet
 ```pseudocode
 1.     What will be the output of this program?
 main ()
@@ -3056,12 +3836,22 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 
 ---
 
-## Problem 079 (ID: `SEC03_MOCK_Day04_Q19`)
+## Problem 079  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC03_MOCK_Day04_Q19`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ / Code Snippet
 ```pseudocode
 1.     What will be the output of the following pseudo code?
 Input m = 9,n = 6,
@@ -3092,12 +3882,22 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 
 ---
 
-## Problem 080 (ID: `SEC03_MOCK_Day04_Q20`)
+## Problem 080  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC03_MOCK_Day04_Q20`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ / Code Snippet
 ```pseudocode
 1.     What will be the output of the following pseudocode?
 Integer i
@@ -3127,12 +3927,22 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 
 ---
 
-## Problem 081 (ID: `SEC03_MOCK_Day04_Q21`)
+## Problem 081  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC03_MOCK_Day04_Q21`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
 - **Topic Domain**: **Data Structures, Arrays & Pointers**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ / Code Snippet
 ```pseudocode
 1.     If the sequence of operations are performed on a stack, the sequence of pop will be?
 Push(1), Push(2), Pop(), Push(1), Push(2), Pop(), Pop(), Pop(), Push(2), Pop().
@@ -3156,12 +3966,22 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 
 ---
 
-## Problem 082 (ID: `SEC03_MOCK_Day04_Q23`)
+## Problem 082  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC03_MOCK_Day04_Q23`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ / Code Snippet
 ```pseudocode
 T The concatenation of two lists is to be performed in O(1) time. Which of the following implementation of a list should be used?
 ```
@@ -3184,12 +4004,22 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 
 ---
 
-## Problem 083 (ID: `SEC03_MOCK_Day04_Q25`)
+## Problem 083  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC03_MOCK_Day04_Q25`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ / Code Snippet
 ```pseudocode
 1.     Let A be a square matrix of size nxn. Consider the following program and state the output.
 C=100
@@ -3222,12 +4052,22 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 
 ---
 
-## Problem 084 (ID: `SEC03_MOCK_Day04_Q26`)
+## Problem 084  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC03_MOCK_Day04_Q26`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ / Code Snippet
 ```pseudocode
 1.     The value of j at the end of the execution of the following pseudo code is ?
 Integer incr(Integer i)
@@ -3259,12 +4099,22 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 
 ---
 
-## Problem 085 (ID: `SEC03_MOCK_Day04_Q28`)
+## Problem 085  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC03_MOCK_Day04_Q28`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ / Code Snippet
 ```pseudocode
 1.     The value returned by the following function for f(1) is?
 int f(int n)
@@ -3295,12 +4145,22 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 
 ---
 
-## Problem 086 (ID: `SEC03_MOCK_Day04_Q29`)
+## Problem 086  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC03_MOCK_Day04_Q29`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ / Code Snippet
 ```pseudocode
 1.     Find the output of the following pseudo code.
 Integer n
@@ -3336,12 +4196,22 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 
 ---
 
-## Problem 087 (ID: `SEC03_MOCK_Day04_Q30`)
+## Problem 087  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC03_MOCK_Day04_Q30`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ / Code Snippet
 ```pseudocode
 1.     Find the output of the following pseudo code.
 Integer x,y,z
@@ -3376,12 +4246,22 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 
 ---
 
-## Problem 088 (ID: `SEC03_MOCK_Day06_Q02`)
+## Problem 088  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC03_MOCK_Day06_Q02`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 06 - Pseudo Code_QUESTIONS.json`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ / Code Snippet
 ```pseudocode
 How many times campus monk will be printed? Set k = 1, p = 4 Int j = p + k / 2 If (j equals p) Print "campus monk" End if j = p + k / 5 If (j not equal p) Print "campus monk" End if Print "campus monk"
 ```
@@ -3404,12 +4284,22 @@ Official Video Solution from Day 06 Full Length Mock I. Full execution trace and
 
 ---
 
-## Problem 089 (ID: `SEC03_MOCK_Day06_Q06`)
+## Problem 089  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC03_MOCK_Day06_Q06`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 06 - Pseudo Code_QUESTIONS.json`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ / Code Snippet
 ```pseudocode
 What will be the output of the following pseudocode? Initial values: a = 4, b = 4, c = 7 Int fun(int a, int b, int c) { For (each c from 3 to 5) { a = (c + c) ^ b; If ((a + c) < (c + a)) { b = (a + 11) + c; } Else { c = b + b; a = 3 + b; continue; } } Return a + b; }
 ```
@@ -3432,12 +4322,22 @@ Official Video Solution from Day 06 Full Length Mock I. Full execution trace and
 
 ---
 
-## Problem 090 (ID: `SEC03_MOCK_Day06_Q07`)
+## Problem 090  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC03_MOCK_Day06_Q07`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 06 - Pseudo Code_QUESTIONS.json`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ / Code Snippet
 ```pseudocode
 What will be the output of this pseudocode? a = 7, b = 2, c = 8 If ((b ^ a) < a && (2 ^ 7) < c ) a = b + c Else c = (4 + 12) + a b = 11 + a End if Print (a + b + c)
 ```
@@ -3460,12 +4360,22 @@ Official Video Solution from Day 06 Full Length Mock I. Full execution trace and
 
 ---
 
-## Problem 091 (ID: `SEC03_MOCK_Day06_Q09`)
+## Problem 091  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC03_MOCK_Day06_Q09`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 06 - Pseudo Code_QUESTIONS.json`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ / Code Snippet
 ```pseudocode
 Find the output of the following code. #include   void main() { int a = 10; if (a == 010) printf("BCA"); else printf("B.Tech"); }
 ```
@@ -3488,12 +4398,22 @@ Official Video Solution from Day 06 Full Length Mock I. Full execution trace and
 
 ---
 
-## Problem 092 (ID: `SEC03_MOCK_Day07_Q01`)
+## Problem 092  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC03_MOCK_Day07_Q01`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 07 - Section III _ Pseudo Codes Based on PYQ_QUESTIONS.json`
 - **Topic Domain**: **Data Structures, Arrays & Pointers**
 
-### Question Statement / Code Snippet
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ / Code Snippet
 ```pseudocode
 What is the output of the following C code? #include   int main() { int num = 987; int rem; while(num != 0) { rem = num % 4; num = num / 10; } printf("%d", rem); }
 ```
@@ -3516,12 +4436,22 @@ Official Video Solution from Day 07 Full Length Mock II. Full execution trace an
 
 ---
 
-## Problem 093 (ID: `SEC03_MOCK_Day07_Q03`)
+## Problem 093  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC03_MOCK_Day07_Q03`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 07 - Section III _ Pseudo Codes Based on PYQ_QUESTIONS.json`
 - **Topic Domain**: **Loops & Conditional Control Flow**
 
-### Question Statement / Code Snippet
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ / Code Snippet
 ```pseudocode
 Predict the output of the given pseudocode if the value of the number is 6: Read number k = 2 i = 2 while i <= number: k = k * i i = i + 1 end while write k
 ```
@@ -3544,12 +4474,22 @@ Official Video Solution from Day 07 Full Length Mock II. Full execution trace an
 
 ---
 
-## Problem 094 (ID: `SEC03_MOCK_Day07_Q06`)
+## Problem 094  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC03_MOCK_Day07_Q06`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 07 - Section III _ Pseudo Codes Based on PYQ_QUESTIONS.json`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ / Code Snippet
 ```pseudocode
 Predict the output of the following pseudocode. Integer x, y, z Set x = -2, y = 3, z = 1 if (x + (2 & 2) && y + (3 & 3) && z + (2 ^ 2)) x = x - 2 y = x Else x = z y = y ^ 2 End if Print x + y + z
 ```
@@ -3572,12 +4512,22 @@ Official Video Solution from Day 07 Full Length Mock II. Full execution trace an
 
 ---
 
-## Problem 095 (ID: `SEC03_MOCK_Day08_Q01`)
+## Problem 095  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC03_MOCK_Day08_Q01`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 08 - Technical MCQ - Pseudo Codes Based on PYQ 01_QUESTIONS.json`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ / Code Snippet
 ```pseudocode
 Q1.) Integer p, q, r Set p = 0, q = 2, r = 9 r = 7 + p q = q + r for (each r from 4 to 7) p = (p + p) & q if ((p + q) < (r - p) || 8 < p) p = (p + 2) + q Jump out of the loop End if End for Print p + q
 ```
@@ -3600,12 +4550,22 @@ Official Video Solution from Day 08 Full Length Mock III. Full execution trace a
 
 ---
 
-## Problem 096 (ID: `SEC03_MOCK_Day08_Q03`)
+## Problem 096  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC03_MOCK_Day08_Q03`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 08 - Technical MCQ - Pseudo Codes Based on PYQ 01_QUESTIONS.json`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ / Code Snippet
 ```pseudocode
 Q3.) Integer value, n Set value = 1, n = 45 while (value less than equal to n) value = value << 1 end loop Print value
 ```
@@ -3628,12 +4588,22 @@ Official Video Solution from Day 08 Full Length Mock III. Full execution trace a
 
 ---
 
-## Problem 097 (ID: `SEC03_MOCK_Day08_Q04`)
+## Problem 097  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC03_MOCK_Day08_Q04`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 08 - Technical MCQ - Pseudo Codes Based on PYQ 01_QUESTIONS.json`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ / Code Snippet
 ```pseudocode
 Q4.) Predict the output of the following pseudocode. Integer x, y, z Set x = -2, y = 3, z = 1 if (x + (2 & 2) && y + (3 & 3) && z + (2 ^ 2)) x = x -2 y = x Else x = z y = y ^ 2 End if Print x + y + z
 ```
@@ -3656,12 +4626,22 @@ Official Video Solution from Day 08 Full Length Mock III. Full execution trace a
 
 ---
 
-## Problem 098 (ID: `SEC03_MOCK_Day08_Q06`)
+## Problem 098  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC03_MOCK_Day08_Q06`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 08 - Technical MCQ - Pseudo Codes Based on PYQ 01_QUESTIONS.json`
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
-### Question Statement / Code Snippet
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ / Code Snippet
 ```pseudocode
 Q6. What is the output for p=15 and q=4. Integer solve (Integer p, Integer q) Integer value while(q) value = p MOD q p = q q = value End while return p End function solve()
 ```
@@ -3684,12 +4664,22 @@ Official Video Solution from Day 08 Full Length Mock III. Full execution trace a
 
 ---
 
-## Problem 099 (ID: `SEC03_MOCK_Day08_Q07`)
+## Problem 099  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC03_MOCK_Day08_Q07`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 08 - Technical MCQ - Pseudo Codes Based on PYQ 01_QUESTIONS.json`
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
-### Question Statement / Code Snippet
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ / Code Snippet
 ```pseudocode
 Q7.what is the output for number=4 int something(int number) { if(number <= 0) return 1; else return number * something(number-1); } something(4);
 ```
@@ -3712,12 +4702,22 @@ Official Video Solution from Day 08 Full Length Mock III. Full execution trace a
 
 ---
 
-## Problem 100 (ID: `SEC03_MOCK_Day08_Q08`)
+## Problem 100  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC03_MOCK_Day08_Q08`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 08 - Technical MCQ - Pseudo Codes Based on PYQ 01_QUESTIONS.json`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ / Code Snippet
 ```pseudocode
 Q8. What will be the output of the following pseudocode? int a , b ,c Set a=0,b=1,c=2 If (b^c || a&b || a>>1) c=9 a =b+c else c =1 a=a+c End if Print a+b+c
 ```
@@ -3737,12 +4737,22 @@ Official Video Solution from Day 08 Full Length Mock III. Full execution trace a
 
 ---
 
-## Problem 101 (ID: `SEC03_MOCK_Day08_Q09`)
+## Problem 101  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC03_MOCK_Day08_Q09`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 08 - Technical MCQ - Pseudo Codes Based on PYQ 01_QUESTIONS.json`
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
-### Question Statement / Code Snippet
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ / Code Snippet
 ```pseudocode
 Q9. What is the output for x = 10, y = 5 Integer solve(Integer x, Integer y) if(y > 0) if(x > 0) return x + y + solve(2, y - 5) + solve(x - 10, 1) End if End if return x + y End function
 ```
@@ -3762,12 +4772,22 @@ Official Video Solution from Day 08 Full Length Mock III. Full execution trace a
 
 ---
 
-## Problem 102 (ID: `SEC03_MOCK_Day08_Q10`)
+## Problem 102  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC03_MOCK_Day08_Q10`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 08 - Technical MCQ - Pseudo Codes Based on PYQ 01_QUESTIONS.json`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ / Code Snippet
 ```pseudocode
 Q10. What is the output of following Integer value, n Set value = 32, n = 1 while(value >= n) value = value >> 1 end loop Print value
 ```
@@ -3787,12 +4807,22 @@ Official Video Solution from Day 08 Full Length Mock III. Full execution trace a
 
 ---
 
-## Problem 103 (ID: `SEC03_MOCK_Day09_Q01`)
+## Problem 103  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC03_MOCK_Day09_Q01`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 09 - Technical MCQ - Pseudo Codes Based on PYQ 02_QUESTIONS.json`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ / Code Snippet
 ```pseudocode
 What is the output of following pseudo code: Fun() { Int a=10 , b=20 , c=30; If(c>b>a) Print("True"); Else Print("False"); return 0; }
 ```
@@ -3815,12 +4845,22 @@ Official Video Solution from Day 09 Full Length Mock IV. Full execution trace an
 
 ---
 
-## Problem 104 (ID: `SEC03_MOCK_Day09_Q03`)
+## Problem 104  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC03_MOCK_Day09_Q03`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 09 - Technical MCQ - Pseudo Codes Based on PYQ 02_QUESTIONS.json`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ / Code Snippet
 ```pseudocode
 What is the output of following: Integer x, y Set x = 15, y = 12 y = x &ndash; 1 do{ Print x x = y + (x &ndash; 2) } while(x < 40) end do while
 ```
@@ -3843,12 +4883,22 @@ Official Video Solution from Day 09 Full Length Mock IV. Full execution trace an
 
 ---
 
-## Problem 105 (ID: `SEC03_MOCK_Day09_Q10`)
+## Problem 105  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC03_MOCK_Day09_Q10`)
 - **Source Module**: `Infosys Mock Test Series`
 - **Source File**: `Day 09 - Technical MCQ - Pseudo Codes Based on PYQ 02_QUESTIONS.json`
 - **Topic Domain**: **Bitwise Operators & Logic**
 
-### Question Statement / Code Snippet
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ / Code Snippet
 ```pseudocode
 Integer a, b, c Set a = 1, b = 6, c = 7 b = (a & b) + b for (each c from 3 to 5) { b = (a + a) ^ a b = (12 + 5) + a } a = (a ^ 9) + a Print a + b
 ```

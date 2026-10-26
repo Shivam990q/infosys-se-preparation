@@ -8,7 +8,12 @@
 
 ---
 
-### Question ITM-P01-Q16 (Infosys System Engineer ITM Mock Paper 1 - Q16)
+### Question ITM-P01-Q16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q16)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
 **Visual Reference Plate:** [paper_01_page_02.png](images/paper_01_page_02.png)
 
@@ -38,7 +43,12 @@ Total arrangements = 30 × 15 × 12 = 5,400.
 
 ---
 
-### Question ITM-P01-Q17 (Infosys System Engineer ITM Mock Paper 1 - Q17)
+### Question ITM-P01-Q17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q17)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
 **Visual Reference Plate:** [paper_01_page_02.png](images/paper_01_page_02.png)
 
@@ -63,7 +73,12 @@ Total possible ways = 40 + 60 = 100 ways.
 
 ---
 
-### Question ITM-P01-Q18 (Infosys System Engineer ITM Mock Paper 1 - Q18)
+### Question ITM-P01-Q18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q18)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
 **Visual Reference Plate:** [paper_01_page_02.png](images/paper_01_page_02.png)
 
@@ -99,7 +114,12 @@ Probability = 4 / 11.
 
 ---
 
-### Question ITM-P01-Q19 (Infosys System Engineer ITM Mock Paper 1 - Q19)
+### Question ITM-P01-Q19  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q19)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
 **Visual Reference Plate:** [paper_01_page_02.png](images/paper_01_page_02.png)
 
@@ -124,7 +144,12 @@ Probability = 60 / 220 = 3 / 11.
 
 ---
 
-### Question ITM-P01-Q20 (Infosys System Engineer ITM Mock Paper 1 - Q20)
+### Question ITM-P01-Q20  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q20)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
 **Visual Reference Plate:** [paper_01_page_02.png](images/paper_01_page_02.png)
 
@@ -149,7 +174,12 @@ Net profit = 107.1 - 100 = 7.1%.
 
 ---
 
-### Question ITM-P01-Q21 (Infosys System Engineer ITM Mock Paper 1 - Q21)
+### Question ITM-P01-Q21  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q21)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_01_page_03.png](images/paper_01_page_03.png)
 
@@ -181,7 +211,12 @@ Therefore, the job is completed on the 17th day.
 
 ---
 
-### Question ITM-P01-Q22 (Infosys System Engineer ITM Mock Paper 1 - Q22)
+### Question ITM-P01-Q22  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q22)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_01_page_03.png](images/paper_01_page_03.png)
 
@@ -208,7 +243,12 @@ Converting to km/h: 30 × (18 / 5) = 108 km/h.
 
 ---
 
-### Question ITM-P01-Q23 (Infosys System Engineer ITM Mock Paper 1 - Q23)
+### Question ITM-P01-Q23  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q23)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_01_page_03.png](images/paper_01_page_03.png)
 
@@ -235,7 +275,12 @@ Winning margin = 0.10 × 15,200 = 1,520 votes.
 
 ---
 
-### Question ITM-P01-Q24 (Infosys System Engineer ITM Mock Paper 1 - Q24)
+### Question ITM-P01-Q24  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q24)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_01_page_03.png](images/paper_01_page_03.png)
 
@@ -261,7 +306,12 @@ P = 310 / 0.031 = ₹10,000.
 
 ---
 
-### Question ITM-P01-Q25 (Infosys System Engineer ITM Mock Paper 1 - Q25)
+### Question ITM-P01-Q25  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q25)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_01_page_03.png](images/paper_01_page_03.png)
 
@@ -291,7 +341,12 @@ x = 250 / 0.05 = ₹5,000.
 
 ---
 
-### Question ITM-P02-Q16 (Infosys System Engineer ITM Mock Paper 2 - Q16)
+### Question ITM-P02-Q16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q16)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
 **Visual Reference Plate:** [paper_02_page_02.png](images/paper_02_page_02.png)
 
@@ -314,7 +369,12 @@ arrangements = 4!/(2!2!) = 6. Treating the block as one unit alongside the 6 con
 
 ---
 
-### Question ITM-P02-Q17 (Infosys System Engineer ITM Mock Paper 2 - Q17)
+### Question ITM-P02-Q17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q17)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
 **Visual Reference Plate:** [paper_02_page_02.png](images/paper_02_page_02.png)
 
@@ -336,7 +396,12 @@ women. In how many ways can this be done?
 
 ---
 
-### Question ITM-P02-Q18 (Infosys System Engineer ITM Mock Paper 2 - Q18)
+### Question ITM-P02-Q18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q18)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
 **Visual Reference Plate:** [paper_02_page_02.png](images/paper_02_page_02.png)
 
@@ -358,7 +423,12 @@ Probability = 3/7.
 
 ---
 
-### Question ITM-P02-Q19 (Infosys System Engineer ITM Mock Paper 2 - Q19)
+### Question ITM-P02-Q19  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q19)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
 **Visual Reference Plate:** [paper_02_page_02.png](images/paper_02_page_02.png)
 
@@ -379,7 +449,12 @@ P(no defective) = (14×13)/(20×19) = 91/190. P(at least one defective) = 1 − 
 
 ---
 
-### Question ITM-P02-Q20 (Infosys System Engineer ITM Mock Paper 2 - Q20)
+### Question ITM-P02-Q20  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q20)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
 **Visual Reference Plate:** [paper_02_page_02.png](images/paper_02_page_02.png)
 
@@ -403,7 +478,12 @@ Take CP = 100 per unit weight, so marked price = 125 (25% intended profit). Afte
 
 ---
 
-### Question ITM-P02-Q21 (Infosys System Engineer ITM Mock Paper 2 - Q21)
+### Question ITM-P02-Q21  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q21)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
 **Visual Reference Plate:** [paper_02_page_02.png](images/paper_02_page_02.png)
 
@@ -427,7 +507,12 @@ A alone also takes 30 days.
 
 ---
 
-### Question ITM-P02-Q22 (Infosys System Engineer ITM Mock Paper 2 - Q22)
+### Question ITM-P02-Q22  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q22)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
 **Visual Reference Plate:** [paper_02_page_02.png](images/paper_02_page_02.png)
 
@@ -448,7 +533,12 @@ starting point, taking a total of 9 hours. Find the speed of the stream.
 
 ---
 
-### Question ITM-P02-Q23 (Infosys System Engineer ITM Mock Paper 2 - Q23)
+### Question ITM-P02-Q23  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q23)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_02_page_03.png](images/paper_02_page_03.png)
 
@@ -469,7 +559,12 @@ P × 1.10 × 0.92 = 27,324, so P × 1.012 = 27,324, giving P = 27,000.
 
 ---
 
-### Question ITM-P02-Q24 (Infosys System Engineer ITM Mock Paper 2 - Q24)
+### Question ITM-P02-Q24  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q24)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_02_page_03.png](images/paper_02_page_03.png)
 
@@ -491,7 +586,12 @@ Interest for 2 years (year 5 − year 3) = 15,000 − 13,000 = 2,000, so 1 year'
 
 ---
 
-### Question ITM-P02-Q25 (Infosys System Engineer ITM Mock Paper 2 - Q25)
+### Question ITM-P02-Q25  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q25)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_02_page_03.png](images/paper_02_page_03.png)
 
@@ -513,7 +613,12 @@ SI on ₹18,000 at 10% for 2 years = ₹3,600. Setting CI on ₹16,000 equal: 16
 gives (1+r)² = 1.225, so r ≈ 10.5%.
 ---
 
-### Question ITM-P03-Q16 (Infosys System Engineer ITM Mock Paper 3 - Q16)
+### Question ITM-P03-Q16  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q16)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
 **Visual Reference Plate:** [paper_03_page_02.png](images/paper_03_page_02.png)
 
@@ -535,7 +640,12 @@ the remaining 4 books between the other two specific students, 2 each: C(4,2)=6.
 
 ---
 
-### Question ITM-P03-Q17 (Infosys System Engineer ITM Mock Paper 3 - Q17)
+### Question ITM-P03-Q17  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q17)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
 **Visual Reference Plate:** [paper_03_page_02.png](images/paper_03_page_02.png)
 
@@ -558,7 +668,12 @@ equal split (3,3)=700 and women>men splits=358 gives 658+700+358=1,716=C(13,6), 
 
 ---
 
-### Question ITM-P03-Q18 (Infosys System Engineer ITM Mock Paper 3 - Q18)
+### Question ITM-P03-Q18  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q18)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
 **Visual Reference Plate:** [paper_03_page_02.png](images/paper_03_page_02.png)
 
@@ -580,7 +695,12 @@ By Bayes' theorem, P(A|Red) = (½×0.4)/0.55 = 0.2/0.55 = 4/11.
 
 ---
 
-### Question ITM-P03-Q19 (Infosys System Engineer ITM Mock Paper 3 - Q19)
+### Question ITM-P03-Q19  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q19)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
 **Visual Reference Plate:** [paper_03_page_02.png](images/paper_03_page_02.png)
 
@@ -617,7 +737,12 @@ Favourable = C(5,2)×C(4,2) = 10×6 = 60. Total ways = C(12,4) = 495. Probabilit
 
 ---
 
-### Question ITM-P03-Q20 (Infosys System Engineer ITM Mock Paper 3 - Q20)
+### Question ITM-P03-Q20  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q20)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_03_page_03.png](images/paper_03_page_03.png)
 
@@ -640,7 +765,12 @@ Marked-up SP for a claimed 1 kg = 48×1.25 = ₹60. True cost of the 900 g actua
 
 ---
 
-### Question ITM-P03-Q21 (Infosys System Engineer ITM Mock Paper 3 - Q21)
+### Question ITM-P03-Q21  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q21)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_03_page_03.png](images/paper_03_page_03.png)
 
@@ -664,7 +794,12 @@ remaining 3/5 = (3/5)÷(3/20) = 4 hours.
 
 ---
 
-### Question ITM-P03-Q22 (Infosys System Engineer ITM Mock Paper 3 - Q22)
+### Question ITM-P03-Q22  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q22)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_03_page_03.png](images/paper_03_page_03.png)
 
@@ -688,7 +823,12 @@ Speed ratio A:B = 1000:900 = 10:9 (A beats B by 100 m in 1000 m). Similarly B:C 
 
 ---
 
-### Question ITM-P03-Q23 (Infosys System Engineer ITM Mock Paper 3 - Q23)
+### Question ITM-P03-Q23  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q23)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_03_page_03.png](images/paper_03_page_03.png)
 
@@ -710,7 +850,12 @@ copper (25% zinc): 8 = 0.25×(20+x), so 20+x = 32, x = 12 kg.
 
 ---
 
-### Question ITM-P03-Q24 (Infosys System Engineer ITM Mock Paper 3 - Q24)
+### Question ITM-P03-Q24  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q24)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_03_page_03.png](images/paper_03_page_03.png)
 
@@ -733,7 +878,12 @@ Half-yearly compounding: 2 periods at 5% each. Amount = 8000×1.05×1.05 = 8,820
 
 ---
 
-### Question ITM-P03-Q25 (Infosys System Engineer ITM Mock Paper 3 - Q25)
+### Question ITM-P03-Q25  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q25)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_03_page_03.png](images/paper_03_page_03.png)
 
@@ -753,7 +903,12 @@ In what time will ₹8,000 amount to ₹9,261 at 5% per annum, compounded annual
 9,261/8,000 = 1.157625 = 1.05³ (since 1.05²=1.1025, ×1.05=1.157625). So the time is 3 years. 
 ---
 
-### Question ITM-P04-Q16 (Infosys System Engineer ITM Mock Paper 4 - Q16)
+### Question ITM-P04-Q16  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q16)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
 **Visual Reference Plate:** [paper_04_page_02.png](images/paper_04_page_02.png)
 
@@ -775,7 +930,12 @@ these 6 distinct gaps: P(6,4) = 6×5×4×3 = 360. Total = 120×360 = 43,200.
 
 ---
 
-### Question ITM-P04-Q17 (Infosys System Engineer ITM Mock Paper 4 - Q17)
+### Question ITM-P04-Q17  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q17)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
 **Visual Reference Plate:** [paper_04_page_02.png](images/paper_04_page_02.png)
 
@@ -797,7 +957,12 @@ exactly. Vowels in odd positions: 3! = 6. Consonants in even positions: 3! = 6. 
 
 ---
 
-### Question ITM-P04-Q18 (Infosys System Engineer ITM Mock Paper 4 - Q18)
+### Question ITM-P04-Q18  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q18)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_04_page_03.png](images/paper_04_page_03.png)
 
@@ -820,7 +985,12 @@ P(D) = 0.25×0.05 + 0.35×0.04 + 0.40×0.02 = 0.0125+0.014+0.008 = 0.0345. P(C|D
 
 ---
 
-### Question ITM-P04-Q19 (Infosys System Engineer ITM Mock Paper 4 - Q19)
+### Question ITM-P04-Q19  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q19)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_04_page_03.png](images/paper_04_page_03.png)
 
@@ -842,7 +1012,12 @@ arrangements = 8! = 40,320. Probability = 4320/40320 = 3/28.
 
 ---
 
-### Question ITM-P04-Q20 (Infosys System Engineer ITM Mock Paper 4 - Q20)
+### Question ITM-P04-Q20  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q20)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_04_page_03.png](images/paper_04_page_03.png)
 
@@ -864,7 +1039,12 @@ at 20% profit) = ₹1,500. Remaining SP needed = 2300−1500 = ₹800 for 30 kg 
 
 ---
 
-### Question ITM-P04-Q21 (Infosys System Engineer ITM Mock Paper 4 - Q21)
+### Question ITM-P04-Q21  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q21)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_04_page_03.png](images/paper_04_page_03.png)
 
@@ -888,7 +1068,12 @@ days (A+C only): 3×4/60=12/60 done — total 36/60=3/5 done, 2/5=24/60 remains.
 
 ---
 
-### Question ITM-P04-Q22 (Infosys System Engineer ITM Mock Paper 4 - Q22)
+### Question ITM-P04-Q22  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q22)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_04_page_03.png](images/paper_04_page_03.png)
 
@@ -910,7 +1095,12 @@ km/h; time = 270/150 = 1.8 hr = 1 hr 48 min. Meeting time = 8:30 AM + 1:48 = 10:
 
 ---
 
-### Question ITM-P04-Q23 (Infosys System Engineer ITM Mock Paper 4 - Q23)
+### Question ITM-P04-Q23  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q23)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_04_page_03.png](images/paper_04_page_03.png)
 
@@ -932,7 +1122,12 @@ is 80% of registered voters: registered = 24000/0.80 = 30,000.
 
 ---
 
-### Question ITM-P04-Q24 (Infosys System Engineer ITM Mock Paper 4 - Q24)
+### Question ITM-P04-Q24  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q24)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_04_page_03.png](images/paper_04_page_03.png)
 
@@ -954,7 +1149,12 @@ Year 1: 12000×1.10 = 13,200 (CI so far = 1,200). For the next half-year, SI on 
 
 ---
 
-### Question ITM-P04-Q25 (Infosys System Engineer ITM Mock Paper 4 - Q25)
+### Question ITM-P04-Q25  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q25)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_04_page_03.png](images/paper_04_page_03.png)
 
@@ -977,7 +1177,12 @@ per annum.
 ✓). 
 ---
 
-### Question ITM-P05-Q16 (Infosys System Engineer ITM Mock Paper 5 - Q16)
+### Question ITM-P05-Q16  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q16)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
 **Visual Reference Plate:** [paper_05_page_02.png](images/paper_05_page_02.png)
 
@@ -1001,7 +1206,12 @@ more members are chosen: C(9,4)=126. Subtract the invalid case where all 4 addit
 
 ---
 
-### Question ITM-P05-Q17 (Infosys System Engineer ITM Mock Paper 5 - Q17)
+### Question ITM-P05-Q17  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q17)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_05_page_03.png](images/paper_05_page_03.png)
 
@@ -1023,7 +1233,12 @@ total. The remaining 6 distinct letters fill the remaining 6 positions in 6!=720
 
 ---
 
-### Question ITM-P05-Q18 (Infosys System Engineer ITM Mock Paper 5 - Q18)
+### Question ITM-P05-Q18  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q18)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_05_page_03.png](images/paper_05_page_03.png)
 
@@ -1046,7 +1261,12 @@ exceeds the first. Probability = 1/2 (confirmed via direct count: 45 favourable 
 
 ---
 
-### Question ITM-P05-Q19 (Infosys System Engineer ITM Mock Paper 5 - Q19)
+### Question ITM-P05-Q19  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q19)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_05_page_03.png](images/paper_05_page_03.png)
 
@@ -1068,7 +1288,12 @@ P(all 4 different suits) = (4×4×4×4)/C(16,4) = 256/1820 = 64/455. P(at least 
 
 ---
 
-### Question ITM-P05-Q20 (Infosys System Engineer ITM Mock Paper 5 - Q20)
+### Question ITM-P05-Q20  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q20)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_05_page_03.png](images/paper_05_page_03.png)
 
@@ -1091,7 +1316,12 @@ cost of ₹480, giving 120/480×100 = 25%.
 
 ---
 
-### Question ITM-P05-Q21 (Infosys System Engineer ITM Mock Paper 5 - Q21)
+### Question ITM-P05-Q21  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q21)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_05_page_03.png](images/paper_05_page_03.png)
 
@@ -1113,7 +1343,12 @@ Rates in the ratio 1/15:1/20:1/30 = 4:3:2 (over LCM 60). C's share = (2/9)×9000
 
 ---
 
-### Question ITM-P05-Q22 (Infosys System Engineer ITM Mock Paper 5 - Q22)
+### Question ITM-P05-Q22  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q22)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_05_page_03.png](images/paper_05_page_03.png)
 
@@ -1136,7 +1371,12 @@ LCM(75,60) = 300 s.
 
 ---
 
-### Question ITM-P05-Q23 (Infosys System Engineer ITM Mock Paper 5 - Q23)
+### Question ITM-P05-Q23  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q23)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_05_page_03.png](images/paper_05_page_03.png)
 
@@ -1157,7 +1397,12 @@ Using the repeated-dilution formula: Final = 80×(1−20/80)² = 80×(3/4)² = 8
 
 ---
 
-### Question ITM-P05-Q24 (Infosys System Engineer ITM Mock Paper 5 - Q24)
+### Question ITM-P05-Q24  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q24)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_05_page_03.png](images/paper_05_page_03.png)
 
@@ -1178,7 +1423,12 @@ become 8 times itself, at the same rate?
 
 ---
 
-### Question ITM-P05-Q25 (Infosys System Engineer ITM Mock Paper 5 - Q25)
+### Question ITM-P05-Q25  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q25)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_05_page_03.png](images/paper_05_page_03.png)
 
@@ -1199,7 +1449,12 @@ End of year 1: 20000×1.10=22,000; after repaying 11,000, remaining debt = 11,00
 11000×1.10 = ₹12,100. 
 ---
 
-### Question ITM-P06-Q16 (Infosys System Engineer ITM Mock Paper 6 - Q16)
+### Question ITM-P06-Q16  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q16)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
 **Visual Reference Plate:** [paper_06_page_02.png](images/paper_06_page_02.png)
 
@@ -1221,7 +1476,12 @@ Not adjacent = 5040−1440 = 3600.
 
 ---
 
-### Question ITM-P06-Q17 (Infosys System Engineer ITM Mock Paper 6 - Q17)
+### Question ITM-P06-Q17  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q17)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
 **Visual Reference Plate:** [paper_06_page_02.png](images/paper_06_page_02.png)
 
@@ -1242,7 +1502,12 @@ middle: 8×8×7 = 448. Total = 504+448 = 952.
 
 ---
 
-### Question ITM-P06-Q18 (Infosys System Engineer ITM Mock Paper 6 - Q18)
+### Question ITM-P06-Q18  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q18)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_06_page_03.png](images/paper_06_page_03.png)
 
@@ -1264,7 +1529,12 @@ Outcomes with at least one 6: 6³−5³ = 91. Of these, the sum is 12 in 15 outc
 
 ---
 
-### Question ITM-P06-Q19 (Infosys System Engineer ITM Mock Paper 6 - Q19)
+### Question ITM-P06-Q19  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q19)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_06_page_03.png](images/paper_06_page_03.png)
 
@@ -1287,7 +1557,12 @@ P(disease | positive) = 0.0095/0.1085 = 19/217 (≈ 8.8%).
 
 ---
 
-### Question ITM-P06-Q20 (Infosys System Engineer ITM Mock Paper 6 - Q20)
+### Question ITM-P06-Q20  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q20)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_06_page_03.png](images/paper_06_page_03.png)
 
@@ -1309,7 +1584,12 @@ CP₁ = 1200/1.25 = 960; CP₂ = 1200/0.80 = 1500. Total CP = 2460, total SP = 2
 
 ---
 
-### Question ITM-P06-Q21 (Infosys System Engineer ITM Mock Paper 6 - Q21)
+### Question ITM-P06-Q21  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q21)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_06_page_03.png](images/paper_06_page_03.png)
 
@@ -1331,7 +1611,12 @@ needs 90/1 = 90 days.
 
 ---
 
-### Question ITM-P06-Q22 (Infosys System Engineer ITM Mock Paper 6 - Q22)
+### Question ITM-P06-Q22  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q22)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_06_page_03.png](images/paper_06_page_03.png)
 
@@ -1353,7 +1638,12 @@ cross the platform = (180+420)/(50/3) = 36 s.
 
 ---
 
-### Question ITM-P06-Q23 (Infosys System Engineer ITM Mock Paper 6 - Q23)
+### Question ITM-P06-Q23  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q23)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_06_page_03.png](images/paper_06_page_03.png)
 
@@ -1375,7 +1665,12 @@ salary = 3600, so the salary = ₹10,000.
 
 ---
 
-### Question ITM-P06-Q24 (Infosys System Engineer ITM Mock Paper 6 - Q24)
+### Question ITM-P06-Q24  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q24)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_06_page_03.png](images/paper_06_page_03.png)
 
@@ -1396,7 +1691,12 @@ Loan = 2420/1.1 + 2420/1.1² = 2200 + 2000 = ₹4,200.
 
 ---
 
-### Question ITM-P06-Q25 (Infosys System Engineer ITM Mock Paper 6 - Q25)
+### Question ITM-P06-Q25  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q25)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_06_page_03.png](images/paper_06_page_03.png)
 
@@ -1417,7 +1717,12 @@ Milk fractions: 3/5, 5/6, target 2/3. By alligation, the amounts are in the rati
 1/6 : 1/15 = 5:2. 
 ---
 
-### Question ITM-P07-Q16 (Infosys System Engineer ITM Mock Paper 7 - Q16)
+### Question ITM-P07-Q16  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q16)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_07_page_03.png](images/paper_07_page_03.png)
 
@@ -1438,7 +1743,12 @@ different gaps: C(5,3) = 10. Total = 12×10 = 120.
 
 ---
 
-### Question ITM-P07-Q17 (Infosys System Engineer ITM Mock Paper 7 - Q17)
+### Question ITM-P07-Q17  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q17)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_07_page_03.png](images/paper_07_page_03.png)
 
@@ -1459,7 +1769,12 @@ out of 2⁶ = 64. Probability = 21/64 (confirmed by listing all 64 outcomes).
 
 ---
 
-### Question ITM-P07-Q18 (Infosys System Engineer ITM Mock Paper 7 - Q18)
+### Question ITM-P07-Q18  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q18)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_07_page_03.png](images/paper_07_page_03.png)
 
@@ -1482,7 +1797,12 @@ of 95, so 24/95 ≈ 25.26%.
 
 ---
 
-### Question ITM-P07-Q19 (Infosys System Engineer ITM Mock Paper 7 - Q19)
+### Question ITM-P07-Q19  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q19)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_07_page_03.png](images/paper_07_page_03.png)
 
@@ -1504,7 +1824,12 @@ In how many days can A alone do the job?
 
 ---
 
-### Question ITM-P07-Q20 (Infosys System Engineer ITM Mock Paper 7 - Q20)
+### Question ITM-P07-Q20  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q20)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_07_page_03.png](images/paper_07_page_03.png)
 
@@ -1526,7 +1851,12 @@ gives u = 6 and d = 14 (check: 4 + 2 = 6 ✓, 5 + 1.5 = 6.5 ✓). Speed in still
 
 ---
 
-### Question ITM-P07-Q21 (Infosys System Engineer ITM Mock Paper 7 - Q21)
+### Question ITM-P07-Q21  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q21)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_07_page_03.png](images/paper_07_page_03.png)
 
@@ -1547,7 +1877,12 @@ Passed in at least one subject = 100 − 15 = 85%. Both = 70 + 60 − 85 = 45%.
 
 ---
 
-### Question ITM-P07-Q22 (Infosys System Engineer ITM Mock Paper 7 - Q22)
+### Question ITM-P07-Q22  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q22)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_07_page_03.png](images/paper_07_page_03.png)
 
@@ -1568,7 +1903,12 @@ For 3 years at 20%, CI − SI = P(1.2³ − 1 − 0.6) = 0.128P = 640, so P = �
 
 ---
 
-### Question ITM-P07-Q23 (Infosys System Engineer ITM Mock Paper 7 - Q23)
+### Question ITM-P07-Q23  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q23)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_07_page_03.png](images/paper_07_page_03.png)
 
@@ -1588,7 +1928,12 @@ What is the remainder when 2²⁰²⁶ is divided by 7?
 
 ---
 
-### Question ITM-P07-Q24 (Infosys System Engineer ITM Mock Paper 7 - Q24)
+### Question ITM-P07-Q24  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q24)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
 **Visual Reference Plate:** [paper_07_page_03.png](images/paper_07_page_03.png)
 
@@ -1610,7 +1955,12 @@ and the sum is 32.
 
 ---
 
-### Question ITM-P07-Q25 (Infosys System Engineer ITM Mock Paper 7 - Q25)
+### Question ITM-P07-Q25  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q25)
 **Section:** Section 2: Technical Ability (Quantitative) | **Page:** 4  
 **Visual Reference Plate:** [paper_07_page_04.png](images/paper_07_page_04.png)
 

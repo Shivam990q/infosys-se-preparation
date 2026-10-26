@@ -6,7 +6,12 @@ This compendium details all rectangular, square, and hybrid alphabetical-numeric
 
 ---
 
-### Question 9: 4×3 Quadratic Sum Matrix Pattern (A² + B² - 2 = C)
+### Question 9: 4×3 Quadratic Sum Matrix Pattern (A² + B² - 2 = C)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **ID:** `SEC06_PUZ_Q09` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -75,7 +80,12 @@ Hence, the missing number is 5 (Option C).
 
 ---
 
-### Question 10: 3×3 Letter-Number Product Matrix Pattern
+### Question 10: 3×3 Letter-Number Product Matrix Pattern  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **ID:** `SEC06_PUZ_Q10` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -116,7 +126,12 @@ Hence, the missing letter is R (Option D).
 
 ---
 
-### Question 13: 4×4 Column Linear Product Matrix Pattern
+### Question 13: 4×4 Column Linear Product Matrix Pattern  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **ID:** `SEC06_PUZ_Q13` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -157,7 +172,12 @@ Hence, the missing number is 9 (Option B).
 
 ---
 
-### Question 14: Dual-Set Exponential Square Grid Pattern
+### Question 14: Dual-Set Exponential Square Grid Pattern  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **ID:** `SEC06_PUZ_Q14` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -199,7 +219,12 @@ Hence, the missing number in the second set is 99 (Option C).
 
 ---
 
-### Question 22: Infosys PYQ Matrix Deduction Problem 22
+### Question 22: Infosys PYQ Matrix Deduction Problem 22  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **ID:** `SEC06_MAT_022` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -238,7 +263,12 @@ Conclusion confirms answer D.
 
 ---
 
-### Question 23: Infosys PYQ Matrix Deduction Problem 23
+### Question 23: Infosys PYQ Matrix Deduction Problem 23  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **ID:** `SEC06_MAT_023` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -277,7 +307,12 @@ Conclusion confirms answer B.
 
 ---
 
-### Question 24: Infosys PYQ Matrix Deduction Problem 24
+### Question 24: Infosys PYQ Matrix Deduction Problem 24  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **ID:** `SEC06_MAT_024` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -316,7 +351,12 @@ Conclusion confirms answer B.
 
 ---
 
-### Question 25: Infosys PYQ Matrix Deduction Problem 25
+### Question 25: Infosys PYQ Matrix Deduction Problem 25  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **ID:** `SEC06_MAT_025` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -355,7 +395,12 @@ Conclusion confirms answer B.
 
 ---
 
-### Question 26: Infosys PYQ Matrix Deduction Problem 26
+### Question 26: Infosys PYQ Matrix Deduction Problem 26  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **ID:** `SEC06_MAT_026` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -394,7 +439,12 @@ Conclusion confirms answer A.
 
 ---
 
-### Question 27: Infosys PYQ Matrix Deduction Problem 27
+### Question 27: Infosys PYQ Matrix Deduction Problem 27  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **ID:** `SEC06_MAT_027` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -433,7 +483,12 @@ Conclusion confirms answer D.
 
 ---
 
-### Question 28: Infosys PYQ Matrix Deduction Problem 28
+### Question 28: Infosys PYQ Matrix Deduction Problem 28  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **ID:** `SEC06_MAT_028` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -472,7 +527,12 @@ Conclusion confirms answer D.
 
 ---
 
-### Question 29: Infosys PYQ Matrix Deduction Problem 29
+### Question 29: Infosys PYQ Matrix Deduction Problem 29  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **ID:** `SEC06_MAT_029` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -511,7 +571,12 @@ Conclusion confirms answer D.
 
 ---
 
-### Question 30: Infosys PYQ Matrix Deduction Problem 30
+### Question 30: Infosys PYQ Matrix Deduction Problem 30  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **ID:** `SEC06_MAT_030` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -550,7 +615,12 @@ Conclusion confirms answer D.
 
 ---
 
-### Question 31: Infosys PYQ Matrix Deduction Problem 31
+### Question 31: Infosys PYQ Matrix Deduction Problem 31  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **ID:** `SEC06_MAT_031` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -589,7 +659,12 @@ Conclusion confirms answer D.
 
 ---
 
-### Question 32: Infosys PYQ Matrix Deduction Problem 32
+### Question 32: Infosys PYQ Matrix Deduction Problem 32  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **ID:** `SEC06_MAT_032` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -628,7 +703,12 @@ Conclusion confirms answer C.
 
 ---
 
-### Question 33: Infosys PYQ Matrix Deduction Problem 33
+### Question 33: Infosys PYQ Matrix Deduction Problem 33  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **ID:** `SEC06_MAT_033` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -667,7 +747,12 @@ Conclusion confirms answer A.
 
 ---
 
-### Question 34: Infosys PYQ Matrix Deduction Problem 34
+### Question 34: Infosys PYQ Matrix Deduction Problem 34  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **ID:** `SEC06_MAT_034` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -706,7 +791,12 @@ Conclusion confirms answer D.
 
 ---
 
-### Question 35: Infosys PYQ Matrix Deduction Problem 35
+### Question 35: Infosys PYQ Matrix Deduction Problem 35  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **ID:** `SEC06_MAT_035` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -745,7 +835,12 @@ Conclusion confirms answer B.
 
 ---
 
-### Question 36: Infosys PYQ Matrix Deduction Problem 36
+### Question 36: Infosys PYQ Matrix Deduction Problem 36  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **ID:** `SEC06_MAT_036` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -784,7 +879,12 @@ Conclusion confirms answer A.
 
 ---
 
-### Question 37: Infosys PYQ Matrix Deduction Problem 37
+### Question 37: Infosys PYQ Matrix Deduction Problem 37  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **ID:** `SEC06_MAT_037` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -823,7 +923,12 @@ Conclusion confirms answer C.
 
 ---
 
-### Question 38: Infosys PYQ Matrix Deduction Problem 38
+### Question 38: Infosys PYQ Matrix Deduction Problem 38  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **ID:** `SEC06_MAT_038` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -862,7 +967,12 @@ Conclusion confirms answer D.
 
 ---
 
-### Question 39: Infosys PYQ Matrix Deduction Problem 39
+### Question 39: Infosys PYQ Matrix Deduction Problem 39  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **ID:** `SEC06_MAT_039` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -901,7 +1011,12 @@ Conclusion confirms answer C.
 
 ---
 
-### Question 40: Infosys PYQ Matrix Deduction Problem 40
+### Question 40: Infosys PYQ Matrix Deduction Problem 40  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **ID:** `SEC06_MAT_040` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -940,7 +1055,12 @@ Conclusion confirms answer A.
 
 ---
 
-### Question 41: Infosys PYQ Matrix Deduction Problem 41
+### Question 41: Infosys PYQ Matrix Deduction Problem 41  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **ID:** `SEC06_MAT_041` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -979,7 +1099,12 @@ Conclusion confirms answer B.
 
 ---
 
-### Question 42: Infosys PYQ Matrix Deduction Problem 42
+### Question 42: Infosys PYQ Matrix Deduction Problem 42  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **ID:** `SEC06_MAT_042` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -1018,7 +1143,12 @@ Conclusion confirms answer A.
 
 ---
 
-### Question 43: Infosys PYQ Matrix Deduction Problem 43
+### Question 43: Infosys PYQ Matrix Deduction Problem 43  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 
 **ID:** `SEC06_MAT_043` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -1057,7 +1187,12 @@ Conclusion confirms answer C.
 
 ---
 
-### Question 44: Infosys PYQ Matrix Deduction Problem 44
+### Question 44: Infosys PYQ Matrix Deduction Problem 44  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 
 **ID:** `SEC06_MAT_044` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -1096,7 +1231,12 @@ Conclusion confirms answer C.
 
 ---
 
-### Question 45: Infosys PYQ Matrix Deduction Problem 45
+### Question 45: Infosys PYQ Matrix Deduction Problem 45  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 
 **ID:** `SEC06_MAT_045` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -1135,7 +1275,12 @@ Conclusion confirms answer B.
 
 ---
 
-### Question 46: Infosys PYQ Matrix Deduction Problem 46
+### Question 46: Infosys PYQ Matrix Deduction Problem 46  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 **ID:** `SEC06_MAT_046` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -1174,7 +1319,12 @@ Conclusion confirms answer B.
 
 ---
 
-### Question 47: Infosys PYQ Matrix Deduction Problem 47
+### Question 47: Infosys PYQ Matrix Deduction Problem 47  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 **ID:** `SEC06_MAT_047` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -1213,7 +1363,12 @@ Conclusion confirms answer C.
 
 ---
 
-### Question 48: Infosys PYQ Matrix Deduction Problem 48
+### Question 48: Infosys PYQ Matrix Deduction Problem 48  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 **ID:** `SEC06_MAT_048` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -1252,7 +1407,12 @@ Conclusion confirms answer C.
 
 ---
 
-### Question 49: Infosys PYQ Matrix Deduction Problem 49
+### Question 49: Infosys PYQ Matrix Deduction Problem 49  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 **ID:** `SEC06_MAT_049` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -1291,7 +1451,12 @@ Conclusion confirms answer A.
 
 ---
 
-### Question 50: Infosys PYQ Matrix Deduction Problem 50
+### Question 50: Infosys PYQ Matrix Deduction Problem 50  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 **ID:** `SEC06_MAT_050` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
@@ -1330,7 +1495,12 @@ Conclusion confirms answer D.
 
 ---
 
-### Question 51: Infosys PYQ Matrix Deduction Problem 51
+### Question 51: Infosys PYQ Matrix Deduction Problem 51  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 **ID:** `SEC06_MAT_051` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 

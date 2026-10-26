@@ -18,11 +18,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 001 (ID: `OS4U_Topic 07_0`)
+## Problem 001  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A person who loves to travel is called a:"*
 
 ### Options
@@ -41,11 +51,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 002 (ID: `OS4U_Topic 07_0`)
+## Problem 002  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A person who studies insects is known as a:"*
 
 ### Options
@@ -64,11 +84,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 003 (ID: `OS4U_Topic 07_0`)
+## Problem 003  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"The science of writing is called:"*
 
 ### Options
@@ -87,11 +117,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 004 (ID: `OS4U_Topic 07_0`)
+## Problem 004  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A person who does not believe in the existence of God is called an:"*
 
 ### Options
@@ -110,11 +150,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 005 (ID: `OS4U_Topic 07_0`)
+## Problem 005  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A word that means "a fear of heights" is:"*
 
 ### Options
@@ -133,11 +183,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 006 (ID: `OS4U_Topic 07_0`)
+## Problem 006  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A person who studies human history through excavation is known as an:"*
 
 ### Options
@@ -156,11 +216,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 007 (ID: `OS4U_Topic 07_0`)
+## Problem 007  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"The term for a person who writes and performs plays is:"*
 
 ### Options
@@ -179,11 +249,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 008 (ID: `OS4U_Topic 07_0`)
+## Problem 008  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A government ruled by a single person is called a:"*
 
 ### Options
@@ -202,11 +282,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 009 (ID: `OS4U_Topic 07_0`)
+## Problem 009  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"The term for a book about one's own life is:"*
 
 ### Options
@@ -225,11 +315,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 010 (ID: `OS4U_Topic 07_0`)
+## Problem 010  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A person who is obsessed with cleanliness is known as a:"*
 
 ### Options
@@ -248,11 +348,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 011 (ID: `OS4U_Topic 07_0`)
+## Problem 011  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A person who can speak several languages is called:"*
 
 ### Options
@@ -271,11 +381,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 012 (ID: `OS4U_Topic 07_0`)
+## Problem 012  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A word that means "the study of the human mind and behavior" is:"*
 
 ### Options
@@ -294,11 +414,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 013 (ID: `OS4U_Topic 07_0`)
+## Problem 013  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A person who believes in or advocates for political and social reform is called a:"*
 
 ### Options
@@ -317,11 +447,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 014 (ID: `OS4U_Topic 07_0`)
+## Problem 014  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"The term for someone who works to protect and preserve the environment is:"*
 
 ### Options
@@ -340,11 +480,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 015 (ID: `OS4U_Topic 07_0`)
+## Problem 015  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A person who has a fear of spiders is known to have:"*
 
 ### Options
@@ -363,11 +513,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 016 (ID: `OS4U_Topic 07_0`)
+## Problem 016  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"The science of measuring time is called:"*
 
 ### Options
@@ -386,11 +546,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 017 (ID: `OS4U_Topic 07_0`)
+## Problem 017  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A word that means "the study of diseases" is:"*
 
 ### Options
@@ -409,11 +579,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 018 (ID: `OS4U_Topic 07_0`)
+## Problem 018  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A person who studies stars and planets is known as an:"*
 
 ### Options
@@ -432,11 +612,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 019 (ID: `OS4U_Topic 07_0`)
+## Problem 019  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A term for a government where citizens exercise power by voting is:"*
 
 ### Options
@@ -455,11 +645,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 020 (ID: `OS4U_Topic 07_0`)
+## Problem 020  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A person who composes music is called a:"*
 
 ### Options
@@ -478,11 +678,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 021 (ID: `OS4U_Topic 07_0`)
+## Problem 021  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A person who loves and collects books is called a:"*
 
 ### Options
@@ -501,11 +711,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 022 (ID: `OS4U_Topic 07_0`)
+## Problem 022  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A government by a small group of people is known as:"*
 
 ### Options
@@ -524,11 +744,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 023 (ID: `OS4U_Topic 07_0`)
+## Problem 023  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A person who studies rocks and minerals is known as a:"*
 
 ### Options
@@ -547,11 +777,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 024 (ID: `OS4U_Topic 07_0`)
+## Problem 024  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"The act of killing a king is referred to as:"*
 
 ### Options
@@ -570,11 +810,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 025 (ID: `OS4U_Topic 07_0`)
+## Problem 025  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A person who dislikes mankind is called a:"*
 
 ### Options
@@ -593,11 +843,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 026 (ID: `OS4U_Topic 07_0`)
+## Problem 026  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A word that means "having a sharp taste or smell" is:"*
 
 ### Options
@@ -616,11 +876,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 027 (ID: `OS4U_Topic 07_0`)
+## Problem 027  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A study of ancient civilizations is known as:"*
 
 ### Options
@@ -639,11 +909,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 028 (ID: `OS4U_Topic 07_0`)
+## Problem 028  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A person who tells lies is called a:"*
 
 ### Options
@@ -662,11 +942,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 029 (ID: `OS4U_Topic 07_0`)
+## Problem 029  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A place where animals are kept for public exhibition is called a:"*
 
 ### Options
@@ -685,11 +975,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 030 (ID: `OS4U_Topic 07_0`)
+## Problem 030  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"The scientific study of behavior and mental processes is known as:"*
 
 ### Options
@@ -708,11 +1008,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 031 (ID: `OS4U_Topic 07_0`)
+## Problem 031  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A person who speaks many languages is called a:"*
 
 ### Options
@@ -731,11 +1041,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 032 (ID: `OS4U_Topic 07_0`)
+## Problem 032  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"The practice of having more than one wife is known as:"*
 
 ### Options
@@ -754,11 +1074,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 033 (ID: `OS4U_Topic 07_0`)
+## Problem 033  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A word that describes a very small amount is:"*
 
 ### Options
@@ -777,11 +1107,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 034 (ID: `OS4U_Topic 07_0`)
+## Problem 034  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"The study of insects is called:"*
 
 ### Options
@@ -800,11 +1140,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 035 (ID: `OS4U_Topic 07_0`)
+## Problem 035  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A person who is excessively fond of someone is known as a:"*
 
 ### Options
@@ -823,11 +1173,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 036 (ID: `OS4U_Topic 07_0`)
+## Problem 036  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"A person who breaks the law is called a:"*
 
 ### Options
@@ -846,11 +1206,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 037 (ID: `OS4U_Topic 07_0`)
+## Problem 037  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"A person who has a deep love for their country is called a:"*
 
 ### Options
@@ -869,11 +1239,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 038 (ID: `OS4U_Topic 07_0`)
+## Problem 038  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"The practice of self-denial or abstaining from pleasures is known as:"*
 
 ### Options
@@ -892,11 +1272,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 039 (ID: `OS4U_Topic 07_0`)
+## Problem 039  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"A word that means "to be untrue or incorrect" is:"*
 
 ### Options
@@ -915,11 +1305,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 040 (ID: `OS4U_Topic 07_0`)
+## Problem 040  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"The act of creating a false identity is called:"*
 
 ### Options
@@ -938,11 +1338,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 041 (ID: `OS4U_Topic 07_0`)
+## Problem 041  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"A person who writes an epitaph is known as a:"*
 
 ### Options
@@ -961,11 +1371,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 042 (ID: `OS4U_Topic 07_0`)
+## Problem 042  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"A word that describes a government ruled by religious leaders is:"*
 
 ### Options
@@ -984,11 +1404,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 043 (ID: `OS4U_Topic 07_0`)
+## Problem 043  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"The act of removing a body from a grave is known as:"*
 
 ### Options
@@ -1007,11 +1437,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 044 (ID: `OS4U_Topic 07_0`)
+## Problem 044  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"A person who believes in the pursuit of pleasure is called a:"*
 
 ### Options
@@ -1030,11 +1470,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 045 (ID: `OS4U_Topic 07_0`)
+## Problem 045  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"A person who designs buildings is known as a:"*
 
 ### Options
@@ -1053,11 +1503,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 046 (ID: `OS4U_Topic 07_0`)
+## Problem 046  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"The act of speaking ill of someone is referred to as:"*
 
 ### Options
@@ -1076,11 +1536,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 047 (ID: `OS4U_Topic 07_0`)
+## Problem 047  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"A person who is highly skilled in a particular area is called a:"*
 
 ### Options
@@ -1099,11 +1569,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 048 (ID: `OS4U_Topic 07_0`)
+## Problem 048  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"The study of the human mind is known as:"*
 
 ### Options
@@ -1122,11 +1602,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 049 (ID: `OS4U_Topic 07_0`)
+## Problem 049  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"A word that describes a person who is excessively concerned with minor details is:"*
 
 ### Options
@@ -1145,11 +1635,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 050 (ID: `OS4U_Topic 07_0`)
+## Problem 050  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 07_0`)
 - **Source**: OnlineStudy4U (One Word Substitution)
 - **Sub-Domain Focus**: One Word Substitution
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"A person who believes that events are predetermined and cannot be changed is a:"*
 
 ### Options
@@ -1168,11 +1668,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 051 (ID: `OS4U_Topic 08_0`)
+## Problem 051  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What does the idiom "hit the nail on the head" mean?"*
 
 ### Options
@@ -1191,11 +1701,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 052 (ID: `OS4U_Topic 08_0`)
+## Problem 052  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What does the phrase "break the ice" mean?"*
 
 ### Options
@@ -1214,11 +1734,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 053 (ID: `OS4U_Topic 08_0`)
+## Problem 053  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What does the idiom "barking up the wrong tree" mean?"*
 
 ### Options
@@ -1237,11 +1767,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 054 (ID: `OS4U_Topic 08_0`)
+## Problem 054  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What does the phrase "a blessing in disguise" mean?"*
 
 ### Options
@@ -1260,11 +1800,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 055 (ID: `OS4U_Topic 08_0`)
+## Problem 055  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What does the idiom "under the weather" mean?"*
 
 ### Options
@@ -1283,11 +1833,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 056 (ID: `OS4U_Topic 08_0`)
+## Problem 056  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What does the phrase "spill the beans" mean?"*
 
 ### Options
@@ -1306,11 +1866,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 057 (ID: `OS4U_Topic 08_0`)
+## Problem 057  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What does the idiom "let the cat out of the bag" mean?"*
 
 ### Options
@@ -1329,11 +1899,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 058 (ID: `OS4U_Topic 08_0`)
+## Problem 058  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What does the phrase "once in a blue moon" mean?"*
 
 ### Options
@@ -1352,11 +1932,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 059 (ID: `OS4U_Topic 08_0`)
+## Problem 059  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What does the idiom "cost an arm and a leg" mean?"*
 
 ### Options
@@ -1375,11 +1965,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 060 (ID: `OS4U_Topic 08_0`)
+## Problem 060  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What does the phrase "beat around the bush" mean?"*
 
 ### Options
@@ -1398,11 +1998,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 061 (ID: `OS4U_Topic 08_0`)
+## Problem 061  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What does the idiom "the ball is in your court" mean?"*
 
 ### Options
@@ -1421,11 +2031,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 062 (ID: `OS4U_Topic 08_0`)
+## Problem 062  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What does the phrase "jump on the bandwagon" mean?"*
 
 ### Options
@@ -1444,11 +2064,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 063 (ID: `OS4U_Topic 08_0`)
+## Problem 063  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What does the idiom "bite the bullet" mean?"*
 
 ### Options
@@ -1467,11 +2097,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 064 (ID: `OS4U_Topic 08_0`)
+## Problem 064  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What does the phrase "hit the sack" mean?"*
 
 ### Options
@@ -1490,11 +2130,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 065 (ID: `OS4U_Topic 08_0`)
+## Problem 065  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What does the idiom "burning the midnight oil" mean?"*
 
 ### Options
@@ -1513,11 +2163,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 066 (ID: `OS4U_Topic 08_0`)
+## Problem 066  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What does the phrase "sitting on the fence" mean?"*
 
 ### Options
@@ -1536,11 +2196,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 067 (ID: `OS4U_Topic 08_0`)
+## Problem 067  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What does the idiom "throw in the towel" mean?"*
 
 ### Options
@@ -1559,11 +2229,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 068 (ID: `OS4U_Topic 08_0`)
+## Problem 068  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What does the phrase "the early bird catches the worm" mean?"*
 
 ### Options
@@ -1582,11 +2262,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 069 (ID: `OS4U_Topic 08_0`)
+## Problem 069  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What does the idiom "raining cats and dogs" mean?"*
 
 ### Options
@@ -1605,11 +2295,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 070 (ID: `OS4U_Topic 08_0`)
+## Problem 070  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What does the phrase "piece of cake" mean?"*
 
 ### Options
@@ -1628,11 +2328,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 071 (ID: `OS4U_Topic 08_0`)
+## Problem 071  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"To "bite the bullet" means:"*
 
 ### Options
@@ -1651,11 +2361,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 072 (ID: `OS4U_Topic 08_0`)
+## Problem 072  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *""Break the ice" refers to:"*
 
 ### Options
@@ -1674,11 +2394,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 073 (ID: `OS4U_Topic 08_0`)
+## Problem 073  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"If someone is "on the ball," they are:"*
 
 ### Options
@@ -1697,11 +2427,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 074 (ID: `OS4U_Topic 08_0`)
+## Problem 074  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"The phrase "spill the beans" means:"*
 
 ### Options
@@ -1720,11 +2460,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 075 (ID: `OS4U_Topic 08_0`)
+## Problem 075  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *""Cost an arm and a leg" indicates:"*
 
 ### Options
@@ -1743,11 +2493,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 076 (ID: `OS4U_Topic 08_0`)
+## Problem 076  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"To "let the cat out of the bag" means:"*
 
 ### Options
@@ -1766,11 +2526,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 077 (ID: `OS4U_Topic 08_0`)
+## Problem 077  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"If someone is "walking on eggshells," they are:"*
 
 ### Options
@@ -1789,11 +2559,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 078 (ID: `OS4U_Topic 08_0`)
+## Problem 078  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"The phrase "hit the nail on the head" means:"*
 
 ### Options
@@ -1812,11 +2592,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 079 (ID: `OS4U_Topic 08_0`)
+## Problem 079  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *""A blessing in disguise" refers to:"*
 
 ### Options
@@ -1835,11 +2625,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 080 (ID: `OS4U_Topic 08_0`)
+## Problem 080  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"To "kill two birds with one stone" means:"*
 
 ### Options
@@ -1858,11 +2658,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 081 (ID: `OS4U_Topic 08_0`)
+## Problem 081  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *""Burn the midnight oil" means:"*
 
 ### Options
@@ -1881,11 +2691,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 082 (ID: `OS4U_Topic 08_0`)
+## Problem 082  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *""Put all your eggs in one basket" implies:"*
 
 ### Options
@@ -1904,11 +2724,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 083 (ID: `OS4U_Topic 08_0`)
+## Problem 083  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"If someone is "in hot water," they are:"*
 
 ### Options
@@ -1927,11 +2757,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 084 (ID: `OS4U_Topic 08_0`)
+## Problem 084  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"The idiom "the ball is in your court" means:"*
 
 ### Options
@@ -1950,11 +2790,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 085 (ID: `OS4U_Topic 08_0`)
+## Problem 085  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *""Face the music" means:"*
 
 ### Options
@@ -1973,11 +2823,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 086 (ID: `OS4U_Topic 08_0`)
+## Problem 086  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"If someone "gets cold feet," they:"*
 
 ### Options
@@ -1996,11 +2856,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 087 (ID: `OS4U_Topic 08_0`)
+## Problem 087  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *""Throw in the towel" means:"*
 
 ### Options
@@ -2019,11 +2889,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 088 (ID: `OS4U_Topic 08_0`)
+## Problem 088  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"If something is "up in the air," it is:"*
 
 ### Options
@@ -2042,11 +2922,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 089 (ID: `OS4U_Topic 08_0`)
+## Problem 089  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *""Barking up the wrong tree" means:"*
 
 ### Options
@@ -2065,11 +2955,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 090 (ID: `OS4U_Topic 08_0`)
+## Problem 090  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *""The early bird catches the worm" implies:"*
 
 ### Options
@@ -2088,11 +2988,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 091 (ID: `OS4U_Topic 08_0`)
+## Problem 091  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *""Caught between a rock and a hard place" means:"*
 
 ### Options
@@ -2111,11 +3021,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 092 (ID: `OS4U_Topic 08_0`)
+## Problem 092  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"If someone is "feathering their nest," they are:"*
 
 ### Options
@@ -2134,11 +3054,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 093 (ID: `OS4U_Topic 08_0`)
+## Problem 093  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *""A penny for your thoughts" means:"*
 
 ### Options
@@ -2157,11 +3087,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 094 (ID: `OS4U_Topic 08_0`)
+## Problem 094  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *""Jumping on the bandwagon" implies:"*
 
 ### Options
@@ -2180,11 +3120,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 095 (ID: `OS4U_Topic 08_0`)
+## Problem 095  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *""Stealing someone's thunder" means:"*
 
 ### Options
@@ -2203,11 +3153,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 096 (ID: `OS4U_Topic 08_0`)
+## Problem 096  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *""The elephant in the room" refers to:"*
 
 ### Options
@@ -2226,11 +3186,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 097 (ID: `OS4U_Topic 08_0`)
+## Problem 097  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"If someone is "sitting on the fence," they are:"*
 
 ### Options
@@ -2249,11 +3219,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 098 (ID: `OS4U_Topic 08_0`)
+## Problem 098  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *""Adding fuel to the fire" means:"*
 
 ### Options
@@ -2272,11 +3252,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 099 (ID: `OS4U_Topic 08_0`)
+## Problem 099  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *""A stitch in time saves nine" implies:"*
 
 ### Options
@@ -2295,11 +3285,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 100 (ID: `OS4U_Topic 08_0`)
+## Problem 100  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 08_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases (Official PYQ))
 - **Sub-Domain Focus**: Idioms & Phrases (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *""Throwing caution to the wind" means:"*
 
 ### Options
@@ -2318,11 +3318,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 101 (ID: `OS4U_Topic 09_0`)
+## Problem 101  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What is the synonym of "generous"?"*
 
 ### Options
@@ -2341,11 +3351,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 102 (ID: `OS4U_Topic 09_0`)
+## Problem 102  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What is the antonym of "difficult"?"*
 
 ### Options
@@ -2364,11 +3384,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 103 (ID: `OS4U_Topic 09_0`)
+## Problem 103  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What is the synonym of "rapid"?"*
 
 ### Options
@@ -2387,11 +3417,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 104 (ID: `OS4U_Topic 09_0`)
+## Problem 104  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What is the antonym of "ancient"?"*
 
 ### Options
@@ -2410,11 +3450,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 105 (ID: `OS4U_Topic 09_0`)
+## Problem 105  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What is the synonym of "abundant"?"*
 
 ### Options
@@ -2433,11 +3483,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 106 (ID: `OS4U_Topic 09_0`)
+## Problem 106  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What is the antonym of "honest"?"*
 
 ### Options
@@ -2456,11 +3516,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 107 (ID: `OS4U_Topic 09_0`)
+## Problem 107  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What is the synonym of "courageous"?"*
 
 ### Options
@@ -2479,11 +3549,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 108 (ID: `OS4U_Topic 09_0`)
+## Problem 108  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What is the antonym of "artificial"?"*
 
 ### Options
@@ -2502,11 +3582,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 109 (ID: `OS4U_Topic 09_0`)
+## Problem 109  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What is the synonym of "fragile"?"*
 
 ### Options
@@ -2525,11 +3615,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 110 (ID: `OS4U_Topic 09_0`)
+## Problem 110  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What is the antonym of "empty"?"*
 
 ### Options
@@ -2548,11 +3648,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 111 (ID: `OS4U_Topic 09_0`)
+## Problem 111  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What is the synonym of "hostile"?"*
 
 ### Options
@@ -2571,11 +3681,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 112 (ID: `OS4U_Topic 09_0`)
+## Problem 112  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What is the antonym of "bright"?"*
 
 ### Options
@@ -2594,11 +3714,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 113 (ID: `OS4U_Topic 09_0`)
+## Problem 113  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What is the synonym of "sincere"?"*
 
 ### Options
@@ -2617,11 +3747,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 114 (ID: `OS4U_Topic 09_0`)
+## Problem 114  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What is the antonym of "expand"?"*
 
 ### Options
@@ -2640,11 +3780,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 115 (ID: `OS4U_Topic 09_0`)
+## Problem 115  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What is the synonym of "vacant"?"*
 
 ### Options
@@ -2663,11 +3813,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 116 (ID: `OS4U_Topic 09_0`)
+## Problem 116  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What is the antonym of "noisy"?"*
 
 ### Options
@@ -2686,11 +3846,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 117 (ID: `OS4U_Topic 09_0`)
+## Problem 117  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What is the synonym of "complex"?"*
 
 ### Options
@@ -2709,11 +3879,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 118 (ID: `OS4U_Topic 09_0`)
+## Problem 118  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What is the antonym of "happy"?"*
 
 ### Options
@@ -2732,11 +3912,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 119 (ID: `OS4U_Topic 09_0`)
+## Problem 119  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What is the synonym of "timid"?"*
 
 ### Options
@@ -2755,11 +3945,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 120 (ID: `OS4U_Topic 09_0`)
+## Problem 120  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"What is the antonym of "expensive"?"*
 
 ### Options
@@ -2778,11 +3978,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 121 (ID: `OS4U_Topic 09_0`)
+## Problem 121  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Synonym of "benevolent":"*
 
 ### Options
@@ -2801,11 +4011,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 122 (ID: `OS4U_Topic 09_0`)
+## Problem 122  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Antonym of "arduous":"*
 
 ### Options
@@ -2824,11 +4044,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 123 (ID: `OS4U_Topic 09_0`)
+## Problem 123  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Synonym of "meticulous":"*
 
 ### Options
@@ -2847,11 +4077,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 124 (ID: `OS4U_Topic 09_0`)
+## Problem 124  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Antonym of "diligent":"*
 
 ### Options
@@ -2870,11 +4110,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 125 (ID: `OS4U_Topic 09_0`)
+## Problem 125  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Synonym of "ubiquitous":"*
 
 ### Options
@@ -2893,11 +4143,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 126 (ID: `OS4U_Topic 09_0`)
+## Problem 126  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Antonym of "fortitude":"*
 
 ### Options
@@ -2916,11 +4176,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 127 (ID: `OS4U_Topic 09_0`)
+## Problem 127  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Synonym of "quixotic":"*
 
 ### Options
@@ -2939,11 +4209,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 128 (ID: `OS4U_Topic 09_0`)
+## Problem 128  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Antonym of "transparent":"*
 
 ### Options
@@ -2962,11 +4242,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 129 (ID: `OS4U_Topic 09_0`)
+## Problem 129  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Synonym of "deplete":"*
 
 ### Options
@@ -2985,11 +4275,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 130 (ID: `OS4U_Topic 09_0`)
+## Problem 130  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Antonym of "sagacious":"*
 
 ### Options
@@ -3008,11 +4308,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 131 (ID: `OS4U_Topic 09_0`)
+## Problem 131  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Synonym of "emulate":"*
 
 ### Options
@@ -3031,11 +4341,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 132 (ID: `OS4U_Topic 09_0`)
+## Problem 132  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Antonym of "superficial":"*
 
 ### Options
@@ -3054,11 +4374,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 133 (ID: `OS4U_Topic 09_0`)
+## Problem 133  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Synonym of "revere":"*
 
 ### Options
@@ -3077,11 +4407,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 134 (ID: `OS4U_Topic 09_0`)
+## Problem 134  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Antonym of "ascend":"*
 
 ### Options
@@ -3100,11 +4440,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 135 (ID: `OS4U_Topic 09_0`)
+## Problem 135  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Synonym of "prodigious":"*
 
 ### Options
@@ -3123,11 +4473,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 136 (ID: `OS4U_Topic 09_0`)
+## Problem 136  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Antonym of "exquisite":"*
 
 ### Options
@@ -3146,11 +4506,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 137 (ID: `OS4U_Topic 09_0`)
+## Problem 137  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Synonym of "benevolence":"*
 
 ### Options
@@ -3169,11 +4539,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 138 (ID: `OS4U_Topic 09_0`)
+## Problem 138  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Antonym of "evoke":"*
 
 ### Options
@@ -3192,11 +4572,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 139 (ID: `OS4U_Topic 09_0`)
+## Problem 139  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Synonym of "volatile":"*
 
 ### Options
@@ -3215,11 +4605,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 140 (ID: `OS4U_Topic 09_0`)
+## Problem 140  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Antonym of "impartial":"*
 
 ### Options
@@ -3238,11 +4638,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 141 (ID: `OS4U_Topic 09_0`)
+## Problem 141  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Synonym of "insipid":"*
 
 ### Options
@@ -3261,11 +4671,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 142 (ID: `OS4U_Topic 09_0`)
+## Problem 142  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Antonym of "incessant":"*
 
 ### Options
@@ -3284,11 +4704,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 143 (ID: `OS4U_Topic 09_0`)
+## Problem 143  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Synonym of "intrepid":"*
 
 ### Options
@@ -3307,11 +4737,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 144 (ID: `OS4U_Topic 09_0`)
+## Problem 144  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Antonym of "lucid":"*
 
 ### Options
@@ -3330,11 +4770,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 145 (ID: `OS4U_Topic 09_0`)
+## Problem 145  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Synonym of "ubiquitous":"*
 
 ### Options
@@ -3353,11 +4803,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 146 (ID: `OS4U_Topic 09_0`)
+## Problem 146  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Antonym of "meticulous":"*
 
 ### Options
@@ -3376,11 +4836,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 147 (ID: `OS4U_Topic 09_0`)
+## Problem 147  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Synonym of "insatiable":"*
 
 ### Options
@@ -3399,11 +4869,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 148 (ID: `OS4U_Topic 09_0`)
+## Problem 148  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Antonym of "concur":"*
 
 ### Options
@@ -3422,11 +4902,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 149 (ID: `OS4U_Topic 09_0`)
+## Problem 149  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Synonym of "recalcitrant":"*
 
 ### Options
@@ -3445,11 +4935,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 150 (ID: `OS4U_Topic 09_0`)
+## Problem 150  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 09_0`)
 - **Source**: OnlineStudy4U (Synonyms & Antonyms (Official PYQ))
 - **Sub-Domain Focus**: Synonyms & Antonyms (Official PYQ)
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Antonym of "prolific":"*
 
 ### Options
@@ -3468,11 +4968,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 151 (ID: `OS4U_Topic 11_0`)
+## Problem 151  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The school administration found the bullying complaint to be ______."*
 
 ### Options
@@ -3491,11 +5001,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 152 (ID: `OS4U_Topic 11_0`)
+## Problem 152  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The basic coding question was ______ for the experienced candidate."*
 
 ### Options
@@ -3514,11 +5034,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 153 (ID: `OS4U_Topic 11_0`)
+## Problem 153  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Life in a new city is not always ______."*
 
 ### Options
@@ -3537,11 +5067,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 154 (ID: `OS4U_Topic 11_0`)
+## Problem 154  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The abandoned stadium became ______ because it cost millions to maintain."*
 
 ### Options
@@ -3560,11 +5100,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 155 (ID: `OS4U_Topic 11_0`)
+## Problem 155  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The clue about the old car was ______ and sent the detective in the wrong direction."*
 
 ### Options
@@ -3583,11 +5133,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 156 (ID: `OS4U_Topic 11_0`)
+## Problem 156  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Missing that flight was ______ because she met her future employer later."*
 
 ### Options
@@ -3606,11 +5166,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 157 (ID: `OS4U_Topic 11_0`)
+## Problem 157  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Their argument turned out to be ______ and ended quickly."*
 
 ### Options
@@ -3629,11 +5199,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 158 (ID: `OS4U_Topic 11_0`)
+## Problem 158  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The false address sent the police on ______."*
 
 ### Options
@@ -3652,11 +5232,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 159 (ID: `OS4U_Topic 11_0`)
+## Problem 159  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The noisy neighbour became ______ for the family."*
 
 ### Options
@@ -3675,11 +5265,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 160 (ID: `OS4U_Topic 11_0`)
+## Problem 160  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The unpaid bill became ______ between the partners."*
 
 ### Options
@@ -3698,11 +5298,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 161 (ID: `OS4U_Topic 11_0`)
+## Problem 161  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Winning the national award was ______ for the young scientist."*
 
 ### Options
@@ -3721,11 +5331,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 162 (ID: `OS4U_Topic 11_0`)
+## Problem 162  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The company's first international launch was ______."*
 
 ### Options
@@ -3744,11 +5364,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 163 (ID: `OS4U_Topic 11_0`)
+## Problem 163  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"His constant complaints made him ______ at the party."*
 
 ### Options
@@ -3767,11 +5397,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 164 (ID: `OS4U_Topic 11_0`)
+## Problem 164  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The only ______ was that nobody was injured in the accident."*
 
 ### Options
@@ -3790,11 +5430,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 165 (ID: `OS4U_Topic 11_0`)
+## Problem 165  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"We have finished the main task, so let's ______."*
 
 ### Options
@@ -3813,11 +5463,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 166 (ID: `OS4U_Topic 11_0`)
+## Problem 166  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The trainer told a joke to ______ at the beginning of the workshop."*
 
 ### Options
@@ -3836,11 +5496,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 167 (ID: `OS4U_Topic 11_0`)
+## Problem 167  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The analyst ______ when she identified poor planning as the main cause."*
 
 ### Options
@@ -3859,11 +5529,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 168 (ID: `OS4U_Topic 11_0`)
+## Problem 168  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Stop ______ and tell me what actually happened."*
 
 ### Options
@@ -3882,11 +5562,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 169 (ID: `OS4U_Topic 11_0`)
+## Problem 169  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Ravi accidentally ______ about the surprise party."*
 
 ### Options
@@ -3905,11 +5595,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 170 (ID: `OS4U_Topic 11_0`)
+## Problem 170  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"He ______ just before giving his first public speech."*
 
 ### Options
@@ -3928,11 +5628,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 171 (ID: `OS4U_Topic 11_0`)
+## Problem 171  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"She decided to ______ and pay the unexpected repair bill."*
 
 ### Options
@@ -3951,11 +5661,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 172 (ID: `OS4U_Topic 11_0`)
+## Problem 172  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"I did not want to attend, but my friends ______."*
 
 ### Options
@@ -3974,11 +5694,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 173 (ID: `OS4U_Topic 11_0`)
+## Problem 173  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Don't ______; the mistake can be corrected easily."*
 
 ### Options
@@ -3997,11 +5727,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 174 (ID: `OS4U_Topic 11_0`)
+## Problem 174  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The two managers do not always ______ on financial matters."*
 
 ### Options
@@ -4020,11 +5760,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 175 (ID: `OS4U_Topic 11_0`)
+## Problem 175  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"I am exhausted, so I am going to ______ early."*
 
 ### Options
@@ -4043,11 +5793,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 176 (ID: `OS4U_Topic 11_0`)
+## Problem 176  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Please ______ and tell us whether the proposal was accepted."*
 
 ### Options
@@ -4066,11 +5826,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 177 (ID: `OS4U_Topic 11_0`)
+## Problem 177  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"His angry reply only ______ during the argument."*
 
 ### Options
@@ -4089,11 +5859,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 178 (ID: `OS4U_Topic 11_0`)
+## Problem 178  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"After several failed attempts, the team decided to ______."*
 
 ### Options
@@ -4112,11 +5892,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 179 (ID: `OS4U_Topic 11_0`)
+## Problem 179  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"You should ______ the claims made in that advertisement."*
 
 ### Options
@@ -4135,11 +5925,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 180 (ID: `OS4U_Topic 11_0`)
+## Problem 180  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Ignoring the safety warning is ______."*
 
 ### Options
@@ -4158,11 +5958,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 181 (ID: `OS4U_Topic 11_0`)
+## Problem 181  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"She was ______ after receiving the scholarship."*
 
 ### Options
@@ -4181,11 +5991,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 182 (ID: `OS4U_Topic 11_0`)
+## Problem 182  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"I am feeling ______ today and will stay home."*
 
 ### Options
@@ -4204,11 +6024,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 183 (ID: `OS4U_Topic 11_0`)
+## Problem 183  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Please ______ the equipment while I speak to the supervisor."*
 
 ### Options
@@ -4227,11 +6057,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 184 (ID: `OS4U_Topic 11_0`)
+## Problem 184  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The resignation came ______ and surprised everyone."*
 
 ### Options
@@ -4250,11 +6090,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 185 (ID: `OS4U_Topic 11_0`)
+## Problem 185  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"He visits his hometown only ______."*
 
 ### Options
@@ -4273,11 +6123,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 186 (ID: `OS4U_Topic 11_0`)
+## Problem 186  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The company has been ______ since last year."*
 
 ### Options
@@ -4296,11 +6156,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 187 (ID: `OS4U_Topic 11_0`)
+## Problem 187  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The officer always does everything ______."*
 
 ### Options
@@ -4319,11 +6189,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 188 (ID: `OS4U_Topic 11_0`)
+## Problem 188  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The agreement is there ______ in the contract."*
 
 ### Options
@@ -4342,11 +6222,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 189 (ID: `OS4U_Topic 11_0`)
+## Problem 189  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The new assistant is really ______ and rarely misses a detail."*
 
 ### Options
@@ -4365,11 +6255,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 190 (ID: `OS4U_Topic 11_0`)
+## Problem 190  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The employee was ______ after violating the safety rules."*
 
 ### Options
@@ -4388,11 +6288,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 191 (ID: `OS4U_Topic 11_0`)
+## Problem 191  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"We are all ______ because the deadline has been moved forward."*
 
 ### Options
@@ -4411,11 +6321,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 192 (ID: `OS4U_Topic 11_0`)
+## Problem 192  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The board decided to ______ the failed project."*
 
 ### Options
@@ -4434,11 +6354,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 193 (ID: `OS4U_Topic 11_0`)
+## Problem 193  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Let's approve the next step to ______."*
 
 ### Options
@@ -4457,11 +6387,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 194 (ID: `OS4U_Topic 11_0`)
+## Problem 194  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"I cannot ______ this noise any longer."*
 
 ### Options
@@ -4480,11 +6420,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 195 (ID: `OS4U_Topic 11_0`)
+## Problem 195  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Both parents work hard to ______."*
 
 ### Options
@@ -4503,11 +6453,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 196 (ID: `OS4U_Topic 11_0`)
+## Problem 196  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"There is no use ______ after the mistake has happened."*
 
 ### Options
@@ -4526,11 +6486,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 197 (ID: `OS4U_Topic 11_0`)
+## Problem 197  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Many companies ______ and started offering AI tools."*
 
 ### Options
@@ -4549,11 +6519,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 198 (ID: `OS4U_Topic 11_0`)
+## Problem 198  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The support team always ______ to help customers."*
 
 ### Options
@@ -4572,11 +6552,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 199 (ID: `OS4U_Topic 11_0`)
+## Problem 199  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Apply now or you may ______."*
 
 ### Options
@@ -4595,11 +6585,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 200 (ID: `OS4U_Topic 11_0`)
+## Problem 200  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"It is wiser to ______ than reopen the dispute."*
 
 ### Options
@@ -4618,11 +6618,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 201 (ID: `OS4U_Topic 11_0`)
+## Problem 201  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The audit ______ several hidden accounting errors."*
 
 ### Options
@@ -4641,11 +6651,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 202 (ID: `OS4U_Topic 11_0`)
+## Problem 202  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"He tends to ______ when important guests arrive."*
 
 ### Options
@@ -4664,11 +6684,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 203 (ID: `OS4U_Topic 11_0`)
+## Problem 203  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The campaign ______ after several months."*
 
 ### Options
@@ -4687,11 +6717,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 204 (ID: `OS4U_Topic 11_0`)
+## Problem 204  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The supervisor ______ for repeatedly arriving late."*
 
 ### Options
@@ -4710,11 +6750,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 205 (ID: `OS4U_Topic 11_0`)
+## Problem 205  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The proposal ______ because it ignored traditional safety practices."*
 
 ### Options
@@ -4733,11 +6783,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 206 (ID: `OS4U_Topic 11_0`)
+## Problem 206  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The board finally ______ to the construction plan."*
 
 ### Options
@@ -4756,11 +6816,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 207 (ID: `OS4U_Topic 11_0`)
+## Problem 207  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The committee decided to ______ the proposal until next month."*
 
 ### Options
@@ -4779,11 +6849,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 208 (ID: `OS4U_Topic 11_0`)
+## Problem 208  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"______! We need to verify the figures first."*
 
 ### Options
@@ -4802,11 +6882,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 209 (ID: `OS4U_Topic 11_0`)
+## Problem 209  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Buying the top model will ______."*
 
 ### Options
@@ -4825,11 +6915,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 210 (ID: `OS4U_Topic 11_0`)
+## Problem 210  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Dad will ______ when he sees the damaged car."*
 
 ### Options
@@ -4848,11 +6948,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 211 (ID: `OS4U_Topic 11_0`)
+## Problem 211  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"When asked for the password, I ______."*
 
 ### Options
@@ -4871,11 +6981,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 212 (ID: `OS4U_Topic 11_0`)
+## Problem 212  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The small company ______ with its new app."*
 
 ### Options
@@ -4894,11 +7014,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 213 (ID: `OS4U_Topic 11_0`)
+## Problem 213  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"He decided to ______ and stop using social media."*
 
 ### Options
@@ -4917,11 +7047,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 214 (ID: `OS4U_Topic 11_0`)
+## Problem 214  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"As project leader, Maya ______."*
 
 ### Options
@@ -4940,11 +7080,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 215 (ID: `OS4U_Topic 11_0`)
+## Problem 215  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"You are ______ after ignoring the manager's final warning."*
 
 ### Options
@@ -4963,11 +7113,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 216 (ID: `OS4U_Topic 11_0`)
+## Problem 216  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The details of the new product are still ______."*
 
 ### Options
@@ -4986,11 +7146,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 217 (ID: `OS4U_Topic 11_0`)
+## Problem 217  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The investigation proved that the employee was ______."*
 
 ### Options
@@ -5009,11 +7179,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 218 (ID: `OS4U_Topic 11_0`)
+## Problem 218  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"I was ______ when the computer suddenly stopped working."*
 
 ### Options
@@ -5032,11 +7212,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 219 (ID: `OS4U_Topic 11_0`)
+## Problem 219  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"We were ______ when the only car broke down."*
 
 ### Options
@@ -5055,11 +7245,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 220 (ID: `OS4U_Topic 11_0`)
+## Problem 220  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"After the operation, he is slowly ______."*
 
 ### Options
@@ -5078,11 +7278,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 221 (ID: `OS4U_Topic 11_0`)
+## Problem 221  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The students were ______ after hearing the good news."*
 
 ### Options
@@ -5101,11 +7311,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 222 (ID: `OS4U_Topic 11_0`)
+## Problem 222  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The two departments are ______ over the budget."*
 
 ### Options
@@ -5124,11 +7344,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 223 (ID: `OS4U_Topic 11_0`)
+## Problem 223  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The official remained ______ after the investigation."*
 
 ### Options
@@ -5147,11 +7377,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 224 (ID: `OS4U_Topic 11_0`)
+## Problem 224  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The first exercise was ______."*
 
 ### Options
@@ -5170,11 +7410,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 225 (ID: `OS4U_Topic 11_0`)
+## Problem 225  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"True friends stay together ______."*
 
 ### Options
@@ -5193,11 +7443,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 226 (ID: `OS4U_Topic 11_0`)
+## Problem 226  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"She is ready to travel ______."*
 
 ### Options
@@ -5216,11 +7476,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 227 (ID: `OS4U_Topic 11_0`)
+## Problem 227  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The company's online sales have grown ______."*
 
 ### Options
@@ -5239,11 +7509,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 228 (ID: `OS4U_Topic 11_0`)
+## Problem 228  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The two runners were ______ near the finish line."*
 
 ### Options
@@ -5262,11 +7542,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 229 (ID: `OS4U_Topic 11_0`)
+## Problem 229  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The company will ______ before launching nationally."*
 
 ### Options
@@ -5285,11 +7575,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 230 (ID: `OS4U_Topic 11_0`)
+## Problem 230  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Never ______ when dealing with electrical safety."*
 
 ### Options
@@ -5308,11 +7608,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 231 (ID: `OS4U_Topic 11_0`)
+## Problem 231  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The mediator tried to ______ between the two teams."*
 
 ### Options
@@ -5331,11 +7641,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 232 (ID: `OS4U_Topic 11_0`)
+## Problem 232  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"After breaking the rules, he had to ______."*
 
 ### Options
@@ -5354,11 +7674,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 233 (ID: `OS4U_Topic 11_0`)
+## Problem 233  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"She works two jobs to ______."*
 
 ### Options
@@ -5377,11 +7707,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 234 (ID: `OS4U_Topic 11_0`)
+## Problem 234  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Do not ______ before the official announcement."*
 
 ### Options
@@ -5400,11 +7740,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 235 (ID: `OS4U_Topic 11_0`)
+## Problem 235  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The crowd ______ when the singer appeared."*
 
 ### Options
@@ -5423,11 +7773,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 236 (ID: `OS4U_Topic 11_0`)
+## Problem 236  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The negotiator ______ during the talks."*
 
 ### Options
@@ -5446,11 +7806,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 237 (ID: `OS4U_Topic 11_0`)
+## Problem 237  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Relax! I was only ______ when I said I had resigned."*
 
 ### Options
@@ -5469,11 +7839,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 238 (ID: `OS4U_Topic 11_0`)
+## Problem 238  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The coach ______ after the team ignored instructions."*
 
 ### Options
@@ -5492,11 +7872,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 239 (ID: `OS4U_Topic 11_0`)
+## Problem 239  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The old machine no longer ______."*
 
 ### Options
@@ -5515,11 +7905,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 240 (ID: `OS4U_Topic 11_0`)
+## Problem 240  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The evidence proved she was ______."*
 
 ### Options
@@ -5538,11 +7938,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 241 (ID: `OS4U_Topic 11_0`)
+## Problem 241  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Without the instructions, the new employee was completely ______."*
 
 ### Options
@@ -5561,11 +7971,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 242 (ID: `OS4U_Topic 11_0`)
+## Problem 242  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"He was ______ after failing the final interview."*
 
 ### Options
@@ -5584,11 +8004,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 243 (ID: `OS4U_Topic 11_0`)
+## Problem 243  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The new measures may ______ future attacks."*
 
 ### Options
@@ -5607,11 +8037,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 244 (ID: `OS4U_Topic 11_0`)
+## Problem 244  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The evidence seems to ______ her version of events."*
 
 ### Options
@@ -5630,11 +8070,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 245 (ID: `OS4U_Topic 11_0`)
+## Problem 245  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Please ______ the report before submitting it."*
 
 ### Options
@@ -5653,11 +8103,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 246 (ID: `OS4U_Topic 11_0`)
+## Problem 246  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The date of the event is still ______."*
 
 ### Options
@@ -5676,11 +8136,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 247 (ID: `OS4U_Topic 11_0`)
+## Problem 247  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The sudden cancellation ______ the entire team."*
 
 ### Options
@@ -5699,11 +8169,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 248 (ID: `OS4U_Topic 11_0`)
+## Problem 248  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"My old laptop finally ______ during the presentation."*
 
 ### Options
@@ -5722,11 +8202,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 249 (ID: `OS4U_Topic 11_0`)
+## Problem 249  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The negotiator decided to ______ until more evidence appeared."*
 
 ### Options
@@ -5745,11 +8235,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 250 (ID: `OS4U_Topic 11_0`)
+## Problem 250  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 11_0`)
 - **Source**: OnlineStudy4U (Idioms & Phrases 100 Advanced MCQs)
 - **Sub-Domain Focus**: Idioms & Phrases 100 Advanced MCQs
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The extra practice helped ______ the lost time."*
 
 ### Options
@@ -5768,11 +8268,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 251 (ID: `OS4U_Topic 12_0`)
+## Problem 251  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Neither the quality of the products nor the after-sales services ___ satisfactory enough to justify the price."*
 
 ### Options
@@ -5790,11 +8300,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 252 (ID: `OS4U_Topic 12_0`)
+## Problem 252  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Had the committee ___ the proposal earlier, the project would not have been delayed."*
 
 ### Options
@@ -5812,11 +8332,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 253 (ID: `OS4U_Topic 12_0`)
+## Problem 253  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"No sooner ___ the announcement made than the investors began reacting."*
 
 ### Options
@@ -5834,11 +8364,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 254 (ID: `OS4U_Topic 12_0`)
+## Problem 254  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Scarcely had the train left the station ___ the alarm was raised."*
 
 ### Options
@@ -5856,11 +8396,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 255 (ID: `OS4U_Topic 12_0`)
+## Problem 255  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The CEO insisted that every employee ___ the revised compliance policy."*
 
 ### Options
@@ -5878,11 +8428,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 256 (ID: `OS4U_Topic 12_0`)
+## Problem 256  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"It is high time the management ___ action against repeated violations."*
 
 ### Options
@@ -5900,11 +8460,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 257 (ID: `OS4U_Topic 12_0`)
+## Problem 257  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"If he were more attentive, he ___ the error yesterday."*
 
 ### Options
@@ -5922,11 +8492,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 258 (ID: `OS4U_Topic 12_0`)
+## Problem 258  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The report, together with the supporting documents, ___ submitted before the deadline."*
 
 ### Options
@@ -5944,11 +8524,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 259 (ID: `OS4U_Topic 12_0`)
+## Problem 259  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"One of the most important factors that ___ the outcome is the quality of data."*
 
 ### Options
@@ -5966,11 +8556,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 260 (ID: `OS4U_Topic 12_0`)
+## Problem 260  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The number of applicants who have cleared the first round ___ increased significantly."*
 
 ### Options
@@ -5988,11 +8588,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 261 (ID: `OS4U_Topic 12_0`)
+## Problem 261  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The manager asked whether I ___ the issue before the client arrived."*
 
 ### Options
@@ -6010,11 +8620,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 262 (ID: `OS4U_Topic 12_0`)
+## Problem 262  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"He is one of those employees who always ___ their commitments."*
 
 ### Options
@@ -6032,11 +8652,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 263 (ID: `OS4U_Topic 12_0`)
+## Problem 263  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"I would rather you ___ the matter confidential until the investigation is complete."*
 
 ### Options
@@ -6054,11 +8684,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 264 (ID: `OS4U_Topic 12_0`)
+## Problem 264  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The candidate is not only intelligent but also ___ under pressure."*
 
 ### Options
@@ -6076,11 +8716,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 265 (ID: `OS4U_Topic 12_0`)
+## Problem 265  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Having completed the assignment, the files ___ to the reviewer for verification."*
 
 ### Options
@@ -6098,11 +8748,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 266 (ID: `OS4U_Topic 12_0`)
+## Problem 266  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The professor recommended that the student ___ the experiment before drawing a conclusion."*
 
 ### Options
@@ -6120,11 +8780,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 267 (ID: `OS4U_Topic 12_0`)
+## Problem 267  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Hardly had she reached the office when she realized that she ___ her laptop at home."*
 
 ### Options
@@ -6142,11 +8812,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 268 (ID: `OS4U_Topic 12_0`)
+## Problem 268  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Not only ___ the deadline, but he also failed to notify the team."*
 
 ### Options
@@ -6164,11 +8844,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 269 (ID: `OS4U_Topic 12_0`)
+## Problem 269  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Were the company ___ the policy, several employees would lose access immediately."*
 
 ### Options
@@ -6186,11 +8876,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 270 (ID: `OS4U_Topic 12_0`)
+## Problem 270  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The evidence suggests that neither the manager nor the analysts ___ aware of the discrepancy."*
 
 ### Options
@@ -6208,11 +8908,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 271 (ID: `OS4U_Topic 12_0`)
+## Problem 271  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"It was the repeated system failures that ___ the management to reconsider the architecture."*
 
 ### Options
@@ -6230,11 +8940,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 272 (ID: `OS4U_Topic 12_0`)
+## Problem 272  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"By the time the auditors arrive next Monday, the team ___ all the records."*
 
 ### Options
@@ -6252,11 +8972,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 273 (ID: `OS4U_Topic 12_0`)
+## Problem 273  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The consultant advised us to avoid ___ conclusions before all the data had been examined."*
 
 ### Options
@@ -6274,11 +9004,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 274 (ID: `OS4U_Topic 12_0`)
+## Problem 274  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Despite ___ repeatedly, the vendor failed to provide the required documents."*
 
 ### Options
@@ -6296,11 +9036,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 275 (ID: `OS4U_Topic 12_0`)
+## Problem 275  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The project was completed in less time than ___ originally estimated."*
 
 ### Options
@@ -6318,11 +9068,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 276 (ID: `OS4U_Topic 12_0`)
+## Problem 276  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Choose the closest meaning of Ubiquitous."*
 
 ### Options
@@ -6340,11 +9100,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 277 (ID: `OS4U_Topic 12_0`)
+## Problem 277  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Choose the antonym of Pragmatic."*
 
 ### Options
@@ -6362,11 +9132,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 278 (ID: `OS4U_Topic 12_0`)
+## Problem 278  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"His explanation was so equivocal that nobody could determine his actual position. Equivocal means:"*
 
 ### Options
@@ -6384,11 +9164,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 279 (ID: `OS4U_Topic 12_0`)
+## Problem 279  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Choose the closest meaning of Meticulous."*
 
 ### Options
@@ -6406,11 +9196,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 280 (ID: `OS4U_Topic 12_0`)
+## Problem 280  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Choose the antonym of Ephemeral."*
 
 ### Options
@@ -6428,11 +9228,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 281 (ID: `OS4U_Topic 12_0`)
+## Problem 281  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The manager's decision was arbitrary. This means the decision was:"*
 
 ### Options
@@ -6450,11 +9260,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 282 (ID: `OS4U_Topic 12_0`)
+## Problem 282  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Choose the closest meaning of Inadvertent."*
 
 ### Options
@@ -6472,11 +9292,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 283 (ID: `OS4U_Topic 12_0`)
+## Problem 283  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The word ameliorate most nearly means:"*
 
 ### Options
@@ -6494,11 +9324,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 284 (ID: `OS4U_Topic 12_0`)
+## Problem 284  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Choose the antonym of Obfuscate."*
 
 ### Options
@@ -6516,11 +9356,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 285 (ID: `OS4U_Topic 12_0`)
+## Problem 285  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"A cogent argument is one that is:"*
 
 ### Options
@@ -6538,11 +9388,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 286 (ID: `OS4U_Topic 12_0`)
+## Problem 286  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Choose the closest meaning of Tenacious."*
 
 ### Options
@@ -6560,11 +9420,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 287 (ID: `OS4U_Topic 12_0`)
+## Problem 287  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"The phrase read between the lines means:"*
 
 ### Options
@@ -6582,11 +9452,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 288 (ID: `OS4U_Topic 12_0`)
+## Problem 288  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"A person who deliberately avoids work is a:"*
 
 ### Options
@@ -6604,11 +9484,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 289 (ID: `OS4U_Topic 12_0`)
+## Problem 289  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Choose the word that best completes the sentence: 'The witness gave a ___ account, leaving no room for doubt.'"*
 
 ### Options
@@ -6626,11 +9516,21 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 290 (ID: `OS4U_Topic 12_0`)
+## Problem 290  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 12_0`)
 - **Source**: OnlineStudy4U (Advanced Grammar & Vocab Hard Practice)
 - **Sub-Domain Focus**: Advanced Grammar & Vocab Hard Practice
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 > *"Choose the best word: 'The evidence was too ___ to support such a serious allegation.'"*
 
 ### Options
@@ -6648,12 +9548,22 @@ Below is the verified, forensic compilation of all authentic vocabulary, idiom, 
 
 ---
 
-## Problem 291 (ID: `SEC0405_VOCAB_SYN_Q01`)
+## Problem 291  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_VOCAB_SYN_Q01`)
 - **Source**: CampusMonk (Synonym & Antonym_QUESTIONS.json)
 - **Sub-Domain Focus**: Vocabulary: Synonyms and Antonyms
 - **Visual Reference Plate**: `images/eng_verbal_assorted_super30_page_01.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Directions (1-10): In each of the questions below, there is a word given in bold which is followed by five options. In each of the options, a pair of words is given which is either the pair of synonyms or antonyms or synonym & antonym of the word given in bold. Choose that pair as your answer.
 Q1. ABDICATE
 
@@ -6672,12 +9582,22 @@ S1. Ans.(b) Sol. Abdicate: fail to fulfill or undertake (a responsibility or dut
 
 ---
 
-## Problem 292 (ID: `SEC0405_VOCAB_SYN_Q02`)
+## Problem 292  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_VOCAB_SYN_Q02`)
 - **Source**: CampusMonk (Synonym & Antonym_QUESTIONS.json)
 - **Sub-Domain Focus**: Vocabulary: Synonyms and Antonyms
 - **Visual Reference Plate**: `images/eng_verbal_assorted_super30_page_01.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Directions (1-10): In each of the questions below, there is a word given in bold which is followed by five options. In each of the options, a pair of words is given which is either the pair of synonyms or antonyms or synonym & antonym of the word given in bold. Choose that pair as your answer.
 Q2. BABBLE
 
@@ -6696,12 +9616,22 @@ S2. Ans.(d) Sol. Babble: talk rapidly and continuously in a foolish, excited, or
 
 ---
 
-## Problem 293 (ID: `SEC0405_VOCAB_SYN_Q03`)
+## Problem 293  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_VOCAB_SYN_Q03`)
 - **Source**: CampusMonk (Synonym & Antonym_QUESTIONS.json)
 - **Sub-Domain Focus**: Vocabulary: Synonyms and Antonyms
 - **Visual Reference Plate**: `images/eng_verbal_assorted_super30_page_01.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Directions (1-10): In each of the questions below, there is a word given in bold which is followed by five options. In each of the options, a pair of words is given which is either the pair of synonyms or antonyms or synonym & antonym of the word given in bold. Choose that pair as your answer.
 Q3. CAJOLE
 
@@ -6720,12 +9650,22 @@ S3. Ans.(a) Sol. Cajole: persuade (someone) to do something by sustained coaxing
 
 ---
 
-## Problem 294 (ID: `SEC0405_VOCAB_SYN_Q04`)
+## Problem 294  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_VOCAB_SYN_Q04`)
 - **Source**: CampusMonk (Synonym & Antonym_QUESTIONS.json)
 - **Sub-Domain Focus**: Vocabulary: Synonyms and Antonyms
 - **Visual Reference Plate**: `images/eng_verbal_assorted_super30_page_01.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Directions (1-10): In each of the questions below, there is a word given in bold which is followed by five options. In each of the options, a pair of words is given which is either the pair of synonyms or antonyms or synonym & antonym of the word given in bold. Choose that pair as your answer.
 Q4. DEFILE
 
@@ -6744,12 +9684,22 @@ S4. Ans.(d) Sol. Defile: damage the purity or appearance of; mar or spoil. Degra
 
 ---
 
-## Problem 295 (ID: `SEC0405_VOCAB_SYN_Q05`)
+## Problem 295  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_VOCAB_SYN_Q05`)
 - **Source**: CampusMonk (Synonym & Antonym_QUESTIONS.json)
 - **Sub-Domain Focus**: Vocabulary: Synonyms and Antonyms
 - **Visual Reference Plate**: `images/eng_verbal_assorted_super30_page_01.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Directions (1-10): In each of the questions below, there is a word given in bold which is followed by five options. In each of the options, a pair of words is given which is either the pair of synonyms or antonyms or synonym & antonym of the word given in bold. Choose that pair as your answer.
 Q5. ENTREAT
 
@@ -6768,12 +9718,22 @@ S5. Ans.(d) Sol. Entreat: to make a request to (someone) in an earnest or urgent
 
 ---
 
-## Problem 296 (ID: `SEC0405_VOCAB_SYN_Q06`)
+## Problem 296  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_VOCAB_SYN_Q06`)
 - **Source**: CampusMonk (Synonym & Antonym_QUESTIONS.json)
 - **Sub-Domain Focus**: Vocabulary: Synonyms and Antonyms
 - **Visual Reference Plate**: `images/eng_verbal_assorted_super30_page_01.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Directions (1-10): In each of the questions below, there is a word given in bold which is followed by five options. In each of the options, a pair of words is given which is either the pair of synonyms or antonyms or synonym & antonym of the word given in bold. Choose that pair as your answer.
 Q6. FUTILE
 
@@ -6792,12 +9752,22 @@ S6. Ans.(c) Sol. Futile: incapable of producing any useful result; pointless. Va
 
 ---
 
-## Problem 297 (ID: `SEC0405_VOCAB_SYN_Q07`)
+## Problem 297  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_VOCAB_SYN_Q07`)
 - **Source**: CampusMonk (Synonym & Antonym_QUESTIONS.json)
 - **Sub-Domain Focus**: Vocabulary: Synonyms and Antonyms
 - **Visual Reference Plate**: `images/eng_verbal_assorted_super30_page_01.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Directions (1-10): In each of the questions below, there is a word given in bold which is followed by five options. In each of the options, a pair of words is given which is either the pair of synonyms or antonyms or synonym & antonym of the word given in bold. Choose that pair as your answer.
 Q7. GAMUT
 
@@ -6816,12 +9786,22 @@ S7. Ans.(d) Sol. Gamut: the complete range or scope of something. The options in
 
 ---
 
-## Problem 298 (ID: `SEC0405_VOCAB_SYN_Q08`)
+## Problem 298  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_VOCAB_SYN_Q08`)
 - **Source**: CampusMonk (Synonym & Antonym_QUESTIONS.json)
 - **Sub-Domain Focus**: Vocabulary: Synonyms and Antonyms
 - **Visual Reference Plate**: `images/eng_verbal_assorted_super30_page_01.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Directions (1-10): In each of the questions below, there is a word given in bold which is followed by five options. In each of the options, a pair of words is given which is either the pair of synonyms or antonyms or synonym & antonym of the word given in bold. Choose that pair as your answer.
 Q8. HERESY
 
@@ -6840,12 +9820,22 @@ S8. Ans.(a) Sol. Heresy: belief or opinion contrary to orthodox religious (espec
 
 ---
 
-## Problem 299 (ID: `SEC0405_VOCAB_SYN_Q09`)
+## Problem 299  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_VOCAB_SYN_Q09`)
 - **Source**: CampusMonk (Synonym & Antonym_QUESTIONS.json)
 - **Sub-Domain Focus**: Vocabulary: Synonyms and Antonyms
 - **Visual Reference Plate**: `images/eng_verbal_assorted_super30_page_01.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Directions (1-10): In each of the questions below, there is a word given in bold which is followed by five options. In each of the options, a pair of words is given which is either the pair of synonyms or antonyms or synonym & antonym of the word given in bold. Choose that pair as your answer.
 Q9. INEPT
 
@@ -6864,12 +9854,22 @@ S9. Ans.(d) Sol. Inept: having or showing no skill; clumsy. Absurd is the synony
 
 ---
 
-## Problem 300 (ID: `SEC0405_VOCAB_SYN_Q10`)
+## Problem 300  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_VOCAB_SYN_Q10`)
 - **Source**: CampusMonk (Synonym & Antonym_QUESTIONS.json)
 - **Sub-Domain Focus**: Vocabulary: Synonyms and Antonyms
 - **Visual Reference Plate**: `images/eng_verbal_assorted_super30_page_01.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Directions (1-10): In each of the questions below, there is a word given in bold which is followed by five options. In each of the options, a pair of words is given which is either the pair of synonyms or antonyms or synonym & antonym of the word given in bold. Choose that pair as your answer.
 Q10. JADED
 
@@ -6888,12 +9888,22 @@ S10. Ans.(c) Sol. Jaded: physically tired; exhausted. Weary and Mellow are synon
 
 ---
 
-## Problem 301 (ID: `SEC0405_PYQ50_Q09`)
+## Problem 301  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q09`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Reading Comprehension: Vocabulary in Context
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 According to the passage, what does "social equity" in the context of
 sustainability imply?
 
@@ -6911,12 +9921,22 @@ Contextual replacement for shift / changeover.
 
 ---
 
-## Problem 302 (ID: `SEC0405_PYQ50_Q31`)
+## Problem 302  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q31`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Vocabulary: Synonyms
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_09.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 The CEO's speech was so ______ that everyone was motivated to work
 harder.
 
@@ -6934,12 +9954,22 @@ Synonym: Altruistic / Magnanimous means generous and unselfish.
 
 ---
 
-## Problem 303 (ID: `SEC0405_PYQ50_Q32`)
+## Problem 303  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q32`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Vocabulary: Antonyms
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_09.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Despite his initial _______, he grew to love the city's vibrant culture.
 
 ### Options
@@ -6956,12 +9986,22 @@ Antonym: Amicable means friendly; its direct antonym is hostile.
 
 ---
 
-## Problem 304 (ID: `SEC0405_PYQ50_Q33`)
+## Problem 304  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q33`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Vocabulary: Synonyms
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_09.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 The new software is designed to _______ the workflow by automating
 repetitive tasks.
 
@@ -6979,12 +10019,22 @@ Synonym: Ephemeral means lasting for a very short time; transient / fleeting.
 
 ---
 
-## Problem 305 (ID: `SEC0405_PYQ50_Q34`)
+## Problem 305  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q34`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Vocabulary: Antonyms
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_09.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 His ______ nature made him an excellent diplomat, as he was always able
 to find common ground.
 
@@ -7002,12 +10052,22 @@ Antonym: Transient means temporary; antonym is permanent.
 
 ---
 
-## Problem 306 (ID: `SEC0405_PYQ50_Q35`)
+## Problem 306  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q35`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Vocabulary: Synonyms
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_09.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 The evidence was _______; there was no doubt that he was guilty.
 
 ### Options
@@ -7024,12 +10084,22 @@ Synonym: Meticulous means showing great attention to detail; very careful.
 
 ---
 
-## Problem 307 (ID: `SEC0405_PYQ50_Q36`)
+## Problem 307  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q36`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Vocabulary: Antonyms
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_10.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 The company had to ______ its expansion plans due to the economic
 downturn.
 
@@ -7047,12 +10117,22 @@ Antonym: Scarcity means shortage; antonym is abundance / plentiful.
 
 ---
 
-## Problem 308 (ID: `SEC0405_PYQ50_Q37`)
+## Problem 308  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q37`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Vocabulary: Synonyms
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_10.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 She has a _______ for details, which makes her an excellent editor.
 
 ### Options
@@ -7069,12 +10149,22 @@ Synonym: Lucid means expressed clearly; easy to understand.
 
 ---
 
-## Problem 309 (ID: `SEC0405_PYQ50_Q38`)
+## Problem 309  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q38`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Vocabulary: Antonyms
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_10.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 The ancient ruins were so well ______ that tourists could easily imagine
 life in the past.
 
@@ -7092,12 +10182,22 @@ Antonym: Audacious means fearless and bold; antonym is timid / cowardly.
 
 ---
 
-## Problem 310 (ID: `SEC0405_PYQ50_Q39`)
+## Problem 310  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q39`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Vocabulary: Synonyms
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_10.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 The politician's speech was filled with ______ promises that were unlikely
 to be fulfilled.
 
@@ -7115,12 +10215,22 @@ Synonym: Pragmatic means dealing with things sensibly and realistically; practic
 
 ---
 
-## Problem 311 (ID: `SEC0405_PYQ50_Q40`)
+## Problem 311  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q40`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Vocabulary: Antonyms
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_10.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 The artist was known for his ______ use of color, often combining bright
 and unexpected shades.
 
@@ -7138,12 +10248,22 @@ Antonym: Lethargic means sluggish and inactive; antonym is energetic / active.
 
 ---
 
-## Problem 312 (ID: `SEC0405_PYQ50_Q48`)
+## Problem 312  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q48`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: One-Word Substitution: Terminology
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_13.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 One-Word Substitution: A person who is new to a profession or activity.
 
 ### Options
@@ -7160,12 +10280,22 @@ One-Word Substitution: A person new to a profession or activity is a novice / ty
 
 ---
 
-## Problem 313 (ID: `SEC0405_PYQ50_Q49`)
+## Problem 313  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q49`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: One-Word Substitution: Terminology
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_13.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 One-Word Substitution: A place where government records are kept.
 
 ### Options
@@ -7182,12 +10312,22 @@ One-Word Substitution: A collection of historical documents or place where gover
 
 ---
 
-## Problem 314 (ID: `SEC0405_PYQ50_Q50`)
+## Problem 314  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q50`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: One-Word Substitution: Terminology
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_13.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 One-Word Substitution: Something that is certain to happen.
 
 ### Options
@@ -7204,12 +10344,22 @@ One-Word Substitution: Certain to happen; unavoidable is inevitable.
 
 ---
 
-## Problem 315 (ID: `TOPMATE_SLOT1_SECTION_3_Q01`)
+## Problem 315  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_SLOT1_SECTION_3_Q01`)
 - **Source**: Topmate Paid Content (2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf)
 - **Sub-Domain Focus**: SECTION 3 — VERBAL ABILITY TEST
 - **Visual Reference Plate**: `images/slot1_page_004.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Choose the word closest in meaning to “lucid”.
 
 ### Options
@@ -7226,12 +10376,22 @@ Choose the word closest in meaning to “lucid”.
 
 ---
 
-## Problem 316 (ID: `TOPMATE_SLOT1_SECTION_3_Q02`)
+## Problem 316  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_SLOT1_SECTION_3_Q02`)
 - **Source**: Topmate Paid Content (2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf)
 - **Sub-Domain Focus**: SECTION 3 — VERBAL ABILITY TEST
 - **Visual Reference Plate**: `images/slot1_page_004.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Choose the word closest in meaning to “benevolent”.
 
 ### Options
@@ -7248,12 +10408,22 @@ Choose the word closest in meaning to “benevolent”.
 
 ---
 
-## Problem 317 (ID: `TOPMATE_SLOT1_SECTION_3_Q03`)
+## Problem 317  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_SLOT1_SECTION_3_Q03`)
 - **Source**: Topmate Paid Content (2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf)
 - **Sub-Domain Focus**: SECTION 3 — VERBAL ABILITY TEST
 - **Visual Reference Plate**: `images/slot1_page_004.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Choose the word opposite in meaning to “frugal”.
 
 ### Options
@@ -7270,12 +10440,22 @@ Choose the word opposite in meaning to “frugal”.
 
 ---
 
-## Problem 318 (ID: `TOPMATE_SLOT1_SECTION_3_Q04`)
+## Problem 318  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_SLOT1_SECTION_3_Q04`)
 - **Source**: Topmate Paid Content (2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf)
 - **Sub-Domain Focus**: SECTION 3 — VERBAL ABILITY TEST
 - **Visual Reference Plate**: `images/slot1_page_004.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Choose the word closest in meaning to “obstinate”.
 
 ### Options
@@ -7292,12 +10472,22 @@ Choose the word closest in meaning to “obstinate”.
 
 ---
 
-## Problem 319 (ID: `TOPMATE_SLOT1_SECTION_3_Q05`)
+## Problem 319  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_SLOT1_SECTION_3_Q05`)
 - **Source**: Topmate Paid Content (2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf)
 - **Sub-Domain Focus**: SECTION 3 — VERBAL ABILITY TEST
 - **Visual Reference Plate**: `images/slot1_page_004.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Choose the word closest in meaning to “erudite”.
 
 ### Options
@@ -7314,12 +10504,22 @@ Choose the word closest in meaning to “erudite”.
 
 ---
 
-## Problem 320 (ID: `TOPMATE_SLOT1_SECTION_3_Q06`)
+## Problem 320  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_SLOT1_SECTION_3_Q06`)
 - **Source**: Topmate Paid Content (2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf)
 - **Sub-Domain Focus**: SECTION 3 — VERBAL ABILITY TEST
 - **Visual Reference Plate**: `images/slot1_page_005.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 What does the idiom “break the ice” mean?
 
 ### Options
@@ -7336,12 +10536,22 @@ The idiom “break the ice” means to relieve social tension, make people feel 
 
 ---
 
-## Problem 321 (ID: `TOPMATE_SLOT2_SECTION_3_Q01`)
+## Problem 321  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_SLOT2_SECTION_3_Q01`)
 - **Source**: Topmate Paid Content (2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf)
 - **Sub-Domain Focus**: SECTION 3 — VERBAL ABILITY TEST
 - **Visual Reference Plate**: `images/slot2_page_004.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Choose the word closest in meaning to “meticulous”.
 
 ### Options
@@ -7358,12 +10568,22 @@ Official Exam Key: `B) Precise`. Systematic step-by-step verification confirms t
 
 ---
 
-## Problem 322 (ID: `TOPMATE_SLOT2_SECTION_3_Q02`)
+## Problem 322  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_SLOT2_SECTION_3_Q02`)
 - **Source**: Topmate Paid Content (2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf)
 - **Sub-Domain Focus**: SECTION 3 — VERBAL ABILITY TEST
 - **Visual Reference Plate**: `images/slot2_page_004.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Choose the word closest in meaning to “obsolete”.
 
 ### Options
@@ -7380,12 +10600,22 @@ Official Exam Key: `C) Outdated`. Systematic step-by-step verification confirms 
 
 ---
 
-## Problem 323 (ID: `TOPMATE_SLOT2_SECTION_3_Q03`)
+## Problem 323  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_SLOT2_SECTION_3_Q03`)
 - **Source**: Topmate Paid Content (2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf)
 - **Sub-Domain Focus**: SECTION 3 — VERBAL ABILITY TEST
 - **Visual Reference Plate**: `images/slot2_page_004.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Choose the word opposite in meaning to “scarce”.
 
 ### Options
@@ -7402,12 +10632,22 @@ Official Exam Key: `C) Abundant`. Systematic step-by-step verification confirms 
 
 ---
 
-## Problem 324 (ID: `TOPMATE_SLOT2_SECTION_3_Q04`)
+## Problem 324  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_SLOT2_SECTION_3_Q04`)
 - **Source**: Topmate Paid Content (2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf)
 - **Sub-Domain Focus**: SECTION 3 — VERBAL ABILITY TEST
 - **Visual Reference Plate**: `images/slot2_page_005.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Choose the word closest in meaning to “pragmatic”.
 
 ### Options
@@ -7424,12 +10664,22 @@ Official Exam Key: `A) Practical`. Systematic step-by-step verification confirms
 
 ---
 
-## Problem 325 (ID: `TOPMATE_SLOT2_SECTION_3_Q05`)
+## Problem 325  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_SLOT2_SECTION_3_Q05`)
 - **Source**: Topmate Paid Content (2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf)
 - **Sub-Domain Focus**: SECTION 3 — VERBAL ABILITY TEST
 - **Visual Reference Plate**: `images/slot2_page_005.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Choose the word closest in meaning to “ambiguous”.
 
 ### Options
@@ -7446,12 +10696,22 @@ Official Exam Key: `B) Unclear`. Systematic step-by-step verification confirms t
 
 ---
 
-## Problem 326 (ID: `TOPMATE_SLOT2_SECTION_3_Q06`)
+## Problem 326  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_SLOT2_SECTION_3_Q06`)
 - **Source**: Topmate Paid Content (2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf)
 - **Sub-Domain Focus**: SECTION 3 — VERBAL ABILITY TEST
 - **Visual Reference Plate**: `images/slot2_page_005.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 What does the idiom “spill the beans” mean?
 
 ### Options
@@ -7468,12 +10728,22 @@ Official Exam Key: `B) Reveal a secret`. Systematic step-by-step verification co
 
 ---
 
-## Problem 327 (ID: `TOPMATE_GRAMMAR_Q05`)
+## Problem 327  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q05`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_002.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Find the synonym for the underlined word: His explanation was too ambiguous to be understood.
 
 ### Options
@@ -7490,12 +10760,22 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 
 ---
 
-## Problem 328 (ID: `TOPMATE_GRAMMAR_Q11`)
+## Problem 328  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q11`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_004.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Find the antonym for the underlined word: The decision was arbitrary and lacked logic.
 
 ### Options
@@ -7512,12 +10792,22 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 
 ---
 
-## Problem 329 (ID: `TOPMATE_GRAMMAR_Q13`)
+## Problem 329  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q13`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_004.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Rearrange the words to form a meaningful sentence: Has / the / train / already / left?
 
 ### Options
@@ -7534,12 +10824,22 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 
 ---
 
-## Problem 330 (ID: `TOPMATE_GRAMMAR_Q24`)
+## Problem 330  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q24`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_008.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Rearrange the following words to form a meaningful sentence: innovations / of / the / core / are / technological / progress / to
 
 ### Options
@@ -7556,12 +10856,22 @@ Grammar rule application confirms `D` is the strictly standard and syntactically
 
 ---
 
-## Problem 331 (ID: `TOPMATE_GRAMMAR_Q30`)
+## Problem 331  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q30`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_010.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Rearrange the given phrases to form a meaningful sentence: complex / increasingly / solving / becoming / are / business problems
 
 ### Options
@@ -7578,12 +10888,22 @@ Grammar rule application confirms `C` is the strictly standard and syntactically
 
 ---
 
-## Problem 332 (ID: `TOPMATE_GRAMMAR_Q35`)
+## Problem 332  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q35`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_012.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 In the following sentence, replace the incorrect phrase: She is looking forward to meet her old friends this weekend.
 
 ### Options
@@ -7600,12 +10920,22 @@ In the following sentence, replace the incorrect phrase: She is looking forward 
 
 ---
 
-## Problem 333 (ID: `TOPMATE_GRAMMAR_Q38`)
+## Problem 333  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q38`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_013.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Rearrange the sentence to make it meaningful: If / the company / implement / succeeds / these changes / in / will thrive
 
 ### Options
@@ -7622,12 +10952,22 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 
 ---
 
-## Problem 334 (ID: `TOPMATE_GRAMMAR_Q49`)
+## Problem 334  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q49`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_017.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Rearrange the sentence to make it meaningful: The / employees / appreciated / their / manager’s efforts / for them
 
 ### Options
@@ -7644,12 +10984,22 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 
 ---
 
-## Problem 335 (ID: `TOPMATE_GRAMMAR_Q57`)
+## Problem 335  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q57`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_019.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Rearrange the sentence to make it meaningful: Immediately / agreed / the manager / to / the proposal
 
 ### Options
@@ -7666,12 +11016,22 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 
 ---
 
-## Problem 336 (ID: `TOPMATE_GRAMMAR_Q67`)
+## Problem 336  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q67`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_023.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Rearrange the sentence to make it meaningful: Was / every task / carefully / he / checking
 
 ### Options
@@ -7688,12 +11048,22 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 
 ---
 
-## Problem 337 (ID: `TOPMATE_GRAMMAR_Q73`)
+## Problem 337  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q73`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_025.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Rearrange the sentence to make it meaningful: We / attend / the meeting / tomorrow / will
 
 ### Options
@@ -7710,12 +11080,22 @@ Grammar rule application confirms `C` is the strictly standard and syntactically
 
 ---
 
-## Problem 338 (ID: `ITM-P01-Q42`)
+## Problem 338  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P01-Q42`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 1)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_01_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Synonym of UBIQUITOUS:
 
 ### Options
@@ -7732,12 +11112,22 @@ Synonym of UBIQUITOUS:
 
 ---
 
-## Problem 339 (ID: `ITM-P01-Q43`)
+## Problem 339  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P01-Q43`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 1)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_01_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Synonym of RECALCITRANT:
 
 ### Options
@@ -7754,12 +11144,22 @@ Synonym of RECALCITRANT:
 
 ---
 
-## Problem 340 (ID: `ITM-P01-Q44`)
+## Problem 340  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P01-Q44`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 1)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_01_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Antonym of LOQUACIOUS:
 
 ### Options
@@ -7776,12 +11176,22 @@ Antonym of LOQUACIOUS:
 
 ---
 
-## Problem 341 (ID: `ITM-P01-Q45`)
+## Problem 341  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P01-Q45`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 1)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_01_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Antonym of MAGNANIMOUS:
 
 ### Options
@@ -7798,12 +11208,22 @@ Antonym of MAGNANIMOUS:
 
 ---
 
-## Problem 342 (ID: `ITM-P02-Q42`)
+## Problem 342  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P02-Q42`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 2)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_02_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Synonym of PRAGMATIC:
 
 ### Options
@@ -7820,12 +11240,22 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-## Problem 343 (ID: `ITM-P02-Q43`)
+## Problem 343  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P02-Q43`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 2)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_02_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Synonym of VOLATILE:
 
 ### Options
@@ -7842,12 +11272,22 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-## Problem 344 (ID: `ITM-P02-Q44`)
+## Problem 344  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P02-Q44`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 2)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_02_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Antonym of CONCISE:
 
 ### Options
@@ -7864,12 +11304,22 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-## Problem 345 (ID: `ITM-P02-Q45`)
+## Problem 345  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P02-Q45`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 2)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_02_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Antonym of DILIGENT:
 
 ### Options
@@ -7886,12 +11336,22 @@ Section 4: Pseudo Code
 
 ---
 
-## Problem 346 (ID: `ITM-P03-Q42`)
+## Problem 346  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P03-Q42`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 3)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_03_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Synonym of INSCRUTABLE:
 
 ### Options
@@ -7908,12 +11368,22 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-## Problem 347 (ID: `ITM-P03-Q43`)
+## Problem 347  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P03-Q43`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 3)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_03_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Synonym of PROFLIGATE:
 
 ### Options
@@ -7930,12 +11400,22 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-## Problem 348 (ID: `ITM-P03-Q44`)
+## Problem 348  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P03-Q44`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 3)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_03_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Antonym of ASSIDUOUS:
 
 ### Options
@@ -7952,12 +11432,22 @@ Standard vocabulary / grammatical definition establishes that option (C) is the 
 
 ---
 
-## Problem 349 (ID: `ITM-P03-Q45`)
+## Problem 349  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P03-Q45`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 3)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_03_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Antonym of EPHEMERAL:
 
 ### Options
@@ -7974,12 +11464,22 @@ Section 4: Pseudo Code
 
 ---
 
-## Problem 350 (ID: `ITM-P04-Q42`)
+## Problem 350  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P04-Q42`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 4)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_04_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Synonym of CIRCUMSPECT:
 
 ### Options
@@ -7996,12 +11496,22 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-## Problem 351 (ID: `ITM-P04-Q43`)
+## Problem 351  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P04-Q43`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 4)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_04_page_06.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Synonym of OBFUSCATORY:
 
 ### Options
@@ -8018,12 +11528,22 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-## Problem 352 (ID: `ITM-P04-Q44`)
+## Problem 352  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P04-Q44`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 4)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_04_page_06.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Antonym of PARSIMONIOUS:
 
 ### Options
@@ -8040,12 +11560,22 @@ Standard vocabulary / grammatical definition establishes that option (C) is the 
 
 ---
 
-## Problem 353 (ID: `ITM-P04-Q45`)
+## Problem 353  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P04-Q45`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 4)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_04_page_06.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Antonym of GARRULOUS:
 
 ### Options
@@ -8064,12 +11594,22 @@ Section 4: Pseudo Code
 
 ---
 
-## Problem 354 (ID: `ITM-P05-Q42`)
+## Problem 354  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P05-Q42`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 5)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_05_page_06.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Synonym of INTRACTABLE:
 
 ### Options
@@ -8086,12 +11626,22 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-## Problem 355 (ID: `ITM-P05-Q43`)
+## Problem 355  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P05-Q43`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 5)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_05_page_06.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Synonym of PRECARIOUS:
 
 ### Options
@@ -8108,12 +11658,22 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-## Problem 356 (ID: `ITM-P05-Q44`)
+## Problem 356  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P05-Q44`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 5)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_05_page_06.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Antonym of MERITORIOUS:
 
 ### Options
@@ -8130,12 +11690,22 @@ Standard vocabulary / grammatical definition establishes that option (C) is the 
 
 ---
 
-## Problem 357 (ID: `ITM-P05-Q45`)
+## Problem 357  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P05-Q45`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 5)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_05_page_06.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Antonym of VINDICATE:
 
 ### Options
@@ -8152,12 +11722,22 @@ Section 4: Pseudo Code
 
 ---
 
-## Problem 358 (ID: `ITM-P06-Q42`)
+## Problem 358  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P06-Q42`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 6)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_06_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Synonym of EQUIVOCATE:
 
 ### Options
@@ -8174,12 +11754,22 @@ Standard vocabulary / grammatical definition establishes that option (A) is the 
 
 ---
 
-## Problem 359 (ID: `ITM-P06-Q43`)
+## Problem 359  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P06-Q43`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 6)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_06_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Synonym of PERNICIOUS:
 
 ### Options
@@ -8196,12 +11786,22 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-## Problem 360 (ID: `ITM-P06-Q44`)
+## Problem 360  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P06-Q44`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 6)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_06_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Antonym of BENEVOLENT:
 
 ### Options
@@ -8218,12 +11818,22 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-## Problem 361 (ID: `ITM-P06-Q45`)
+## Problem 361  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P06-Q45`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 6)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_06_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Antonym of EXACERBATE:
 
 ### Options
@@ -8240,12 +11850,22 @@ Section 4: Pseudo Code
 
 ---
 
-## Problem 362 (ID: `ITM-P07-Q42`)
+## Problem 362  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P07-Q42`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 7)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_07_page_06.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Synonym of ABSTRUSE:
 
 ### Options
@@ -8262,12 +11882,22 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-## Problem 363 (ID: `ITM-P07-Q43`)
+## Problem 363  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P07-Q43`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 7)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_07_page_06.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Synonym of SALIENT:
 
 ### Options
@@ -8284,12 +11914,22 @@ Standard vocabulary / grammatical definition establishes that option (C) is the 
 
 ---
 
-## Problem 364 (ID: `ITM-P07-Q44`)
+## Problem 364  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P07-Q44`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 7)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_07_page_06.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Antonym of ARDUOUS:
 
 ### Options
@@ -8306,12 +11946,22 @@ Standard vocabulary / grammatical definition establishes that option (C) is the 
 
 ---
 
-## Problem 365 (ID: `ITM-P07-Q45`)
+## Problem 365  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P07-Q45`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 7)
 - **Sub-Domain Focus**: Vocabulary & Analogies
 - **Visual Reference Plate**: `images/paper_07_page_06.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Antonym of OBSEQUIOUS:
 
 ### Options

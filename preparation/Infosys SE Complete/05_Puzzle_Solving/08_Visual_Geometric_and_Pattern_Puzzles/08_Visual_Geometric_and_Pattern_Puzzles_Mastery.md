@@ -6,7 +6,12 @@ This compendium contains complete, exhaustive extractions of all visual, geometr
 
 ---
 
-### Question 1: Triangle Product and Top Addition Pattern
+### Question 1: Triangle Product and Top Addition Pattern  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **ID:** `SEC06_PUZ_Q01` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
@@ -74,7 +79,12 @@ Hence, the missing number is 9 (Option B).
 
 ---
 
-### Question 2: Concentric Hexagonal Circle Grid End-Average Pattern
+### Question 2: Concentric Hexagonal Circle Grid End-Average Pattern  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **ID:** `SEC06_PUZ_Q02` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
@@ -143,7 +153,12 @@ Hence, the missing number is 6 (Option B).
 
 ---
 
-### Question 3: Octagonal Ring Reverse Alphabet Complement Pattern
+### Question 3: Octagonal Ring Reverse Alphabet Complement Pattern  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **ID:** `SEC06_PUZ_Q03` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
@@ -185,7 +200,12 @@ Hence, the missing letter is O (Option A).
 
 ---
 
-### Question 4: Sequential Square Two-Digit Concatenation Pattern
+### Question 4: Sequential Square Two-Digit Concatenation Pattern  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **ID:** `SEC06_PUZ_Q04` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
@@ -225,7 +245,12 @@ Hence, the missing number is 1 (Option A).
 
 ---
 
-### Question 5: Recursive Progression Tree Pattern (2x + 3)
+### Question 5: Recursive Progression Tree Pattern (2x + 3)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **ID:** `SEC06_PUZ_Q05` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
@@ -275,7 +300,12 @@ Hence, the missing number is 253 (Option D).
 
 ---
 
-### Question 6: Two-Column Ladder Incremental Row Sum Pattern
+### Question 6: Two-Column Ladder Incremental Row Sum Pattern  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **ID:** `SEC06_PUZ_Q06` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
@@ -319,7 +349,12 @@ Hence, the missing number is 2 (Option C).
 
 ---
 
-### Question 7: Five-Pointed Star Upper Minus Lower Balance Pattern
+### Question 7: Five-Pointed Star Upper Minus Lower Balance Pattern  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **ID:** `SEC06_PUZ_Q07` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
@@ -381,7 +416,12 @@ Hence, the missing number is 10 (Option B).
 
 ---
 
-### Question 8: Reverse Alphabetical Positional Sum Box Pattern
+### Question 8: Reverse Alphabetical Positional Sum Box Pattern  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **ID:** `SEC06_PUZ_Q08` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
@@ -424,7 +464,12 @@ Hence, the missing letter is B (Option A).
 
 ---
 
-### Question 11: Divided Circles Sum of Squares Pattern
+### Question 11: Divided Circles Sum of Squares Pattern  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **ID:** `SEC06_PUZ_Q11` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
@@ -483,7 +528,12 @@ Hence, the missing number is 26 (Option D).
 
 ---
 
-### Question 12: Dual-Variable Block Proportionality Pattern
+### Question 12: Dual-Variable Block Proportionality Pattern  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 
 **ID:** `SEC06_PUZ_Q12` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
@@ -552,7 +602,12 @@ Hence, the correct pair is A = 14, B = 28 (Option C).
 
 ---
 
-### Question 15: Segmented Four-Square Constant Sum (22) Pattern
+### Question 15: Segmented Four-Square Constant Sum (22) Pattern  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 **ID:** `SEC06_PUZ_Q15` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
@@ -592,7 +647,12 @@ Hence, the missing number is 9 (Option D).
 
 ---
 
-### Question 16: T-Shaped Block Upper Mean Average Pattern
+### Question 16: T-Shaped Block Upper Mean Average Pattern  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 **ID:** `SEC06_PUZ_Q16` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
@@ -630,7 +690,12 @@ Hence, the missing number is 3 (Option B).
 
 ---
 
-### Question 17: Hexagonal Letter Positional Addition Pattern
+### Question 17: Hexagonal Letter Positional Addition Pattern  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 **ID:** `SEC06_PUZ_Q17` | **Topic:** Visual Number Patterns & Geometric Puzzles
 

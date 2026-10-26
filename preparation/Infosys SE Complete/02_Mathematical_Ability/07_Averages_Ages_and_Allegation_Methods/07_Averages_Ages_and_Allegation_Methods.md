@@ -10,12 +10,22 @@
 
 ---
 
-## Problem 001 (ID: `SEC02_DI_PIE_Q03`)
+## Problem 001  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_DI_PIE_Q03`)
 - **Source Module**: `1. Most Most Imp - Data Interpretation`
 - **Source File**: `Data Interpretation Pie chart.pdf`
 - **Topic Domain**: **Comparative Percentage in Pie Chart**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Paper cost is approximately what percent of the Printing cost?
 
 ### Options
@@ -40,12 +50,22 @@ Therefore, Paper cost is 125% of Printing cost.
 
 ---
 
-## Problem 002 (ID: `SEC02_BOOK_P09_Q63`)
+## Problem 002  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P09_Q63`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 The price of an article rose by 25% every odd 
 year and fell by 20% every even year, what 
 would be the percentage change after 180 
@@ -69,12 +89,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 9, Problem 63). V
 
 ---
 
-## Problem 003 (ID: `SEC02_BOOK_P09_Q65`)
+## Problem 003  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P09_Q65`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 The population of a town is 18000. It increases 
 by 10% during first year and by 20% during the 
 second year. The population after 2 years will 
@@ -98,12 +128,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 9, Problem 65). V
 
 ---
 
-## Problem 004 (ID: `SEC02_BOOK_P10_Q66`)
+## Problem 004  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P10_Q66`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 The length of a rectangle increased by 40% 
 and its breadth increased by 20%. What will be 
 the percentage change in the area of the 
@@ -127,12 +167,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 66). 
 
 ---
 
-## Problem 005 (ID: `SEC02_BOOK_P10_Q67`)
+## Problem 005  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P10_Q67`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 A student has to secure 40% marks to pass an 
 examination. He secured 75 marks and was 
 declared FAIL 45 marks. Find the maximum 
@@ -156,12 +206,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 67). 
 
 ---
 
-## Problem 006 (ID: `SEC02_BOOK_P10_Q68`)
+## Problem 006  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P10_Q68`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 In an examination, the cut off mark is 40% and 
 a student is declared to be failed by 4 marks 
 when he scored 38%. What is the maximum 
@@ -185,12 +245,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 68). 
 
 ---
 
-## Problem 007 (ID: `SEC02_BOOK_P10_Q69`)
+## Problem 007  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P10_Q69`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 A student has to secure 30% marks to get 
 through. If he gets 40 marks and fails by 20 
 marks, find the maximum marks set for the 
@@ -214,12 +284,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 69). 
 
 ---
 
-## Problem 008 (ID: `SEC02_BOOK_P10_Q70`)
+## Problem 008  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P10_Q70`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 In an examination, P scored 30 % marks and 
 failed by 15 marks. Q scored 40 % marks and 
 obtained 35 marks more than those required 
@@ -243,12 +323,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 70). 
 
 ---
 
-## Problem 009 (ID: `SEC02_BOOK_P10_Q71`)
+## Problem 009  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P10_Q71`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 A candidate scoring 25% in an examination 
 fails by 30 marks, while another candidate 
 scores 50 % mark, gets 20 marks more than 
@@ -274,12 +364,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 71). 
 
 ---
 
-## Problem 010 (ID: `SEC02_BOOK_P10_Q72`)
+## Problem 010  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P10_Q72`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 In a test consisting of 300 questions, Deepika 
 answered 40% of the first 100 questions 
 correctly. What per cent of the remaining 200 
@@ -304,12 +404,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 72). 
 
 ---
 
-## Problem 011 (ID: `SEC02_BOOK_P10_Q73`)
+## Problem 011  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P10_Q73`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 There were only two candidates in an election. 
 A candidate got 62% votes and he won by 144 
 votes. How many votes polled?
@@ -332,12 +442,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 73). 
 
 ---
 
-## Problem 012 (ID: `SEC02_BOOK_P11_Q74`)
+## Problem 012  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P11_Q74`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 In an election between two candidates, the 
 winner secured 58% of the total votes cast and 
 wins by a majority of 2400 votes. How many 
@@ -361,12 +481,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 11, Problem 74). 
 
 ---
 
-## Problem 013 (ID: `SEC02_BOOK_P11_Q75`)
+## Problem 013  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P11_Q75`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 In an election between two candidates, one 
 gets 72% of the total votes. If the total votes 
 are 8200, by how many votes did the winner 
@@ -390,12 +520,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 11, Problem 75). 
 
 ---
 
-## Problem 014 (ID: `SEC02_BOOK_P11_Q76`)
+## Problem 014  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P11_Q76`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 In a college election between two students, 
 10% of the votes cast are invalid. The winner 
 gets 70% of the valid votes and defeats the 
@@ -420,12 +560,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 11, Problem 76). 
 
 ---
 
-## Problem 015 (ID: `SEC02_BOOK_P11_Q78`)
+## Problem 015  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P11_Q78`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Ages, Partnership & Averages**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 A tub can be filled in 20 minutes but there is a 
 leakage in it which can empty the full tub in 60 
 minutes. In how many minutes it can be filled?
@@ -448,12 +598,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 11, Problem 78). 
 
 ---
 
-## Problem 016 (ID: `SEC02_BOOK_P16_Q117`)
+## Problem 016  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P16_Q117`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 A Sum was put at Sl at a certain rate for 2 
 years. Had it been put at 3% higher rate, it 
 would have fetched Rs.300 more. Find the 
@@ -477,12 +637,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 16, Problem 117).
 
 ---
 
-## Problem 017 (ID: `SEC02_BOOK_P17_Q124`)
+## Problem 017  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P17_Q124`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 10% of the voters did not cast their votes in an 
 election between two candidates 10% of the 
 votes polled were found invalid. The successful 
@@ -508,12 +678,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 17, Problem 124).
 
 ---
 
-## Problem 018 (ID: `SEC02_BOOK_P17_Q125`)
+## Problem 018  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P17_Q125`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 In a college election between two students, 
 10% of the votes cast are invalid. The winner 
 gets 70% of the valid votes and defeats the 
@@ -538,12 +718,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 17, Problem 125).
 
 ---
 
-## Problem 019 (ID: `SEC02_BOOK_P17_Q126`)
+## Problem 019  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P17_Q126`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 In a election between two candidate 20% did 
 not vote & 12(1/2)% i.e 12.5 %of votes were 
 invalid winner got 60% of valid votes and was 
@@ -568,12 +758,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 17, Problem 126).
 
 ---
 
-## Problem 020 (ID: `SEC02_BOOK_P18_Q130`)
+## Problem 020  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P18_Q130`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Ages, Partnership & Averages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 What is code of "called" ? 
 I. 
 In certain language, "meeting had been called" 
@@ -601,12 +801,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 18, Problem 130).
 
 ---
 
-## Problem 021 (ID: `SEC02_BOOK_P18_Q134`)
+## Problem 021  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P18_Q134`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 If A's salary is 25% less than B's salary, then B's 
 salary is what % more than A's salary?
 
@@ -628,12 +838,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 18, Problem 134).
 
 ---
 
-## Problem 022 (ID: `SEC02_BOOK_P18_Q135`)
+## Problem 022  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P18_Q135`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Study the following table and answer the 
 Revenue (in INR lakhs) of a company ABC from 
 the sale of its 4 product P, Q, R and S 6 years 
@@ -730,12 +950,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 18, Problem 135).
 
 ---
 
-## Problem 023 (ID: `SEC02_BOOK_P18_Q136`)
+## Problem 023  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P18_Q136`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 In a company 58% of the employees are males 
 and rest are females 48% of the employees are 
 graduates of which 33
@@ -763,12 +993,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 18, Problem 136).
 
 ---
 
-## Problem 024 (ID: `SEC02_BOOK_P19_Q137`)
+## Problem 024  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P19_Q137`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 The income of A is 70% of the income B and 
 the expenditure of B is 20% less than the 
 expenditure of A. if the expenditure of A is 
@@ -793,12 +1033,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 19, Problem 137).
 
 ---
 
-## Problem 025 (ID: `SEC02_BOOK_P22_Q169`)
+## Problem 025  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P22_Q169`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 A sum of x is divided between A,B,C and D 
 such that the ratio of share of A and B is 9:5, 
 C’s share is 70% of B’s share and the ratio of 
@@ -824,12 +1074,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 22, Problem 169).
 
 ---
 
-## Problem 026 (ID: `SEC02_BOOK_P24_Q178`)
+## Problem 026  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P24_Q178`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 The ratio in which two sugar solutions of the 
 concentration 15% and 40% are to be mixed to 
 get a solution of concentration 30% is:
@@ -852,12 +1112,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 24, Problem 178).
 
 ---
 
-## Problem 027 (ID: `SEC02_BOOK_P24_Q182`)
+## Problem 027  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P24_Q182`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 300 grams of sugar solution has 40% of sugar 
 in it. How much sugar should be added to 
 make it 50% in the solution?
@@ -880,12 +1150,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 24, Problem 182).
 
 ---
 
-## Problem 028 (ID: `SEC02_BOOK_P24_Q183`)
+## Problem 028  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P24_Q183`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 In 50 gram of alloy gold and silver. The gold is 
 80% by weight. How much gold should be 
 mixed to this alloy so that the weight of gold 
@@ -909,12 +1189,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 24, Problem 183).
 
 ---
 
-## Problem 029 (ID: `SEC02_BOOK_P24_Q184`)
+## Problem 029  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P24_Q184`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 A mixture of 40 litres of milk and water 
 contains 10% of water. How much water is to 
 be added to the mixture so that the water may 
@@ -938,12 +1228,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 24, Problem 184).
 
 ---
 
-## Problem 030 (ID: `SEC02_BOOK_P25_Q191`)
+## Problem 030  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P25_Q191`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Ages, Partnership & Averages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 A, B, C rent a pasture. A puts 10 oxen for 7 
 months, B puts 12 oxen for 5 months and C 
 puts 15 oxen for 3 months for grazing. If the 
@@ -968,12 +1268,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 25, Problem 191).
 
 ---
 
-## Problem 031 (ID: `SEC02_BOOK_P27_Q12`)
+## Problem 031  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P27_Q12`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 5% 
 b. 
 18% 
@@ -1001,12 +1311,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 27, Problem 12). 
 
 ---
 
-## Problem 032 (ID: `SEC02_BOOK_P28_Q211`)
+## Problem 032  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P28_Q211`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Ages, Partnership & Averages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Average of 15 members is calculated as 50. It 
 is discovered later that while calculating the 
 average, one number 25 was incorrect read as 
@@ -1030,12 +1350,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 28, Problem 211).
 
 ---
 
-## Problem 033 (ID: `SEC02_BOOK_P31_Q231`)
+## Problem 033  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P31_Q231`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 What will be the central angle for passenger 
 travelling from Patna to Buxar if it is put in the 
 form of a pie-chart? 
@@ -1060,12 +1390,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 31, Problem 231).
 
 ---
 
-## Problem 034 (ID: `SEC02_BOOK_P31_Q232`)
+## Problem 034  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P31_Q232`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 The number of passengers travelling from 
 Patna to Buxar is what cent more than the 
 number of passengers travelling to 
@@ -1091,12 +1431,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 31, Problem 232).
 
 ---
 
-## Problem 035 (ID: `SEC02_BOOK_P31_Q233`)
+## Problem 035  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P31_Q233`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 The number of passengers travelling from 
 Patna to Gaya is what per cent of the total 
 number of passengers travelling from Patna to 
@@ -1122,12 +1472,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 31, Problem 233).
 
 ---
 
-## Problem 036 (ID: `SEC02_BOOK_P32_Q237`)
+## Problem 036  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P32_Q237`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 The number of girls appearing for an 
 admission test is twice the number of boys. If 
 30% of the girls and 45% of the boys get 
@@ -1152,12 +1512,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 32, Problem 237).
 
 ---
 
-## Problem 037 (ID: `SEC02_BOOK_P32_Q240`)
+## Problem 037  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P32_Q240`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 What is the difference between two numbers 
 X and Y? 
 I. 
@@ -1185,12 +1555,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 32, Problem 240).
 
 ---
 
-## Problem 038 (ID: `SEC02_BOOK_P34_Q248`)
+## Problem 038  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P34_Q248`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 The number of passengers travelling from 
 Patna to Buxar is what cent more than the 
 number of passengers travelling to 
@@ -1216,12 +1596,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 34, Problem 248).
 
 ---
 
-## Problem 039 (ID: `SEC02_BOOK_P34_Q249`)
+## Problem 039  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P34_Q249`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 The number of passengers travelling from 
 Patna to Gaya is what per cent of the total 
 number of passengers travelling from Patna to 
@@ -1247,12 +1637,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 34, Problem 249).
 
 ---
 
-## Problem 040 (ID: `SEC02_BOOK_P34_Q250`)
+## Problem 040  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P34_Q250`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Among the passengers who are travelling from 
 Patna to Katihar, 42% are female adults and 
 38% are male adults. What is the number of 
@@ -1279,12 +1679,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 34, Problem 250).
 
 ---
 
-## Problem 041 (ID: `SEC02_BOOK_P35_Q256`)
+## Problem 041  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P35_Q256`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 What is the difference between two numbers 
 X and Y? 
 I. 
@@ -1312,12 +1722,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 35, Problem 256).
 
 ---
 
-## Problem 042 (ID: `SEC02_TEST_PERCEN_Q01`)
+## Problem 042  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_TEST_PERCEN_Q01`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 A spend 25% of his monthly salary on household and 20% of the remaining salary spend on rent. A spend remaining salary on travelling and food in the ratio of 2:3 respectively. Difference between amounts spend on food and household is Rs.1540, then find the monthly expenditure of A.
 
 ### Options
@@ -1339,12 +1759,22 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
-## Problem 043 (ID: `SEC02_TEST_PERCEN_Q02`)
+## Problem 043  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_TEST_PERCEN_Q02`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 A candidate scoring 25% in an examination fails by 30 marks , while another candidate scores 50 % mark, gets 20 marks more than the minimum pass marks . Find the minimum pass percentage.
 
 ### Options
@@ -1365,12 +1795,22 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
-## Problem 044 (ID: `SEC02_TEST_PERCEN_Q03`)
+## Problem 044  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_TEST_PERCEN_Q03`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 The population of a town is 6000. If males are Increased by 5% and female are increased by 9%. Then population will become 6500 after 1 year. Find the number of males and females?
 
 ### Options
@@ -1391,12 +1831,22 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
-## Problem 045 (ID: `SEC02_TEST_PERCEN_Q04`)
+## Problem 045  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_TEST_PERCEN_Q04`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Journalist Popatlal&rsquo;s income is 37.5% less than Dr. Iyyer&rsquo;s. Then Dr.Iyyer&rsquo;s income is how much % more than Popatlal&rsquo;s income ?
 
 ### Options
@@ -1417,12 +1867,22 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
-## Problem 046 (ID: `SEC02_TEST_PERCEN_Q05`)
+## Problem 046  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_TEST_PERCEN_Q05`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 If A&rsquo;s salary is 25% less than B&rsquo;s salary, then B&rsquo;s salary is what % more than A&rsquo;s salary?
 
 ### Options
@@ -1443,12 +1903,22 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
-## Problem 047 (ID: `SEC02_TEST_PERCEN_Q06`)
+## Problem 047  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_TEST_PERCEN_Q06`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 The value of a washing machine depreciates at the rate of 10% every year. If its present value is Rs. 8748, then what was the price of the washing machine three years ago?
 
 ### Options
@@ -1466,12 +1936,22 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
-## Problem 048 (ID: `SEC02_TEST_PERCEN_Q07`)
+## Problem 048  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_TEST_PERCEN_Q07`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Mr x spends 20% of his monthly income on household expenditure, out of the remaining. 25% he spends on children's education, 15% on transport, 15% on medicine and 10% on entertainment. He is left with Rs.9800 after incurring all these expenditures. what is his monthly income?
 
 ### Options
@@ -1489,12 +1969,22 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
-## Problem 049 (ID: `SEC02_TEST_PERCEN_Q08`)
+## Problem 049  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_TEST_PERCEN_Q08`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Difference between 54% of a number and 69% of the same number is 90. What is 60% of that number?
 
 ### Options
@@ -1512,12 +2002,22 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
-## Problem 050 (ID: `SEC02_TEST_PERCEN_Q09`)
+## Problem 050  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_TEST_PERCEN_Q09`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 The population of a village has a constant growth of 6.25% every year. .present population 4046.W hat was the population two yes ago ?
 
 ### Options
@@ -1535,12 +2035,22 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
-## Problem 051 (ID: `SEC02_TEST_PERCEN_Q10`)
+## Problem 051  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_TEST_PERCEN_Q10`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 In an election there were two candidates Ram Singh and Sohan Lal. The total no. of voters in the constituency was 80000 and 80% of the total votes were polled. If 60% of the polled votes were cast in favour of Ram Singh, how many votes were received by Sohan Lal?
 
 ### Options
@@ -1558,12 +2068,22 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
-## Problem 052 (ID: `SEC02_TEST_PERCEN_Q11`)
+## Problem 052  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC02_TEST_PERCEN_Q11`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 In a constituency, 55% of the total number of voters are males and the rest are females . If 40% of the males are illiterates and 40% of the females are literates then by what percent is the number of literate males more than that of illiterate females ?
 
 ### Options
@@ -1584,12 +2104,22 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
-## Problem 053 (ID: `SEC02_TEST_PERCEN_Q12`)
+## Problem 053  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC02_TEST_PERCEN_Q12`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 The salary of all officers is increased twice successively by 20%. What is the net percentage increase in their salaries?
 
 ### Options
@@ -1610,12 +2140,22 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
-## Problem 054 (ID: `SEC02_TEST_PERCEN_Q13`)
+## Problem 054  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC02_TEST_PERCEN_Q13`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 The price of an article rose by 25% every odd year and fell by 20% every even year , what would be the percentage change after 180 years ?
 
 ### Options
@@ -1636,12 +2176,22 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
-## Problem 055 (ID: `SEC02_TEST_PERCEN_Q14`)
+## Problem 055  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC02_TEST_PERCEN_Q14`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 Ratio between the expenditure and saving of a man is 5:4. If income is increased by 20% and saving is decreased by 10% then calculate % change in expenditure.
 
 ### Options
@@ -1662,12 +2212,22 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
-## Problem 056 (ID: `SEC02_TEST_PERCEN_Q15`)
+## Problem 056  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC02_TEST_PERCEN_Q15`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
 - **Topic Domain**: **Percentages**
 
-### Question Statement
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 The reduction in 10% in the price of mangoes in able Vicky to buy 25 kg mangoes more for rupees 22500 . Find the reduced price per/kg.
 
 ### Options
@@ -1688,12 +2248,22 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
-## Problem 057 (ID: `SEC02_TEST_PARTNE_Q01`)
+## Problem 057  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC02_TEST_PARTNE_Q01`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Partnership_QUESTIONS.json`
 - **Topic Domain**: **Ages, Partnership & Averages**
 
-### Question Statement
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 P starts business with Rs.4500 and after 9 months, Q joins with P as his partner. After a year, the profit divided in the 3 : 5. What is Q's contribution in the capital?
 
 ### Options
@@ -1714,12 +2284,22 @@ Correct Option: D Let Q's Capital be Rs. x. Then = 4500 &times;12 3x = 4500 &tim
 
 ---
 
-## Problem 058 (ID: `SEC02_TEST_PARTNE_Q02`)
+## Problem 058  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC02_TEST_PARTNE_Q02`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Partnership_QUESTIONS.json`
 - **Topic Domain**: **Ages, Partnership & Averages**
 
-### Question Statement
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 P and Q started a retail store with initial investments in the ratio 5 : 6 and their annual profits were in the ratio 2 : 3. If P invested the money for 8 months. For how many months did Q invest his money?
 
 ### Options
@@ -1740,12 +2320,22 @@ Correct Option: D Suppose P invested Rs. 5x for 8 months and Q invested 6x for y
 
 ---
 
-## Problem 059 (ID: `SEC02_TEST_PARTNE_Q03`)
+## Problem 059  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_TEST_PARTNE_Q03`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Partnership_QUESTIONS.json`
 - **Topic Domain**: **Ages, Partnership & Averages**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 P and Q enter into partnership. P invests some money at beginning, Q invests double the amount after 4 months and R invests thrice the amount after 8 months. If the annual profit be Rs.32000, R's share is?
 
 ### Options
@@ -1766,12 +2356,22 @@ Correct Option: E Let P's investment be Rs. x. then ratio of capitals = (x &time
 
 ---
 
-## Problem 060 (ID: `SEC02_TEST_PARTNE_Q04`)
+## Problem 060  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_TEST_PARTNE_Q04`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Partnership_QUESTIONS.json`
 - **Topic Domain**: **Ages, Partnership & Averages**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 P, Q, R hired Taxi for Rs. 680 and used it for 3, 5, 9 hours. respectively hire charges paid by Q are:
 
 ### Options
@@ -1792,12 +2392,22 @@ Correct Option: B P : Q : R = 3 : 5 : 9 Hire charges paid by Q = Rs [ 680 &times
 
 ---
 
-## Problem 061 (ID: `SEC02_TEST_PARTNE_Q05`)
+## Problem 061  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_TEST_PARTNE_Q05`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Partnership_QUESTIONS.json`
 - **Topic Domain**: **Ages, Partnership & Averages**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 P & Q entered in to partenership P investing Rs 8000 and Rs 6000 respectively. After 3 months P withdrew Rs 2000 while Q invested Rs 2000 more. After 3 more months, R joins the busines with 11000.Find the difference between Q and R share if profit at the end of year is 35100.
 
 ### Options
@@ -1818,12 +2428,22 @@ Correct Option: C P : Q : R = (8000 &times; 3 + 6000 &times; 9) : (6000 &times; 
 
 ---
 
-## Problem 062 (ID: `SEC02_TEST_PARTNE_Q06`)
+## Problem 062  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_TEST_PARTNE_Q06`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Partnership_QUESTIONS.json`
 - **Topic Domain**: **Ages, Partnership & Averages**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Vibhor started a retail business by investing Rs 50,000. After six months Keisham joined him with a capital of Rs 80,000. After 3 years. They earned a profit of Rs 24,500. What was the Vibhor's share in the profit?
 
 ### Options
@@ -1844,12 +2464,22 @@ Correct Option: C Vibhor : Keisham = (50000 &times; 36) : (80000 &times; 30) &rA
 
 ---
 
-## Problem 063 (ID: `SEC02_TEST_PARTNE_Q07`)
+## Problem 063  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_TEST_PARTNE_Q07`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Partnership_QUESTIONS.json`
 - **Topic Domain**: **Ages, Partnership & Averages**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Alpana started a business investing Rs. 45,000. After 3 months Priyanka joined her with a capital of Rs. 60,000. After another 6 months Kalpana joined them with a capital of Rs. 90,000. At the end of the year, they made a profit of Rs. 16,500. Find the share of Kalpana.
 
 ### Options
@@ -1870,12 +2500,22 @@ Correct Option: B Cleraly, Alpana invested her capital for 12 months, Priyanka f
 
 ---
 
-## Problem 064 (ID: `SEC02_TEST_PARTNE_Q08`)
+## Problem 064  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_TEST_PARTNE_Q08`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Partnership_QUESTIONS.json`
 - **Topic Domain**: **Ages, Partnership & Averages**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 P, Q and R started a online education website by investing Rs.1,20,000, Rs.1,35,000 and Rs.1,50,000 respectively. Find the share of Q's, out of an annual profit of Rs.56,700.
 
 ### Options
@@ -1896,12 +2536,22 @@ Correct Option: D Ratio of shares of P, Q and R = Ratio of their investments = 1
 
 ---
 
-## Problem 065 (ID: `SEC02_TEST_PARTNE_Q09`)
+## Problem 065  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_TEST_PARTNE_Q09`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Partnership_QUESTIONS.json`
 - **Topic Domain**: **Ages, Partnership & Averages**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 P, Q and R start a business each investing Rs. 20,000 , after 6 months P withdrew Rs.5000, Q withdrew Rs.4000 and R invests Rs.6000 more. At the end of the year, a total profit of Rs.39,780 was recorded. Find the share of P.
 
 ### Options
@@ -1922,12 +2572,22 @@ Correct Option: A Ratio of the capitals of P, Q and R = 20000 &times; 6 + 15000 
 
 ---
 
-## Problem 066 (ID: `SEC02_TEST_PARTNE_Q10`)
+## Problem 066  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_TEST_PARTNE_Q10`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Partnership_QUESTIONS.json`
 - **Topic Domain**: **Ages, Partnership & Averages**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Amit and Aarnav invest Rs. 30,000 and Rs. 20,000 respectively for a business at the start of a year. In each of the next six months after the first month Amit keeps on adding Rs. 1000 while Aarnav keeps on removing Rs. 1000. In the remaining months Amit keeps on removing Rs. 1000 while Aarnav keeps on adding Rs. 1000 every month. Akhil joined them with Rs. 55,000 three months after the start and continued till the end of the year. What will be the difference in the shares of Akhil and Amit after a year if the total profit at the end of the year is Rs. 219000?
 
 ### Options
@@ -1948,12 +2608,22 @@ Correct Option: B Amit&rsquo;s investment: 1000 [30 + (31 + 32 + 33 + 34 + 35 + 
 
 ---
 
-## Problem 067 (ID: `SEC02_TEST_PARTNE_Q11`)
+## Problem 067  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_TEST_PARTNE_Q11`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Partnership_QUESTIONS.json`
 - **Topic Domain**: **Ages, Partnership & Averages**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Two friends A and B invest in a business in partnership. B borrows 20% of A’s salary, combines it with 60% of his salary and invests with A, who puts all of his remaining salary. One year later the ratio of profit of A and B is 5 : 3 respectively and B returns Rs. 21000 to A which he borrowed from him. What is the difference between salary of A and B?
 
 ### Options
@@ -1974,12 +2644,22 @@ Correct Option: B Let salary of A = Rs. 10a and salary of B = Rs. 10b Investment
 
 ---
 
-## Problem 068 (ID: `SEC02_TEST_PARTNE_Q12`)
+## Problem 068  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_TEST_PARTNE_Q12`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Partnership_QUESTIONS.json`
 - **Topic Domain**: **Ages, Partnership & Averages**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Sudhir and Tushar invested Rs. x and Rs. 3x respectively in a business. The time periods of Sudhir and Tushar is in the ratio 2:3. If the profit share of Tushar is Rs. 270000, then find the total profit if they continue the business for 3 more years?
 
 ### Options
@@ -2000,12 +2680,22 @@ Correct Option: C Sudhir Tushar Capital x 3x Time period 2 3 Profit share 2x 9x 
 
 ---
 
-## Problem 069 (ID: `SEC02_TEST_PARTNE_Q13`)
+## Problem 069  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_TEST_PARTNE_Q13`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Partnership_QUESTIONS.json`
 - **Topic Domain**: **Ages, Partnership & Averages**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 A, B and C has Rs 40000, Rs 60000 and Rs 42000 with them. B invests half of his money in partnership with A and the remaining amount in partnership with C. 6 months later B withdraws half the amount invested with A and puts that in the partnership with C. Two years later the profit received by A and C are Rs 6400 and Rs 6720, what is the total profit received by B?
 
 ### Options
@@ -2026,12 +2716,22 @@ Correct Option: B A- 40000, B - 60000 and C- 42000 B invests 30000 with A and 6 
 
 ---
 
-## Problem 070 (ID: `SEC02_TEST_PARTNE_Q14`)
+## Problem 070  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_TEST_PARTNE_Q14`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Partnership_QUESTIONS.json`
 - **Topic Domain**: **Ages, Partnership & Averages**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 R, Q and P start a business together with initial investment of Rs. 20000, Rs. 30000 and Rs. 25000 respectively. After 8 months, R and Q take out Rs. 10000 each from the investment. Total profit earned at the end of the year is Rs. 16400. Find out P’s share of profit.
 
 ### Options
@@ -2052,12 +2752,22 @@ Correct Option: D Ratio of profit earned = Ratio of investment made. Investment 
 
 ---
 
-## Problem 071 (ID: `SEC02_TEST_PARTNE_Q15`)
+## Problem 071  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_TEST_PARTNE_Q15`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Partnership_QUESTIONS.json`
 - **Topic Domain**: **Ages, Partnership & Averages**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 A and B start a business. A invests Rs ‘X’ and B invests Rs 45000. 9 months later A withdraws half the amount. The profit received by A at the end of 1 year is 22.22% less than that of B. What is the value of ‘X’?
 
 ### Options
@@ -2078,12 +2788,22 @@ Correct Option: A A invests Rs &lsquo;X&rsquo; and B invests Rs 45000. 9 months 
 
 ---
 
-## Problem 072 (ID: `SEC02_QUANT_PCT_Q01`)
+## Problem 072  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_QUANT_PCT_Q01`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `One Shot Percentage Live Class Sheet.pdf`
 - **Topic Domain**: **Percentages: Successive Changes**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 If the price of sugar increases by 20%, by what percent must a household decrease its consumption so as not to increase the expenditure on sugar?
 
 ### Options
@@ -2107,12 +2827,22 @@ Therefore, consumption must be reduced by 16.67%.
 
 ---
 
-## Problem 073 (ID: `SEC02_QUANT_AGE_Q01`)
+## Problem 073  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_QUANT_AGE_Q01`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Problem on Ages.pdf`
 - **Topic Domain**: **Ages, Partnership & Averages: Age Ratio Shift**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 The ratio of present ages of A and B is 4 : 5. After 5 years, the ratio of their ages will become 5 : 6. Find the present age of A.
 
 ### Options

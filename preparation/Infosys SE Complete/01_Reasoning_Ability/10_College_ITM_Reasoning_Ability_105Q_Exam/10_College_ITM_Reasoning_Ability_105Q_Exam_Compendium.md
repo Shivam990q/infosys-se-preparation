@@ -8,7 +8,12 @@
 
 ---
 
-### Question ITM-P01-Q01 (Infosys System Engineer ITM Mock Paper 1 - Q01)
+### Question ITM-P01-Q01  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q01)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_01_page_01.png](images/paper_01_page_01.png)
 
@@ -89,7 +94,12 @@ Statement I: All engineers are coders, Some coders are testers, No tester is a m
 
 ---
 
-### Question ITM-P01-Q02 (Infosys System Engineer ITM Mock Paper 1 - Q02)
+### Question ITM-P01-Q02  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q02)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_01_page_01.png](images/paper_01_page_01.png)
 
@@ -184,7 +194,12 @@ Therefore, I, II and III only follow.
 
 ---
 
-### Question ITM-P01-Q03 (Infosys System Engineer ITM Mock Paper 1 - Q03)
+### Question ITM-P01-Q03  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q03)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_01_page_01.png](images/paper_01_page_01.png)
 
@@ -209,7 +224,12 @@ Question: Is x > y for integers x and y?
 
 ---
 
-### Question ITM-P01-Q04 (Infosys System Engineer ITM Mock Paper 1 - Q04)
+### Question ITM-P01-Q04  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q04)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_01_page_01.png](images/paper_01_page_01.png)
 
@@ -235,7 +255,12 @@ Question: What is Riya's present age?
 
 ---
 
-### Question ITM-P01-Q05 (Infosys System Engineer ITM Mock Paper 1 - Q05)
+### Question ITM-P01-Q05  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q05)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_01_page_01.png](images/paper_01_page_01.png)
 
@@ -263,7 +288,12 @@ Result: TTOCBX.
 
 ---
 
-### Question ITM-P01-Q06 (Infosys System Engineer ITM Mock Paper 1 - Q06)
+### Question ITM-P01-Q06  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q06)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_01_page_01.png](images/paper_01_page_01.png)
 
@@ -291,7 +321,12 @@ Target: 'rises bird light' = 'mo ra du'.
 
 ---
 
-### Question ITM-P01-Q07 (Infosys System Engineer ITM Mock Paper 1 - Q07)
+### Question ITM-P01-Q07  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q07)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_01_page_01.png](images/paper_01_page_01.png)
 
@@ -418,7 +453,12 @@ Number = 12 × (n - 2) = 12 × (4 - 2) = 12 × 2 = 24.
 
 ---
 
-### Question ITM-P01-Q08 (Infosys System Engineer ITM Mock Paper 1 - Q08)
+### Question ITM-P01-Q08  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q08)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_01_page_02.png](images/paper_01_page_02.png)
 
@@ -493,7 +533,12 @@ Total = 6 + 3 + 6 + 1 = 16 triangles.
 
 ---
 
-### Question ITM-P01-Q09 (Infosys System Engineer ITM Mock Paper 1 - Q09)
+### Question ITM-P01-Q09  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q09)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_01_page_02.png](images/paper_01_page_02.png)
 
@@ -565,7 +610,12 @@ Thus, Meera is the man's Mother.
 
 ---
 
-### Question ITM-P01-Q10 (Infosys System Engineer ITM Mock Paper 1 - Q10)
+### Question ITM-P01-Q10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q10)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_01_page_02.png](images/paper_01_page_02.png)
 
@@ -589,7 +639,12 @@ Combining them: P - Q + R means P is the brother of Q (who is the mother of R), 
 
 ---
 
-### Question ITM-P01-Q11 (Infosys System Engineer ITM Mock Paper 1 - Q11)
+### Question ITM-P01-Q11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q11)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_01_page_02.png](images/paper_01_page_02.png)
 
@@ -684,7 +739,12 @@ Final position is (9, 0), which is exactly 9 m East of the starting point.
 
 ---
 
-### Question ITM-P01-Q12 (Infosys System Engineer ITM Mock Paper 1 - Q12)
+### Question ITM-P01-Q12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q12)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_01_page_02.png](images/paper_01_page_02.png)
 
@@ -781,7 +841,12 @@ Final direction is South.
 
 ---
 
-### Question ITM-P01-Q13 (Infosys System Engineer ITM Mock Paper 1 - Q13)
+### Question ITM-P01-Q13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q13)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_01_page_02.png](images/paper_01_page_02.png)
 
@@ -807,7 +872,12 @@ Pattern: ×2 + k where k increments by 1 at each step:
 
 ---
 
-### Question ITM-P01-Q14 (Infosys System Engineer ITM Mock Paper 1 - Q14)
+### Question ITM-P01-Q14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q14)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_01_page_02.png](images/paper_01_page_02.png)
 
@@ -836,7 +906,12 @@ Next term = 17² = 289.
 
 ---
 
-### Question ITM-P01-Q15 (Infosys System Engineer ITM Mock Paper 1 - Q15)
+### Question ITM-P01-Q15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q15)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_01_page_02.png](images/paper_01_page_02.png)
 
@@ -863,7 +938,12 @@ In circular alphabet (mod 26): 27 ≡ 1 = A.
 
 ---
 
-### Question ITM-P02-Q01 (Infosys System Engineer ITM Mock Paper 2 - Q01)
+### Question ITM-P02-Q01  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q01)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_02_page_01.png](images/paper_02_page_01.png)
 
@@ -885,7 +965,12 @@ Nothing links servers specifically to laptops or to portability, so II and III d
 
 ---
 
-### Question ITM-P02-Q02 (Infosys System Engineer ITM Mock Paper 2 - Q02)
+### Question ITM-P02-Q02  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q02)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_02_page_01.png](images/paper_02_page_01.png)
 
@@ -966,7 +1051,12 @@ square is a triangle, it's also true that some squares are not triangles (III).
 
 ---
 
-### Question ITM-P02-Q03 (Infosys System Engineer ITM Mock Paper 2 - Q03)
+### Question ITM-P02-Q03  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q03)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_02_page_01.png](images/paper_02_page_01.png)
 
@@ -989,7 +1079,12 @@ divisible by both 4 and 9 is divisible by their LCM, 36, which is always divisib
 
 ---
 
-### Question ITM-P02-Q04 (Infosys System Engineer ITM Mock Paper 2 - Q04)
+### Question ITM-P02-Q04  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q04)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_02_page_01.png](images/paper_02_page_01.png)
 
@@ -1012,7 +1107,12 @@ value.
 
 ---
 
-### Question ITM-P02-Q05 (Infosys System Engineer ITM Mock Paper 2 - Q05)
+### Question ITM-P02-Q05  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q05)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_02_page_01.png](images/paper_02_page_01.png)
 
@@ -1033,7 +1133,12 @@ Applying the same +3 shift: G→J, A→D, R→U, D→G, E→H, N→Q, giving JDU
 
 ---
 
-### Question ITM-P02-Q06 (Infosys System Engineer ITM Mock Paper 2 - Q06)
+### Question ITM-P02-Q06  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q06)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_02_page_01.png](images/paper_02_page_01.png)
 
@@ -1056,7 +1161,12 @@ zu.
 
 ---
 
-### Question ITM-P02-Q07 (Infosys System Engineer ITM Mock Paper 2 - Q07)
+### Question ITM-P02-Q07  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q07)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_02_page_01.png](images/paper_02_page_01.png)
 
@@ -1118,7 +1228,12 @@ In a 3×3×3 cube, only the centre cube of each face touches just one painted fa
 
 ---
 
-### Question ITM-P02-Q08 (Infosys System Engineer ITM Mock Paper 2 - Q08)
+### Question ITM-P02-Q08  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q08)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_02_page_01.png](images/paper_02_page_01.png)
 
@@ -1140,7 +1255,12 @@ Rectangles = C(4,2) × C(4,2) = 6 × 6 = 36.
 
 ---
 
-### Question ITM-P02-Q09 (Infosys System Engineer ITM Mock Paper 2 - Q09)
+### Question ITM-P02-Q09  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q09)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_02_page_02.png](images/paper_02_page_02.png)
 
@@ -1213,7 +1333,12 @@ The grandfather's only son is the man's father. The daughter of the man's father
 
 ---
 
-### Question ITM-P02-Q10 (Infosys System Engineer ITM Mock Paper 2 - Q10)
+### Question ITM-P02-Q10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q10)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_02_page_02.png](images/paper_02_page_02.png)
 
@@ -1235,7 +1360,12 @@ granddaughter.
 
 ---
 
-### Question ITM-P02-Q11 (Infosys System Engineer ITM Mock Paper 2 - Q11)
+### Question ITM-P02-Q11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q11)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_02_page_02.png](images/paper_02_page_02.png)
 
@@ -1321,7 +1451,12 @@ north, walk 8 → (5,0); right turn faces east, walk 3 → (8,0). Net displaceme
 
 ---
 
-### Question ITM-P02-Q12 (Infosys System Engineer ITM Mock Paper 2 - Q12)
+### Question ITM-P02-Q12  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q12)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_02_page_02.png](images/paper_02_page_02.png)
 
@@ -1343,7 +1478,12 @@ Using bearings (clockwise from North): South = 180°. −45° (anticlockwise) = 
 
 ---
 
-### Question ITM-P02-Q13 (Infosys System Engineer ITM Mock Paper 2 - Q13)
+### Question ITM-P02-Q13  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q13)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_02_page_02.png](images/paper_02_page_02.png)
 
@@ -1363,7 +1503,12 @@ Differences are 4, 9, 16, 25 (perfect squares), so the next difference is 36: 56
 
 ---
 
-### Question ITM-P02-Q14 (Infosys System Engineer ITM Mock Paper 2 - Q14)
+### Question ITM-P02-Q14  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q14)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_02_page_02.png](images/paper_02_page_02.png)
 
@@ -1383,7 +1528,12 @@ Each term = previous × 2 + 1: 95 × 2 + 1 = 191.
 
 ---
 
-### Question ITM-P02-Q15 (Infosys System Engineer ITM Mock Paper 2 - Q15)
+### Question ITM-P02-Q15  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q15)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_02_page_02.png](images/paper_02_page_02.png)
 
@@ -1404,7 +1554,12 @@ next is U. Answer: OU.
 
 ---
 
-### Question ITM-P03-Q01 (Infosys System Engineer ITM Mock Paper 3 - Q01)
+### Question ITM-P03-Q01  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q01)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_03_page_01.png](images/paper_03_page_01.png)
 
@@ -1427,7 +1582,12 @@ how P or Q specifically relates to the R-elements that happen to be S.
 
 ---
 
-### Question ITM-P03-Q02 (Infosys System Engineer ITM Mock Paper 3 - Q02)
+### Question ITM-P03-Q02  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q02)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_03_page_01.png](images/paper_03_page_01.png)
 
@@ -1449,7 +1609,12 @@ since no metal is wood, those wood-furniture items are not metal — II follows.
 
 ---
 
-### Question ITM-P03-Q03 (Infosys System Engineer ITM Mock Paper 3 - Q03)
+### Question ITM-P03-Q03  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q03)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_03_page_01.png](images/paper_03_page_01.png)
 
@@ -1474,7 +1639,12 @@ Together: tens − units = 3 and tens + units = 9 gives tens = 6, units = 3, so 
 
 ---
 
-### Question ITM-P03-Q04 (Infosys System Engineer ITM Mock Paper 3 - Q04)
+### Question ITM-P03-Q04  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q04)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_03_page_01.png](images/paper_03_page_01.png)
 
@@ -1499,7 +1669,12 @@ itself is even (an odd number squared is always odd) — sufficient. Each statem
 
 ---
 
-### Question ITM-P03-Q05 (Infosys System Engineer ITM Mock Paper 3 - Q05)
+### Question ITM-P03-Q05  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q05)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_03_page_01.png](images/paper_03_page_01.png)
 
@@ -1521,7 +1696,12 @@ confirms M=7,E=8,A=1,T=2. So GATE = G(6)A(1)T(2)E(8) = 6128.
 
 ---
 
-### Question ITM-P03-Q06 (Infosys System Engineer ITM Mock Paper 3 - Q06)
+### Question ITM-P03-Q06  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q06)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_03_page_02.png](images/paper_03_page_02.png)
 
@@ -1545,7 +1725,12 @@ zu.
 
 ---
 
-### Question ITM-P03-Q07 (Infosys System Engineer ITM Mock Paper 3 - Q07)
+### Question ITM-P03-Q07  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q07)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_03_page_02.png](images/paper_03_page_02.png)
 
@@ -1603,7 +1788,12 @@ a=5,b=4,c=3: 4[3+2+1] = 4×6 = 24.
 
 ---
 
-### Question ITM-P03-Q08 (Infosys System Engineer ITM Mock Paper 3 - Q08)
+### Question ITM-P03-Q08  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q08)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_03_page_02.png](images/paper_03_page_02.png)
 
@@ -1625,7 +1815,12 @@ figure.
 
 ---
 
-### Question ITM-P03-Q09 (Infosys System Engineer ITM Mock Paper 3 - Q09)
+### Question ITM-P03-Q09  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q09)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_03_page_02.png](images/paper_03_page_02.png)
 
@@ -1648,7 +1843,12 @@ the man's wife.
 
 ---
 
-### Question ITM-P03-Q10 (Infosys System Engineer ITM Mock Paper 3 - Q10)
+### Question ITM-P03-Q10  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q10)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_03_page_02.png](images/paper_03_page_02.png)
 
@@ -1670,7 +1870,12 @@ grandmother.
 
 ---
 
-### Question ITM-P03-Q11 (Infosys System Engineer ITM Mock Paper 3 - Q11)
+### Question ITM-P03-Q11  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q11)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_03_page_02.png](images/paper_03_page_02.png)
 
@@ -1744,7 +1949,12 @@ Net North-South displacement = 12−8 = 4 m North; net East-West = 9−6 = 3 m E
 
 ---
 
-### Question ITM-P03-Q12 (Infosys System Engineer ITM Mock Paper 3 - Q12)
+### Question ITM-P03-Q12  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q12)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_03_page_02.png](images/paper_03_page_02.png)
 
@@ -1766,7 +1976,12 @@ Using bearings (clockwise from North, East=90°): 90°+135°=225°(SW); 225°−
 
 ---
 
-### Question ITM-P03-Q13 (Infosys System Engineer ITM Mock Paper 3 - Q13)
+### Question ITM-P03-Q13  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q13)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_03_page_02.png](images/paper_03_page_02.png)
 
@@ -1786,7 +2001,12 @@ Each term is n³−1 for n=2,3,4,5,6: 7,26,63,124,215; next (n=7): 343−1 = 342
 
 ---
 
-### Question ITM-P03-Q14 (Infosys System Engineer ITM Mock Paper 3 - Q14)
+### Question ITM-P03-Q14  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q14)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_03_page_02.png](images/paper_03_page_02.png)
 
@@ -1806,7 +2026,12 @@ Differences are 1,4,9,16 (perfect squares); next difference is 25: 34+25 = 59.
 
 ---
 
-### Question ITM-P03-Q15 (Infosys System Engineer ITM Mock Paper 3 - Q15)
+### Question ITM-P03-Q15  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q15)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_03_page_02.png](images/paper_03_page_02.png)
 
@@ -1827,7 +2052,12 @@ P(16)+6 = 22 = V.
 
 ---
 
-### Question ITM-P04-Q01 (Infosys System Engineer ITM Mock Paper 4 - Q01)
+### Question ITM-P04-Q01  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q01)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_04_page_01.png](images/paper_04_page_01.png)
 
@@ -1853,7 +2083,12 @@ sharpeners" can be individually proven — exactly the condition for the standar
 
 ---
 
-### Question ITM-P04-Q02 (Infosys System Engineer ITM Mock Paper 4 - Q02)
+### Question ITM-P04-Q02  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q02)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_04_page_01.png](images/paper_04_page_01.png)
 
@@ -1878,7 +2113,12 @@ we cannot say all those allowed entry are trained (II fails, as non-officer memb
 
 ---
 
-### Question ITM-P04-Q03 (Infosys System Engineer ITM Mock Paper 4 - Q03)
+### Question ITM-P04-Q03  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q03)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_04_page_01.png](images/paper_04_page_01.png)
 
@@ -1901,7 +2141,12 @@ alone is insufficient. Together: only x=3 satisfies both x>2 and the equation �
 
 ---
 
-### Question ITM-P04-Q04 (Infosys System Engineer ITM Mock Paper 4 - Q04)
+### Question ITM-P04-Q04  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q04)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_04_page_01.png](images/paper_04_page_01.png)
 
@@ -1925,7 +2170,12 @@ insufficient.
 
 ---
 
-### Question ITM-P04-Q05 (Infosys System Engineer ITM Mock Paper 4 - Q05)
+### Question ITM-P04-Q05  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q05)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_04_page_02.png](images/paper_04_page_02.png)
 
@@ -1946,7 +2196,12 @@ D→4→2(4)−1=7. O→15→2(15)−1=29. G→7→2(7)−1=13. Code: 7-29-13.
 
 ---
 
-### Question ITM-P04-Q06 (Infosys System Engineer ITM Mock Paper 4 - Q06)
+### Question ITM-P04-Q06  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q06)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_04_page_02.png](images/paper_04_page_02.png)
 
@@ -1970,7 +2225,12 @@ epsilon=vw, eta=yz, alpha=zx, theta=op. So "theta beta zeta" = op qr tu.
 
 ---
 
-### Question ITM-P04-Q07 (Infosys System Engineer ITM Mock Paper 4 - Q07)
+### Question ITM-P04-Q07  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q07)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_04_page_02.png](images/paper_04_page_02.png)
 
@@ -2028,7 +2288,12 @@ For n=6: edges=12×4=48, corners=8, so at least 2 = 48+8 = 56.
 
 ---
 
-### Question ITM-P04-Q08 (Infosys System Engineer ITM Mock Paper 4 - Q08)
+### Question ITM-P04-Q08  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q08)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_04_page_02.png](images/paper_04_page_02.png)
 
@@ -2049,7 +2314,12 @@ Squares of size k in an n×n grid = (n−k+1)². For n=4: k=1→16, k=2→9, k=3
 
 ---
 
-### Question ITM-P04-Q09 (Infosys System Engineer ITM Mock Paper 4 - Q09)
+### Question ITM-P04-Q09  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q09)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_04_page_02.png](images/paper_04_page_02.png)
 
@@ -2071,7 +2341,12 @@ are Q's parents — meaning P is S's husband. Since T is defined as S's husband,
 
 ---
 
-### Question ITM-P04-Q10 (Infosys System Engineer ITM Mock Paper 4 - Q10)
+### Question ITM-P04-Q10  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q10)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_04_page_02.png](images/paper_04_page_02.png)
 
@@ -2093,7 +2368,12 @@ maternal grandfather.
 
 ---
 
-### Question ITM-P04-Q11 (Infosys System Engineer ITM Mock Paper 4 - Q11)
+### Question ITM-P04-Q11  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q11)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_04_page_02.png](images/paper_04_page_02.png)
 
@@ -2167,7 +2447,12 @@ Net East-West = 14−5 = 9 m East; net North-South = 20−8 = 12 m North. Distan
 
 ---
 
-### Question ITM-P04-Q12 (Infosys System Engineer ITM Mock Paper 4 - Q12)
+### Question ITM-P04-Q12  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q12)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_04_page_02.png](images/paper_04_page_02.png)
 
@@ -2190,7 +2475,12 @@ East = 10 sin150° = 5, North = 10 cos150° = −5√3. Totals: East = 5+5 = 10,
 
 ---
 
-### Question ITM-P04-Q13 (Infosys System Engineer ITM Mock Paper 4 - Q13)
+### Question ITM-P04-Q13  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q13)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_04_page_02.png](images/paper_04_page_02.png)
 
@@ -2210,7 +2500,12 @@ Differences are 3, 7, 15, 31 — each is 2ⁿ−1 (n=2,3,4,5); next difference i
 
 ---
 
-### Question ITM-P04-Q14 (Infosys System Engineer ITM Mock Paper 4 - Q14)
+### Question ITM-P04-Q14  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q14)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_04_page_02.png](images/paper_04_page_02.png)
 
@@ -2230,7 +2525,12 @@ Each term follows a(n) = 2×a(n−1) + a(n−2): 2×17+7=41 ✓; next = 2×41+17
 
 ---
 
-### Question ITM-P04-Q15 (Infosys System Engineer ITM Mock Paper 4 - Q15)
+### Question ITM-P04-Q15  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q15)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_04_page_02.png](images/paper_04_page_02.png)
 
@@ -2250,7 +2550,12 @@ Gaps between letters increase by 1 each time: −3, −4, −5, next −6. M(13)
 
 ---
 
-### Question ITM-P05-Q01 (Infosys System Engineer ITM Mock Paper 5 - Q01)
+### Question ITM-P05-Q01  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q01)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_05_page_01.png](images/paper_05_page_01.png)
 
@@ -2274,7 +2579,12 @@ follows (II). III is not guaranteed, since nothing links toys specifically to cr
 
 ---
 
-### Question ITM-P05-Q02 (Infosys System Engineer ITM Mock Paper 5 - Q02)
+### Question ITM-P05-Q02  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q02)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_05_page_01.png](images/paper_05_page_01.png)
 
@@ -2299,7 +2609,12 @@ young people are lazy" (III). All three follow.
 
 ---
 
-### Question ITM-P05-Q03 (Infosys System Engineer ITM Mock Paper 5 - Q03)
+### Question ITM-P05-Q03  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q03)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_05_page_01.png](images/paper_05_page_01.png)
 
@@ -2323,7 +2638,12 @@ leaves remainder 3 (valid since 3<7) — sufficient together.
 
 ---
 
-### Question ITM-P05-Q04 (Infosys System Engineer ITM Mock Paper 5 - Q04)
+### Question ITM-P05-Q04  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q04)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_05_page_01.png](images/paper_05_page_01.png)
 
@@ -2347,7 +2667,12 @@ together they take 8 days — sufficient together.
 
 ---
 
-### Question ITM-P05-Q05 (Infosys System Engineer ITM Mock Paper 5 - Q05)
+### Question ITM-P05-Q05  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q05)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_05_page_02.png](images/paper_05_page_02.png)
 
@@ -2369,7 +2694,12 @@ S(odd,+2)=U. E(even,+1)=F. R(odd,+2)=T. V(even,+1)=W. E(odd,+2)=G. R(even,+1)=S.
 
 ---
 
-### Question ITM-P05-Q06 (Infosys System Engineer ITM Mock Paper 5 - Q06)
+### Question ITM-P05-Q06  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q06)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_05_page_02.png](images/paper_05_page_02.png)
 
@@ -2392,7 +2722,12 @@ retransmission=lp, increases=wv, latency=ou, affects=nk. So "increases affects p
 
 ---
 
-### Question ITM-P05-Q07 (Infosys System Engineer ITM Mock Paper 5 - Q07)
+### Question ITM-P05-Q07  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q07)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_05_page_02.png](images/paper_05_page_02.png)
 
@@ -2418,7 +2753,12 @@ and both breadth pieces qualify: 1×2×2 = 4.
 
 ---
 
-### Question ITM-P05-Q08 (Infosys System Engineer ITM Mock Paper 5 - Q08)
+### Question ITM-P05-Q08  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q08)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_05_page_02.png](images/paper_05_page_02.png)
 
@@ -2439,7 +2779,12 @@ C(5,2)×C(5,2) = 10×10 = 100.
 
 ---
 
-### Question ITM-P05-Q09 (Infosys System Engineer ITM Mock Paper 5 - Q09)
+### Question ITM-P05-Q09  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q09)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_05_page_02.png](images/paper_05_page_02.png)
 
@@ -2461,7 +2806,12 @@ are siblings, U and V are cousins.
 
 ---
 
-### Question ITM-P05-Q10 (Infosys System Engineer ITM Mock Paper 5 - Q10)
+### Question ITM-P05-Q10  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q10)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_05_page_02.png](images/paper_05_page_02.png)
 
@@ -2482,7 +2832,12 @@ M+Q: M is father of Q. Q÷N: Q is wife of N. So M is father of N's wife — M is
 
 ---
 
-### Question ITM-P05-Q11 (Infosys System Engineer ITM Mock Paper 5 - Q11)
+### Question ITM-P05-Q11  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q11)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_05_page_02.png](images/paper_05_page_02.png)
 
@@ -2553,7 +2908,12 @@ direction.
 
 ---
 
-### Question ITM-P05-Q12 (Infosys System Engineer ITM Mock Paper 5 - Q12)
+### Question ITM-P05-Q12  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q12)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_05_page_02.png](images/paper_05_page_02.png)
 
@@ -2575,7 +2935,12 @@ Total clockwise rotation needed = 310°−40° = 270°. Split equally over 2 tur
 
 ---
 
-### Question ITM-P05-Q13 (Infosys System Engineer ITM Mock Paper 5 - Q13)
+### Question ITM-P05-Q13  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q13)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_05_page_02.png](images/paper_05_page_02.png)
 
@@ -2595,7 +2960,12 @@ Each term follows a(n) = 3×a(n−1) − 1: 122×3−1=365 ✓; next = 365×3−
 
 ---
 
-### Question ITM-P05-Q14 (Infosys System Engineer ITM Mock Paper 5 - Q14)
+### Question ITM-P05-Q14  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q14)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_05_page_02.png](images/paper_05_page_02.png)
 
@@ -2616,7 +2986,12 @@ This series interleaves two sequences: odd positions (4,7,10,13,...) increase by
 
 ---
 
-### Question ITM-P05-Q15 (Infosys System Engineer ITM Mock Paper 5 - Q15)
+### Question ITM-P05-Q15  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q15)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_05_page_02.png](images/paper_05_page_02.png)
 
@@ -2637,7 +3012,12 @@ to H.
 
 ---
 
-### Question ITM-P06-Q01 (Infosys System Engineer ITM Mock Paper 6 - Q01)
+### Question ITM-P06-Q01  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q01)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_06_page_01.png](images/paper_06_page_01.png)
 
@@ -2663,7 +3043,12 @@ unstable; nothing says any bug is stable.
 
 ---
 
-### Question ITM-P06-Q02 (Infosys System Engineer ITM Mock Paper 6 - Q02)
+### Question ITM-P06-Q02  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q02)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_06_page_01.png](images/paper_06_page_01.png)
 
@@ -2686,7 +3071,12 @@ a−b=4>0) but gives a negative product. Even together they are not sufficient.
 
 ---
 
-### Question ITM-P06-Q03 (Infosys System Engineer ITM Mock Paper 6 - Q03)
+### Question ITM-P06-Q03  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q03)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_06_page_01.png](images/paper_06_page_01.png)
 
@@ -2709,7 +3099,12 @@ perfect square — sufficient. II: n=18 is divisible by 9 but is not a perfect s
 
 ---
 
-### Question ITM-P06-Q04 (Infosys System Engineer ITM Mock Paper 6 - Q04)
+### Question ITM-P06-Q04  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q04)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_06_page_01.png](images/paper_06_page_01.png)
 
@@ -2730,7 +3125,12 @@ L+1=M, O+2=Q, G+3=J, I+4=M, C+5=H, giving MQJMH (verified: the same rule turns C
 
 ---
 
-### Question ITM-P06-Q05 (Infosys System Engineer ITM Mock Paper 6 - Q05)
+### Question ITM-P06-Q05  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q05)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_06_page_01.png](images/paper_06_page_01.png)
 
@@ -2752,7 +3152,12 @@ DIGIT: positions 4+9+7+9+20 = 49; 49×5 = 245; vowels (I, I) = 2; 245−2 = 243 
 
 ---
 
-### Question ITM-P06-Q06 (Infosys System Engineer ITM Mock Paper 6 - Q06)
+### Question ITM-P06-Q06  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q06)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_06_page_02.png](images/paper_06_page_02.png)
 
@@ -2805,7 +3210,12 @@ at most 1 painted face?
 
 ---
 
-### Question ITM-P06-Q07 (Infosys System Engineer ITM Mock Paper 6 - Q07)
+### Question ITM-P06-Q07  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q07)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_06_page_02.png](images/paper_06_page_02.png)
 
@@ -2826,7 +3236,12 @@ Total rectangles = C(5,2)×C(6,2) = 10×15 = 150. Squares = 20+12+6+2 = 40. Non-
 
 ---
 
-### Question ITM-P06-Q08 (Infosys System Engineer ITM Mock Paper 6 - Q08)
+### Question ITM-P06-Q08  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q08)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_06_page_02.png](images/paper_06_page_02.png)
 
@@ -2848,7 +3263,12 @@ wife's maternal uncle — an uncle-in-law.
 
 ---
 
-### Question ITM-P06-Q09 (Infosys System Engineer ITM Mock Paper 6 - Q09)
+### Question ITM-P06-Q09  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q09)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_06_page_02.png](images/paper_06_page_02.png)
 
@@ -2922,7 +3342,12 @@ Taking East and North as axes, A is at (0,20), B at (0,0), C at (15,0). The vect
 
 ---
 
-### Question ITM-P06-Q10 (Infosys System Engineer ITM Mock Paper 6 - Q10)
+### Question ITM-P06-Q10  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q10)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_06_page_02.png](images/paper_06_page_02.png)
 
@@ -2944,7 +3369,12 @@ front is A.
 
 ---
 
-### Question ITM-P06-Q11 (Infosys System Engineer ITM Mock Paper 6 - Q11)
+### Question ITM-P06-Q11  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q11)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_06_page_02.png](images/paper_06_page_02.png)
 
@@ -2964,7 +3394,12 @@ Differences are 2, 6, 18, 54 (each ×3); the next difference is 162. 83+162 = 24
 
 ---
 
-### Question ITM-P06-Q12 (Infosys System Engineer ITM Mock Paper 6 - Q12)
+### Question ITM-P06-Q12  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q12)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_06_page_02.png](images/paper_06_page_02.png)
 
@@ -2985,7 +3420,12 @@ Odd positions are cubes (1³, 3³, 5³) and even positions are squares (2², 4²
 
 ---
 
-### Question ITM-P06-Q13 (Infosys System Engineer ITM Mock Paper 6 - Q13)
+### Question ITM-P06-Q13  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q13)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_06_page_02.png](images/paper_06_page_02.png)
 
@@ -3006,7 +3446,12 @@ letters after the previous one. The next group is S, U, X = SUX.
 
 ---
 
-### Question ITM-P06-Q14 (Infosys System Engineer ITM Mock Paper 6 - Q14)
+### Question ITM-P06-Q14  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q14)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_06_page_02.png](images/paper_06_page_02.png)
 
@@ -3028,7 +3473,12 @@ Each fold doubles the layers: 2³ = 8 layers, so one punch makes 8 holes.
 
 ---
 
-### Question ITM-P06-Q15 (Infosys System Engineer ITM Mock Paper 6 - Q15)
+### Question ITM-P06-Q15  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q15)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_06_page_02.png](images/paper_06_page_02.png)
 
@@ -3051,7 +3501,12 @@ daughter of R, and R is the sibling of Q's father, so P and Q are cousins.
 
 ---
 
-### Question ITM-P07-Q01 (Infosys System Engineer ITM Mock Paper 7 - Q01)
+### Question ITM-P07-Q01  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q01)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_07_page_01.png](images/paper_07_page_01.png)
 
@@ -3077,7 +3532,12 @@ routers (not the offline ones) might be clients.
 
 ---
 
-### Question ITM-P07-Q02 (Infosys System Engineer ITM Mock Paper 7 - Q02)
+### Question ITM-P07-Q02  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q02)
 **Section:** Section 1: Reasoning Ability | **Page:** 1  
 **Visual Reference Plate:** [paper_07_page_01.png](images/paper_07_page_01.png)
 
@@ -3100,7 +3560,12 @@ I gives (x + y)² = 49, so x + y = 7 or −7. II alone gives no value. Together,
 
 ---
 
-### Question ITM-P07-Q03 (Infosys System Engineer ITM Mock Paper 7 - Q03)
+### Question ITM-P07-Q03  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q03)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_07_page_02.png](images/paper_07_page_02.png)
 
@@ -3123,7 +3588,12 @@ A set such as {1, 1, 12, 12, 12} has median 12 and 5 positive integers but an av
 
 ---
 
-### Question ITM-P07-Q04 (Infosys System Engineer ITM Mock Paper 7 - Q04)
+### Question ITM-P07-Q04  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q04)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_07_page_02.png](images/paper_07_page_02.png)
 
@@ -3146,7 +3616,12 @@ CODE→XLWV→VWLX ✓).
 
 ---
 
-### Question ITM-P07-Q05 (Infosys System Engineer ITM Mock Paper 7 - Q05)
+### Question ITM-P07-Q05  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q05)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_07_page_02.png](images/paper_07_page_02.png)
 
@@ -3172,7 +3647,12 @@ H(3) = 214673.
 
 ---
 
-### Question ITM-P07-Q06 (Infosys System Engineer ITM Mock Paper 7 - Q06)
+### Question ITM-P07-Q06  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q06)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_07_page_02.png](images/paper_07_page_02.png)
 
@@ -3194,7 +3674,12 @@ A's right at 6; H takes the last seat.) The seat opposite B (7) is seat 3, which
 
 ---
 
-### Question ITM-P07-Q07 (Infosys System Engineer ITM Mock Paper 7 - Q07)
+### Question ITM-P07-Q07  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q07)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_07_page_02.png](images/paper_07_page_02.png)
 
@@ -3235,7 +3720,12 @@ F is at seat 6. Moving to the left (clockwise): first is B (7), second is A (0),
 
 ---
 
-### Question ITM-P07-Q08 (Infosys System Engineer ITM Mock Paper 7 - Q08)
+### Question ITM-P07-Q08  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q08)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_07_page_02.png](images/paper_07_page_02.png)
 
@@ -3257,7 +3747,12 @@ Profits: 70, 110, 120, 110, 180, totalling 590. Total expenditure = 350+400+480+
 
 ---
 
-### Question ITM-P07-Q09 (Infosys System Engineer ITM Mock Paper 7 - Q09)
+### Question ITM-P07-Q09  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q09)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_07_page_02.png](images/paper_07_page_02.png)
 
@@ -3278,7 +3773,12 @@ Growth: 2021–22 = 21.4%, 2022–23 = 17.6%, 2023–24 = 10%, 2024–25 = 18.2%
 
 ---
 
-### Question ITM-P07-Q10 (Infosys System Engineer ITM Mock Paper 7 - Q10)
+### Question ITM-P07-Q10  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q10)
 **Section:** Section 1: Reasoning Ability | **Page:** 2  
 **Visual Reference Plate:** [paper_07_page_02.png](images/paper_07_page_02.png)
 
@@ -3300,7 +3800,12 @@ grandmother. E is A's only brother, so E is D's paternal grand-uncle.
 
 ---
 
-### Question ITM-P07-Q11 (Infosys System Engineer ITM Mock Paper 7 - Q11)
+### Question ITM-P07-Q11  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q11)
 **Section:** Section 1: Reasoning Ability | **Page:** 3  
 **Visual Reference Plate:** [paper_07_page_03.png](images/paper_07_page_03.png)
 
@@ -3322,7 +3827,12 @@ Leg 1: East = 20 sin30° = 10, North = 20 cos30° = 10√3. Leg 2 (bearing 330°
 
 ---
 
-### Question ITM-P07-Q12 (Infosys System Engineer ITM Mock Paper 7 - Q12)
+### Question ITM-P07-Q12  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q12)
 **Section:** Section 1: Reasoning Ability | **Page:** 3  
 **Visual Reference Plate:** [paper_07_page_03.png](images/paper_07_page_03.png)
 
@@ -3342,7 +3852,12 @@ Each term is the previous term multiplied by 3, 4, 5, 6 and then 7: 360 × 7 = 2
 
 ---
 
-### Question ITM-P07-Q13 (Infosys System Engineer ITM Mock Paper 7 - Q13)
+### Question ITM-P07-Q13  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q13)
 **Section:** Section 1: Reasoning Ability | **Page:** 3  
 **Visual Reference Plate:** [paper_07_page_03.png](images/paper_07_page_03.png)
 
@@ -3363,7 +3878,12 @@ double the previous minus 2). The 7th term, in an odd position, is 24.
 
 ---
 
-### Question ITM-P07-Q14 (Infosys System Engineer ITM Mock Paper 7 - Q14)
+### Question ITM-P07-Q14  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q14)
 **Section:** Section 1: Reasoning Ability | **Page:** 3  
 **Visual Reference Plate:** [paper_07_page_03.png](images/paper_07_page_03.png)
 
@@ -3383,7 +3903,12 @@ Actual time = 11:60 − 8:25 = 3:35.
 
 ---
 
-### Question ITM-P07-Q15 (Infosys System Engineer ITM Mock Paper 7 - Q15)
+### Question ITM-P07-Q15  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q15)
 **Section:** Section 1: Reasoning Ability | **Page:** 3  
 **Visual Reference Plate:** [paper_07_page_03.png](images/paper_07_page_03.png)
 

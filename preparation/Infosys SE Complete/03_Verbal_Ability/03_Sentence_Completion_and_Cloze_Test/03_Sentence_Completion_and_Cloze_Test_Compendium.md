@@ -16,11 +16,21 @@ Below is the exhaustive, forensic compilation of all authentic sentence completi
 
 ---
 
-## Problem 001 (ID: `OS4U_Topic 02_0`)
+## Problem 001  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(1)** in Passage 01.
 
 ### Options
@@ -40,11 +50,21 @@ Select the most contextually and grammatically appropriate term for blank **(1)*
 
 ---
 
-## Problem 002 (ID: `OS4U_Topic 02_0`)
+## Problem 002  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(2)** in Passage 01.
 
 ### Options
@@ -64,11 +84,21 @@ Select the most contextually and grammatically appropriate term for blank **(2)*
 
 ---
 
-## Problem 003 (ID: `OS4U_Topic 02_0`)
+## Problem 003  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(3)** in Passage 01.
 
 ### Options
@@ -88,11 +118,21 @@ Select the most contextually and grammatically appropriate term for blank **(3)*
 
 ---
 
-## Problem 004 (ID: `OS4U_Topic 02_0`)
+## Problem 004  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(4)** in Passage 01.
 
 ### Options
@@ -112,11 +152,21 @@ Select the most contextually and grammatically appropriate term for blank **(4)*
 
 ---
 
-## Problem 005 (ID: `OS4U_Topic 02_0`)
+## Problem 005  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(5)** in Passage 01.
 
 ### Options
@@ -136,11 +186,21 @@ Select the most contextually and grammatically appropriate term for blank **(5)*
 
 ---
 
-## Problem 006 (ID: `OS4U_Topic 02_0`)
+## Problem 006  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(6)** in Passage 02.
 
 ### Options
@@ -160,11 +220,21 @@ Select the most contextually and grammatically appropriate term for blank **(6)*
 
 ---
 
-## Problem 007 (ID: `OS4U_Topic 02_0`)
+## Problem 007  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(7)** in Passage 02.
 
 ### Options
@@ -184,11 +254,21 @@ Select the most contextually and grammatically appropriate term for blank **(7)*
 
 ---
 
-## Problem 008 (ID: `OS4U_Topic 02_0`)
+## Problem 008  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(8)** in Passage 02.
 
 ### Options
@@ -208,11 +288,21 @@ Select the most contextually and grammatically appropriate term for blank **(8)*
 
 ---
 
-## Problem 009 (ID: `OS4U_Topic 02_0`)
+## Problem 009  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(9)** in Passage 02.
 
 ### Options
@@ -232,11 +322,21 @@ Select the most contextually and grammatically appropriate term for blank **(9)*
 
 ---
 
-## Problem 010 (ID: `OS4U_Topic 02_0`)
+## Problem 010  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(10)** in Passage 02.
 
 ### Options
@@ -256,11 +356,21 @@ Select the most contextually and grammatically appropriate term for blank **(10)
 
 ---
 
-## Problem 011 (ID: `OS4U_Topic 02_0`)
+## Problem 011  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(11)** in Passage 03.
 
 ### Options
@@ -280,11 +390,21 @@ Select the most contextually and grammatically appropriate term for blank **(11)
 
 ---
 
-## Problem 012 (ID: `OS4U_Topic 02_0`)
+## Problem 012  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(12)** in Passage 03.
 
 ### Options
@@ -304,11 +424,21 @@ Select the most contextually and grammatically appropriate term for blank **(12)
 
 ---
 
-## Problem 013 (ID: `OS4U_Topic 02_0`)
+## Problem 013  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(13)** in Passage 03.
 
 ### Options
@@ -328,11 +458,21 @@ Select the most contextually and grammatically appropriate term for blank **(13)
 
 ---
 
-## Problem 014 (ID: `OS4U_Topic 02_0`)
+## Problem 014  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(14)** in Passage 03.
 
 ### Options
@@ -352,11 +492,21 @@ Select the most contextually and grammatically appropriate term for blank **(14)
 
 ---
 
-## Problem 015 (ID: `OS4U_Topic 02_0`)
+## Problem 015  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(15)** in Passage 03.
 
 ### Options
@@ -376,11 +526,21 @@ Select the most contextually and grammatically appropriate term for blank **(15)
 
 ---
 
-## Problem 016 (ID: `OS4U_Topic 02_0`)
+## Problem 016  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(16)** in Passage 04.
 
 ### Options
@@ -400,11 +560,21 @@ Select the most contextually and grammatically appropriate term for blank **(16)
 
 ---
 
-## Problem 017 (ID: `OS4U_Topic 02_0`)
+## Problem 017  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(17)** in Passage 04.
 
 ### Options
@@ -424,11 +594,21 @@ Select the most contextually and grammatically appropriate term for blank **(17)
 
 ---
 
-## Problem 018 (ID: `OS4U_Topic 02_0`)
+## Problem 018  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(18)** in Passage 04.
 
 ### Options
@@ -448,11 +628,21 @@ Select the most contextually and grammatically appropriate term for blank **(18)
 
 ---
 
-## Problem 019 (ID: `OS4U_Topic 02_0`)
+## Problem 019  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(19)** in Passage 04.
 
 ### Options
@@ -472,11 +662,21 @@ Select the most contextually and grammatically appropriate term for blank **(19)
 
 ---
 
-## Problem 020 (ID: `OS4U_Topic 02_0`)
+## Problem 020  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(20)** in Passage 04.
 
 ### Options
@@ -496,11 +696,21 @@ Select the most contextually and grammatically appropriate term for blank **(20)
 
 ---
 
-## Problem 021 (ID: `OS4U_Topic 02_0`)
+## Problem 021  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(21)** in Passage 05.
 
 ### Options
@@ -520,11 +730,21 @@ Select the most contextually and grammatically appropriate term for blank **(21)
 
 ---
 
-## Problem 022 (ID: `OS4U_Topic 02_0`)
+## Problem 022  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(22)** in Passage 05.
 
 ### Options
@@ -544,11 +764,21 @@ Select the most contextually and grammatically appropriate term for blank **(22)
 
 ---
 
-## Problem 023 (ID: `OS4U_Topic 02_0`)
+## Problem 023  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(23)** in Passage 05.
 
 ### Options
@@ -568,11 +798,21 @@ Select the most contextually and grammatically appropriate term for blank **(23)
 
 ---
 
-## Problem 024 (ID: `OS4U_Topic 02_0`)
+## Problem 024  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(24)** in Passage 06.
 
 ### Options
@@ -592,11 +832,21 @@ Select the most contextually and grammatically appropriate term for blank **(24)
 
 ---
 
-## Problem 025 (ID: `OS4U_Topic 02_0`)
+## Problem 025  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(25)** in Passage 06.
 
 ### Options
@@ -616,11 +866,21 @@ Select the most contextually and grammatically appropriate term for blank **(25)
 
 ---
 
-## Problem 026 (ID: `OS4U_Topic 02_0`)
+## Problem 026  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(26)** in Passage 06.
 
 ### Options
@@ -640,11 +900,21 @@ Select the most contextually and grammatically appropriate term for blank **(26)
 
 ---
 
-## Problem 027 (ID: `OS4U_Topic 02_0`)
+## Problem 027  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(27)** in Passage 07.
 
 ### Options
@@ -664,11 +934,21 @@ Select the most contextually and grammatically appropriate term for blank **(27)
 
 ---
 
-## Problem 028 (ID: `OS4U_Topic 02_0`)
+## Problem 028  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(28)** in Passage 07.
 
 ### Options
@@ -688,11 +968,21 @@ Select the most contextually and grammatically appropriate term for blank **(28)
 
 ---
 
-## Problem 029 (ID: `OS4U_Topic 02_0`)
+## Problem 029  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(29)** in Passage 07.
 
 ### Options
@@ -712,11 +1002,21 @@ Select the most contextually and grammatically appropriate term for blank **(29)
 
 ---
 
-## Problem 030 (ID: `OS4U_Topic 02_0`)
+## Problem 030  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(30)** in Passage 08.
 
 ### Options
@@ -736,11 +1036,21 @@ Select the most contextually and grammatically appropriate term for blank **(30)
 
 ---
 
-## Problem 031 (ID: `OS4U_Topic 02_0`)
+## Problem 031  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(31)** in Passage 08.
 
 ### Options
@@ -760,11 +1070,21 @@ Select the most contextually and grammatically appropriate term for blank **(31)
 
 ---
 
-## Problem 032 (ID: `OS4U_Topic 02_0`)
+## Problem 032  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(32)** in Passage 08.
 
 ### Options
@@ -784,11 +1104,21 @@ Select the most contextually and grammatically appropriate term for blank **(32)
 
 ---
 
-## Problem 033 (ID: `OS4U_Topic 02_0`)
+## Problem 033  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(33)** in Passage 09.
 
 ### Options
@@ -808,11 +1138,21 @@ Select the most contextually and grammatically appropriate term for blank **(33)
 
 ---
 
-## Problem 034 (ID: `OS4U_Topic 02_0`)
+## Problem 034  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(34)** in Passage 09.
 
 ### Options
@@ -832,11 +1172,21 @@ Select the most contextually and grammatically appropriate term for blank **(34)
 
 ---
 
-## Problem 035 (ID: `OS4U_Topic 02_0`)
+## Problem 035  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(35)** in Passage 09.
 
 ### Options
@@ -856,11 +1206,21 @@ Select the most contextually and grammatically appropriate term for blank **(35)
 
 ---
 
-## Problem 036 (ID: `OS4U_Topic 02_0`)
+## Problem 036  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(36)** in Passage 10.
 
 ### Options
@@ -880,11 +1240,21 @@ Select the most contextually and grammatically appropriate term for blank **(36)
 
 ---
 
-## Problem 037 (ID: `OS4U_Topic 02_0`)
+## Problem 037  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(37)** in Passage 10.
 
 ### Options
@@ -904,11 +1274,21 @@ Select the most contextually and grammatically appropriate term for blank **(37)
 
 ---
 
-## Problem 038 (ID: `OS4U_Topic 02_0`)
+## Problem 038  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(38)** in Passage 10.
 
 ### Options
@@ -928,11 +1308,21 @@ Select the most contextually and grammatically appropriate term for blank **(38)
 
 ---
 
-## Problem 039 (ID: `OS4U_Topic 02_0`)
+## Problem 039  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(39)** in Passage 11.
 
 ### Options
@@ -952,11 +1342,21 @@ Select the most contextually and grammatically appropriate term for blank **(39)
 
 ---
 
-## Problem 040 (ID: `OS4U_Topic 02_0`)
+## Problem 040  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(40)** in Passage 11.
 
 ### Options
@@ -976,11 +1376,21 @@ Select the most contextually and grammatically appropriate term for blank **(40)
 
 ---
 
-## Problem 041 (ID: `OS4U_Topic 02_0`)
+## Problem 041  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(41)** in Passage 11.
 
 ### Options
@@ -1000,11 +1410,21 @@ Select the most contextually and grammatically appropriate term for blank **(41)
 
 ---
 
-## Problem 042 (ID: `OS4U_Topic 02_0`)
+## Problem 042  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(42)** in Passage 12.
 
 ### Options
@@ -1024,11 +1444,21 @@ Select the most contextually and grammatically appropriate term for blank **(42)
 
 ---
 
-## Problem 043 (ID: `OS4U_Topic 02_0`)
+## Problem 043  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(43)** in Passage 12.
 
 ### Options
@@ -1048,11 +1478,21 @@ Select the most contextually and grammatically appropriate term for blank **(43)
 
 ---
 
-## Problem 044 (ID: `OS4U_Topic 02_0`)
+## Problem 044  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(44)** in Passage 12.
 
 ### Options
@@ -1072,11 +1512,21 @@ Select the most contextually and grammatically appropriate term for blank **(44)
 
 ---
 
-## Problem 045 (ID: `OS4U_Topic 02_0`)
+## Problem 045  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(45)** in Passage 13.
 
 ### Options
@@ -1096,11 +1546,21 @@ Select the most contextually and grammatically appropriate term for blank **(45)
 
 ---
 
-## Problem 046 (ID: `OS4U_Topic 02_0`)
+## Problem 046  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(46)** in Passage 13.
 
 ### Options
@@ -1120,11 +1580,21 @@ Select the most contextually and grammatically appropriate term for blank **(46)
 
 ---
 
-## Problem 047 (ID: `OS4U_Topic 02_0`)
+## Problem 047  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(47)** in Passage 13.
 
 ### Options
@@ -1144,11 +1614,21 @@ Select the most contextually and grammatically appropriate term for blank **(47)
 
 ---
 
-## Problem 048 (ID: `OS4U_Topic 02_0`)
+## Problem 048  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(48)** in Passage 14.
 
 ### Options
@@ -1168,11 +1648,21 @@ Select the most contextually and grammatically appropriate term for blank **(48)
 
 ---
 
-## Problem 049 (ID: `OS4U_Topic 02_0`)
+## Problem 049  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Select the most contextually and grammatically appropriate term for blank **(49)** in Passage 14.
 
 ### Options
@@ -1192,11 +1682,21 @@ Select the most contextually and grammatically appropriate term for blank **(49)
 
 ---
 
-## Problem 050 (ID: `OS4U_Topic 02_0`)
+## Problem 050  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 02_0`)
 - **Source**: OnlineStudy4U (Cloze Test & Sentence Completion)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 According to the passage, one major challenge in integrating diverse cultures is:
 
 ### Options
@@ -1216,11 +1716,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 051 (ID: `OS4U_Topic 03_0`)
+## Problem 051  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"She went to ______ park to relax after a long day at work."*
 
 ### Options
@@ -1239,11 +1749,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 052 (ID: `OS4U_Topic 03_0`)
+## Problem 052  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"He is sitting ______ the table waiting for his food."*
 
 ### Options
@@ -1262,11 +1782,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 053 (ID: `OS4U_Topic 03_0`)
+## Problem 053  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"We will meet you ______ Friday evening."*
 
 ### Options
@@ -1285,11 +1815,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 054 (ID: `OS4U_Topic 03_0`)
+## Problem 054  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"She is going to stay at ______ hotel by the beach."*
 
 ### Options
@@ -1308,11 +1848,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 055 (ID: `OS4U_Topic 03_0`)
+## Problem 055  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"They walked ______ the bridge to reach the other side of the river."*
 
 ### Options
@@ -1331,11 +1881,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 056 (ID: `OS4U_Topic 03_0`)
+## Problem 056  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"There is ______ apple in the fridge."*
 
 ### Options
@@ -1354,11 +1914,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 057 (ID: `OS4U_Topic 03_0`)
+## Problem 057  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"He placed his phone ______ the desk before leaving the room."*
 
 ### Options
@@ -1377,11 +1947,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 058 (ID: `OS4U_Topic 03_0`)
+## Problem 058  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"We watched a movie ______ the afternoon."*
 
 ### Options
@@ -1400,11 +1980,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 059 (ID: `OS4U_Topic 03_0`)
+## Problem 059  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"She has been working here for ______ last ten years."*
 
 ### Options
@@ -1423,11 +2013,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 060 (ID: `OS4U_Topic 03_0`)
+## Problem 060  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"The meeting will start ______ 9 AM."*
 
 ### Options
@@ -1446,11 +2046,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 061 (ID: `OS4U_Topic 03_0`)
+## Problem 061  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"They went on a trip to ______ United Kingdom last summer."*
 
 ### Options
@@ -1469,11 +2079,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 062 (ID: `OS4U_Topic 03_0`)
+## Problem 062  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"The bird flew ______ the window and into the house."*
 
 ### Options
@@ -1492,11 +2112,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 063 (ID: `OS4U_Topic 03_0`)
+## Problem 063  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"He was standing ______ the bus stop when it started raining."*
 
 ### Options
@@ -1515,11 +2145,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 064 (ID: `OS4U_Topic 03_0`)
+## Problem 064  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"She read ______ interesting book on psychology."*
 
 ### Options
@@ -1538,11 +2178,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 065 (ID: `OS4U_Topic 03_0`)
+## Problem 065  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"They have been living here ______ 2010."*
 
 ### Options
@@ -1561,11 +2211,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 066 (ID: `OS4U_Topic 03_0`)
+## Problem 066  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"He is sitting ______ the chair, waiting for his appointment."*
 
 ### Options
@@ -1584,11 +2244,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 067 (ID: `OS4U_Topic 03_0`)
+## Problem 067  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"The train passed ______ the tunnel and emerged on the other side."*
 
 ### Options
@@ -1607,11 +2277,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 068 (ID: `OS4U_Topic 03_0`)
+## Problem 068  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"He drove ______ the city for hours without finding the place."*
 
 ### Options
@@ -1630,11 +2310,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 069 (ID: `OS4U_Topic 03_0`)
+## Problem 069  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"I will see you ______ an hour."*
 
 ### Options
@@ -1653,11 +2343,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 070 (ID: `OS4U_Topic 03_0`)
+## Problem 070  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"She is interested ______ learning foreign languages."*
 
 ### Options
@@ -1676,11 +2376,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 071 (ID: `OS4U_Topic 03_0`)
+## Problem 071  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"He is ___ honest man who always stands ___ truth."*
 
 ### Options
@@ -1699,11 +2409,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 072 (ID: `OS4U_Topic 03_0`)
+## Problem 072  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"The teacher explained the lesson ___ great detail, making sure to answer ___ questions."*
 
 ### Options
@@ -1722,11 +2442,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 073 (ID: `OS4U_Topic 03_0`)
+## Problem 073  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"There was ___ noise in the hall, and I couldn’t concentrate ___ my work."*
 
 ### Options
@@ -1745,11 +2475,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 074 (ID: `OS4U_Topic 03_0`)
+## Problem 074  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"She looked ___ the mirror before leaving ___ the party."*
 
 ### Options
@@ -1768,11 +2508,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 075 (ID: `OS4U_Topic 03_0`)
+## Problem 075  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"They are waiting ___ the decision, which will be announced ___ next Monday."*
 
 ### Options
@@ -1791,11 +2541,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 076 (ID: `OS4U_Topic 03_0`)
+## Problem 076  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"I have never been ___ Spain, but I would love to visit ___ Madrid someday."*
 
 ### Options
@@ -1814,11 +2574,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 077 (ID: `OS4U_Topic 03_0`)
+## Problem 077  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"___ all the cities in Europe, Paris is ___ most beautiful."*
 
 ### Options
@@ -1837,11 +2607,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 078 (ID: `OS4U_Topic 03_0`)
+## Problem 078  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"He arrived ___ the airport just ___ time to catch his flight."*
 
 ### Options
@@ -1860,11 +2640,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 079 (ID: `OS4U_Topic 03_0`)
+## Problem 079  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"She is good ___ math but struggles ___ science."*
 
 ### Options
@@ -1883,11 +2673,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 080 (ID: `OS4U_Topic 03_0`)
+## Problem 080  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"I am responsible ___ this project, and I will not let anyone interfere ___ it."*
 
 ### Options
@@ -1906,11 +2706,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 081 (ID: `OS4U_Topic 03_0`)
+## Problem 081  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"They walked ___ the park, enjoying the cool breeze and talking ___ various topics."*
 
 ### Options
@@ -1929,11 +2739,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 082 (ID: `OS4U_Topic 03_0`)
+## Problem 082  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"He is ___ university professor who is specialized ___ history."*
 
 ### Options
@@ -1952,11 +2772,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 083 (ID: `OS4U_Topic 03_0`)
+## Problem 083  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 > *"The movie will start ___ 7:00 pm, so let’s meet ___ the theater by 6:30."*
 
 ### Options
@@ -1975,11 +2805,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 084 (ID: `OS4U_Topic 03_0`)
+## Problem 084  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"She has been working ___ this company for five years and is highly regarded ___ her colleagues."*
 
 ### Options
@@ -1998,11 +2838,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 085 (ID: `OS4U_Topic 03_0`)
+## Problem 085  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"We should reach ___ the station by 8:00 am to catch ___ 9:00 am train."*
 
 ### Options
@@ -2021,11 +2871,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 086 (ID: `OS4U_Topic 03_0`)
+## Problem 086  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"They travelled ___ foot across the mountains and camped ___ night in the valley."*
 
 ### Options
@@ -2044,11 +2904,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 087 (ID: `OS4U_Topic 03_0`)
+## Problem 087  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"I was standing ___ front of the building, waiting ___ the bus to arrive."*
 
 ### Options
@@ -2067,11 +2937,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 088 (ID: `OS4U_Topic 03_0`)
+## Problem 088  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"He bought ___ book at the store and went straight ___ home to read it."*
 
 ### Options
@@ -2090,11 +2970,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 089 (ID: `OS4U_Topic 03_0`)
+## Problem 089  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"The children were playing ___ the garden while their mother sat ___ a chair nearby."*
 
 ### Options
@@ -2113,11 +3003,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 090 (ID: `OS4U_Topic 03_0`)
+## Problem 090  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"___ the meeting, we discussed the new plan and made a few changes ___ the original proposal."*
 
 ### Options
@@ -2136,11 +3036,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 091 (ID: `OS4U_Topic 03_0`)
+## Problem 091  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"He has been living ___ France for many years, but he still keeps in touch ___ his old friends."*
 
 ### Options
@@ -2159,11 +3069,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 092 (ID: `OS4U_Topic 03_0`)
+## Problem 092  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"The committee is divided ___ opinion regarding the new policy, but they will meet again ___ Tuesday to discuss it further."*
 
 ### Options
@@ -2182,11 +3102,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 093 (ID: `OS4U_Topic 03_0`)
+## Problem 093  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"The manager spoke ___ the employees ___ the importance of teamwork and collaboration."*
 
 ### Options
@@ -2205,11 +3135,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 094 (ID: `OS4U_Topic 03_0`)
+## Problem 094  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"The results will be announced ___ the end of the month, and there will be a formal presentation ___ the office."*
 
 ### Options
@@ -2228,11 +3168,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 095 (ID: `OS4U_Topic 03_0`)
+## Problem 095  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"We should meet ___ the entrance of the museum ___ 10:00 am to avoid the crowd."*
 
 ### Options
@@ -2251,11 +3201,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 096 (ID: `OS4U_Topic 03_0`)
+## Problem 096  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"There is a growing awareness ___ the need for environmental protection, especially ___ younger generations."*
 
 ### Options
@@ -2274,11 +3234,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 097 (ID: `OS4U_Topic 03_0`)
+## Problem 097  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"The politician spoke ___ length about the issue and urged the public to participate ___ the upcoming election."*
 
 ### Options
@@ -2297,11 +3267,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 098 (ID: `OS4U_Topic 03_0`)
+## Problem 098  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"The scientist presented his research ___ an international conference, and his findings were published ___ a leading journal."*
 
 ### Options
@@ -2320,11 +3300,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 099 (ID: `OS4U_Topic 03_0`)
+## Problem 099  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"He traveled ___ the world, visiting various countries and learning ___ different cultures."*
 
 ### Options
@@ -2343,11 +3333,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 100 (ID: `OS4U_Topic 03_0`)
+## Problem 100  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 03_0`)
 - **Source**: OnlineStudy4U (Prepositions & Articles)
 - **Sub-Domain Focus**: Prepositions & Articles
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"She is responsible ___ organizing the event and has been working ___ it for several months now."*
 
 ### Options
@@ -2366,11 +3366,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 101 (ID: `OS4U_Topic 06_0`)
+## Problem 101  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the correct synonym for the word "elaborate":"*
 
 ### Options
@@ -2389,11 +3399,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 102 (ID: `OS4U_Topic 06_0`)
+## Problem 102  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the correct antonym for the word "vivid":"*
 
 ### Options
@@ -2412,11 +3432,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 103 (ID: `OS4U_Topic 06_0`)
+## Problem 103  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Select the correct form of the verb to complete the sentence: "She ______ a book when I called her.""*
 
 ### Options
@@ -2435,11 +3465,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 104 (ID: `OS4U_Topic 06_0`)
+## Problem 104  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the correct word to complete the sentence: "The manager is responsible ______ the new policy implementation.""*
 
 ### Options
@@ -2458,11 +3498,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 105 (ID: `OS4U_Topic 06_0`)
+## Problem 105  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the correct preposition for the sentence: "He is skilled ______ painting and drawing.""*
 
 ### Options
@@ -2481,11 +3531,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 106 (ID: `OS4U_Topic 06_0`)
+## Problem 106  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the word that best completes the sentence: "The student showed ______ improvement in his grades.""*
 
 ### Options
@@ -2504,11 +3564,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 107 (ID: `OS4U_Topic 06_0`)
+## Problem 107  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Identify the correctly punctuated sentence:"*
 
 ### Options
@@ -2527,11 +3597,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 108 (ID: `OS4U_Topic 06_0`)
+## Problem 108  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the correct word for the blank: "Her explanation was so ______ that everyone understood the concept immediately.""*
 
 ### Options
@@ -2550,11 +3630,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 109 (ID: `OS4U_Topic 06_0`)
+## Problem 109  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Select the correct plural form: "The child broke ______ toy.""*
 
 ### Options
@@ -2573,11 +3663,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 110 (ID: `OS4U_Topic 06_0`)
+## Problem 110  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the correct word to complete the sentence: "He decided to ______ the offer after much consideration.""*
 
 ### Options
@@ -2596,11 +3696,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 111 (ID: `OS4U_Topic 06_0`)
+## Problem 111  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Select the correct sentence:"*
 
 ### Options
@@ -2619,11 +3729,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 112 (ID: `OS4U_Topic 06_0`)
+## Problem 112  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the word that best completes the sentence: "The novel was written in a ______ style.""*
 
 ### Options
@@ -2642,11 +3762,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 113 (ID: `OS4U_Topic 06_0`)
+## Problem 113  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the correct form of the adjective to complete the sentence: "This book is ______ than the one I read last week.""*
 
 ### Options
@@ -2665,11 +3795,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 114 (ID: `OS4U_Topic 06_0`)
+## Problem 114  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the correct word to complete the sentence: "They will arrive ______ the airport at 6 PM.""*
 
 ### Options
@@ -2688,11 +3828,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 115 (ID: `OS4U_Topic 06_0`)
+## Problem 115  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Select the correct verb tense: "By the time we get there, the meeting ______.""*
 
 ### Options
@@ -2711,11 +3861,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 116 (ID: `OS4U_Topic 06_0`)
+## Problem 116  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the correct word for the sentence: "She made an ______ decision to move to another city.""*
 
 ### Options
@@ -2734,11 +3894,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 117 (ID: `OS4U_Topic 06_0`)
+## Problem 117  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Identify the correct use of the comma:"*
 
 ### Options
@@ -2757,11 +3927,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 118 (ID: `OS4U_Topic 06_0`)
+## Problem 118  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the appropriate word to complete the sentence: "He is ______ a great musician.""*
 
 ### Options
@@ -2780,11 +3960,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 119 (ID: `OS4U_Topic 06_0`)
+## Problem 119  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Select the correct sentence:"*
 
 ### Options
@@ -2803,11 +3993,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 120 (ID: `OS4U_Topic 06_0`)
+## Problem 120  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the correct word for the sentence: "They need to ______ the new policy before it is implemented.""*
 
 ### Options
@@ -2826,11 +4026,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 121 (ID: `OS4U_Topic 06_0`)
+## Problem 121  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the correct word to fill in the blank: "Her response was very __________, showing a deep understanding of the issue.""*
 
 ### Options
@@ -2849,11 +4059,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 122 (ID: `OS4U_Topic 06_0`)
+## Problem 122  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Select the sentence that uses the word "imminent" correctly:"*
 
 ### Options
@@ -2872,11 +4092,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 123 (ID: `OS4U_Topic 06_0`)
+## Problem 123  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the correct form of the verb: "If he __________ harder, he would have passed the exam.""*
 
 ### Options
@@ -2895,11 +4125,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 124 (ID: `OS4U_Topic 06_0`)
+## Problem 124  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Identify the correctly punctuated sentence:"*
 
 ### Options
@@ -2918,11 +4158,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 125 (ID: `OS4U_Topic 06_0`)
+## Problem 125  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the synonym of "meticulous":"*
 
 ### Options
@@ -2941,11 +4191,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 126 (ID: `OS4U_Topic 06_0`)
+## Problem 126  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Select the correct preposition: "She is interested __________ learning new languages.""*
 
 ### Options
@@ -2964,11 +4224,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 127 (ID: `OS4U_Topic 06_0`)
+## Problem 127  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Which word is an antonym of "diligent"?"*
 
 ### Options
@@ -2987,11 +4257,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 128 (ID: `OS4U_Topic 06_0`)
+## Problem 128  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the correct word: "The results of the experiment were __________ to the hypothesis.""*
 
 ### Options
@@ -3010,11 +4290,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 129 (ID: `OS4U_Topic 06_0`)
+## Problem 129  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Identify the correct sentence:"*
 
 ### Options
@@ -3033,11 +4323,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 130 (ID: `OS4U_Topic 06_0`)
+## Problem 130  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Fill in the blank with the correct form: "His explanation was __________; it left everyone confused.""*
 
 ### Options
@@ -3056,11 +4356,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 131 (ID: `OS4U_Topic 06_0`)
+## Problem 131  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the correct conjunction: "I wanted to go for a walk, __________ it was raining.""*
 
 ### Options
@@ -3079,11 +4389,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 132 (ID: `OS4U_Topic 06_0`)
+## Problem 132  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Select the correct adjective: "The movie was so __________ that I fell asleep halfway through.""*
 
 ### Options
@@ -3102,11 +4422,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 133 (ID: `OS4U_Topic 06_0`)
+## Problem 133  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the correct phrase: "She is capable __________ handling the project alone.""*
 
 ### Options
@@ -3125,11 +4455,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 134 (ID: `OS4U_Topic 06_0`)
+## Problem 134  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Identify the error in the sentence: "Neither the teacher nor the students was ready for the test.""*
 
 ### Options
@@ -3148,11 +4488,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 135 (ID: `OS4U_Topic 06_0`)
+## Problem 135  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Which word is a synonym for "augment"?"*
 
 ### Options
@@ -3171,11 +4521,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 136 (ID: `OS4U_Topic 06_0`)
+## Problem 136  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Fill in the blank: "After the storm, the town was left in a state of __________.""*
 
 ### Options
@@ -3194,11 +4554,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 137 (ID: `OS4U_Topic 06_0`)
+## Problem 137  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the correct option: "His attitude was very __________ during the discussion.""*
 
 ### Options
@@ -3217,11 +4587,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 138 (ID: `OS4U_Topic 06_0`)
+## Problem 138  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Select the correct form of the word: "Her __________ in the competition was impressive.""*
 
 ### Options
@@ -3240,11 +4620,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 139 (ID: `OS4U_Topic 06_0`)
+## Problem 139  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Identify the correctly used word: "He is quite __________ in mathematics.""*
 
 ### Options
@@ -3263,11 +4653,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 140 (ID: `OS4U_Topic 06_0`)
+## Problem 140  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the correct verb: "The committee __________ to meet next week.""*
 
 ### Options
@@ -3286,11 +4686,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 141 (ID: `OS4U_Topic 06_0`)
+## Problem 141  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the correct word: "The company faced severe __________ due to the economic downturn.""*
 
 ### Options
@@ -3309,11 +4719,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 142 (ID: `OS4U_Topic 06_0`)
+## Problem 142  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Identify the correct usage: "Despite the rain, we decided to proceed, __________ we were well-prepared.""*
 
 ### Options
@@ -3332,11 +4752,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 143 (ID: `OS4U_Topic 06_0`)
+## Problem 143  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the correct phrase: "She spoke __________ during the interview, which impressed everyone.""*
 
 ### Options
@@ -3355,11 +4785,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 144 (ID: `OS4U_Topic 06_0`)
+## Problem 144  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Fill in the blank: "The results of the survey were __________, indicating a clear preference.""*
 
 ### Options
@@ -3378,11 +4818,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 145 (ID: `OS4U_Topic 06_0`)
+## Problem 145  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Select the correct form: "The scientist’s findings were __________, leading to further research.""*
 
 ### Options
@@ -3401,11 +4851,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 146 (ID: `OS4U_Topic 06_0`)
+## Problem 146  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the correct conjunction: "Not only was the food delicious, __________ it was beautifully presented.""*
 
 ### Options
@@ -3424,11 +4884,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 147 (ID: `OS4U_Topic 06_0`)
+## Problem 147  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Identify the error in the sentence: "The news are surprising to everyone in the office.""*
 
 ### Options
@@ -3447,11 +4917,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 148 (ID: `OS4U_Topic 06_0`)
+## Problem 148  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Select the appropriate word: "His behavior was __________, reflecting poorly on the entire team.""*
 
 ### Options
@@ -3470,11 +4950,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 149 (ID: `OS4U_Topic 06_0`)
+## Problem 149  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Choose the correct word: "The teacher encouraged students to engage in __________ discussion.""*
 
 ### Options
@@ -3493,11 +4983,21 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 150 (ID: `OS4U_Topic 06_0`)
+## Problem 150  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `OS4U_Topic 06_0`)
 - **Source**: OnlineStudy4U (Sentence Completion & Grammar Usage)
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 > *"Fill in the blank: "The __________ of the new policy was met with mixed reactions.""*
 
 ### Options
@@ -3516,12 +5016,22 @@ According to the passage, one major challenge in integrating diverse cultures is
 
 ---
 
-## Problem 151 (ID: `SEC0405_SVA1_Q01`)
+## Problem 151  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q01`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 Many a student------- made the same mistake.
@@ -3538,12 +5048,22 @@ Rule: 'Many a' is followed by a singular countable noun ('student') and strictly
 
 ---
 
-## Problem 152 (ID: `SEC0405_SVA1_Q02`)
+## Problem 152  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q02`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 The available statistics -------that the green house degradation on earth will be significant in the coming years and human life will face more danger.
@@ -3560,12 +5080,22 @@ Rule: When 'statistics' refers to numerical data, facts, or figures collected, i
 
 ---
 
-## Problem 153 (ID: `SEC0405_SVA1_Q03`)
+## Problem 153  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q03`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 The boss, as well as his colleagues,------------ been robbed by the robber .
@@ -3582,12 +5112,22 @@ Rule: When two subjects are joined by parenthetical expressions like 'as well as
 
 ---
 
-## Problem 154 (ID: `SEC0405_SVA1_Q04`)
+## Problem 154  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q04`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 A body of volunteers --------been organized to help the faculty members in their attempt to raise funds.
@@ -3604,12 +5144,22 @@ Rule: Collective noun phrase 'A body of volunteers' acts as a single unified col
 
 ---
 
-## Problem 155 (ID: `SEC0405_SVA1_Q05`)
+## Problem 155  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q05`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 Most of the News pertaining to the sudden demise of the spiritual guru --------been communicated by some of the ruffians whom I know well.
@@ -3626,12 +5176,22 @@ Rule: 'News' is an uncountable noun that is always treated as grammatically sing
 
 ---
 
-## Problem 156 (ID: `SEC0405_SVA1_Q06`)
+## Problem 156  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q06`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 Not only the doctor but also the nurses of this nursing home ------very kind to the patients.
@@ -3648,12 +5208,22 @@ Rule: In 'Not only... but also' correlative constructions, the verb agrees in nu
 
 ---
 
-## Problem 157 (ID: `SEC0405_SVA1_Q07`)
+## Problem 157  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q07`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 If any proof was needed to show that the United Nations ---------lately become a policy tool in the hands of the USA,I would show you one.
@@ -3670,12 +5240,22 @@ Rule: 'United Nations' is a single sovereign international organization/entity, 
 
 ---
 
-## Problem 158 (ID: `SEC0405_SVA1_Q08`)
+## Problem 158  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q08`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 The famous singer and composer -------------arrived.
@@ -3692,12 +5272,22 @@ Rule: When two nouns are joined by 'and' but preceded by only one definite artic
 
 ---
 
-## Problem 159 (ID: `SEC0405_SVA1_Q09`)
+## Problem 159  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q09`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 Neither the teacher nor the students -----------------present in the seminar.
@@ -3714,12 +5304,22 @@ Rule: With 'Neither... nor', the verb agrees with the subject closest to it ('th
 
 ---
 
-## Problem 160 (ID: `SEC0405_SVA1_Q10`)
+## Problem 160  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q10`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 A number of students ---------------participated in the cultural fest.
@@ -3736,12 +5336,22 @@ Rule: 'A number of' is an idiomatic quantifier meaning 'several/many' and takes 
 
 ---
 
-## Problem 161 (ID: `SEC0405_SVA1_Q11`)
+## Problem 161  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q11`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 The number of applicants ----------------increasing day by day.
@@ -3758,12 +5368,22 @@ Rule: 'The number of' denotes a specific count/figure and always takes a singula
 
 ---
 
-## Problem 162 (ID: `SEC0405_SVA1_Q12`)
+## Problem 162  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q12`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 Bread and butter -----------------his staple breakfast every morning.
@@ -3780,12 +5400,22 @@ Rule: When two items joined by 'and' express a single compound idea or essential
 
 ---
 
-## Problem 163 (ID: `SEC0405_SVA1_Q13`)
+## Problem 163  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q13`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 Ten miles -----------------a long distance to walk on foot.
@@ -3802,12 +5432,22 @@ Rule: Expressions of distance, time, weight, and monetary amounts are considered
 
 ---
 
-## Problem 164 (ID: `SEC0405_SVA1_Q14`)
+## Problem 164  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q14`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 Each of the candidates ----------------given a separate interview slot.
@@ -3824,12 +5464,22 @@ Rule: Indefinite pronoun 'Each' is grammatically singular and takes a singular v
 
 ---
 
-## Problem 165 (ID: `SEC0405_SVA1_Q15`)
+## Problem 165  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q15`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 Physics -----------------always been my favorite subject in high school.
@@ -3846,12 +5496,22 @@ Rule: Names of academic subjects ending in -s (Physics, Mathematics, Economics) 
 
 ---
 
-## Problem 166 (ID: `SEC0405_SVA1_Q16`)
+## Problem 166  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q16`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 Either of the two routes ----------------safe for night travel.
@@ -3868,12 +5528,22 @@ Rule: 'Either' of two alternatives is singular and requires a singular verb ('is
 
 ---
 
-## Problem 167 (ID: `SEC0405_SVA1_Q17`)
+## Problem 167  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q17`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 The quality of these mangoes ----------------not up to the mark.
@@ -3890,12 +5560,22 @@ Rule: The true head subject of the sentence is 'The quality' (singular), not the
 
 ---
 
-## Problem 168 (ID: `SEC0405_SVA1_Q18`)
+## Problem 168  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q18`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 Slow and steady ----------------the race.
@@ -3912,12 +5592,22 @@ Rule: 'Slow and steady' represents a singular philosophical maxim / unified trai
 
 ---
 
-## Problem 169 (ID: `SEC0405_SVA1_Q19`)
+## Problem 169  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q19`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 Gulliver's Travels ----------------written by Jonathan Swift.
@@ -3934,12 +5624,22 @@ Rule: The title of a single book, movie, or literary work is singular even if th
 
 ---
 
-## Problem 170 (ID: `SEC0405_SVA1_Q20`)
+## Problem 170  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q20`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 None of the information ----------------verified by the official authorities.
@@ -3956,12 +5656,22 @@ Rule: 'Information' is an uncountable noun. When 'None of' refers to an uncounta
 
 ---
 
-## Problem 171 (ID: `SEC0405_SVA1_Q21`)
+## Problem 171  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q21`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_03.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 Every man, woman, and child ----------------given a relief package.
@@ -3978,12 +5688,22 @@ Rule: When subjects are preceded by 'Every' or 'Each', the verb is strictly sing
 
 ---
 
-## Problem 172 (ID: `SEC0405_SVA1_Q22`)
+## Problem 172  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q22`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_03.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 Neither of them ----------------eligible for the senior scholarship.
@@ -4000,12 +5720,22 @@ Rule: 'Neither' used as a pronoun is singular and takes a singular verb ('is').
 
 ---
 
-## Problem 173 (ID: `SEC0405_SVA1_Q23`)
+## Problem 173  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q23`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_03.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 One of my friends ----------------going to Canada for higher studies.
@@ -4022,12 +5752,22 @@ Rule: In 'One of + plural noun', the subject is 'One' (singular), requiring a si
 
 ---
 
-## Problem 174 (ID: `SEC0405_SVA1_Q24`)
+## Problem 174  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q24`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_03.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 The committee ----------------divided in their opinions regarding the new policy.
@@ -4044,12 +5784,22 @@ Rule: When members of a collective noun ('The committee') act individually or ho
 
 ---
 
-## Problem 175 (ID: `SEC0405_SVA1_Q25`)
+## Problem 175  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SVA1_Q25`)
 - **Source**: CampusMonk (SVA LEVEL 1.pdf)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_03.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Fill in the blank with the grammatically correct verb:
 
 Riches ----------------wings and fly away.
@@ -4066,12 +5816,22 @@ Rule: 'Riches' (meaning wealth/possessions) is an inherently plural noun that ta
 
 ---
 
-## Problem 176 (ID: `SEC0405_RC01_Q01`)
+## Problem 176  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC01_Q01`)
 - **Source**: CampusMonk (VERBAL ABILITY_RC 01_QUESTIONS.json)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 - **Visual Reference Plate**: `images/eng_rc_exercise_1_2_page_01.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
 Though many take creativity for granted, it is a trait not possessed by everyone. Many people are labelled as primarily “right brained” or “left brained” (if such a thing exists): It is argued that highly intellectual, logical types are less likely to be creative, have less wild imaginations and are typically rule followers who do not believe in much of anything that cannot be logically quantified. Regardless of the left brain / right brain argument, imagination unleashes creativity, allowing you to live a life filled with potential. The creative individual does not see the sky as the limit, instead the limit is as far as he or she can imagine. They not only think outside the box, for them there is no box, and so their brains are constantly challenged, humming and conjuring up all sorts of goodies. Anything the mind can conjure is good enough to become true, be it work, life, personal goals accomplishments or anything. A very good trait to cultivate from childhood.
@@ -4097,12 +5857,22 @@ Refer the last few lines of first paragraph "But stifling your imagination is th
 
 ---
 
-## Problem 177 (ID: `SEC0405_RC01_Q02`)
+## Problem 177  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC01_Q02`)
 - **Source**: CampusMonk (VERBAL ABILITY_RC 01_QUESTIONS.json)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 - **Visual Reference Plate**: `images/eng_rc_exercise_1_2_page_01.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
 Though many take creativity for granted, it is a trait not possessed by everyone. Many people are labelled as primarily “right brained” or “left brained” (if such a thing exists): It is argued that highly intellectual, logical types are less likely to be creative, have less wild imaginations and are typically rule followers who do not believe in much of anything that cannot be logically quantified. Regardless of the left brain / right brain argument, imagination unleashes creativity, allowing you to live a life filled with potential. The creative individual does not see the sky as the limit, instead the limit is as far as he or she can imagine. They not only think outside the box, for them there is no box, and so their brains are constantly challenged, humming and conjuring up all sorts of goodies. Anything the mind can conjure is good enough to become true, be it work, life, personal goals accomplishments or anything. A very good trait to cultivate from childhood.
@@ -4125,12 +5895,22 @@ Refer second paragraph of the passage " The creative individual does not see the
 
 ---
 
-## Problem 178 (ID: `SEC0405_RC01_Q03`)
+## Problem 178  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC01_Q03`)
 - **Source**: CampusMonk (VERBAL ABILITY_RC 01_QUESTIONS.json)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 - **Visual Reference Plate**: `images/eng_rc_exercise_1_2_page_01.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
 Though many take creativity for granted, it is a trait not possessed by everyone. Many people are labelled as primarily “right brained” or “left brained” (if such a thing exists): It is argued that highly intellectual, logical types are less likely to be creative, have less wild imaginations and are typically rule followers who do not believe in much of anything that cannot be logically quantified. Regardless of the left brain / right brain argument, imagination unleashes creativity, allowing you to live a life filled with potential. The creative individual does not see the sky as the limit, instead the limit is as far as he or she can imagine. They not only think outside the box, for them there is no box, and so their brains are constantly challenged, humming and conjuring up all sorts of goodies. Anything the mind can conjure is good enough to become true, be it work, life, personal goals accomplishments or anything. A very good trait to cultivate from childhood.
@@ -4154,12 +5934,22 @@ Refer the third paragraph of the passage "our imagination may leave you in a goo
 
 ---
 
-## Problem 179 (ID: `SEC0405_RC01_Q04`)
+## Problem 179  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC01_Q04`)
 - **Source**: CampusMonk (VERBAL ABILITY_RC 01_QUESTIONS.json)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 - **Visual Reference Plate**: `images/eng_rc_exercise_1_2_page_01.png`
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
 Though many take creativity for granted, it is a trait not possessed by everyone. Many people are labelled as primarily “right brained” or “left brained” (if such a thing exists): It is argued that highly intellectual, logical types are less likely to be creative, have less wild imaginations and are typically rule followers who do not believe in much of anything that cannot be logically quantified. Regardless of the left brain / right brain argument, imagination unleashes creativity, allowing you to live a life filled with potential. The creative individual does not see the sky as the limit, instead the limit is as far as he or she can imagine. They not only think outside the box, for them there is no box, and so their brains are constantly challenged, humming and conjuring up all sorts of goodies. Anything the mind can conjure is good enough to become true, be it work, life, personal goals accomplishments or anything. A very good trait to cultivate from childhood.
@@ -4181,12 +5971,22 @@ Q4. Which of the following is an appropriate title of the passage?
 
 ---
 
-## Problem 180 (ID: `SEC0405_RC01_Q05`)
+## Problem 180  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_RC01_Q05`)
 - **Source**: CampusMonk (VERBAL ABILITY_RC 01_QUESTIONS.json)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 - **Visual Reference Plate**: `images/eng_rc_exercise_1_2_page_01.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
 Though many take creativity for granted, it is a trait not possessed by everyone. Many people are labelled as primarily “right brained” or “left brained” (if such a thing exists): It is argued that highly intellectual, logical types are less likely to be creative, have less wild imaginations and are typically rule followers who do not believe in much of anything that cannot be logically quantified. Regardless of the left brain / right brain argument, imagination unleashes creativity, allowing you to live a life filled with potential. The creative individual does not see the sky as the limit, instead the limit is as far as he or she can imagine. They not only think outside the box, for them there is no box, and so their brains are constantly challenged, humming and conjuring up all sorts of goodies. Anything the mind can conjure is good enough to become true, be it work, life, personal goals accomplishments or anything. A very good trait to cultivate from childhood.
@@ -4208,12 +6008,22 @@ The passage is about about using imagination for different purposes. All the giv
 
 ---
 
-## Problem 181 (ID: `SEC0405_RC01_Q06`)
+## Problem 181  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_RC01_Q06`)
 - **Source**: CampusMonk (VERBAL ABILITY_RC 01_QUESTIONS.json)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 - **Visual Reference Plate**: `images/eng_rc_exercise_1_2_page_01.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
 Though many take creativity for granted, it is a trait not possessed by everyone. Many people are labelled as primarily “right brained” or “left brained” (if such a thing exists): It is argued that highly intellectual, logical types are less likely to be creative, have less wild imaginations and are typically rule followers who do not believe in much of anything that cannot be logically quantified. Regardless of the left brain / right brain argument, imagination unleashes creativity, allowing you to live a life filled with potential. The creative individual does not see the sky as the limit, instead the limit is as far as he or she can imagine. They not only think outside the box, for them there is no box, and so their brains are constantly challenged, humming and conjuring up all sorts of goodies. Anything the mind can conjure is good enough to become true, be it work, life, personal goals accomplishments or anything. A very good trait to cultivate from childhood.
@@ -4236,12 +6046,22 @@ Refer the last paragraph of the passage "On the other hand, someone who uses the
 
 ---
 
-## Problem 182 (ID: `SEC0405_RC01_Q07`)
+## Problem 182  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_RC01_Q07`)
 - **Source**: CampusMonk (VERBAL ABILITY_RC 01_QUESTIONS.json)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 - **Visual Reference Plate**: `images/eng_rc_exercise_1_2_page_01.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
 Though many take creativity for granted, it is a trait not possessed by everyone. Many people are labelled as primarily “right brained” or “left brained” (if such a thing exists): It is argued that highly intellectual, logical types are less likely to be creative, have less wild imaginations and are typically rule followers who do not believe in much of anything that cannot be logically quantified. Regardless of the left brain / right brain argument, imagination unleashes creativity, allowing you to live a life filled with potential. The creative individual does not see the sky as the limit, instead the limit is as far as he or she can imagine. They not only think outside the box, for them there is no box, and so their brains are constantly challenged, humming and conjuring up all sorts of goodies. Anything the mind can conjure is good enough to become true, be it work, life, personal goals accomplishments or anything. A very good trait to cultivate from childhood.
@@ -4265,12 +6085,22 @@ Conjure means implore (someone) to do something. Hence it has same meaning as ad
 
 ---
 
-## Problem 183 (ID: `SEC0405_RC01_Q08`)
+## Problem 183  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_RC01_Q08`)
 - **Source**: CampusMonk (VERBAL ABILITY_RC 01_QUESTIONS.json)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 - **Visual Reference Plate**: `images/eng_rc_exercise_1_2_page_01.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
 Though many take creativity for granted, it is a trait not possessed by everyone. Many people are labelled as primarily “right brained” or “left brained” (if such a thing exists): It is argued that highly intellectual, logical types are less likely to be creative, have less wild imaginations and are typically rule followers who do not believe in much of anything that cannot be logically quantified. Regardless of the left brain / right brain argument, imagination unleashes creativity, allowing you to live a life filled with potential. The creative individual does not see the sky as the limit, instead the limit is as far as he or she can imagine. They not only think outside the box, for them there is no box, and so their brains are constantly challenged, humming and conjuring up all sorts of goodies. Anything the mind can conjure is good enough to become true, be it work, life, personal goals accomplishments or anything. A very good trait to cultivate from childhood.
@@ -4294,12 +6124,22 @@ Quantified means express or measure the quantity of. Hence it has same meaning a
 
 ---
 
-## Problem 184 (ID: `SEC0405_RC01_Q09`)
+## Problem 184  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_RC01_Q09`)
 - **Source**: CampusMonk (VERBAL ABILITY_RC 01_QUESTIONS.json)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 - **Visual Reference Plate**: `images/eng_rc_exercise_1_2_page_01.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
 Though many take creativity for granted, it is a trait not possessed by everyone. Many people are labelled as primarily “right brained” or “left brained” (if such a thing exists): It is argued that highly intellectual, logical types are less likely to be creative, have less wild imaginations and are typically rule followers who do not believe in much of anything that cannot be logically quantified. Regardless of the left brain / right brain argument, imagination unleashes creativity, allowing you to live a life filled with potential. The creative individual does not see the sky as the limit, instead the limit is as far as he or she can imagine. They not only think outside the box, for them there is no box, and so their brains are constantly challenged, humming and conjuring up all sorts of goodies. Anything the mind can conjure is good enough to become true, be it work, life, personal goals accomplishments or anything. A very good trait to cultivate from childhood.
@@ -4323,12 +6163,22 @@ Meticulous means in a way that shows great attention to detail, very thoroughly.
 
 ---
 
-## Problem 185 (ID: `SEC0405_RC01_Q10`)
+## Problem 185  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_RC01_Q10`)
 - **Source**: CampusMonk (VERBAL ABILITY_RC 01_QUESTIONS.json)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 - **Visual Reference Plate**: `images/eng_rc_exercise_1_2_page_01.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
 Though many take creativity for granted, it is a trait not possessed by everyone. Many people are labelled as primarily “right brained” or “left brained” (if such a thing exists): It is argued that highly intellectual, logical types are less likely to be creative, have less wild imaginations and are typically rule followers who do not believe in much of anything that cannot be logically quantified. Regardless of the left brain / right brain argument, imagination unleashes creativity, allowing you to live a life filled with potential. The creative individual does not see the sky as the limit, instead the limit is as far as he or she can imagine. They not only think outside the box, for them there is no box, and so their brains are constantly challenged, humming and conjuring up all sorts of goodies. Anything the mind can conjure is good enough to become true, be it work, life, personal goals accomplishments or anything. A very good trait to cultivate from childhood.
@@ -4352,12 +6202,22 @@ Envision means imagine as a future possibility, visualize.. Hence it has opposit
 
 ---
 
-## Problem 186 (ID: `SEC0405_RC02_Q05`)
+## Problem 186  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_RC02_Q05`)
 - **Source**: CampusMonk (VERBAL ABILITY _RC 02_QUESTIONS.json)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 - **Visual Reference Plate**: `images/eng_rc_exercise_1_2_page_02.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Directions (1-5): Read the given passage and answer the following questions based on the passage.
 For almost two decades, the Central Ground Water Board (CGWB) has been reporting on the increasing number of over-exploited blocks across India, the ‘dark’ category blocks. The recent annual book of CGWB has reported 1,034 units, out of the 6,584 units it monitors, as over-exploited. If this is the ‘crisis’, then we have had it for long. What has this not received enough attention? Is it because these zones are not in cities?
 Just to be sure how critical the ‘crisis’ is, CGWB’s 2013 estimates say that the groundwater development in India is just about 62% of the utilisable groundwater reserves. Similarly, a recent report by the Central Water Commission, prepared in collaboration with the Indian Space Research Organisation (ISRO), asserted that India is not yet in “water scarcity condition”. But it is certainly in a “water-stressed condition”, with reducing per capita water availability. Here, we certainly don’t mean to say that India can continue with the present ways of water management. We also cannot remain in a state of denial that a crisis is not in the making. However, certain steps need to be taken to ensure a more useful and productive discourse about water governance challenges.
@@ -4381,12 +6241,22 @@ Option (c) , &lsquo;Strengthen&rsquo; is the most suitable word to fit in the bl
 
 ---
 
-## Problem 187 (ID: `SEC0405_RC02_Q10`)
+## Problem 187  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_RC02_Q10`)
 - **Source**: CampusMonk (VERBAL ABILITY _RC 02_QUESTIONS.json)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 - **Visual Reference Plate**: `images/eng_rc_exercise_1_2_page_02.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Directions (6-10): Read the given passage and answer the following questions based on the passage.
 There has been much development recently with respect to the Protection of Children from Sexual Offences (POCSO) Act, 2012. With an objective of stopping the rampant sexual abuse of children, the Protection of Children from Sexual Offences (Amendment) Bill, 2019 was introduced in the Rajya Sabha in July, and later passed by both Houses of Parliament. It is all set to become the ‘law of the land’. The present bill is welcome in certain respects as it specifically defines what ‘child pornography’ is; ‘using a child for pornographic purposes’ and for ‘possessing or storing pornography involving a child’ is punishable. It has also widened the ambit of ‘Aggravated sexual assault’.
 The highlight of the Bill is the introduction of the death penalty for the rape of minors. The Bill, in its object clause, justifies this by referring to the judgments of the Supreme Court in Machhi Singh (1983) and Devender Pal Singh (2002) in which the court has held that the death penalty can be awarded only in rarest of rare cases. Thus the intention of the Bill is to have a deterrent effect; but it can be argued that the introduction of the death penalty may backfire in cases of child sexual abuse and even have a catastrophic effect. Often, the perpetrators of abuse are family members and having such penalty in the statute book may discourage the registration of the crime itself. Also, it may threaten the life of the minor as the maximum punishment for murder is also the death sentence.
@@ -4413,12 +6283,22 @@ Ramification- Complex or unwelcomed consequences of an action of event (a)Acumen
 
 ---
 
-## Problem 188 (ID: `SEC0405_ENG_SESS_Q16`)
+## Problem 188  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_ENG_SESS_Q16`)
 - **Source**: CampusMonk (ENGLISH SESSION_QUESTIONS.json)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 - **Visual Reference Plate**: `images/eng_verbal_assorted_super30_page_02.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Directions (16-20): In each of the following sentences, there is a blank space. Below each sentence, there are five words out of which one can be used to fill the blank to make the sentence grammatically and coherently correct. Find the most appropriate word that fit into the blank contextually.
 Q16. The boat tilted and _____________ within minutes and only those wearing life jackets could save themselves.
 
@@ -4437,12 +6317,22 @@ From the given sentence we can infer that the boat tilted due to which only thos
 
 ---
 
-## Problem 189 (ID: `SEC0405_SUPER30_Q01`)
+## Problem 189  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_SUPER30_Q01`)
 - **Source**: CampusMonk (PYQ - Verbal Assorted Super 30.pdf)
 - **Sub-Domain Focus**: Sentence Completion: Diction & Phrasal Verbs
 - **Visual Reference Plate**: `images/eng_verbal_assorted_super30_page_01.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Pick out the most effective word from the given options to fill in the blank meaningfully:
 
 The waiter hasn't brought the chocolate shake___I've been here an hour already.
@@ -4461,12 +6351,22 @@ Explanation: In negative present perfect constructions ('hasn't brought'), 'yet'
 
 ---
 
-## Problem 190 (ID: `SEC0405_SUPER30_Q02`)
+## Problem 190  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_SUPER30_Q02`)
 - **Source**: CampusMonk (PYQ - Verbal Assorted Super 30.pdf)
 - **Sub-Domain Focus**: Sentence Completion: Diction & Phrasal Verbs
 - **Visual Reference Plate**: `images/eng_verbal_assorted_super30_page_02.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Pick out the most effective word from the given options to fill in the blank meaningfully:
 
 She was so exhausted that she could ___keep her eyes open during the lecture.
@@ -4485,12 +6385,22 @@ Explanation: 'Barely' means 'only just; scarcely'. In the context of extreme exh
 
 ---
 
-## Problem 191 (ID: `SEC0405_SUPER30_Q03`)
+## Problem 191  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_SUPER30_Q03`)
 - **Source**: CampusMonk (PYQ - Verbal Assorted Super 30.pdf)
 - **Sub-Domain Focus**: Sentence Completion: Diction & Phrasal Verbs
 - **Visual Reference Plate**: `images/eng_verbal_assorted_super30_page_03.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Pick out the most effective word from the given options to fill in the blank meaningfully:
 
 The committee decided to ___the proposal until further market research could be conducted.
@@ -4509,12 +6419,22 @@ Explanation: To 'table' a proposal means to postpone or delay consideration of i
 
 ---
 
-## Problem 192 (ID: `SEC0405_SUPER30_Q04`)
+## Problem 192  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_SUPER30_Q04`)
 - **Source**: CampusMonk (PYQ - Verbal Assorted Super 30.pdf)
 - **Sub-Domain Focus**: Sentence Completion: Diction & Phrasal Verbs
 - **Visual Reference Plate**: `images/eng_verbal_assorted_super30_page_04.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Pick out the most effective word from the given options to fill in the blank meaningfully:
 
 Despite the severe financial crisis, the startup managed to ___and achieve profitability within two years.
@@ -4533,12 +6453,22 @@ Explanation: The phrasal verb 'pull through' means to survive or overcome a dang
 
 ---
 
-## Problem 193 (ID: `SEC0405_SUPER30_Q05`)
+## Problem 193  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_SUPER30_Q05`)
 - **Source**: CampusMonk (PYQ - Verbal Assorted Super 30.pdf)
 - **Sub-Domain Focus**: Sentence Completion: Diction & Phrasal Verbs
 - **Visual Reference Plate**: `images/eng_verbal_assorted_super30_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Pick out the most effective word from the given options to fill in the blank meaningfully:
 
 His arguments were so ___that even his fiercest critics had to concede the point.
@@ -4557,12 +6487,22 @@ Explanation: 'Cogent' means clear, logical, and convincing. A cogent argument co
 
 ---
 
-## Problem 194 (ID: `SEC0405_SUPER30_Q06`)
+## Problem 194  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_SUPER30_Q06`)
 - **Source**: CampusMonk (PYQ - Verbal Assorted Super 30.pdf)
 - **Sub-Domain Focus**: Sentence Completion: Diction & Phrasal Verbs
 - **Visual Reference Plate**: `images/eng_verbal_assorted_super30_page_06.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Pick out the most effective word from the given options to fill in the blank meaningfully:
 
 The CEO praised the engineering team for their ___efforts in delivering the enterprise software ahead of schedule.
@@ -4581,12 +6521,22 @@ Explanation: 'Laudable' means deserving praise and commendation; highly praisewo
 
 ---
 
-## Problem 195 (ID: `SEC0405_SUPER30_Q07`)
+## Problem 195  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_SUPER30_Q07`)
 - **Source**: CampusMonk (PYQ - Verbal Assorted Super 30.pdf)
 - **Sub-Domain Focus**: Sentence Completion: Diction & Phrasal Verbs
 - **Visual Reference Plate**: `images/eng_verbal_assorted_super30_page_07.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Pick out the most effective word from the given options to fill in the blank meaningfully:
 
 She has an uncanny ability to ___complex algorithmic concepts into easily understandable terms.
@@ -4605,12 +6555,22 @@ Explanation: 'Elucidate' means to make something clear, explain, or clarify thor
 
 ---
 
-## Problem 196 (ID: `SEC0405_SUPER30_Q08`)
+## Problem 196  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_SUPER30_Q08`)
 - **Source**: CampusMonk (PYQ - Verbal Assorted Super 30.pdf)
 - **Sub-Domain Focus**: Sentence Completion: Diction & Phrasal Verbs
 - **Visual Reference Plate**: `images/eng_verbal_assorted_super30_page_08.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Pick out the most effective word from the given options to fill in the blank meaningfully:
 
 The board members expressed deep ___regarding the proposed merger, citing potential antitrust scrutiny.
@@ -4629,12 +6589,22 @@ Explanation: In corporate governance, having 'reservations' means having doubts,
 
 ---
 
-## Problem 197 (ID: `SEC0405_PYQ50_Q21`)
+## Problem 197  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q21`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Sentence Completion: Prepositional Idioms
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_07.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 The data collected from the survey are not reliable.
 
 ### Options
@@ -4651,12 +6621,22 @@ The data collected from the survey are not reliable.
 
 ---
 
-## Problem 198 (ID: `SEC0405_PYQ50_Q22`)
+## Problem 198  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q22`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Sentence Completion: Prepositions
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_07.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Had I known about the traffic, I would have left earlier.
 
 ### Options
@@ -4673,12 +6653,22 @@ Means of transport idiomatically uses 'by train'.
 
 ---
 
-## Problem 199 (ID: `SEC0405_PYQ50_Q23`)
+## Problem 199  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q23`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Sentence Completion: Prepositions
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_07.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 He is not only a great speaker but also a talented writer.
 
 ### Options
@@ -4695,12 +6685,22 @@ He is not only a great speaker but also a talented writer.
 
 ---
 
-## Problem 200 (ID: `SEC0405_PYQ50_Q24`)
+## Problem 200  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q24`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Sentence Completion: Phrasal Idioms
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_07.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Being a rainy day, we decided to stay indoors.
 
 ### Options
@@ -4717,12 +6717,22 @@ Standard professional closing idiom followed by gerund.
 
 ---
 
-## Problem 201 (ID: `SEC0405_PYQ50_Q25`)
+## Problem 201  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q25`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Sentence Completion: Concessive Connectors
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_07.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 I am looking forward to meet you next week.
 
 ### Options
@@ -4739,12 +6749,22 @@ Concessive preposition 'despite' introduces noun phrase contrast.
 
 ---
 
-## Problem 202 (ID: `SEC0405_PYQ50_Q26`)
+## Problem 202  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q26`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Sentence Completion: Subordinate Conjunctions
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_08.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 The two brothers often quarrel between themselves.
 
 ### Options
@@ -4761,12 +6781,22 @@ Concessive conjunction 'although' introduces full subordinate clause.
 
 ---
 
-## Problem 203 (ID: `SEC0405_PYQ50_Q27`)
+## Problem 203  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q27`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Sentence Completion: Purpose Clauses
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_08.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 If you would have practiced more, you would have won the match.
 
 ### Options
@@ -4783,12 +6813,22 @@ Adverbial clause of purpose takes 'so that' followed by modal 'could'.
 
 ---
 
-## Problem 204 (ID: `SEC0405_PYQ50_Q28`)
+## Problem 204  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q28`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Sentence Completion: Preposition Choice
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_08.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 No sooner did the bell ring when the students rushed out.
 
 ### Options
@@ -4805,12 +6845,22 @@ No sooner did the bell ring when the students rushed out.
 
 ---
 
-## Problem 205 (ID: `SEC0405_PYQ50_Q29`)
+## Problem 205  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q29`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Sentence Completion: Causal Connectors
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_08.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 She is more taller than her sister.
 
 ### Options
@@ -4827,12 +6877,22 @@ She is more taller than her sister.
 
 ---
 
-## Problem 206 (ID: `SEC0405_PYQ50_Q30`)
+## Problem 206  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q30`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Sentence Completion: Correlative Conjunctions
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_08.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 The committee have submitted its report.
 
 ### Options
@@ -4848,12 +6908,22 @@ The committee have submitted its report.
 
 ---
 
-## Problem 207 (ID: `SEC0405_PYQ50_Q39`)
+## Problem 207  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q39`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Vocabulary: Synonyms
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_10.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 The politician's speech was filled with ______ promises that were unlikely
 to be fulfilled.
 
@@ -4871,12 +6941,22 @@ Synonym: Pragmatic means dealing with things sensibly and realistically; practic
 
 ---
 
-## Problem 208 (ID: `SEC0405_PYQ50_Q44`)
+## Problem 208  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q44`)
 - **Source**: CampusMonk (Verbal Ability.pdf)
 - **Sub-Domain Focus**: Para Jumbles: Sentence Ordering
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_12.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 A. It is the process of converting waste materials into new
 objects. 
 B. This not only conserves resources but also reduces landfill
@@ -4899,12 +6979,22 @@ Sentence C defines recycling, A explains process, D lists materials, B highlight
 
 ---
 
-## Problem 209 (ID: `TOPMATE_GRAMMAR_Q03`)
+## Problem 209  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q03`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_001.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank with the correct preposition: The solution was found accident.
 
 ### Options
@@ -4921,12 +7011,22 @@ The correct phrase is "by accident."
 
 ---
 
-## Problem 210 (ID: `TOPMATE_GRAMMAR_Q08`)
+## Problem 210  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q08`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_003.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blanks with the correct tense: If you (leave) now, you (reach) on time.
 
 ### Options
@@ -4943,12 +7043,22 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 
 ---
 
-## Problem 211 (ID: `TOPMATE_GRAMMAR_Q14`)
+## Problem 211  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q14`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_005.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank: Scarcely had he entered the room the lights went off.
 
 ### Options
@@ -4965,12 +7075,22 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 
 ---
 
-## Problem 212 (ID: `TOPMATE_GRAMMAR_Q18`)
+## Problem 212  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q18`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_006.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank with the correct conjunction: The book was interesting lengthy.
 
 ### Options
@@ -4987,12 +7107,22 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 
 ---
 
-## Problem 213 (ID: `TOPMATE_GRAMMAR_Q22`)
+## Problem 213  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q22`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_007.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blanks with the most appropriate option: The research findings were not only insightful but also for further studies in the field of artificial intelligence.
 
 ### Options
@@ -5009,12 +7139,22 @@ Fill in the blanks with the most appropriate option: The research findings were 
 
 ---
 
-## Problem 214 (ID: `TOPMATE_GRAMMAR_Q27`)
+## Problem 214  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q27`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_009.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Choose the correct option to fill in the blank: The new policies aim to reduce inefficiencies in the system and enhance overall productivity.
 
 ### Options
@@ -5031,12 +7171,22 @@ Both verbs should be in their base forms to match the parallel structure.
 
 ---
 
-## Problem 215 (ID: `TOPMATE_GRAMMAR_Q32`)
+## Problem 215  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q32`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_011.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank with the correct option: The teacher said that the Earth round.
 
 ### Options
@@ -5053,12 +7203,22 @@ Universal truths are expressed in the present tense.
 
 ---
 
-## Problem 216 (ID: `TOPMATE_GRAMMAR_Q34`)
+## Problem 216  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q34`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_012.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Choose the correct word to fill in the blank: The manager will give you the necessary to complete the project.
 
 ### Options
@@ -5075,12 +7235,22 @@ Choose the correct word to fill in the blank: The manager will give you the nece
 
 ---
 
-## Problem 217 (ID: `TOPMATE_GRAMMAR_Q39`)
+## Problem 217  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q39`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_013.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank: If he the train, he would have arrived on time.
 
 ### Options
@@ -5097,12 +7267,22 @@ This is a third conditional sentence requiring "had caught."
 
 ---
 
-## Problem 218 (ID: `TOPMATE_GRAMMAR_Q42`)
+## Problem 218  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q42`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_014.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blanks: The company's policies are designed to productivity and employee satisfaction.
 
 ### Options
@@ -5119,12 +7299,22 @@ Both verbs need to match the infinitive structure.
 
 ---
 
-## Problem 219 (ID: `TOPMATE_GRAMMAR_Q46`)
+## Problem 219  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q46`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_016.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank: The scientist is known his groundbreaking research in artificial intelligence.
 
 ### Options
@@ -5141,12 +7331,22 @@ The correct preposition to indicate reason or recognition is "for."
 
 ---
 
-## Problem 220 (ID: `TOPMATE_GRAMMAR_Q50`)
+## Problem 220  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q50`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_017.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Choose the correct word to complete the sentence: Despite her efforts, she could not her mistake.
 
 ### Options
@@ -5163,12 +7363,22 @@ Choose the correct word to complete the sentence: Despite her efforts, she could
 
 ---
 
-## Problem 221 (ID: `TOPMATE_GRAMMAR_Q51`)
+## Problem 221  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q51`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_017.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank with the appropriate option: If you the instructions carefully, you would not have made such mistakes.
 
 ### Options
@@ -5185,12 +7395,22 @@ This is a third conditional sentence, requiring "had followed."
 
 ---
 
-## Problem 222 (ID: `TOPMATE_GRAMMAR_Q55`)
+## Problem 222  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q55`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_019.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank: By the time we reached the station, the train .
 
 ### Options
@@ -5207,12 +7427,22 @@ The past perfect tense "had left" is used for an action completed before another
 
 ---
 
-## Problem 223 (ID: `TOPMATE_GRAMMAR_Q59`)
+## Problem 223  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q59`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_020.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank: Neither of the two candidates suitable for the position.
 
 ### Options
@@ -5229,12 +7459,22 @@ Fill in the blank: Neither of the two candidates suitable for the position.
 
 ---
 
-## Problem 224 (ID: `TOPMATE_GRAMMAR_Q61`)
+## Problem 224  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q61`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_021.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank with the correct option: The project must be completed next Friday.
 
 ### Options
@@ -5251,12 +7491,22 @@ Fill in the blank with the correct option: The project must be completed next Fr
 
 ---
 
-## Problem 225 (ID: `TOPMATE_GRAMMAR_Q64`)
+## Problem 225  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q64`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_022.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank: Hardly gone out when it began to rain.
 
 ### Options
@@ -5273,12 +7523,22 @@ Fill in the blank: Hardly gone out when it began to rain.
 
 ---
 
-## Problem 226 (ID: `TOPMATE_GRAMMAR_Q66`)
+## Problem 226  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q66`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_022.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Choose the correct word to complete the sentence: The company has decided to new employees for the upcoming project.
 
 ### Options
@@ -5295,12 +7555,22 @@ Choose the correct word to complete the sentence: The company has decided to new
 
 ---
 
-## Problem 227 (ID: `TOPMATE_GRAMMAR_Q69`)
+## Problem 227  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q69`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_023.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank with the correct article: He is honest man.
 
 ### Options
@@ -5317,12 +7587,22 @@ Fill in the blank with the correct article: He is honest man.
 
 ---
 
-## Problem 228 (ID: `TOPMATE_GRAMMAR_Q72`)
+## Problem 228  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q72`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_024.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank: If you had worked harder, you succeeded.
 
 ### Options
@@ -5339,12 +7619,22 @@ The conditional past requires "would have."
 
 ---
 
-## Problem 229 (ID: `TOPMATE_GRAMMAR_Q75`)
+## Problem 229  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q75`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_025.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank with the correct preposition: He was accused theft by his neighbors.
 
 ### Options
@@ -5361,12 +7651,22 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 
 ---
 
-## Problem 230 (ID: `TOPMATE_GRAMMAR_Q77`)
+## Problem 230  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q77`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_026.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank: The teacher told us that the Earth around the Sun.
 
 ### Options
@@ -5383,12 +7683,22 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 
 ---
 
-## Problem 231 (ID: `TOPMATE_GRAMMAR_Q80`)
+## Problem 231  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q80`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_027.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank: No sooner had he reached home it started raining.
 
 ### Options
@@ -5405,12 +7715,22 @@ Grammar rule application confirms `C` is the strictly standard and syntactically
 
 ---
 
-## Problem 232 (ID: `TOPMATE_GRAMMAR_Q82`)
+## Problem 232  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q82`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_027.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank with the correct option: Despite being rich, he is unhappy.
 
 ### Options
@@ -5427,12 +7747,22 @@ Grammar rule application confirms `C` is the strictly standard and syntactically
 
 ---
 
-## Problem 233 (ID: `TOPMATE_GRAMMAR_Q84`)
+## Problem 233  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `TOPMATE_GRAMMAR_Q84`)
 - **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
 - **Sub-Domain Focus**: English Grammar & Error Correction
 - **Visual Reference Plate**: `images/grammar_page_028.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank: He had to cancel the trip because of weather.
 
 ### Options
@@ -5449,12 +7779,22 @@ Fill in the blank: He had to cancel the trip because of weather.
 
 ---
 
-## Problem 234 (ID: `ITM-P01-Q41`)
+## Problem 234  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P01-Q41`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 1)
 - **Sub-Domain Focus**: Sentence Completion
 - **Visual Reference Plate**: `images/paper_01_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank: The startup's success proved ______; within a year it had vanished.
 
 ### Options
@@ -5471,12 +7811,22 @@ Fill in the blank: The startup's success proved ______; within a year it had van
 
 ---
 
-## Problem 235 (ID: `ITM-P02-Q41`)
+## Problem 235  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P02-Q41`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 2)
 - **Sub-Domain Focus**: Sentence Completion
 - **Visual Reference Plate**: `images/paper_02_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank: Despite the outage, the support team remained ______, calmly working through the 
 incident.
 
@@ -5494,12 +7844,22 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-## Problem 236 (ID: `ITM-P03-Q41`)
+## Problem 236  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P03-Q41`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 3)
 - **Sub-Domain Focus**: Sentence Completion
 - **Visual Reference Plate**: `images/paper_03_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank: The consultant's report was criticised for being  
 , offering broad generalisations 
 instead of concrete recommendations.
@@ -5518,12 +7878,22 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-## Problem 237 (ID: `ITM-P04-Q41`)
+## Problem 237  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P04-Q41`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 4)
 - **Sub-Domain Focus**: Sentence Completion
 - **Visual Reference Plate**: `images/paper_04_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank: Despite years of effort, the two departments remained ______ in their approaches, 
 unable to find common ground.
 
@@ -5541,12 +7911,22 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-## Problem 238 (ID: `ITM-P05-Q41`)
+## Problem 238  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P05-Q41`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 5)
 - **Sub-Domain Focus**: Sentence Completion
 - **Visual Reference Plate**: `images/paper_05_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank: The postmortem was praised for being ______ rather than accusatory, focusing on 
 systemic causes instead of individual blame.
 
@@ -5564,12 +7944,22 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-## Problem 239 (ID: `ITM-P06-Q41`)
+## Problem 239  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `ITM-P06-Q41`)
 - **Source**: College ITM Mock Test (Infosys System Engineer ITM Mock Paper 6)
 - **Sub-Domain Focus**: Sentence Completion
 - **Visual Reference Plate**: `images/paper_06_page_05.png`
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Fill in the blank: The startup's growth was ______; revenue tripled in a single quarter.
 
 ### Options

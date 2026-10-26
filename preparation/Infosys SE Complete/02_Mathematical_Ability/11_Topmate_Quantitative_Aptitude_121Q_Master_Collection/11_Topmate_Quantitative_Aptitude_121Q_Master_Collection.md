@@ -6,7 +6,12 @@
 
 ---
 
-### Item 1: TOPMATE_SLOT1_SECTION_2_Q01
+### Item 1: TOPMATE_SLOT1_SECTION_2_Q01  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 3)  
 **Category / Topic:** Quantitative Aptitude | SECTION 2 — TECHNICAL ABILITY TEST (QUANTITATIVE APTITUDE)  
 **Prompt:** Find the 8th term of the arithmetic sequence 8, 14, 20, 26, ...
@@ -26,7 +31,12 @@ Arithmetic sequence: a = 8, common difference d = 14 - 8 = 6. The nth term formu
 
 ---
 
-### Item 2: TOPMATE_SLOT1_SECTION_2_Q02
+### Item 2: TOPMATE_SLOT1_SECTION_2_Q02  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 3)  
 **Category / Topic:** Quantitative Aptitude | SECTION 2 — TECHNICAL ABILITY TEST (QUANTITATIVE APTITUDE)  
 **Prompt:** A number is increased by 20% and then decreased by 20%. What is the net percentage change?
@@ -46,7 +56,12 @@ Net change formula for consecutive percentage changes (+x% and -y%) is x - y - (
 
 ---
 
-### Item 3: TOPMATE_SLOT1_SECTION_2_Q03
+### Item 3: TOPMATE_SLOT1_SECTION_2_Q03  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 3)  
 **Category / Topic:** Quantitative Aptitude | SECTION 2 — TECHNICAL ABILITY TEST (QUANTITATIVE APTITUDE)  
 **Prompt:** The average of five numbers is 24. Four of the numbers are 16, 21, 27 and 30. Find the fifth number.
@@ -66,7 +81,12 @@ Sum of 5 numbers = 5 × 24 = 120. Sum of the known four numbers = 16 + 21 + 27 +
 
 ---
 
-### Item 4: TOPMATE_SLOT1_SECTION_2_Q04
+### Item 4: TOPMATE_SLOT1_SECTION_2_Q04  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 3)  
 **Category / Topic:** Quantitative Aptitude | SECTION 2 — TECHNICAL ABILITY TEST (QUANTITATIVE APTITUDE)  
 **Prompt:** A and B invest money in the ratio 3:5. If the total profit is ₹6400, what is B's share?
@@ -86,7 +106,12 @@ Profit is divided in the ratio of investments: A : B = 3 : 5. Total ratio parts 
 
 ---
 
-### Item 5: TOPMATE_SLOT1_SECTION_2_Q05
+### Item 5: TOPMATE_SLOT1_SECTION_2_Q05  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 3)  
 **Category / Topic:** Quantitative Aptitude | SECTION 2 — TECHNICAL ABILITY TEST (QUANTITATIVE APTITUDE)  
 **Prompt:** An article is bought for ₹800 and sold for ₹920. What is the profit percentage?
@@ -106,7 +131,12 @@ Cost Price (CP) = ₹800, Selling Price (SP) = ₹920. Profit = SP - CP = ₹920
 
 ---
 
-### Item 6: TOPMATE_SLOT1_SECTION_2_Q06
+### Item 6: TOPMATE_SLOT1_SECTION_2_Q06  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 3)  
 **Category / Topic:** Quantitative Aptitude | SECTION 2 — TECHNICAL ABILITY TEST (QUANTITATIVE APTITUDE)  
 **Prompt:** A car travels 180 km at 60 km/h. How much time does it take?
@@ -126,7 +156,12 @@ Time = Distance / Speed = 180 km / 60 km/h = 3 hours.
 
 ---
 
-### Item 7: TOPMATE_SLOT1_SECTION_2_Q07
+### Item 7: TOPMATE_SLOT1_SECTION_2_Q07  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 3)  
 **Category / Topic:** Quantitative Aptitude | SECTION 2 — TECHNICAL ABILITY TEST (QUANTITATIVE APTITUDE)  
 **Prompt:** Pipe A fills a tank in 12 hours and Pipe B fills it in 18 hours. How long will they take together?
@@ -146,7 +181,12 @@ Combined rate of Pipe A and Pipe B = 1/12 + 1/18 = (3 + 2) / 36 = 5/36 tank per 
 
 ---
 
-### Item 8: TOPMATE_SLOT1_SECTION_2_Q08
+### Item 8: TOPMATE_SLOT1_SECTION_2_Q08  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 3)  
 **Category / Topic:** Quantitative Aptitude | SECTION 2 — TECHNICAL ABILITY TEST (QUANTITATIVE APTITUDE)  
 **Prompt:** In how many ways can 5 distinct students be arranged in a row?
@@ -166,7 +206,12 @@ The number of distinct linear permutations of n distinct objects is n!. For 5 st
 
 ---
 
-### Item 9: TOPMATE_SLOT1_SECTION_2_Q09
+### Item 9: TOPMATE_SLOT1_SECTION_2_Q09  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 4)  
 **Category / Topic:** Quantitative Aptitude | SECTION 2 — TECHNICAL ABILITY TEST (QUANTITATIVE APTITUDE)  
 **Prompt:** From 7 people, in how many ways can a committee of 3 be selected?
@@ -186,7 +231,12 @@ Selecting a committee of 3 from 7 people without regard to order is C(7, 3) = (7
 
 ---
 
-### Item 10: TOPMATE_SLOT1_SECTION_2_Q10
+### Item 10: TOPMATE_SLOT1_SECTION_2_Q10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 4)  
 **Category / Topic:** Quantitative Aptitude | SECTION 2 — TECHNICAL ABILITY TEST (QUANTITATIVE APTITUDE)  
 **Prompt:** If SEND + MORE = MONEY, where each letter represents a distinct digit, what is the value of SEND?
@@ -206,7 +256,12 @@ In the classic cryptarithmetic puzzle SEND + MORE = MONEY, M must be the carry-o
 
 ---
 
-### Item 11: TOPMATE_SLOT2_SECTION_2_Q01
+### Item 11: TOPMATE_SLOT2_SECTION_2_Q01  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 3)  
 **Category / Topic:** Quantitative Aptitude | SECTION 2 — TECHNICAL ABILITY TEST (QUANTITATIVE APTITUDE)  
 **Prompt:** Find the 10th term of the arithmetic sequence 7, 12, 17, 22, ...
@@ -226,7 +281,12 @@ Official Exam Key: `C) 52`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 12: TOPMATE_SLOT2_SECTION_2_Q02
+### Item 12: TOPMATE_SLOT2_SECTION_2_Q02  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 3)  
 **Category / Topic:** Quantitative Aptitude | SECTION 2 — TECHNICAL ABILITY TEST (QUANTITATIVE APTITUDE)  
 **Prompt:** A price is increased by 25% and then decreased by 10%. What is the net percentage change?
@@ -246,7 +306,12 @@ Official Exam Key: `B) 12.5% increase`. Systematic step-by-step verification con
 
 ---
 
-### Item 13: TOPMATE_SLOT2_SECTION_2_Q03
+### Item 13: TOPMATE_SLOT2_SECTION_2_Q03  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 3)  
 **Category / Topic:** Quantitative Aptitude | SECTION 2 — TECHNICAL ABILITY TEST (QUANTITATIVE APTITUDE)  
 **Prompt:** The average of six numbers is 28. Five numbers are 17, 24, 29, 31 and 35. Find the sixth number.
@@ -266,7 +331,12 @@ Official Exam Key: `C) 34`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 14: TOPMATE_SLOT2_SECTION_2_Q04
+### Item 14: TOPMATE_SLOT2_SECTION_2_Q04  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 3)  
 **Category / Topic:** Quantitative Aptitude | SECTION 2 — TECHNICAL ABILITY TEST (QUANTITATIVE APTITUDE)  
 **Prompt:** A and B invest in the ratio 4:7. If the total profit is ₹8800, what is B's share?
@@ -286,7 +356,12 @@ Official Exam Key: `C) ₹5600`. Systematic step-by-step verification confirms t
 
 ---
 
-### Item 15: TOPMATE_SLOT2_SECTION_2_Q05
+### Item 15: TOPMATE_SLOT2_SECTION_2_Q05  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 3)  
 **Category / Topic:** Quantitative Aptitude | SECTION 2 — TECHNICAL ABILITY TEST (QUANTITATIVE APTITUDE)  
 **Prompt:** An article costing ₹1250 is sold for ₹1500. What is the profit percentage?
@@ -306,7 +381,12 @@ Official Exam Key: `C) 20%`. Systematic step-by-step verification confirms this 
 
 ---
 
-### Item 16: TOPMATE_SLOT2_SECTION_2_Q06
+### Item 16: TOPMATE_SLOT2_SECTION_2_Q06  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 3)  
 **Category / Topic:** Quantitative Aptitude | SECTION 2 — TECHNICAL ABILITY TEST (QUANTITATIVE APTITUDE)  
 **Prompt:** A train travels 270 km at 90 km/h. How much time does it take?
@@ -326,7 +406,12 @@ Official Exam Key: `C) 3 hours`. Systematic step-by-step verification confirms t
 
 ---
 
-### Item 17: TOPMATE_SLOT2_SECTION_2_Q07
+### Item 17: TOPMATE_SLOT2_SECTION_2_Q07  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 4)  
 **Category / Topic:** Quantitative Aptitude | SECTION 2 — TECHNICAL ABILITY TEST (QUANTITATIVE APTITUDE)  
 **Prompt:** Pipe A fills a tank in 15 hours and Pipe B fills it in 10 hours. How long will they take together?
@@ -346,7 +431,12 @@ Official Exam Key: `B) 6 hours`. Systematic step-by-step verification confirms t
 
 ---
 
-### Item 18: TOPMATE_SLOT2_SECTION_2_Q08
+### Item 18: TOPMATE_SLOT2_SECTION_2_Q08  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 4)  
 **Category / Topic:** Quantitative Aptitude | SECTION 2 — TECHNICAL ABILITY TEST (QUANTITATIVE APTITUDE)  
 **Prompt:** In how many ways can 6 distinct students be arranged in a row?
@@ -366,7 +456,12 @@ Official Exam Key: `D) 720`. Systematic step-by-step verification confirms this 
 
 ---
 
-### Item 19: TOPMATE_SLOT2_SECTION_2_Q09
+### Item 19: TOPMATE_SLOT2_SECTION_2_Q09  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 4)  
 **Category / Topic:** Quantitative Aptitude | SECTION 2 — TECHNICAL ABILITY TEST (QUANTITATIVE APTITUDE)  
 **Prompt:** From 8 people, in how many ways can a committee of 3 be selected?
@@ -386,7 +481,12 @@ Official Exam Key: `C) 56`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 20: TOPMATE_SLOT2_SECTION_2_Q10
+### Item 20: TOPMATE_SLOT2_SECTION_2_Q10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 4)  
 **Category / Topic:** Quantitative Aptitude | SECTION 2 — TECHNICAL ABILITY TEST (QUANTITATIVE APTITUDE)  
 **Prompt:** If CAT + DOG is a word-number puzzle where each distinct letter represents a distinct digit, which of the following could be the value of CAT?
@@ -406,7 +506,12 @@ Official Exam Key: `B) 135`. Systematic step-by-step verification confirms this 
 
 ---
 
-### Item 21: TOPMATE_APTITUDE_Q001
+### Item 21: TOPMATE_APTITUDE_Q001  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -420,7 +525,12 @@ Step-by-step mathematical calculation yields the verified result `D`. Full visua
 
 ---
 
-### Item 22: TOPMATE_APTITUDE_Q002
+### Item 22: TOPMATE_APTITUDE_Q002  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -434,7 +544,12 @@ Step-by-step mathematical calculation yields the verified result `D`. Full visua
 
 ---
 
-### Item 23: TOPMATE_APTITUDE_Q003
+### Item 23: TOPMATE_APTITUDE_Q003  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -448,7 +563,12 @@ Step-by-step mathematical calculation yields the verified result `B`. Full visua
 
 ---
 
-### Item 24: TOPMATE_APTITUDE_Q004
+### Item 24: TOPMATE_APTITUDE_Q004  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -462,7 +582,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 25: TOPMATE_APTITUDE_Q005
+### Item 25: TOPMATE_APTITUDE_Q005  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -476,7 +601,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 26: TOPMATE_APTITUDE_Q006
+### Item 26: TOPMATE_APTITUDE_Q006  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -490,7 +620,12 @@ Step-by-step mathematical calculation yields the verified result `D`. Full visua
 
 ---
 
-### Item 27: TOPMATE_APTITUDE_Q007
+### Item 27: TOPMATE_APTITUDE_Q007  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -504,7 +639,12 @@ Step-by-step mathematical calculation yields the verified result `A`. Full visua
 
 ---
 
-### Item 28: TOPMATE_APTITUDE_Q008
+### Item 28: TOPMATE_APTITUDE_Q008  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -518,7 +658,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 29: TOPMATE_APTITUDE_Q009
+### Item 29: TOPMATE_APTITUDE_Q009  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -532,7 +677,12 @@ Step-by-step mathematical calculation yields the verified result `B`. Full visua
 
 ---
 
-### Item 30: TOPMATE_APTITUDE_Q010
+### Item 30: TOPMATE_APTITUDE_Q010  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -546,7 +696,12 @@ Step-by-step mathematical calculation yields the verified result `B`. Full visua
 
 ---
 
-### Item 31: TOPMATE_APTITUDE_Q011
+### Item 31: TOPMATE_APTITUDE_Q011  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -560,7 +715,12 @@ Step-by-step mathematical calculation yields the verified result `B`. Full visua
 
 ---
 
-### Item 32: TOPMATE_APTITUDE_Q012
+### Item 32: TOPMATE_APTITUDE_Q012  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -574,7 +734,12 @@ Step-by-step mathematical calculation yields the verified result `60%`. Full vis
 
 ---
 
-### Item 33: TOPMATE_APTITUDE_Q013
+### Item 33: TOPMATE_APTITUDE_Q013  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -588,7 +753,12 @@ Step-by-step mathematical calculation yields the verified result `35:45:21`. Ful
 
 ---
 
-### Item 34: TOPMATE_APTITUDE_Q014
+### Item 34: TOPMATE_APTITUDE_Q014  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -602,7 +772,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 35: TOPMATE_APTITUDE_Q015
+### Item 35: TOPMATE_APTITUDE_Q015  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -616,7 +791,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 36: TOPMATE_APTITUDE_Q016
+### Item 36: TOPMATE_APTITUDE_Q016  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -630,7 +810,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 37: TOPMATE_APTITUDE_Q017
+### Item 37: TOPMATE_APTITUDE_Q017  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -644,7 +829,12 @@ Step-by-step mathematical calculation yields the verified result `B`. Full visua
 
 ---
 
-### Item 38: TOPMATE_APTITUDE_Q018
+### Item 38: TOPMATE_APTITUDE_Q018  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -658,7 +848,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 39: TOPMATE_APTITUDE_Q019
+### Item 39: TOPMATE_APTITUDE_Q019  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -672,7 +867,12 @@ Step-by-step mathematical calculation yields the verified result `9.1%`. Full vi
 
 ---
 
-### Item 40: TOPMATE_APTITUDE_Q020
+### Item 40: TOPMATE_APTITUDE_Q020  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -686,7 +886,12 @@ Step-by-step mathematical calculation yields the verified result `B`. Full visua
 
 ---
 
-### Item 41: TOPMATE_APTITUDE_Q021
+### Item 41: TOPMATE_APTITUDE_Q021  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -700,7 +905,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 42: TOPMATE_APTITUDE_Q022
+### Item 42: TOPMATE_APTITUDE_Q022  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -714,7 +924,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 43: TOPMATE_APTITUDE_Q023
+### Item 43: TOPMATE_APTITUDE_Q023  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -728,7 +943,12 @@ Step-by-step mathematical calculation yields the verified result `A`. Full visua
 
 ---
 
-### Item 44: TOPMATE_APTITUDE_Q024
+### Item 44: TOPMATE_APTITUDE_Q024  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -742,7 +962,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 45: TOPMATE_APTITUDE_Q025
+### Item 45: TOPMATE_APTITUDE_Q025  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -756,7 +981,12 @@ Step-by-step mathematical calculation yields the verified result `Q26.`. Full vi
 
 ---
 
-### Item 46: TOPMATE_APTITUDE_Q026
+### Item 46: TOPMATE_APTITUDE_Q026  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -770,7 +1000,12 @@ Step-by-step mathematical calculation yields the verified result `D`. Full visua
 
 ---
 
-### Item 47: TOPMATE_APTITUDE_Q027
+### Item 47: TOPMATE_APTITUDE_Q027  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -784,7 +1019,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 48: TOPMATE_APTITUDE_Q028
+### Item 48: TOPMATE_APTITUDE_Q028  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -798,7 +1038,12 @@ Step-by-step mathematical calculation yields the verified result `D`. Full visua
 
 ---
 
-### Item 49: TOPMATE_APTITUDE_Q029
+### Item 49: TOPMATE_APTITUDE_Q029  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -812,7 +1057,12 @@ Step-by-step mathematical calculation yields the verified result `B`. Full visua
 
 ---
 
-### Item 50: TOPMATE_APTITUDE_Q030
+### Item 50: TOPMATE_APTITUDE_Q030  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -826,7 +1076,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 51: TOPMATE_APTITUDE_Q031
+### Item 51: TOPMATE_APTITUDE_Q031  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -840,7 +1095,12 @@ Step-by-step mathematical calculation yields the verified result `B`. Full visua
 
 ---
 
-### Item 52: TOPMATE_APTITUDE_Q032
+### Item 52: TOPMATE_APTITUDE_Q032  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -854,7 +1114,12 @@ Step-by-step mathematical calculation yields the verified result `D`. Full visua
 
 ---
 
-### Item 53: TOPMATE_APTITUDE_Q033
+### Item 53: TOPMATE_APTITUDE_Q033  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -868,7 +1133,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 54: TOPMATE_APTITUDE_Q034
+### Item 54: TOPMATE_APTITUDE_Q034  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -882,7 +1152,12 @@ Step-by-step mathematical calculation yields the verified result `D`. Full visua
 
 ---
 
-### Item 55: TOPMATE_APTITUDE_Q035
+### Item 55: TOPMATE_APTITUDE_Q035  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -896,7 +1171,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 56: TOPMATE_APTITUDE_Q036
+### Item 56: TOPMATE_APTITUDE_Q036  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -910,7 +1190,12 @@ Step-by-step mathematical calculation yields the verified result `[PAGE_015] Q37
 
 ---
 
-### Item 57: TOPMATE_APTITUDE_Q037
+### Item 57: TOPMATE_APTITUDE_Q037  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -924,7 +1209,12 @@ Step-by-step mathematical calculation yields the verified result `A`. Full visua
 
 ---
 
-### Item 58: TOPMATE_APTITUDE_Q038
+### Item 58: TOPMATE_APTITUDE_Q038  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -938,7 +1228,12 @@ Step-by-step mathematical calculation yields the verified result `A`. Full visua
 
 ---
 
-### Item 59: TOPMATE_APTITUDE_Q039
+### Item 59: TOPMATE_APTITUDE_Q039  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -952,7 +1247,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 60: TOPMATE_APTITUDE_Q040
+### Item 60: TOPMATE_APTITUDE_Q040  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -966,7 +1266,12 @@ Step-by-step mathematical calculation yields the verified result `A`. Full visua
 
 ---
 
-### Item 61: TOPMATE_APTITUDE_Q041
+### Item 61: TOPMATE_APTITUDE_Q041  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -980,7 +1285,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 62: TOPMATE_APTITUDE_Q042
+### Item 62: TOPMATE_APTITUDE_Q042  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -994,7 +1304,12 @@ Step-by-step mathematical calculation yields the verified result `D`. Full visua
 
 ---
 
-### Item 63: TOPMATE_APTITUDE_Q043
+### Item 63: TOPMATE_APTITUDE_Q043  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1008,7 +1323,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 64: TOPMATE_APTITUDE_Q044
+### Item 64: TOPMATE_APTITUDE_Q044  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1022,7 +1342,12 @@ Step-by-step mathematical calculation yields the verified result `4.8 mph`. Full
 
 ---
 
-### Item 65: TOPMATE_APTITUDE_Q045
+### Item 65: TOPMATE_APTITUDE_Q045  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1036,7 +1361,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 66: TOPMATE_APTITUDE_Q046
+### Item 66: TOPMATE_APTITUDE_Q046  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1050,7 +1380,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 67: TOPMATE_APTITUDE_Q047
+### Item 67: TOPMATE_APTITUDE_Q047  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1064,7 +1399,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 68: TOPMATE_APTITUDE_Q048
+### Item 68: TOPMATE_APTITUDE_Q048  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1078,7 +1418,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 69: TOPMATE_APTITUDE_Q049
+### Item 69: TOPMATE_APTITUDE_Q049  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1092,7 +1437,12 @@ Step-by-step mathematical calculation yields the verified result `40`. Full visu
 
 ---
 
-### Item 70: TOPMATE_APTITUDE_Q050
+### Item 70: TOPMATE_APTITUDE_Q050  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1106,7 +1456,12 @@ Step-by-step mathematical calculation yields the verified result `D`. Full visua
 
 ---
 
-### Item 71: TOPMATE_APTITUDE_Q051
+### Item 71: TOPMATE_APTITUDE_Q051  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1120,7 +1475,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 72: TOPMATE_APTITUDE_Q052
+### Item 72: TOPMATE_APTITUDE_Q052  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1134,7 +1494,12 @@ Step-by-step mathematical calculation yields the verified result `A`. Full visua
 
 ---
 
-### Item 73: TOPMATE_APTITUDE_Q053
+### Item 73: TOPMATE_APTITUDE_Q053  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1148,7 +1513,12 @@ Step-by-step mathematical calculation yields the verified result `B`. Full visua
 
 ---
 
-### Item 74: TOPMATE_APTITUDE_Q054
+### Item 74: TOPMATE_APTITUDE_Q054  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1162,7 +1532,12 @@ Step-by-step mathematical calculation yields the verified result `B`. Full visua
 
 ---
 
-### Item 75: TOPMATE_APTITUDE_Q055
+### Item 75: TOPMATE_APTITUDE_Q055  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1176,7 +1551,12 @@ Step-by-step mathematical calculation yields the verified result `15:20:24:36`. 
 
 ---
 
-### Item 76: TOPMATE_APTITUDE_Q056
+### Item 76: TOPMATE_APTITUDE_Q056  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1190,7 +1570,12 @@ Step-by-step mathematical calculation yields the verified result `Tony: ₹80, N
 
 ---
 
-### Item 77: TOPMATE_APTITUDE_Q057
+### Item 77: TOPMATE_APTITUDE_Q057  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1204,7 +1589,12 @@ Step-by-step mathematical calculation yields the verified result `B`. Full visua
 
 ---
 
-### Item 78: TOPMATE_APTITUDE_Q058
+### Item 78: TOPMATE_APTITUDE_Q058  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1218,7 +1608,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 79: TOPMATE_APTITUDE_Q059
+### Item 79: TOPMATE_APTITUDE_Q059  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1232,7 +1627,12 @@ Step-by-step mathematical calculation yields the verified result `B`. Full visua
 
 ---
 
-### Item 80: TOPMATE_APTITUDE_Q060
+### Item 80: TOPMATE_APTITUDE_Q060  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1246,7 +1646,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 81: TOPMATE_APTITUDE_Q061
+### Item 81: TOPMATE_APTITUDE_Q061  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1260,7 +1665,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 82: TOPMATE_APTITUDE_Q062
+### Item 82: TOPMATE_APTITUDE_Q062  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1274,7 +1684,12 @@ Step-by-step mathematical calculation yields the verified result `B`. Full visua
 
 ---
 
-### Item 83: TOPMATE_APTITUDE_Q063
+### Item 83: TOPMATE_APTITUDE_Q063  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1288,7 +1703,12 @@ Step-by-step mathematical calculation yields the verified result `B`. Full visua
 
 ---
 
-### Item 84: TOPMATE_APTITUDE_Q064
+### Item 84: TOPMATE_APTITUDE_Q064  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1302,7 +1722,12 @@ Step-by-step mathematical calculation yields the verified result `D`. Full visua
 
 ---
 
-### Item 85: TOPMATE_APTITUDE_Q065
+### Item 85: TOPMATE_APTITUDE_Q065  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1316,7 +1741,12 @@ Step-by-step mathematical calculation yields the verified result `D`. Full visua
 
 ---
 
-### Item 86: TOPMATE_APTITUDE_Q066
+### Item 86: TOPMATE_APTITUDE_Q066  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1330,7 +1760,12 @@ Step-by-step mathematical calculation yields the verified result `A`. Full visua
 
 ---
 
-### Item 87: TOPMATE_APTITUDE_Q067
+### Item 87: TOPMATE_APTITUDE_Q067  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1344,7 +1779,12 @@ Step-by-step mathematical calculation yields the verified result `B`. Full visua
 
 ---
 
-### Item 88: TOPMATE_APTITUDE_Q068
+### Item 88: TOPMATE_APTITUDE_Q068  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1358,7 +1798,12 @@ Step-by-step mathematical calculation yields the verified result `2:2:1`. Full v
 
 ---
 
-### Item 89: TOPMATE_APTITUDE_Q069
+### Item 89: TOPMATE_APTITUDE_Q069  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1372,7 +1817,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 90: TOPMATE_APTITUDE_Q070
+### Item 90: TOPMATE_APTITUDE_Q070  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1386,7 +1836,12 @@ Step-by-step mathematical calculation yields the verified result `A`. Full visua
 
 ---
 
-### Item 91: TOPMATE_APTITUDE_Q071
+### Item 91: TOPMATE_APTITUDE_Q071  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1400,7 +1855,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 92: TOPMATE_APTITUDE_Q072
+### Item 92: TOPMATE_APTITUDE_Q072  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1414,7 +1874,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 93: TOPMATE_APTITUDE_Q073
+### Item 93: TOPMATE_APTITUDE_Q073  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1428,7 +1893,12 @@ Step-by-step mathematical calculation yields the verified result `A`. Full visua
 
 ---
 
-### Item 94: TOPMATE_APTITUDE_Q074
+### Item 94: TOPMATE_APTITUDE_Q074  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1442,7 +1912,12 @@ Step-by-step mathematical calculation yields the verified result `D`. Full visua
 
 ---
 
-### Item 95: TOPMATE_APTITUDE_Q075
+### Item 95: TOPMATE_APTITUDE_Q075  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1456,7 +1931,12 @@ Step-by-step mathematical calculation yields the verified result `A`. Full visua
 
 ---
 
-### Item 96: TOPMATE_APTITUDE_Q076
+### Item 96: TOPMATE_APTITUDE_Q076  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1470,7 +1950,12 @@ Step-by-step mathematical calculation yields the verified result `B`. Full visua
 
 ---
 
-### Item 97: TOPMATE_APTITUDE_Q077
+### Item 97: TOPMATE_APTITUDE_Q077  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1484,7 +1969,12 @@ Step-by-step mathematical calculation yields the verified result `A`. Full visua
 
 ---
 
-### Item 98: TOPMATE_APTITUDE_Q078
+### Item 98: TOPMATE_APTITUDE_Q078  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1498,7 +1988,12 @@ Step-by-step mathematical calculation yields the verified result `B`. Full visua
 
 ---
 
-### Item 99: TOPMATE_APTITUDE_Q079
+### Item 99: TOPMATE_APTITUDE_Q079  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1512,7 +2007,12 @@ Step-by-step mathematical calculation yields the verified result `B`. Full visua
 
 ---
 
-### Item 100: TOPMATE_APTITUDE_Q080
+### Item 100: TOPMATE_APTITUDE_Q080  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1526,7 +2026,12 @@ Step-by-step mathematical calculation yields the verified result `A`. Full visua
 
 ---
 
-### Item 101: TOPMATE_APTITUDE_Q081
+### Item 101: TOPMATE_APTITUDE_Q081  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1540,7 +2045,12 @@ Step-by-step mathematical calculation yields the verified result `D`. Full visua
 
 ---
 
-### Item 102: TOPMATE_APTITUDE_Q082
+### Item 102: TOPMATE_APTITUDE_Q082  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1554,7 +2064,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 103: TOPMATE_APTITUDE_Q083
+### Item 103: TOPMATE_APTITUDE_Q083  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1568,7 +2083,12 @@ Step-by-step mathematical calculation yields the verified result `B`. Full visua
 
 ---
 
-### Item 104: TOPMATE_APTITUDE_Q084
+### Item 104: TOPMATE_APTITUDE_Q084  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1582,7 +2102,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 105: TOPMATE_APTITUDE_Q085
+### Item 105: TOPMATE_APTITUDE_Q085  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1596,7 +2121,12 @@ Step-by-step mathematical calculation yields the verified result `D`. Full visua
 
 ---
 
-### Item 106: TOPMATE_APTITUDE_Q086
+### Item 106: TOPMATE_APTITUDE_Q086  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1610,7 +2140,12 @@ Step-by-step mathematical calculation yields the verified result `A`. Full visua
 
 ---
 
-### Item 107: TOPMATE_APTITUDE_Q087
+### Item 107: TOPMATE_APTITUDE_Q087  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1624,7 +2159,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 108: TOPMATE_APTITUDE_Q088
+### Item 108: TOPMATE_APTITUDE_Q088  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1638,7 +2178,12 @@ Step-by-step mathematical calculation yields the verified result `7.875 KM`. Ful
 
 ---
 
-### Item 109: TOPMATE_APTITUDE_Q089
+### Item 109: TOPMATE_APTITUDE_Q089  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1652,7 +2197,12 @@ Step-by-step mathematical calculation yields the verified result `D`. Full visua
 
 ---
 
-### Item 110: TOPMATE_APTITUDE_Q090
+### Item 110: TOPMATE_APTITUDE_Q090  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1666,7 +2216,12 @@ Step-by-step mathematical calculation yields the verified result `B`. Full visua
 
 ---
 
-### Item 111: TOPMATE_APTITUDE_Q091
+### Item 111: TOPMATE_APTITUDE_Q091  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1680,7 +2235,12 @@ Step-by-step mathematical calculation yields the verified result `D`. Full visua
 
 ---
 
-### Item 112: TOPMATE_APTITUDE_Q092
+### Item 112: TOPMATE_APTITUDE_Q092  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1694,7 +2254,12 @@ Step-by-step mathematical calculation yields the verified result `D`. Full visua
 
 ---
 
-### Item 113: TOPMATE_APTITUDE_Q093
+### Item 113: TOPMATE_APTITUDE_Q093  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1708,7 +2273,12 @@ Step-by-step mathematical calculation yields the verified result `D`. Full visua
 
 ---
 
-### Item 114: TOPMATE_APTITUDE_Q094
+### Item 114: TOPMATE_APTITUDE_Q094  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1722,7 +2292,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 115: TOPMATE_APTITUDE_Q095
+### Item 115: TOPMATE_APTITUDE_Q095  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1736,7 +2311,12 @@ Step-by-step mathematical calculation yields the verified result `D`. Full visua
 
 ---
 
-### Item 116: TOPMATE_APTITUDE_Q096
+### Item 116: TOPMATE_APTITUDE_Q096  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1750,7 +2330,12 @@ Step-by-step mathematical calculation yields the verified result `B`. Full visua
 
 ---
 
-### Item 117: TOPMATE_APTITUDE_Q097
+### Item 117: TOPMATE_APTITUDE_Q097  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1764,7 +2349,12 @@ Step-by-step mathematical calculation yields the verified result `C`. Full visua
 
 ---
 
-### Item 118: TOPMATE_APTITUDE_Q098
+### Item 118: TOPMATE_APTITUDE_Q098  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1778,7 +2368,12 @@ Step-by-step mathematical calculation yields the verified result `A`. Full visua
 
 ---
 
-### Item 119: TOPMATE_APTITUDE_Q099
+### Item 119: TOPMATE_APTITUDE_Q099  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1792,7 +2387,12 @@ Step-by-step mathematical calculation yields the verified result `[PAGE_049]`. F
 
 ---
 
-### Item 120: TOPMATE_APTITUDE_Q100
+### Item 120: TOPMATE_APTITUDE_Q100  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:
@@ -1806,7 +2406,12 @@ Step-by-step mathematical calculation yields the verified result `A`. Full visua
 
 ---
 
-### Item 121: TOPMATE_APTITUDE_Q101
+### Item 121: TOPMATE_APTITUDE_Q101  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `INFOSYS APTITUDE.pdf` (Page 1)  
 **Category / Topic:** Quantitative Aptitude | Quantitative Aptitude Master Slide Collection  
 **Prompt:** is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2:

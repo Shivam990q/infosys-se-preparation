@@ -10,12 +10,22 @@
 
 ---
 
-## Problem 001 (ID: `SEC02_DI_PIE_Q01`)
+## Problem 001  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_DI_PIE_Q01`)
 - **Source Module**: `1. Most Most Imp - Data Interpretation`
 - **Source File**: `Data Interpretation Pie chart.pdf`
 - **Topic Domain**: **Pie Chart Expenditure & Budget Analysis**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions: The following pie chart shows the percentage distribution of expenses incurred by a publishing company in bringing out a book. Total cost of publishing is Rs. 1,00,000.
 Expenses: Paper Cost = 25%, Printing Cost = 20%, Binding = 20%, Royalty = 15%, Promotion Cost = 10%, Transportation = 10%.
 Question 1: If 5500 copies are published and the transportation cost on them amounts to Rs. 82,500, then what should be the selling price of the book so that the publisher can earn a profit of 25%?
@@ -45,12 +55,22 @@ Therefore, the selling price per copy should be Rs. 187.50.
 
 ---
 
-## Problem 002 (ID: `SEC02_DI_PIE_Q02`)
+## Problem 002  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_DI_PIE_Q02`)
 - **Source Module**: `1. Most Most Imp - Data Interpretation`
 - **Source File**: `Data Interpretation Pie chart.pdf`
 - **Topic Domain**: **Pie Chart Central Angle Calculation**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 What is the central angle corresponding to the cost incurred on Royalty?
 
 ### Options
@@ -75,12 +95,22 @@ Therefore, the central angle for Royalty is 54°.
 
 ---
 
-## Problem 003 (ID: `SEC02_DI_PIE_Q03`)
+## Problem 003  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_DI_PIE_Q03`)
 - **Source Module**: `1. Most Most Imp - Data Interpretation`
 - **Source File**: `Data Interpretation Pie chart.pdf`
 - **Topic Domain**: **Comparative Percentage in Pie Chart**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Paper cost is approximately what percent of the Printing cost?
 
 ### Options
@@ -105,12 +135,22 @@ Therefore, Paper cost is 125% of Printing cost.
 
 ---
 
-## Problem 004 (ID: `SEC02_DI_RADAR_Q01`)
+## Problem 004  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_DI_RADAR_Q01`)
 - **Source Module**: `1. Most Most Imp - Data Interpretation`
 - **Source File**: `Radar based Question.pdf`
 - **Topic Domain**: **Radar / Spider Graph Evaluation**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions: The radar chart shows the percentage of marks obtained by three students A, B, and C across 5 subjects: Physics (Max 100), Chemistry (Max 100), Mathematics (Max 100), English (Max 100), and Computer Science (Max 100).
 Student A scores: Physics = 80%, Chem = 70%, Math = 90%, Eng = 60%, CS = 85%.
 Student B scores: Physics = 75%, Chem = 85%, Math = 80%, Eng = 70%, CS = 90%.
@@ -143,12 +183,22 @@ Therefore, Student A's aggregate percentage is 77%.
 
 ---
 
-## Problem 005 (ID: `SEC02_DI_MISS_Q01`)
+## Problem 005  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_DI_MISS_Q01`)
 - **Source Module**: `1. Most Most Imp - Data Interpretation`
 - **Source File**: `Missing DI.pdf`
 - **Topic Domain**: **Missing Table Data Interpretation**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions: Study the missing data table regarding production (in thousands) and sales ratio of cars across 5 companies A, B, C, D, E.
 Company A: Total Production = 60, Ratio of Sedan to SUV = 3:2.
 Company B: Total Production = Missing [X], Ratio of Sedan to SUV = 5:3, Sedan sold = 50.
@@ -179,12 +229,22 @@ Therefore, total production is 80 thousand.
 
 ---
 
-## Problem 006 (ID: `SEC02_BOOK_P04_Q24`)
+## Problem 006  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P04_Q24`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 In how many different ways can the letters of 
 the word 'OPTICAL' be arranged so that the 
 vowels always come together?
@@ -207,12 +267,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 4, Problem 24). V
 
 ---
 
-## Problem 007 (ID: `SEC02_BOOK_P05_Q32`)
+## Problem 007  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P05_Q32`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 What is median, mode and mean of the 
 following? 
  
@@ -236,12 +306,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 5, Problem 32). V
 
 ---
 
-## Problem 008 (ID: `SEC02_BOOK_P05_Q33`)
+## Problem 008  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P05_Q33`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Find the range of the following data? 
  
 2,1,2,3,5,4,7,3,5,2,4
@@ -264,12 +344,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 5, Problem 33). V
 
 ---
 
-## Problem 009 (ID: `SEC02_BOOK_P05_Q34`)
+## Problem 009  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P05_Q34`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 What is median of the following data? 
  
 5,3,6,9,11,19,1
@@ -292,12 +382,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 5, Problem 34). V
 
 ---
 
-## Problem 010 (ID: `SEC02_BOOK_P06_Q35`)
+## Problem 010  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P06_Q35`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 What is the mean of the mode and the median 
 of the following data? 
  
@@ -321,12 +421,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 6, Problem 35). V
 
 ---
 
-## Problem 011 (ID: `SEC02_BOOK_P06_Q36`)
+## Problem 011  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P06_Q36`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Find the standard deviation of 
  
 11,7,10,13,9
@@ -349,12 +459,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 6, Problem 36). V
 
 ---
 
-## Problem 012 (ID: `SEC02_BOOK_P06_Q37`)
+## Problem 012  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P06_Q37`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Find the standard deviation of 
  
 10,11,12,9,8
@@ -377,12 +497,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 6, Problem 37). V
 
 ---
 
-## Problem 013 (ID: `SEC02_BOOK_P06_Q38`)
+## Problem 013  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P06_Q38`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 The mean of a distribution is 21 and the 
 standard deviation is 7. What is the value of 
 the coefficient variation in terms of 
@@ -406,12 +536,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 6, Problem 38). V
 
 ---
 
-## Problem 014 (ID: `SEC02_BOOK_P06_Q39`)
+## Problem 014  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P06_Q39`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 If the standard deviation of a population is 
 6.5, what would be the population variance?
 
@@ -433,12 +573,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 6, Problem 39). V
 
 ---
 
-## Problem 015 (ID: `SEC02_BOOK_P06_Q40`)
+## Problem 015  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P06_Q40`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 What is median of the following data? 
 -3,4,0,4,-2,-5,1,7,10,5?
 
@@ -460,12 +610,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 6, Problem 40). V
 
 ---
 
-## Problem 016 (ID: `SEC02_BOOK_P06_Q41`)
+## Problem 016  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P06_Q41`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 What is the standard deviation of the data 
 given below? 
  
@@ -489,12 +649,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 6, Problem 41). V
 
 ---
 
-## Problem 017 (ID: `SEC02_BOOK_P07_Q43`)
+## Problem 017  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P07_Q43`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Statements: 
  
 All new are modern 
@@ -527,12 +697,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 7, Problem 43). V
 
 ---
 
-## Problem 018 (ID: `SEC02_BOOK_P08_Q53`)
+## Problem 018  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P08_Q53`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 In a class of 10 students, there are 3 girls. In 
 how many different ways can they be 
 arranged in a row such that no two of the 
@@ -556,12 +736,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 8, Problem 53). V
 
 ---
 
-## Problem 019 (ID: `SEC02_BOOK_P14_Q102`)
+## Problem 019  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P14_Q102`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 In a box carrying one dozen of oranges, one 
 third have become bad. If 3 oranges are taken 
 out from the box at random, what is the 
@@ -586,12 +776,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 14, Problem 102).
 
 ---
 
-## Problem 020 (ID: `SEC02_BOOK_P22_Q164`)
+## Problem 020  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P22_Q164`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 What is the mean of the mode and median of 
 the data given below? 
 8,7,5,4,9,1,3,7,6,5,2,1,6,3,9,8,4,6
@@ -614,12 +814,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 22, Problem 164).
 
 ---
 
-## Problem 021 (ID: `SEC02_BOOK_P22_Q165`)
+## Problem 021  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P22_Q165`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Let x be the median of the data: 
 34, 28, 20, 32, 15, 9, 23, 26, 35, 16, 33, 43 
 If 16 and 23 are replaced by 30 and 32, 
@@ -645,12 +855,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 22, Problem 165).
 
 ---
 
-## Problem 022 (ID: `SEC02_BOOK_P22_Q166`)
+## Problem 022  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P22_Q166`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 The standard deviation of the data: 
 5, 7, 9, 11, 13, 16, 17, 18, 19, 35 
 Lies between:
@@ -673,12 +893,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 22, Problem 166).
 
 ---
 
-## Problem 023 (ID: `SEC02_BOOK_P22_Q167`)
+## Problem 023  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P22_Q167`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 For the data given below: 
 Marks 
 obtain
@@ -727,12 +957,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 22, Problem 167).
 
 ---
 
-## Problem 024 (ID: `SEC02_BOOK_P27_Q204`)
+## Problem 024  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P27_Q204`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Directions: Following questions are based on 
 the information given below. 
 'P x Q' means 'P is father of Q' 
@@ -761,12 +1001,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 27, Problem 204).
 
 ---
 
-## Problem 025 (ID: `SEC02_BOOK_P29_Q213`)
+## Problem 025  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P29_Q213`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 If m and M are mean and median respectively 
 of the numbers 2,6,10,14,18,22,26 and 30. 
 Which is the correct relation between m nd 
@@ -790,12 +1040,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 29, Problem 213).
 
 ---
 
-## Problem 026 (ID: `SEC02_BOOK_P29_Q214`)
+## Problem 026  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P29_Q214`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 If x is the mean of the first 8 positive integers 
 multiple of 9 and Y is the Median for the same, 
 then find the value of 5X-3Y.
@@ -818,12 +1078,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 29, Problem 214).
 
 ---
 
-## Problem 027 (ID: `SEC02_BOOK_P29_Q215`)
+## Problem 027  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC02_BOOK_P29_Q215`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 The Sum of median and mode of the given set 
 of numbers 
 9, 8, 16, 9, 18, 29, 59, 61, 8, 9
@@ -846,12 +1116,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 29, Problem 215).
 
 ---
 
-## Problem 028 (ID: `SEC02_BOOK_P32_Q235`)
+## Problem 028  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC02_BOOK_P32_Q235`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 The mean of the following data is _______ 
 Class  0-10, 10-20, 20-30, 30-40, 40-50, 50-60 
 Frequency  3,   6,   7,   6,   3,   5
@@ -874,12 +1154,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 32, Problem 235).
 
 ---
 
-## Problem 029 (ID: `SEC02_BOOK_P32_Q236`)
+## Problem 029  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC02_BOOK_P32_Q236`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 The mean of the following data is _______ 
  
 Seconds Frequency(y) 
@@ -909,12 +1199,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 32, Problem 236).
 
 ---
 
-## Problem 030 (ID: `SEC02_BOOK_P33_Q245`)
+## Problem 030  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC02_BOOK_P33_Q245`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 The median of the following data is find the 
 median
 
@@ -936,12 +1236,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 33, Problem 245).
 
 ---
 
-## Problem 031 (ID: `SEC02_BOOK_P33_Q246`)
+## Problem 031  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_BOOK_P33_Q246`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Calculate Mean, Median, Mode from  the 
 following grouped data 
 Class 
@@ -973,12 +1283,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 33, Problem 246).
 
 ---
 
-## Problem 032 (ID: `SEC02_BOOK_P34_Q251`)
+## Problem 032  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_BOOK_P34_Q251`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 The mean of the following data is _______ 
 Class 0-10, 10-20, 20-30, 30-40, 40-50, 50-60 
 Frequency 3, 6, 7, 6, 3, 5
@@ -1001,12 +1321,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 34, Problem 251).
 
 ---
 
-## Problem 033 (ID: `SEC02_BOOK_P34_Q252`)
+## Problem 033  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_BOOK_P34_Q252`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 The mean of the following data is _______ 
  
 Seconds Frequency(y) 
@@ -1036,12 +1366,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 34, Problem 252).
 
 ---
 
-## Problem 034 (ID: `SEC02_BOOK_P36_Q261`)
+## Problem 034  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_BOOK_P36_Q261`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 The median of the following data is find the 
 median 
 Class 
@@ -1075,12 +1415,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 36, Problem 261).
 
 ---
 
-## Problem 035 (ID: `SEC02_BOOK_P36_Q262`)
+## Problem 035  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_BOOK_P36_Q262`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Statistics and Data Analysis**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Calculate Mean, Median, Mode from the 
 following grouped data 
  

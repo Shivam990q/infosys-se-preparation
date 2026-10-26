@@ -6,7 +6,12 @@
 
 ---
 
-### Problem 01: Recurrence Relation Series (CAT PYQ) (`SEC01_MOD09_Q01`)
+### Problem 01: Recurrence Relation Series (CAT PYQ) (`SEC01_MOD09_Q01`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 
@@ -42,7 +47,12 @@ Therefore, u_{10} = 1023.
 
 ---
 
-### Problem 02: Difference Sequence Series (`SEC01_MOD09_Q02`)
+### Problem 02: Difference Sequence Series (`SEC01_MOD09_Q02`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 
@@ -77,7 +87,12 @@ Therefore, the missing number is 81.
 
 ---
 
-### Problem 03: Factorial Multiplicative Series (`SEC01_MOD09_Q03`)
+### Problem 03: Factorial Multiplicative Series (`SEC01_MOD09_Q03`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 
@@ -114,7 +129,12 @@ Therefore, the missing number is 9264.
 
 ---
 
-### Problem 04: Powers of 3 & Polynomial Gaps (`SEC01_MOD09_Q04`)
+### Problem 04: Powers of 3 & Polynomial Gaps (`SEC01_MOD09_Q04`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 
@@ -153,7 +173,12 @@ Therefore, the missing term is 945.
 
 ---
 
-### Problem 05: Data Sufficiency: Height Comparison (`SEC01_MOD10_Q01`)
+### Problem 05: Data Sufficiency: Height Comparison (`SEC01_MOD10_Q01`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `10_ IMP LR (Data Sufficiency)` | **Source Document:** `Data Sufficiency ppt.pdf`  
 **Problem Statement:**
 
@@ -189,7 +214,12 @@ The tallest person is E.
 
 ---
 
-### Problem 06: Data Sufficiency: Seating Position (`SEC01_MOD10_Q02`)
+### Problem 06: Data Sufficiency: Seating Position (`SEC01_MOD10_Q02`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `10_ IMP LR (Data Sufficiency)` | **Source Document:** `Data Sufficiency ppt.pdf`  
 **Problem Statement:**
 
@@ -222,7 +252,12 @@ Therefore, both statements together are necessary (Option e).
 
 ---
 
-### Problem 07: Data Sufficiency: Blood Relations (`SEC01_MOD10_Q03`)
+### Problem 07: Data Sufficiency: Blood Relations (`SEC01_MOD10_Q03`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `10_ IMP LR (Data Sufficiency)` | **Source Document:** `Data Sufficiency ppt.pdf`  
 **Problem Statement:**
 
@@ -253,7 +288,12 @@ Depending on gender conventions, statement II alone or combined determines the r
 
 ---
 
-### Problem 08: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P03`)
+### Problem 08: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P03`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `10_ IMP LR (Data Sufficiency)` | **Source Document:** `Data Sufficiency ppt.pdf`  
 **Problem Statement:**
 
@@ -296,7 +336,12 @@ Data Sufficiency logical proof from slide 3. Evaluate Statement I alone, Stateme
 
 ---
 
-### Problem 09: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P04`)
+### Problem 09: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P04`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `10_ IMP LR (Data Sufficiency)` | **Source Document:** `Data Sufficiency ppt.pdf`  
 **Problem Statement:**
 
@@ -331,7 +376,12 @@ Data Sufficiency logical proof from slide 4. Evaluate Statement I alone, Stateme
 
 ---
 
-### Problem 10: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P05`)
+### Problem 10: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P05`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `10_ IMP LR (Data Sufficiency)` | **Source Document:** `Data Sufficiency ppt.pdf`  
 **Problem Statement:**
 
@@ -373,7 +423,12 @@ Data Sufficiency logical proof from slide 5. Evaluate Statement I alone, Stateme
 
 ---
 
-### Problem 11: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P06`)
+### Problem 11: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P06`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `10_ IMP LR (Data Sufficiency)` | **Source Document:** `Data Sufficiency ppt.pdf`  
 **Problem Statement:**
 
@@ -416,7 +471,12 @@ Data Sufficiency logical proof from slide 6. Evaluate Statement I alone, Stateme
 
 ---
 
-### Problem 12: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P07`)
+### Problem 12: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P07`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `10_ IMP LR (Data Sufficiency)` | **Source Document:** `Data Sufficiency ppt.pdf`  
 **Problem Statement:**
 
@@ -462,7 +522,12 @@ Data Sufficiency logical proof from slide 7. Evaluate Statement I alone, Stateme
 
 ---
 
-### Problem 13: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P08`)
+### Problem 13: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P08`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `10_ IMP LR (Data Sufficiency)` | **Source Document:** `Data Sufficiency ppt.pdf`  
 **Problem Statement:**
 
@@ -500,7 +565,12 @@ Data Sufficiency logical proof from slide 8. Evaluate Statement I alone, Stateme
 
 ---
 
-### Problem 14: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P10`)
+### Problem 14: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P10`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `10_ IMP LR (Data Sufficiency)` | **Source Document:** `Data Sufficiency ppt.pdf`  
 **Problem Statement:**
 
@@ -542,7 +612,12 @@ Data Sufficiency logical proof from slide 10. Evaluate Statement I alone, Statem
 
 ---
 
-### Problem 15: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P11`)
+### Problem 15: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P11`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `10_ IMP LR (Data Sufficiency)` | **Source Document:** `Data Sufficiency ppt.pdf`  
 **Problem Statement:**
 
@@ -587,7 +662,12 @@ Data Sufficiency logical proof from slide 11. Evaluate Statement I alone, Statem
 
 ---
 
-### Problem 16: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P12`)
+### Problem 16: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P12`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `10_ IMP LR (Data Sufficiency)` | **Source Document:** `Data Sufficiency ppt.pdf`  
 **Problem Statement:**
 
@@ -624,7 +704,12 @@ Data Sufficiency logical proof from slide 12. Evaluate Statement I alone, Statem
 
 ---
 
-### Problem 17: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P14`)
+### Problem 17: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P14`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `10_ IMP LR (Data Sufficiency)` | **Source Document:** `Data Sufficiency ppt.pdf`  
 **Problem Statement:**
 
@@ -663,7 +748,12 @@ Data Sufficiency logical proof from slide 14. Evaluate Statement I alone, Statem
 
 ---
 
-### Problem 18: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P15`)
+### Problem 18: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P15`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `10_ IMP LR (Data Sufficiency)` | **Source Document:** `Data Sufficiency ppt.pdf`  
 **Problem Statement:**
 
@@ -705,7 +795,12 @@ Data Sufficiency logical proof from slide 15. Evaluate Statement I alone, Statem
 
 ---
 
-### Problem 19: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P16`)
+### Problem 19: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P16`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `10_ IMP LR (Data Sufficiency)` | **Source Document:** `Data Sufficiency ppt.pdf`  
 **Problem Statement:**
 
@@ -747,7 +842,12 @@ Data Sufficiency logical proof from slide 16. Evaluate Statement I alone, Statem
 
 ---
 
-### Problem 20: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P17`)
+### Problem 20: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P17`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `10_ IMP LR (Data Sufficiency)` | **Source Document:** `Data Sufficiency ppt.pdf`  
 **Problem Statement:**
 
@@ -793,7 +893,12 @@ Data Sufficiency logical proof from slide 17. Evaluate Statement I alone, Statem
 
 ---
 
-### Problem 21: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P19`)
+### Problem 21: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P19`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `10_ IMP LR (Data Sufficiency)` | **Source Document:** `Data Sufficiency ppt.pdf`  
 **Problem Statement:**
 
@@ -837,7 +942,12 @@ Data Sufficiency logical proof from slide 19. Evaluate Statement I alone, Statem
 
 ---
 
-### Problem 22: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P20`)
+### Problem 22: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P20`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `10_ IMP LR (Data Sufficiency)` | **Source Document:** `Data Sufficiency ppt.pdf`  
 **Problem Statement:**
 
@@ -873,7 +983,12 @@ Data Sufficiency logical proof from slide 20. Evaluate Statement I alone, Statem
 
 ---
 
-### Problem 23: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P22`)
+### Problem 23: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P22`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `10_ IMP LR (Data Sufficiency)` | **Source Document:** `Data Sufficiency ppt.pdf`  
 **Problem Statement:**
 
@@ -912,7 +1027,12 @@ Data Sufficiency logical proof from slide 22. Evaluate Statement I alone, Statem
 
 ---
 
-### Problem 24: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P23`)
+### Problem 24: Data Sufficiency Core Types (`SEC01_MOD10_DS_SLIDE_P23`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `10_ IMP LR (Data Sufficiency)` | **Source Document:** `Data Sufficiency ppt.pdf`  
 **Problem Statement:**
 
@@ -956,7 +1076,12 @@ Data Sufficiency logical proof from slide 23. Evaluate Statement I alone, Statem
 
 ---
 
-### Problem 25: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P01`)
+### Problem 25: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P01`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 
@@ -985,7 +1110,12 @@ Mathematical series deduction from slide 1. Difference, multiplicative, or recur
 
 ---
 
-### Problem 26: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P02`)
+### Problem 26: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P02`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 
@@ -1016,7 +1146,12 @@ Mathematical series deduction from slide 2. Difference, multiplicative, or recur
 
 ---
 
-### Problem 27: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P03`)
+### Problem 27: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P03`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 
@@ -1047,7 +1182,12 @@ Mathematical series deduction from slide 3. Difference, multiplicative, or recur
 
 ---
 
-### Problem 28: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P04`)
+### Problem 28: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P04`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 
@@ -1073,7 +1213,12 @@ Mathematical series deduction from slide 4. Difference, multiplicative, or recur
 
 ---
 
-### Problem 29: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P05`)
+### Problem 29: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P05`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 
@@ -1100,7 +1245,12 @@ Mathematical series deduction from slide 5. Difference, multiplicative, or recur
 
 ---
 
-### Problem 30: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P06`)
+### Problem 30: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P06`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 
@@ -1127,7 +1277,12 @@ Mathematical series deduction from slide 6. Difference, multiplicative, or recur
 
 ---
 
-### Problem 31: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P07`)
+### Problem 31: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P07`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 
@@ -1159,7 +1314,12 @@ Mathematical series deduction from slide 7. Difference, multiplicative, or recur
 
 ---
 
-### Problem 32: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P08`)
+### Problem 32: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P08`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 
@@ -1194,7 +1354,12 @@ Mathematical series deduction from slide 8. Difference, multiplicative, or recur
 
 ---
 
-### Problem 33: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P09`)
+### Problem 33: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P09`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 
@@ -1220,7 +1385,12 @@ Mathematical series deduction from slide 9. Difference, multiplicative, or recur
 
 ---
 
-### Problem 34: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P10`)
+### Problem 34: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P10`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 
@@ -1254,7 +1424,12 @@ Mathematical series deduction from slide 10. Difference, multiplicative, or recu
 
 ---
 
-### Problem 35: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P11`)
+### Problem 35: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P11`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 
@@ -1280,7 +1455,12 @@ Mathematical series deduction from slide 11. Difference, multiplicative, or recu
 
 ---
 
-### Problem 36: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P12`)
+### Problem 36: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P12`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 
@@ -1315,7 +1495,12 @@ Mathematical series deduction from slide 12. Difference, multiplicative, or recu
 
 ---
 
-### Problem 37: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P13`)
+### Problem 37: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P13`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 
@@ -1351,7 +1536,12 @@ Mathematical series deduction from slide 13. Difference, multiplicative, or recu
 
 ---
 
-### Problem 38: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P14`)
+### Problem 38: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P14`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 
@@ -1383,7 +1573,12 @@ Mathematical series deduction from slide 14. Difference, multiplicative, or recu
 
 ---
 
-### Problem 39: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P15`)
+### Problem 39: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P15`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 
@@ -1412,7 +1607,12 @@ Mathematical series deduction from slide 15. Difference, multiplicative, or recu
 
 ---
 
-### Problem 40: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P16`)
+### Problem 40: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P16`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 
@@ -1444,7 +1644,12 @@ Mathematical series deduction from slide 16. Difference, multiplicative, or recu
 
 ---
 
-### Problem 41: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P17`)
+### Problem 41: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P17`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 
@@ -1477,7 +1682,12 @@ Mathematical series deduction from slide 17. Difference, multiplicative, or recu
 
 ---
 
-### Problem 42: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P18`)
+### Problem 42: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P18`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 
@@ -1509,7 +1719,12 @@ Mathematical series deduction from slide 18. Difference, multiplicative, or recu
 
 ---
 
-### Problem 43: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P19`)
+### Problem 43: Number Series & Recurrence Relations (`SEC01_MOD09_SERIES_SLIDE_P19`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `9 _ Number Series _ Important types` | **Source Document:** `Number Series -Live Sheet.pdf`  
 **Problem Statement:**
 

@@ -14,7 +14,12 @@ This module analyzes central focal elements, main and anti-diagonal invariant su
 
 ## Structured Questions & Exhaustive Mathematical Solutions
 
-### Question 61: Matrix Number Puzzle 61
+### Question 61: Matrix Number Puzzle 61  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **Category:** Topic 05: Diagonal, Center, and Symmetric Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -54,7 +59,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (7779):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 62: Matrix Number Puzzle 62
+### Question 62: Matrix Number Puzzle 62  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **Category:** Topic 05: Diagonal, Center, and Symmetric Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -94,7 +104,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (10):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 63: Matrix Number Puzzle 63
+### Question 63: Matrix Number Puzzle 63  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **Category:** Topic 05: Diagonal, Center, and Symmetric Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -134,7 +149,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (115):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 64: Matrix Number Puzzle 64
+### Question 64: Matrix Number Puzzle 64  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Category:** Topic 05: Diagonal, Center, and Symmetric Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -174,7 +194,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (1018):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 65: Matrix Number Puzzle 65
+### Question 65: Matrix Number Puzzle 65  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Category:** Topic 05: Diagonal, Center, and Symmetric Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -214,7 +239,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (10):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 66: Matrix Number Puzzle 66
+### Question 66: Matrix Number Puzzle 66  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Category:** Topic 05: Diagonal, Center, and Symmetric Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -254,7 +284,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (13):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 67: Matrix Number Puzzle 67
+### Question 67: Matrix Number Puzzle 67  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Category:** Topic 05: Diagonal, Center, and Symmetric Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -294,7 +329,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (68):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 68: Matrix Number Puzzle 68
+### Question 68: Matrix Number Puzzle 68  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Category:** Topic 05: Diagonal, Center, and Symmetric Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -334,7 +374,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (24):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 69: Matrix Number Puzzle 69
+### Question 69: Matrix Number Puzzle 69  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Category:** Topic 05: Diagonal, Center, and Symmetric Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -374,7 +419,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (92):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 70: Matrix Number Puzzle 70
+### Question 70: Matrix Number Puzzle 70  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Category:** Topic 05: Diagonal, Center, and Symmetric Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -414,7 +464,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (62):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 71: Matrix Number Puzzle 71
+### Question 71: Matrix Number Puzzle 71  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 
 **Category:** Topic 05: Diagonal, Center, and Symmetric Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -454,7 +509,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (35):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 72: Matrix Number Puzzle 72
+### Question 72: Matrix Number Puzzle 72  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 
 **Category:** Topic 05: Diagonal, Center, and Symmetric Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -494,7 +554,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (22):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 73: Matrix Number Puzzle 73
+### Question 73: Matrix Number Puzzle 73  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 **Category:** Topic 05: Diagonal, Center, and Symmetric Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -534,7 +599,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (17):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 74: Matrix Number Puzzle 74
+### Question 74: Matrix Number Puzzle 74  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 **Category:** Topic 05: Diagonal, Center, and Symmetric Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -574,7 +644,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (14):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 75: Matrix Number Puzzle 75
+### Question 75: Matrix Number Puzzle 75  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 **Category:** Topic 05: Diagonal, Center, and Symmetric Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  

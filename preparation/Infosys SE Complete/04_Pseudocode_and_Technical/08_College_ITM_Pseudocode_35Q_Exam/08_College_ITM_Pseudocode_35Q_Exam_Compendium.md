@@ -8,7 +8,12 @@
 
 ---
 
-### Question ITM-P01-Q46 (Infosys System Engineer ITM Mock Paper 1 - Q46)
+### Question ITM-P01-Q46  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q46)
 **Section:** Section 4: Pseudo Code | **Page:** 5  
 **Visual Reference Plate:** [paper_01_page_05.png](images/paper_01_page_05.png)
 
@@ -42,7 +47,12 @@ Recursive function trace:
 
 ---
 
-### Question ITM-P01-Q47 (Infosys System Engineer ITM Mock Paper 1 - Q47)
+### Question ITM-P01-Q47  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q47)
 **Section:** Section 4: Pseudo Code | **Page:** 6  
 **Visual Reference Plate:** [paper_01_page_06.png](images/paper_01_page_06.png)
 
@@ -74,7 +84,12 @@ Bitwise XOR: count ^ 11 = 4 ^ 11 = 0100₂ ^ 1011₂ = 1111₂ = 15.
 
 ---
 
-### Question ITM-P01-Q48 (Infosys System Engineer ITM Mock Paper 1 - Q48)
+### Question ITM-P01-Q48  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q48)
 **Section:** Section 4: Pseudo Code | **Page:** 6  
 **Visual Reference Plate:** [paper_01_page_06.png](images/paper_01_page_06.png)
 
@@ -111,7 +126,12 @@ Final s = 46.
 
 ---
 
-### Question ITM-P01-Q49 (Infosys System Engineer ITM Mock Paper 1 - Q49)
+### Question ITM-P01-Q49  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q49)
 **Section:** Section 4: Pseudo Code | **Page:** 6  
 **Visual Reference Plate:** [paper_01_page_06.png](images/paper_01_page_06.png)
 
@@ -145,7 +165,12 @@ Stack execution trace (LIFO):
 
 ---
 
-### Question ITM-P01-Q50 (Infosys System Engineer ITM Mock Paper 1 - Q50)
+### Question ITM-P01-Q50  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q50)
 **Section:** Section 4: Pseudo Code | **Page:** 6  
 **Visual Reference Plate:** [paper_01_page_06.png](images/paper_01_page_06.png)
 
@@ -176,7 +201,12 @@ Final content: [8, 2, 5, 7].
 
 ---
 
-### Question ITM-P02-Q46 (Infosys System Engineer ITM Mock Paper 2 - Q46)
+### Question ITM-P02-Q46  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q46)
 **Section:** Section 4: Pseudo Code | **Page:** 5  
 **Visual Reference Plate:** [paper_02_page_05.png](images/paper_02_page_05.png)
 
@@ -204,7 +234,12 @@ print(f(5))
 
 ---
 
-### Question ITM-P02-Q47 (Infosys System Engineer ITM Mock Paper 2 - Q47)
+### Question ITM-P02-Q47  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q47)
 **Section:** Section 4: Pseudo Code | **Page:** 5  
 **Visual Reference Plate:** [paper_02_page_05.png](images/paper_02_page_05.png)
 
@@ -234,7 +269,12 @@ the bit order of x within its significant bits. 58 = 111010₂ (6 bits); reverse
 
 ---
 
-### Question ITM-P02-Q48 (Infosys System Engineer ITM Mock Paper 2 - Q48)
+### Question ITM-P02-Q48  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q48)
 **Section:** Section 4: Pseudo Code | **Page:** 5  
 **Visual Reference Plate:** [paper_02_page_05.png](images/paper_02_page_05.png)
 
@@ -267,7 +307,12 @@ note j=4 gives i+j=6, which is not >6, so it's included). i=3: skips j=3; adds 3
 
 ---
 
-### Question ITM-P02-Q49 (Infosys System Engineer ITM Mock Paper 2 - Q49)
+### Question ITM-P02-Q49  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q49)
 **Section:** Section 4: Pseudo Code | **Page:** 5  
 **Visual Reference Plate:** [paper_02_page_05.png](images/paper_02_page_05.png)
 
@@ -296,7 +341,12 @@ print(b + c)
 
 ---
 
-### Question ITM-P02-Q50 (Infosys System Engineer ITM Mock Paper 2 - Q50)
+### Question ITM-P02-Q50  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q50)
 **Section:** Section 4: Pseudo Code | **Page:** 6  
 **Visual Reference Plate:** [paper_02_page_06.png](images/paper_02_page_06.png)
 
@@ -325,7 +375,12 @@ arr[1]=temp=1 → final [5,1,2,4,3].
 
 ---
 
-### Question ITM-P03-Q46 (Infosys System Engineer ITM Mock Paper 3 - Q46)
+### Question ITM-P03-Q46  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q46)
 **Section:** Section 4: Pseudo Code | **Page:** 5  
 **Visual Reference Plate:** [paper_03_page_05.png](images/paper_03_page_05.png)
 
@@ -396,7 +451,12 @@ print(arr)
 
 ---
 
-### Question ITM-P03-Q47 (Infosys System Engineer ITM Mock Paper 3 - Q47)
+### Question ITM-P03-Q47  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q47)
 **Section:** Section 4: Pseudo Code | **Page:** 6  
 **Visual Reference Plate:** [paper_03_page_06.png](images/paper_03_page_06.png)
 
@@ -419,7 +479,12 @@ mask, which reverses the 6-bit pattern: 100101 reversed is 101001 = 32+8+1 = 41.
 
 ---
 
-### Question ITM-P03-Q48 (Infosys System Engineer ITM Mock Paper 3 - Q48)
+### Question ITM-P03-Q48  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q48)
 **Section:** Section 4: Pseudo Code | **Page:** 6  
 **Visual Reference Plate:** [paper_03_page_06.png](images/paper_03_page_06.png)
 
@@ -443,7 +508,12 @@ i=1 contributes 1; i=2 contributes 2; i=3 contributes 3+9=12; i=4 contributes 4+
 
 ---
 
-### Question ITM-P03-Q49 (Infosys System Engineer ITM Mock Paper 3 - Q49)
+### Question ITM-P03-Q49  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q49)
 **Section:** Section 4: Pseudo Code | **Page:** 6  
 **Visual Reference Plate:** [paper_03_page_06.png](images/paper_03_page_06.png)
 
@@ -466,7 +536,12 @@ d=pop=3 → push(13) → [13]. push(3) → [13,3]. e=pop=3, f=pop=13. e×f = 39.
 
 ---
 
-### Question ITM-P03-Q50 (Infosys System Engineer ITM Mock Paper 3 - Q50)
+### Question ITM-P03-Q50  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q50)
 **Section:** Section 4: Pseudo Code | **Page:** 6  
 **Visual Reference Plate:** [paper_03_page_06.png](images/paper_03_page_06.png)
 
@@ -489,7 +564,12 @@ i=0,j=5: swap arr[0],arr[5] → [60,20,30,40,50,10]; i=1,j=3. i<j (1<3): swap ar
 
 ---
 
-### Question ITM-P04-Q46 (Infosys System Engineer ITM Mock Paper 4 - Q46)
+### Question ITM-P04-Q46  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q46)
 **Section:** Section 4: Pseudo Code | **Page:** 6  
 **Visual Reference Plate:** [paper_04_page_06.png](images/paper_04_page_06.png)
 
@@ -516,7 +596,12 @@ print(gcd(252, 105))
 
 ---
 
-### Question ITM-P04-Q47 (Infosys System Engineer ITM Mock Paper 4 - Q47)
+### Question ITM-P04-Q47  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q47)
 **Section:** Section 4: Pseudo Code | **Page:** 6  
 **Visual Reference Plate:** [paper_04_page_06.png](images/paper_04_page_06.png)
 
@@ -543,7 +628,12 @@ print(c + d)
 
 ---
 
-### Question ITM-P04-Q48 (Infosys System Engineer ITM Mock Paper 4 - Q48)
+### Question ITM-P04-Q48  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q48)
 **Section:** Section 4: Pseudo Code | **Page:** 6  
 **Visual Reference Plate:** [paper_04_page_06.png](images/paper_04_page_06.png)
 
@@ -580,7 +670,12 @@ swaps. Total = 3+2+2 = 7.
 
 ---
 
-### Question ITM-P04-Q49 (Infosys System Engineer ITM Mock Paper 4 - Q49)
+### Question ITM-P04-Q49  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q49)
 **Section:** Section 4: Pseudo Code | **Page:** 6  
 **Visual Reference Plate:** [paper_04_page_06.png](images/paper_04_page_06.png)
 
@@ -617,7 +712,12 @@ the back, giving [3,2,1,4,5] — the first 3 elements correctly reversed.
 
 ---
 
-### Question ITM-P04-Q50 (Infosys System Engineer ITM Mock Paper 4 - Q50)
+### Question ITM-P04-Q50  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q50)
 **Section:** Section 4: Pseudo Code | **Page:** 7  
 **Visual Reference Plate:** [paper_04_page_07.png](images/paper_04_page_07.png)
 
@@ -654,7 +754,12 @@ zeroes out positions 4,5,6. Final: [3,4,5,2,0,0,0].
 
 ---
 
-### Question ITM-P05-Q46 (Infosys System Engineer ITM Mock Paper 5 - Q46)
+### Question ITM-P05-Q46  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q46)
 **Section:** Section 4: Pseudo Code | **Page:** 6  
 **Visual Reference Plate:** [paper_05_page_06.png](images/paper_05_page_06.png)
 
@@ -683,7 +788,12 @@ f(2,2)=6, f(3,1)=4, f(3,2)=f(2,2)+f(3,1)=6+4=10 (also confirmed by code executio
 
 ---
 
-### Question ITM-P05-Q47 (Infosys System Engineer ITM Mock Paper 5 - Q47)
+### Question ITM-P05-Q47  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q47)
 **Section:** Section 4: Pseudo Code | **Page:** 6  
 **Visual Reference Plate:** [paper_05_page_06.png](images/paper_05_page_06.png)
 
@@ -714,7 +824,12 @@ print(y)
 
 ---
 
-### Question ITM-P05-Q48 (Infosys System Engineer ITM Mock Paper 5 - Q48)
+### Question ITM-P05-Q48  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q48)
 **Section:** Section 4: Pseudo Code | **Page:** 6  
 **Visual Reference Plate:** [paper_05_page_06.png](images/paper_05_page_06.png)
 
@@ -752,7 +867,12 @@ mid=6(38)→low=7; mid=7(45)→low=8, loop ends. That's 4 comparisons (verified 
 
 ---
 
-### Question ITM-P05-Q49 (Infosys System Engineer ITM Mock Paper 5 - Q49)
+### Question ITM-P05-Q49  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q49)
 **Section:** Section 4: Pseudo Code | **Page:** 7  
 **Visual Reference Plate:** [paper_05_page_07.png](images/paper_05_page_07.png)
 
@@ -783,7 +903,12 @@ print(pop())
 
 ---
 
-### Question ITM-P05-Q50 (Infosys System Engineer ITM Mock Paper 5 - Q50)
+### Question ITM-P05-Q50  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q50)
 **Section:** Section 4: Pseudo Code | **Page:** 7  
 **Visual Reference Plate:** [paper_05_page_07.png](images/paper_05_page_07.png)
 
@@ -815,7 +940,12 @@ direct code execution).
 
 ---
 
-### Question ITM-P06-Q46 (Infosys System Engineer ITM Mock Paper 6 - Q46)
+### Question ITM-P06-Q46  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q46)
 **Section:** Section 4: Pseudo Code | **Page:** 6  
 **Visual Reference Plate:** [paper_06_page_06.png](images/paper_06_page_06.png)
 
@@ -844,7 +974,12 @@ f(10)=f(5)=3, f(12)=f(6)=2. So f(11)=f(10)+f(12)=3+2=5 (confirmed by code).
 
 ---
 
-### Question ITM-P06-Q47 (Infosys System Engineer ITM Mock Paper 6 - Q47)
+### Question ITM-P06-Q47  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q47)
 **Section:** Section 4: Pseudo Code | **Page:** 6  
 **Visual Reference Plate:** [paper_06_page_06.png](images/paper_06_page_06.png)
 
@@ -870,7 +1005,12 @@ print(g + (g & 5))
 
 ---
 
-### Question ITM-P06-Q48 (Infosys System Engineer ITM Mock Paper 6 - Q48)
+### Question ITM-P06-Q48  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q48)
 **Section:** Section 4: Pseudo Code | **Page:** 6  
 **Visual Reference Plate:** [paper_06_page_06.png](images/paper_06_page_06.png)
 
@@ -902,7 +1042,12 @@ gives a total of 142 (confirmed by code).
 
 ---
 
-### Question ITM-P06-Q49 (Infosys System Engineer ITM Mock Paper 6 - Q49)
+### Question ITM-P06-Q49  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q49)
 **Section:** Section 4: Pseudo Code | **Page:** 6  
 **Visual Reference Plate:** [paper_06_page_06.png](images/paper_06_page_06.png)
 
@@ -937,7 +1082,12 @@ Total moves = 3.
 
 ---
 
-### Question ITM-P06-Q50 (Infosys System Engineer ITM Mock Paper 6 - Q50)
+### Question ITM-P06-Q50  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q50)
 **Section:** Section 4: Pseudo Code | **Page:** 6  
 **Visual Reference Plate:** [paper_06_page_06.png](images/paper_06_page_06.png)
 
@@ -970,7 +1120,12 @@ the DP matters.
 
 ---
 
-### Question ITM-P07-Q46 (Infosys System Engineer ITM Mock Paper 7 - Q46)
+### Question ITM-P07-Q46  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q46)
 **Section:** Section 4: Pseudo Code | **Page:** 6  
 **Visual Reference Plate:** [paper_07_page_06.png](images/paper_07_page_06.png)
 
@@ -999,7 +1154,12 @@ Line 3: --x makes x = 5 and returns 5; x-- returns 5 (x becomes 4); 5×2 = 10; z
 
 ---
 
-### Question ITM-P07-Q47 (Infosys System Engineer ITM Mock Paper 7 - Q47)
+### Question ITM-P07-Q47  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q47)
 **Section:** Section 4: Pseudo Code | **Page:** 7  
 **Visual Reference Plate:** [paper_07_page_07.png](images/paper_07_page_07.png)
 
@@ -1028,7 +1188,12 @@ code).
 
 ---
 
-### Question ITM-P07-Q48 (Infosys System Engineer ITM Mock Paper 7 - Q48)
+### Question ITM-P07-Q48  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q48)
 **Section:** Section 4: Pseudo Code | **Page:** 7  
 **Visual Reference Plate:** [paper_07_page_07.png](images/paper_07_page_07.png)
 
@@ -1070,7 +1235,12 @@ Visit 0 and push 1, 2. Pop 2, visit, push 4, 5. Pop 5, visit, push 6. Pop 6, vis
 
 ---
 
-### Question ITM-P07-Q49 (Infosys System Engineer ITM Mock Paper 7 - Q49)
+### Question ITM-P07-Q49  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q49)
 **Section:** Section 4: Pseudo Code | **Page:** 7  
 **Visual Reference Plate:** [paper_07_page_07.png](images/paper_07_page_07.png)
 
@@ -1104,7 +1274,12 @@ by code).
 
 ---
 
-### Question ITM-P07-Q50 (Infosys System Engineer ITM Mock Paper 7 - Q50)
+### Question ITM-P07-Q50  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q50)
 **Section:** Section 4: Pseudo Code | **Page:** 7  
 **Visual Reference Plate:** [paper_07_page_07.png](images/paper_07_page_07.png)
 

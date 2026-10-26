@@ -6,7 +6,12 @@
 
 ---
 
-### Item 1: TOPMATE_SLOT1_SECTION_5_Q01
+### Item 1: TOPMATE_SLOT1_SECTION_5_Q01  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 8)  
 **Category / Topic:** Puzzles | SECTION 5 — NUMERICAL PUZZLE TEST  
 **Prompt:** Maze/Grid Puzzle: A robot starts at S and must reach E. It can move only UP, DOWN, LEFT or RIGHT and cannot enter cells marked X. Grid: S  .  X  .  . .  .  X  .  X X  .  .  .  . .  X  X  .  . .  .  .  X  E What is the minimum number of moves required to reach E from S?
@@ -26,7 +31,12 @@ Grid BFS from S(0,0) to E(4,4) avoiding X: Optimal shortest path: (0,0) -> (1,0)
 
 ---
 
-### Item 2: TOPMATE_SLOT1_SECTION_5_Q02
+### Item 2: TOPMATE_SLOT1_SECTION_5_Q02  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 8)  
 **Category / Topic:** Puzzles | SECTION 5 — NUMERICAL PUZZLE TEST  
 **Prompt:** Matrix Puzzle: Find the missing number (?) in the following matrix. 2   5   9 4   8   15 6   11  ? Choose the number that logically completes the pattern.
@@ -46,7 +56,12 @@ Row relationships: Row 1: 2 + 5 = 7; 7 + 2 = 9. Row 2: 4 + 8 = 12; 12 + 3 = 15. 
 
 ---
 
-### Item 3: TOPMATE_SLOT1_SECTION_5_Q03
+### Item 3: TOPMATE_SLOT1_SECTION_5_Q03  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 8)  
 **Category / Topic:** Puzzles | SECTION 5 — NUMERICAL PUZZLE TEST  
 **Prompt:** Number-Path Puzzle: Starting from the cell marked S, move to the cell marked E. At every step you may move horizontally or vertically to an adjacent cell. You may enter a numbered cell only if its number is greater than the number in the cell you are currently occupying. Grid: S(1)  3   5   8 2      4   6   9 1      2   7   10 0      1   8   E(11) Which of the following gives a valid path from S to E?
@@ -66,7 +81,12 @@ A valid path must move orthogonally between adjacent cells with strictly increas
 
 ---
 
-### Item 4: TOPMATE_SLOT1_SECTION_5_Q04
+### Item 4: TOPMATE_SLOT1_SECTION_5_Q04  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 9)  
 **Category / Topic:** Puzzles | SECTION 5 — NUMERICAL PUZZLE TEST  
 **Prompt:** Missing-Cell Grid Puzzle: Each row and each column follows the same numerical rule. 3   6   9 5   10  15 7   14  ? What number should replace ?
@@ -86,7 +106,12 @@ In 3x3 magic/pattern grids, rows and columns follow arithmetic progressions or c
 
 ---
 
-### Item 5: TOPMATE_SLOT2_SECTION_5_Q01
+### Item 5: TOPMATE_SLOT2_SECTION_5_Q01  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 8)  
 **Category / Topic:** Puzzles | SECTION 5 — NUMERICAL PUZZLE TEST  
 **Prompt:** Maze/Grid Puzzle: A robot starts at S and must reach E. It can move only UP, DOWN, LEFT or RIGHT and cannot enter cells marked X. Grid: S . . X . X . . X . . . X . . . X . . . . . . X E What is the minimum number of moves required to reach E from S?
@@ -106,7 +131,12 @@ Official Exam Key: `B) 9`. Systematic step-by-step verification confirms this re
 
 ---
 
-### Item 6: TOPMATE_SLOT2_SECTION_5_Q02
+### Item 6: TOPMATE_SLOT2_SECTION_5_Q02  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 9)  
 **Category / Topic:** Puzzles | SECTION 5 — NUMERICAL PUZZLE TEST  
 **Prompt:** Matrix Puzzle: Find the missing number (?) in the matrix. 3  7  11 5  10  15 7  13  ? Choose the number that logically completes the pattern.
@@ -126,7 +156,12 @@ Official Exam Key: `C) 19`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 7: TOPMATE_SLOT2_SECTION_5_Q03
+### Item 7: TOPMATE_SLOT2_SECTION_5_Q03  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 9)  
 **Category / Topic:** Puzzles | SECTION 5 — NUMERICAL PUZZLE TEST  
 **Prompt:** Number-Path Puzzle: Starting from S(2), move horizontally or vertically to an adjacent cell. You may enter a numbered cell only if its number is greater than the number in the cell currently occupied. Grid: S(2) 4 7 9 3 5 8 10 1 6 11 12 0 7 13 E(14) Which gives a valid path from S to E?
@@ -146,7 +181,12 @@ Official Exam Key: `A) 2→4→7→8→11→12→14`. Systematic step-by-step ve
 
 ---
 
-### Item 8: TOPMATE_SLOT2_SECTION_5_Q04
+### Item 8: TOPMATE_SLOT2_SECTION_5_Q04  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 9)  
 **Category / Topic:** Puzzles | SECTION 5 — NUMERICAL PUZZLE TEST  
 **Prompt:** Missing-Cell Grid Puzzle: Each row follows the same numerical rule. 4  8  12 6  12  18 9  18  ? What number should replace ?
@@ -166,7 +206,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 9: TOPMATE_PUZZLE_Q001
+### Item 9: TOPMATE_PUZZLE_Q001  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 1)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 1.
@@ -199,7 +244,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 10: TOPMATE_PUZZLE_Q002
+### Item 10: TOPMATE_PUZZLE_Q002  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 2)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 2.
@@ -232,7 +282,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 11: TOPMATE_PUZZLE_Q003
+### Item 11: TOPMATE_PUZZLE_Q003  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 3)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 3.
@@ -263,7 +318,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 12: TOPMATE_PUZZLE_Q004
+### Item 12: TOPMATE_PUZZLE_Q004  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 4)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 4.
@@ -296,7 +356,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 13: TOPMATE_PUZZLE_Q005
+### Item 13: TOPMATE_PUZZLE_Q005  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 5)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 5.
@@ -329,7 +394,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 14: TOPMATE_PUZZLE_Q006
+### Item 14: TOPMATE_PUZZLE_Q006  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 6)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 6.
@@ -362,7 +432,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 15: TOPMATE_PUZZLE_Q007
+### Item 15: TOPMATE_PUZZLE_Q007  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 7)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 7.
@@ -399,7 +474,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 16: TOPMATE_PUZZLE_Q008
+### Item 16: TOPMATE_PUZZLE_Q008  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 7)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 7.
@@ -436,7 +516,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 17: TOPMATE_PUZZLE_Q009
+### Item 17: TOPMATE_PUZZLE_Q009  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 8)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 8.
@@ -473,7 +558,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 18: TOPMATE_PUZZLE_Q010
+### Item 18: TOPMATE_PUZZLE_Q010  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 8)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 8.
@@ -510,7 +600,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 19: TOPMATE_PUZZLE_Q011
+### Item 19: TOPMATE_PUZZLE_Q011  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 9)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 9.
@@ -541,7 +636,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 20: TOPMATE_PUZZLE_Q012
+### Item 20: TOPMATE_PUZZLE_Q012  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 10)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 10.
@@ -574,7 +674,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 21: TOPMATE_PUZZLE_Q013
+### Item 21: TOPMATE_PUZZLE_Q013  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 11)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 11.
@@ -605,7 +710,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 22: TOPMATE_PUZZLE_Q014
+### Item 22: TOPMATE_PUZZLE_Q014  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 12)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 12.
@@ -642,7 +752,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 23: TOPMATE_PUZZLE_Q015
+### Item 23: TOPMATE_PUZZLE_Q015  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 12)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 12.
@@ -679,7 +794,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 24: TOPMATE_PUZZLE_Q016
+### Item 24: TOPMATE_PUZZLE_Q016  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 13)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 13.
@@ -714,7 +834,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 25: TOPMATE_PUZZLE_Q017
+### Item 25: TOPMATE_PUZZLE_Q017  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 14)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 14.
@@ -751,7 +876,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 26: TOPMATE_PUZZLE_Q018
+### Item 26: TOPMATE_PUZZLE_Q018  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 15)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 15.
@@ -786,7 +916,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 27: TOPMATE_PUZZLE_Q019
+### Item 27: TOPMATE_PUZZLE_Q019  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 15)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 15.
@@ -821,7 +956,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 28: TOPMATE_PUZZLE_Q020
+### Item 28: TOPMATE_PUZZLE_Q020  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 16)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 16.
@@ -854,7 +994,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 29: TOPMATE_PUZZLE_Q021
+### Item 29: TOPMATE_PUZZLE_Q021  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 17)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 17.
@@ -887,7 +1032,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 30: TOPMATE_PUZZLE_Q022
+### Item 30: TOPMATE_PUZZLE_Q022  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 18)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 18.
@@ -920,7 +1070,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 31: TOPMATE_PUZZLE_Q023
+### Item 31: TOPMATE_PUZZLE_Q023  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 19)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 19.
@@ -953,7 +1108,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 32: TOPMATE_PUZZLE_Q024
+### Item 32: TOPMATE_PUZZLE_Q024  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 20)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 20.
@@ -986,7 +1146,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 33: TOPMATE_PUZZLE_Q025
+### Item 33: TOPMATE_PUZZLE_Q025  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 21)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 21.
@@ -1021,7 +1186,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 34: TOPMATE_PUZZLE_Q026
+### Item 34: TOPMATE_PUZZLE_Q026  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 22)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 22.
@@ -1052,7 +1222,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 35: TOPMATE_PUZZLE_Q027
+### Item 35: TOPMATE_PUZZLE_Q027  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 23)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 23.
@@ -1083,7 +1258,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 36: TOPMATE_PUZZLE_Q028
+### Item 36: TOPMATE_PUZZLE_Q028  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 24)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 24.
@@ -1120,7 +1300,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 37: TOPMATE_PUZZLE_Q029
+### Item 37: TOPMATE_PUZZLE_Q029  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 24)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 24.
@@ -1157,7 +1342,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 38: TOPMATE_PUZZLE_Q030
+### Item 38: TOPMATE_PUZZLE_Q030  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 25)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 25.
@@ -1190,7 +1380,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 39: TOPMATE_PUZZLE_Q031
+### Item 39: TOPMATE_PUZZLE_Q031  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 26)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 26.
@@ -1223,7 +1418,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 40: TOPMATE_PUZZLE_Q032
+### Item 40: TOPMATE_PUZZLE_Q032  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 27)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 27.
@@ -1258,7 +1458,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 41: TOPMATE_PUZZLE_Q033
+### Item 41: TOPMATE_PUZZLE_Q033  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 27)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 27.
@@ -1293,7 +1498,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 42: TOPMATE_PUZZLE_Q034
+### Item 42: TOPMATE_PUZZLE_Q034  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 28)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 28.
@@ -1326,7 +1536,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 43: TOPMATE_PUZZLE_Q035
+### Item 43: TOPMATE_PUZZLE_Q035  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 28)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 28.
@@ -1359,7 +1574,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 44: TOPMATE_PUZZLE_Q036
+### Item 44: TOPMATE_PUZZLE_Q036  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 29)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 29.
@@ -1392,7 +1612,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 45: TOPMATE_PUZZLE_Q037
+### Item 45: TOPMATE_PUZZLE_Q037  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 30)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 30.
@@ -1427,7 +1652,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 46: TOPMATE_PUZZLE_Q038
+### Item 46: TOPMATE_PUZZLE_Q038  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 30)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 30.
@@ -1462,7 +1692,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 47: TOPMATE_PUZZLE_Q039
+### Item 47: TOPMATE_PUZZLE_Q039  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 31)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 31.
@@ -1495,7 +1730,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 48: TOPMATE_PUZZLE_Q040
+### Item 48: TOPMATE_PUZZLE_Q040  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 32)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 32.
@@ -1528,7 +1768,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 49: TOPMATE_PUZZLE_Q041
+### Item 49: TOPMATE_PUZZLE_Q041  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 33)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 33.
@@ -1561,7 +1806,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 50: TOPMATE_PUZZLE_Q042
+### Item 50: TOPMATE_PUZZLE_Q042  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 34)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 34.
@@ -1594,7 +1844,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 51: TOPMATE_PUZZLE_Q043
+### Item 51: TOPMATE_PUZZLE_Q043  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 35)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 35.
@@ -1631,7 +1886,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 52: TOPMATE_PUZZLE_Q044
+### Item 52: TOPMATE_PUZZLE_Q044  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 36)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 36.
@@ -1664,7 +1924,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 53: TOPMATE_PUZZLE_Q045
+### Item 53: TOPMATE_PUZZLE_Q045  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 37)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 37.
@@ -1697,7 +1962,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 54: TOPMATE_PUZZLE_Q046
+### Item 54: TOPMATE_PUZZLE_Q046  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 38)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 38.
@@ -1730,7 +2000,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 55: TOPMATE_PUZZLE_Q047
+### Item 55: TOPMATE_PUZZLE_Q047  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 39)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 39.
@@ -1763,7 +2038,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 56: TOPMATE_PUZZLE_Q048
+### Item 56: TOPMATE_PUZZLE_Q048  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 40)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 40.
@@ -1796,7 +2076,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 57: TOPMATE_PUZZLE_Q049
+### Item 57: TOPMATE_PUZZLE_Q049  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 41)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 41.
@@ -1829,7 +2114,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 58: TOPMATE_PUZZLE_Q050
+### Item 58: TOPMATE_PUZZLE_Q050  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 42)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 42.
@@ -1862,7 +2152,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 59: TOPMATE_PUZZLE_Q051
+### Item 59: TOPMATE_PUZZLE_Q051  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 43)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 43.
@@ -1895,7 +2190,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 60: TOPMATE_PUZZLE_Q052
+### Item 60: TOPMATE_PUZZLE_Q052  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 44)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 44.
@@ -1928,7 +2228,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 61: TOPMATE_PUZZLE_Q053
+### Item 61: TOPMATE_PUZZLE_Q053  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 45)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 45.
@@ -1965,7 +2270,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 62: TOPMATE_PUZZLE_Q054
+### Item 62: TOPMATE_PUZZLE_Q054  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 46)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 46.
@@ -1998,7 +2308,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 63: TOPMATE_PUZZLE_Q055
+### Item 63: TOPMATE_PUZZLE_Q055  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 47)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 47.
@@ -2035,7 +2350,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 64: TOPMATE_PUZZLE_Q056
+### Item 64: TOPMATE_PUZZLE_Q056  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 48)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 48.
@@ -2068,7 +2388,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 65: TOPMATE_PUZZLE_Q057
+### Item 65: TOPMATE_PUZZLE_Q057  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 49)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 49.
@@ -2103,7 +2428,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 66: TOPMATE_PUZZLE_Q058
+### Item 66: TOPMATE_PUZZLE_Q058  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 50)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 50.
@@ -2134,7 +2464,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 67: TOPMATE_PUZZLE_Q059
+### Item 67: TOPMATE_PUZZLE_Q059  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 51)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 51.
@@ -2171,7 +2506,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 68: TOPMATE_PUZZLE_Q060
+### Item 68: TOPMATE_PUZZLE_Q060  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 52)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 52.
@@ -2204,7 +2544,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 69: TOPMATE_PUZZLE_Q061
+### Item 69: TOPMATE_PUZZLE_Q061  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 53)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 53.
@@ -2237,7 +2582,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 70: TOPMATE_PUZZLE_Q062
+### Item 70: TOPMATE_PUZZLE_Q062  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 54)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 54.
@@ -2274,7 +2624,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 71: TOPMATE_PUZZLE_Q063
+### Item 71: TOPMATE_PUZZLE_Q063  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 55)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 55.
@@ -2307,7 +2662,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 72: TOPMATE_PUZZLE_Q064
+### Item 72: TOPMATE_PUZZLE_Q064  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 56)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 56.
@@ -2342,7 +2702,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 73: TOPMATE_PUZZLE_Q065
+### Item 73: TOPMATE_PUZZLE_Q065  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 57)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 57.
@@ -2373,7 +2738,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 74: TOPMATE_PUZZLE_Q066
+### Item 74: TOPMATE_PUZZLE_Q066  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 58)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 58.
@@ -2410,7 +2780,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 75: TOPMATE_PUZZLE_Q067
+### Item 75: TOPMATE_PUZZLE_Q067  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 59)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 59.
@@ -2447,7 +2822,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 76: TOPMATE_PUZZLE_Q068
+### Item 76: TOPMATE_PUZZLE_Q068  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 60)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 60.
@@ -2478,7 +2858,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 77: TOPMATE_PUZZLE_Q069
+### Item 77: TOPMATE_PUZZLE_Q069  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 61)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 61.
@@ -2513,7 +2898,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 78: TOPMATE_PUZZLE_Q070
+### Item 78: TOPMATE_PUZZLE_Q070  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 62)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 62.
@@ -2550,7 +2940,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 79: TOPMATE_PUZZLE_Q071
+### Item 79: TOPMATE_PUZZLE_Q071  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 63)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 63.
@@ -2581,7 +2976,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 80: TOPMATE_PUZZLE_Q072
+### Item 80: TOPMATE_PUZZLE_Q072  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 64)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 64.
@@ -2614,7 +3014,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 81: TOPMATE_PUZZLE_Q073
+### Item 81: TOPMATE_PUZZLE_Q073  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 65)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 65.
@@ -2649,7 +3054,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 82: TOPMATE_PUZZLE_Q074
+### Item 82: TOPMATE_PUZZLE_Q074  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 66)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 66.
@@ -2686,7 +3096,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 83: TOPMATE_PUZZLE_Q075
+### Item 83: TOPMATE_PUZZLE_Q075  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 67)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 67.
@@ -2719,7 +3134,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 84: TOPMATE_PUZZLE_Q076
+### Item 84: TOPMATE_PUZZLE_Q076  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 68)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 68.
@@ -2752,7 +3172,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 85: TOPMATE_PUZZLE_Q077
+### Item 85: TOPMATE_PUZZLE_Q077  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 69)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 69.
@@ -2785,7 +3210,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 86: TOPMATE_PUZZLE_Q078
+### Item 86: TOPMATE_PUZZLE_Q078  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 70)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 70.
@@ -2820,7 +3250,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 87: TOPMATE_PUZZLE_Q079
+### Item 87: TOPMATE_PUZZLE_Q079  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 71)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 71.
@@ -2853,7 +3288,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 88: TOPMATE_PUZZLE_Q080
+### Item 88: TOPMATE_PUZZLE_Q080  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 72)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 72.
@@ -2886,7 +3326,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 89: TOPMATE_PUZZLE_Q081
+### Item 89: TOPMATE_PUZZLE_Q081  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 73)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 73.
@@ -2923,7 +3368,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 90: TOPMATE_PUZZLE_Q082
+### Item 90: TOPMATE_PUZZLE_Q082  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 74)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 74.
@@ -2960,7 +3410,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 91: TOPMATE_PUZZLE_Q083
+### Item 91: TOPMATE_PUZZLE_Q083  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 75)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 75.
@@ -2993,7 +3448,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 92: TOPMATE_PUZZLE_Q084
+### Item 92: TOPMATE_PUZZLE_Q084  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 76)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 76.
@@ -3026,7 +3486,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 93: TOPMATE_PUZZLE_Q085
+### Item 93: TOPMATE_PUZZLE_Q085  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 77)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 77.
@@ -3057,7 +3522,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 94: TOPMATE_PUZZLE_Q086
+### Item 94: TOPMATE_PUZZLE_Q086  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 78)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 78.
@@ -3094,7 +3564,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 95: TOPMATE_PUZZLE_Q087
+### Item 95: TOPMATE_PUZZLE_Q087  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 79)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 79.
@@ -3131,7 +3606,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 96: TOPMATE_PUZZLE_Q088
+### Item 96: TOPMATE_PUZZLE_Q088  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 80)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 80.
@@ -3166,7 +3646,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 97: TOPMATE_PUZZLE_Q089
+### Item 97: TOPMATE_PUZZLE_Q089  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 81)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 81.
@@ -3199,7 +3684,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 98: TOPMATE_PUZZLE_Q090
+### Item 98: TOPMATE_PUZZLE_Q090  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 82)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 82.
@@ -3236,7 +3726,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 99: TOPMATE_PUZZLE_Q091
+### Item 99: TOPMATE_PUZZLE_Q091  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 83)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 83.
@@ -3269,7 +3764,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 100: TOPMATE_PUZZLE_Q092
+### Item 100: TOPMATE_PUZZLE_Q092  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 84)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 84.
@@ -3304,7 +3804,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 101: TOPMATE_PUZZLE_Q093
+### Item 101: TOPMATE_PUZZLE_Q093  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 85)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 85.
@@ -3337,7 +3842,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 102: TOPMATE_PUZZLE_Q094
+### Item 102: TOPMATE_PUZZLE_Q094  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 86)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 86.
@@ -3370,7 +3880,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 103: TOPMATE_PUZZLE_Q095
+### Item 103: TOPMATE_PUZZLE_Q095  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 87)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 87.
@@ -3403,7 +3918,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 104: TOPMATE_PUZZLE_Q096
+### Item 104: TOPMATE_PUZZLE_Q096  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 88)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 88.
@@ -3440,7 +3960,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 105: TOPMATE_PUZZLE_Q097
+### Item 105: TOPMATE_PUZZLE_Q097  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 89)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 89.
@@ -3473,7 +3998,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 106: TOPMATE_PUZZLE_Q098
+### Item 106: TOPMATE_PUZZLE_Q098  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 90)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 90.
@@ -3510,7 +4040,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 107: TOPMATE_PUZZLE_Q099
+### Item 107: TOPMATE_PUZZLE_Q099  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 91)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 91.
@@ -3543,7 +4078,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 108: TOPMATE_PUZZLE_Q100
+### Item 108: TOPMATE_PUZZLE_Q100  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 92)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 92.
@@ -3576,7 +4116,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 109: TOPMATE_PUZZLE_Q101
+### Item 109: TOPMATE_PUZZLE_Q101  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 93)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 93.
@@ -3609,7 +4154,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 110: TOPMATE_PUZZLE_Q102
+### Item 110: TOPMATE_PUZZLE_Q102  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 94)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 94.
@@ -3644,7 +4194,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 111: TOPMATE_PUZZLE_Q103
+### Item 111: TOPMATE_PUZZLE_Q103  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 94)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 94.
@@ -3679,7 +4234,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 112: TOPMATE_PUZZLE_Q104
+### Item 112: TOPMATE_PUZZLE_Q104  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 95)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 95.
@@ -3712,7 +4272,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 113: TOPMATE_PUZZLE_Q105
+### Item 113: TOPMATE_PUZZLE_Q105  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 96)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 96.
@@ -3747,7 +4312,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 114: TOPMATE_PUZZLE_Q106
+### Item 114: TOPMATE_PUZZLE_Q106  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 97)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 97.
@@ -3780,7 +4350,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 115: TOPMATE_PUZZLE_Q107
+### Item 115: TOPMATE_PUZZLE_Q107  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Puzzle.pdf` (Page 98)  
 **Category / Topic:** Puzzles & Mental Ability | Mathematical & Visual Puzzles  
 **Prompt:** Determine the missing numerical value (`?`) that logically satisfies the mathematical invariant pattern in the visual puzzle grid on Slide 98.

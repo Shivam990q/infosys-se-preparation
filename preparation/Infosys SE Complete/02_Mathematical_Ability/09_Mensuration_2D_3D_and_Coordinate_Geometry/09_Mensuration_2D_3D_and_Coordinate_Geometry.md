@@ -10,12 +10,22 @@
 
 ---
 
-## Problem 001 (ID: `SEC02_BOOK_P05_Q30`)
+## Problem 001  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P05_Q30`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Mensuration 2D & 3D**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Find the cube root of 328509
 
 ### Options
@@ -36,12 +46,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 5, Problem 30). V
 
 ---
 
-## Problem 002 (ID: `SEC02_BOOK_P05_Q31`)
+## Problem 002  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC02_BOOK_P05_Q31`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Mensuration 2D & 3D**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Find the cube root of 50653
 
 ### Options
@@ -62,12 +82,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 5, Problem 31). V
 
 ---
 
-## Problem 003 (ID: `SEC02_BOOK_P26_Q199`)
+## Problem 003  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P26_Q199`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Quadratic Equations & Clocks**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Shiva is facing N, he turns 180* and 45* in 
 clockwise direction and then 270* in anti - 
 clockwise direction. Finally again turns 180*. 
@@ -91,12 +121,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 26, Problem 199).
 
 ---
 
-## Problem 004 (ID: `SEC02_BOOK_P34_Q57`)
+## Problem 004  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_BOOK_P34_Q57`)
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Quadratic Equations & Clocks**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 9°
 
 ### Options
@@ -117,12 +157,22 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 34, Problem 57). 
 
 ---
 
-## Problem 005 (ID: `SEC02_TEST_MENSUR_Q01`)
+## Problem 005  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_TEST_MENSUR_Q01`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Mensuration Pre-Test_QUESTIONS.json`
 - **Topic Domain**: **Mensuration 2D & 3D**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 The length, width, and height ratio of a cuboid is 7:5:4 and its entire surface area is 2656 square cm. Find its width ?
 
 ### Options
@@ -140,12 +190,22 @@ Official solution from Mensuration Pre-Assessment Test. Mathematical verificatio
 
 ---
 
-## Problem 006 (ID: `SEC02_TEST_MENSUR_Q02`)
+## Problem 006  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC02_TEST_MENSUR_Q02`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Mensuration Pre-Test_QUESTIONS.json`
 - **Topic Domain**: **Mensuration 2D & 3D**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Find the total surface area (in cm 2 ) of a right circular cylinder of diameter 7 cm and height 6 cm.
 
 ### Options
@@ -163,12 +223,22 @@ Official solution from Mensuration Pre-Assessment Test. Mathematical verificatio
 
 ---
 
-## Problem 007 (ID: `SEC02_TEST_MENSUR_Q03`)
+## Problem 007  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC02_TEST_MENSUR_Q03`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Mensuration Pre-Test_QUESTIONS.json`
 - **Topic Domain**: **Mensuration 2D & 3D**
 
-### Question Statement
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 The length and breadth ratio of an auditorium is 3: 2. If the roof area is 216 square meters and the area of the four walls is 480 square meters, then what will be the height of the auditorium?
 
 ### Options
@@ -186,12 +256,22 @@ Official solution from Mensuration Pre-Assessment Test. Mathematical verificatio
 
 ---
 
-## Problem 008 (ID: `SEC02_TEST_MENSUR_Q04`)
+## Problem 008  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (ID: `SEC02_TEST_MENSUR_Q04`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Mensuration Pre-Test_QUESTIONS.json`
 - **Topic Domain**: **Mensuration 2D & 3D**
 
-### Question Statement
+### Question Statement  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 Numerical problem 4 from Mensuration Pre-Assessment Test.
 
 ### Options
@@ -209,12 +289,22 @@ Official solution from Mensuration Pre-Assessment Test. Mathematical verificatio
 
 ---
 
-## Problem 009 (ID: `SEC02_TEST_MENSUR_Q05`)
+## Problem 009  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_TEST_MENSUR_Q05`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Mensuration Pre-Test_QUESTIONS.json`
 - **Topic Domain**: **Mensuration 2D & 3D**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Three spherical balls of radius 2 cm, 4 cm and 6 cm are melted to form a new spherical ball. In this process there is a loss of 25% of the material. What is the radius (in cm) of the new ball?
 
 ### Options
@@ -232,12 +322,22 @@ Official solution from Mensuration Pre-Assessment Test. Mathematical verificatio
 
 ---
 
-## Problem 010 (ID: `SEC02_TEST_MENSUR_Q06`)
+## Problem 010  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_TEST_MENSUR_Q06`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Mensuration Pre-Test_QUESTIONS.json`
 - **Topic Domain**: **Mensuration 2D & 3D**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 A cylindrical rod of radius 30 cm and length 40 cm is melted and made into spherical balls of radius 1 cm. The number of spherical balls is.
 
 ### Options
@@ -255,12 +355,22 @@ Official solution from Mensuration Pre-Assessment Test. Mathematical verificatio
 
 ---
 
-## Problem 011 (ID: `SEC02_TEST_MENSUR_Q07`)
+## Problem 011  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_TEST_MENSUR_Q07`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Mensuration Pre-Test_QUESTIONS.json`
 - **Topic Domain**: **Mensuration 2D & 3D**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Find the curved surface area (in cm 2 ) of a hemisphere of diameter 28 cm.
 
 ### Options
@@ -278,12 +388,22 @@ Official solution from Mensuration Pre-Assessment Test. Mathematical verificatio
 
 ---
 
-## Problem 012 (ID: `SEC02_TEST_MENSUR_Q08`)
+## Problem 012  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_TEST_MENSUR_Q08`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Mensuration Pre-Test_QUESTIONS.json`
 - **Topic Domain**: **Mensuration 2D & 3D**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 A solid cone of height 24 cm and radius of its base 8 cm is melted to form a solid cylinder of radius 6 cm and height 6 cm. In the whole process what percent of material is wasted?
 
 ### Options
@@ -304,12 +424,22 @@ Official solution from Mensuration Pre-Assessment Test. Mathematical verificatio
 
 ---
 
-## Problem 013 (ID: `SEC02_TEST_MENSUR_Q09`)
+## Problem 013  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_TEST_MENSUR_Q09`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Mensuration Pre-Test_QUESTIONS.json`
 - **Topic Domain**: **Mensuration 2D & 3D**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 The sum of the length, width and height of a cuboid x cm and the length of its diagonal is y cm, then its total surface area will be-
 
 ### Options
@@ -330,12 +460,22 @@ Official solution from Mensuration Pre-Assessment Test. Mathematical verificatio
 
 ---
 
-## Problem 014 (ID: `SEC02_TEST_MENSUR_Q10`)
+## Problem 014  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_TEST_MENSUR_Q10`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `Mensuration Pre-Test_QUESTIONS.json`
 - **Topic Domain**: **Mensuration 2D & 3D**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 A sphere of diameter 5cm is dropped into a cylindrical vessel partly filled with water. The diameter of the base of the vessel is 10cm . If the sphere is completely submerged, by how much will the level of water rise?
 
 ### Options
@@ -356,12 +496,22 @@ Official solution from Mensuration Pre-Assessment Test. Mathematical verificatio
 
 ---
 
-## Problem 015 (ID: `SEC02_QUANT_MENS_Q01`)
+## Problem 015  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_QUANT_MENS_Q01`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `mensuration3D.pdf`
 - **Topic Domain**: **Mensuration 2D & 3D: Cylinder Melting to Spheres**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 A solid metallic cylinder of base radius 3 cm and height 5 cm is melted to make spherical balls of radius 1 cm. How many such balls can be made?
 
 ### Options
@@ -386,12 +536,22 @@ Since only complete solid balls can be formed, exactly 33 complete spherical bal
 
 ---
 
-## Problem 016 (ID: `SEC02_QUANT_QUAD_Q01`)
+## Problem 016  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC02_QUANT_QUAD_Q01`)
 - **Source Module**: `2. Numerical ability`
 - **Source File**: `01 Quadratic Equations - New.pdf`
 - **Topic Domain**: **Quadratic Equations: Root Comparison**
 
-### Question Statement
+### Question Statement  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 Compare the roots of the two equations:
 I. x^2 - 11x + 30 = 0
 II. y^2 - 15y + 56 = 0

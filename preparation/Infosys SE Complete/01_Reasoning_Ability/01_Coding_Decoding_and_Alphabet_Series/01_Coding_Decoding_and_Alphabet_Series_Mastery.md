@@ -6,7 +6,12 @@
 
 ---
 
-### Problem 01: Alphabet Series (`SEC01_MOD01_Q01`)
+### Problem 01: Alphabet Series (`SEC01_MOD01_Q01`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Day 01 - Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -40,7 +45,12 @@ Therefore, the wrong letter in the series is T (it should be S).
 
 ---
 
-### Problem 02: Coding Decoding (`SEC01_MOD01_Q02`)
+### Problem 02: Coding Decoding (`SEC01_MOD01_Q02`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Day 01 - Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -80,7 +90,12 @@ Reversing the single-digit sums gives: 7, 3, 3, 1 -> '7331'.
 
 ---
 
-### Problem 03: Coding Decoding (`SEC01_MOD01_Q03`)
+### Problem 03: Coding Decoding (`SEC01_MOD01_Q03`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Day 01 - Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -111,7 +126,12 @@ Therefore, J is coded as 125.
 
 ---
 
-### Problem 04: Coding Decoding (`SEC01_MOD01_Q04`)
+### Problem 04: Coding Decoding (`SEC01_MOD01_Q04`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Day 01 - Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -142,7 +162,12 @@ Therefore, the code for QUEEN is 62.
 
 ---
 
-### Problem 05: Coding Decoding (`SEC01_MOD01_Q05`)
+### Problem 05: Coding Decoding (`SEC01_MOD01_Q05`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Day 01 - Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -171,7 +196,12 @@ CARD: C (3) + A (1) + R (18) + D (4) = 26. Number of letters = 4. 26 * 4 = 104.
 
 ---
 
-### Problem 06: Coding Decoding (`SEC01_MOD01_Q06`)
+### Problem 06: Coding Decoding (`SEC01_MOD01_Q06`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Day 01 - Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -200,7 +230,12 @@ OVER has 4 letters, HOSPITAL has 8 letters -> 4 * 8 = 32.
 
 ---
 
-### Problem 07: Coding Decoding (`SEC01_MOD01_Q07`)
+### Problem 07: Coding Decoding (`SEC01_MOD01_Q07`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Day 01 - Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -237,7 +272,12 @@ Therefore, option 4 (82) is the exact answer.
 
 ---
 
-### Problem 08: Coding Decoding (`SEC01_MOD01_Q08`)
+### Problem 08: Coding Decoding (`SEC01_MOD01_Q08`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Day 01 - Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -277,7 +317,12 @@ Code = 20-17-15-16-28.
 
 ---
 
-### Problem 09: Coding Decoding (`SEC01_MOD01_Q09`)
+### Problem 09: Coding Decoding (`SEC01_MOD01_Q09`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Day 01 - Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -321,7 +366,12 @@ Wait, let's verify if -7 is option 1! Yes, Option 1 is -7!
 
 ---
 
-### Problem 10: Coding Decoding (`SEC01_MOD01_Q10`)
+### Problem 10: Coding Decoding (`SEC01_MOD01_Q10`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Day 01 - Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -350,7 +400,12 @@ Therefore, FRICTION is coded as 64.
 
 ---
 
-### Problem 11: Coding Decoding (`SEC01_MOD01_Q11`)
+### Problem 11: Coding Decoding (`SEC01_MOD01_Q11`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Day 01 - Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -385,7 +440,12 @@ Check digital root: 79 -> 7+9 = 16 -> 1+6 = 7. 51 -> 5+1 = 6. 40 -> 4+0 = 4. Opt
 
 ---
 
-### Problem 12: Coding Decoding (`SEC01_MOD01_Q12`)
+### Problem 12: Coding Decoding (`SEC01_MOD01_Q12`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Day 01 - Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -425,7 +485,12 @@ Option d: '217111912' corresponds to 2-17-11-1-9-12 where vowels O=17, A=1, I=9 
 
 ---
 
-### Problem 13: Odd One Out Letter Clusters (`SEC01_MOD01_Q13`)
+### Problem 13: Odd One Out Letter Clusters (`SEC01_MOD01_Q13`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Day 01 - Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -460,7 +525,12 @@ Therefore, ZEJP is the odd one out.
 
 ---
 
-### Problem 14: Chinese / Fictitious Language Coding (`SEC01_MOD01_Q14`)
+### Problem 14: Chinese / Fictitious Language Coding (`SEC01_MOD01_Q14`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Day 01 - Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -494,7 +564,12 @@ Hence, 'trees' = 4.
 
 ---
 
-### Problem 15: Coding Decoding & DPP Practice (`SEC01_MOD01_Q15`)
+### Problem 15: Coding Decoding & DPP Practice (`SEC01_MOD01_Q15`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `3. DPP 01 Coding Decoding.pdf`  
 **Problem Statement:**
 
@@ -520,7 +595,12 @@ M - 2 = K, O + 1 = P, U - 2 = S, S + 1 = T, E - 2 = C. Applying alternate -2, +1
 
 ---
 
-### Problem 16: Coding Decoding & DPP Practice (`SEC01_MOD01_Q16`)
+### Problem 16: Coding Decoding & DPP Practice (`SEC01_MOD01_Q16`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `3. DPP 01 Coding Decoding.pdf`  
 **Problem Statement:**
 
@@ -547,7 +627,12 @@ Positions: 1 2 3 4 -> 2 1 4 3 or transposition. BEAN -> ABNE swaps 1&2, 3&4. NEW
 
 ---
 
-### Problem 17: Coding Decoding & DPP Practice (`SEC01_MOD01_Q17`)
+### Problem 17: Coding Decoding & DPP Practice (`SEC01_MOD01_Q17`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `3. DPP 01 Coding Decoding.pdf`  
 **Problem Statement:**
 
@@ -574,7 +659,12 @@ Divide word into two halves + middle letter. J E A L O U S (+1 to each letter an
 
 ---
 
-### Problem 18: Coding Decoding & DPP Practice (`SEC01_MOD01_Q18`)
+### Problem 18: Coding Decoding & DPP Practice (`SEC01_MOD01_Q18`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `3. DPP 01 Coding Decoding.pdf`  
 **Problem Statement:**
 
@@ -601,7 +691,12 @@ Pattern of +1, -1 alternating on each character of ATMOSPHERE -> BSLPROGFQF. App
 
 ---
 
-### Problem 19: Coding Decoding & DPP Practice (`SEC01_MOD01_Q19`)
+### Problem 19: Coding Decoding & DPP Practice (`SEC01_MOD01_Q19`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `3. DPP 01 Coding Decoding.pdf`  
 **Problem Statement:**
 
@@ -627,7 +722,12 @@ In BOMBAY, the 3rd and 6th letters are M and Y, repeated 3 times. In TAMILNADU (
 
 ---
 
-### Problem 20: Coding Decoding & DPP Practice (`SEC01_MOD01_Q20`)
+### Problem 20: Coding Decoding & DPP Practice (`SEC01_MOD01_Q20`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `3. DPP 01 Coding Decoding.pdf`  
 **Problem Statement:**
 
@@ -653,7 +753,12 @@ Direct letter substitution: C=8, A=2, L=5, I=1, C=8, U=9, T=6 -> 8251896.
 
 ---
 
-### Problem 21: Coding Decoding & DPP Practice (`SEC01_MOD01_Q21`)
+### Problem 21: Coding Decoding & DPP Practice (`SEC01_MOD01_Q21`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `3. DPP 01 Coding Decoding.pdf`  
 **Problem Statement:**
 
@@ -680,7 +785,12 @@ In '253' (books are old) and '546' (man is old), common digit is 5 = 'old'. In '
 
 ---
 
-### Problem 22: Coding Decoding & DPP Practice (`SEC01_MOD01_Q22`)
+### Problem 22: Coding Decoding & DPP Practice (`SEC01_MOD01_Q22`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `3. DPP 01 Coding Decoding.pdf`  
 **Problem Statement:**
 
@@ -706,7 +816,12 @@ In a certain code language, 'pit nae tom' means 'give me water', 'nae tok pa' me
 
 ---
 
-### Problem 23: Coding Decoding & DPP Practice (`SEC01_MOD01_Q23`)
+### Problem 23: Coding Decoding & DPP Practice (`SEC01_MOD01_Q23`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `3. DPP 01 Coding Decoding.pdf`  
 **Problem Statement:**
 
@@ -733,7 +848,12 @@ In 'for profit order now' and 'right now for him', common words are 'for', 'now'
 
 ---
 
-### Problem 24: Coding Decoding & DPP Practice (`SEC01_MOD01_Q24`)
+### Problem 24: Coding Decoding & DPP Practice (`SEC01_MOD01_Q24`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `3. DPP 01 Coding Decoding.pdf`  
 **Problem Statement:**
 
@@ -760,7 +880,12 @@ What does 'bi' stand for in the above Chinese coding?
 
 ---
 
-### Problem 25: Coding Decoding & DPP Practice (`SEC01_MOD01_Q25`)
+### Problem 25: Coding Decoding & DPP Practice (`SEC01_MOD01_Q25`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `3. DPP 01 Coding Decoding.pdf`  
 **Problem Statement:**
 
@@ -787,7 +912,12 @@ What is the code for 'order' in the above code?
 
 ---
 
-### Problem 26: Coding Decoding & DPP Practice (`SEC01_MOD01_Q26`)
+### Problem 26: Coding Decoding & DPP Practice (`SEC01_MOD01_Q26`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `3. DPP 01 Coding Decoding.pdf`  
 **Problem Statement:**
 
@@ -813,7 +943,12 @@ F is 6th letter: (6 + 1)^3 = 7^3 = 343. L is 12th letter: (12 + 1)^3 = 13^3 = 21
 
 ---
 
-### Problem 27: Coding Decoding & DPP Practice (`SEC01_MOD01_Q27`)
+### Problem 27: Coding Decoding & DPP Practice (`SEC01_MOD01_Q27`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `3. DPP 01 Coding Decoding.pdf`  
 **Problem Statement:**
 
@@ -839,7 +974,12 @@ If 264 * 2 = 6, 870 * 3 = 11, then what should 735 * 5 be?
 
 ---
 
-### Problem 28: Coding Decoding & DPP Practice (`SEC01_MOD01_Q28`)
+### Problem 28: Coding Decoding & DPP Practice (`SEC01_MOD01_Q28`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `3. DPP 01 Coding Decoding.pdf`  
 **Problem Statement:**
 
@@ -865,7 +1005,12 @@ Direct positional values: 2 = B, 5 = E, 1 = A, 4 = D, 4 = D -> 'BEADD' (or 25=Y,
 
 ---
 
-### Problem 29: Coding Decoding & DPP Practice (`SEC01_MOD01_Q29`)
+### Problem 29: Coding Decoding & DPP Practice (`SEC01_MOD01_Q29`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `3. DPP 01 Coding Decoding.pdf`  
 **Problem Statement:**
 
@@ -891,7 +1036,12 @@ Direct substitution matching: L=G, A=K, N=L, T=C, E=D, R=F, N=L -> GKLCDAC.
 
 ---
 
-### Problem 30: Coding Decoding (`SEC01_TEST_CODING_Q01`)
+### Problem 30: Coding Decoding (`SEC01_TEST_CODING_Q01`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Coding decoding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -917,7 +1067,12 @@ This is t orrect Option: C O R G A N I S A T I O N C B D W L Q J W Y Q C L O P E
 
 ---
 
-### Problem 31: Coding Decoding (`SEC01_TEST_CODING_Q02`)
+### Problem 31: Coding Decoding (`SEC01_TEST_CODING_Q02`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Coding decoding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -943,7 +1098,12 @@ P E N N Z O B A R K C T S L Therefore; P R A N K N S T O L
 
 ---
 
-### Problem 32: Coding Decoding (`SEC01_TEST_CODING_Q03`)
+### Problem 32: Coding Decoding (`SEC01_TEST_CODING_Q03`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Coding decoding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -969,7 +1129,12 @@ Correct Option: A B U T T E R &darr; &darr; &darr; &darr; &darr; &darr; +1 +1 +1
 
 ---
 
-### Problem 33: Coding Decoding (`SEC01_TEST_CODING_Q04`)
+### Problem 33: Coding Decoding (`SEC01_TEST_CODING_Q04`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Coding decoding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -995,7 +1160,12 @@ Correct Option: D P A R E N T B D F G J K C H I L D R E N M O X Q U F G J Theref
 
 ---
 
-### Problem 34: Coding Decoding (`SEC01_TEST_CODING_Q05`)
+### Problem 34: Coding Decoding (`SEC01_TEST_CODING_Q05`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Coding decoding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1021,7 +1191,12 @@ Correct Option: A U N I T E D &darr; &darr; &darr; &darr; &darr; &darr; &ndash;2
 
 ---
 
-### Problem 35: Coding Decoding (`SEC01_TEST_CODING_Q06`)
+### Problem 35: Coding Decoding (`SEC01_TEST_CODING_Q06`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Coding decoding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1047,7 +1222,12 @@ Correct Option: A S I S T E R &darr; &darr; &darr; &darr; &darr; &darr; &ndash;1
 
 ---
 
-### Problem 36: Coding Decoding (`SEC01_TEST_CODING_Q07`)
+### Problem 36: Coding Decoding (`SEC01_TEST_CODING_Q07`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Coding decoding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1073,7 +1253,12 @@ Correct Option: D R A M A Y A N A &darr; &darr; &darr; &darr; &darr; &darr; &dar
 
 ---
 
-### Problem 37: Coding Decoding (`SEC01_TEST_CODING_Q08`)
+### Problem 37: Coding Decoding (`SEC01_TEST_CODING_Q08`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Coding decoding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1099,7 +1284,12 @@ Correct Option: A P L A Y E R &darr; &darr; &darr; &darr; &darr; &darr; +1 +2 +3
 
 ---
 
-### Problem 38: Coding Decoding (`SEC01_TEST_CODING_Q09`)
+### Problem 38: Coding Decoding (`SEC01_TEST_CODING_Q09`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Coding decoding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1125,7 +1315,12 @@ Option: B P E A R = G F D N Similarly; R E A P = N F D G
 
 ---
 
-### Problem 39: Coding Decoding (`SEC01_TEST_CODING_Q10`)
+### Problem 39: Coding Decoding (`SEC01_TEST_CODING_Q10`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Coding decoding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1151,7 +1346,12 @@ D RE &ndash; EXAMINATION EXAMINATION &ndash; ER Similarly; RE &ndash; FORMER FOR
 
 ---
 
-### Problem 40: Coding Decoding (`SEC01_TEST_CODING_Q11`)
+### Problem 40: Coding Decoding (`SEC01_TEST_CODING_Q11`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Coding decoding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1187,7 +1387,12 @@ Correct Option: B Strike out is coded as sam ops. Hence option B is correct. Com
 
 ---
 
-### Problem 41: Coding Decoding (`SEC01_TEST_CODING_Q12`)
+### Problem 41: Coding Decoding (`SEC01_TEST_CODING_Q12`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Coding decoding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1222,7 +1427,12 @@ Correct Option: D Code for Packed is jio and goods is a newly introduced word, s
 
 ---
 
-### Problem 42: Coding Decoding (`SEC01_TEST_CODING_Q13`)
+### Problem 42: Coding Decoding (`SEC01_TEST_CODING_Q13`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Coding decoding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1259,7 +1469,12 @@ Correct Option: E Code for drama night can't be determined as we don't know the 
 
 ---
 
-### Problem 43: Coding Decoding (`SEC01_TEST_CODING_Q14`)
+### Problem 43: Coding Decoding (`SEC01_TEST_CODING_Q14`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Coding decoding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1285,7 +1500,12 @@ Diagonal minus 1
 
 ---
 
-### Problem 44: Coding Decoding (`SEC01_TEST_CODING_Q15`)
+### Problem 44: Coding Decoding (`SEC01_TEST_CODING_Q15`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Coding decoding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1313,7 +1533,12 @@ Official solution from Alphabetical Coding Online Test. Symmetrical, rotational,
 
 ---
 
-### Problem 45: Coding Decoding (`SEC01_TEST_CODING_Q16`)
+### Problem 45: Coding Decoding (`SEC01_TEST_CODING_Q16`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Coding decoding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1340,7 +1565,12 @@ Official solution from Alphabetical Coding Online Test. Symmetrical, rotational,
 
 ---
 
-### Problem 46: Coding Decoding (`SEC01_TEST_CODING_Q17`)
+### Problem 46: Coding Decoding (`SEC01_TEST_CODING_Q17`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Coding decoding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1368,7 +1598,12 @@ option B
 
 ---
 
-### Problem 47: Coding Decoding (`SEC01_TEST_CODING_Q18`)
+### Problem 47: Coding Decoding (`SEC01_TEST_CODING_Q18`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Coding decoding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1395,7 +1630,12 @@ option D
 
 ---
 
-### Problem 48: Coding Decoding (`SEC01_TEST_CODING_Q19`)
+### Problem 48: Coding Decoding (`SEC01_TEST_CODING_Q19`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Coding decoding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1421,7 +1661,12 @@ Addition of 8 in every alphabat
 
 ---
 
-### Problem 49: Coding Decoding (`SEC01_TEST_CODING_Q20`)
+### Problem 49: Coding Decoding (`SEC01_TEST_CODING_Q20`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `1 _ Alphabet Related Topics` | **Source Document:** `Coding decoding_QUESTIONS.json`  
 **Problem Statement:**
 

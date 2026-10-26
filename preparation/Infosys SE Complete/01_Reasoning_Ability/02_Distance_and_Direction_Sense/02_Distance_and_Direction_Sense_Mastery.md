@@ -6,7 +6,12 @@
 
 ---
 
-### Problem 01: Preassessment Distance & Direction (`SEC01_MOD02_Q01`)
+### Problem 01: Preassessment Distance & Direction (`SEC01_MOD02_Q01`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `Distance and Direction.pdf`  
 **Problem Statement:**
 
@@ -54,7 +59,12 @@ Shop-1 (0, 0) is directly North of Shop-2 (0, -35) at a distance of 35 m.
 
 ---
 
-### Problem 02: Cardinal Traversal (`SEC01_MOD02_Q02`)
+### Problem 02: Cardinal Traversal (`SEC01_MOD02_Q02`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `Distance and Direction.pdf`  
 **Problem Statement:**
 
@@ -87,7 +97,12 @@ Sundar is facing North.
 
 ---
 
-### Problem 03: Angular Rotation Traversal (`SEC01_MOD02_Q03`)
+### Problem 03: Angular Rotation Traversal (`SEC01_MOD02_Q03`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `Distance and Direction.pdf`  
 **Problem Statement:**
 
@@ -121,7 +136,12 @@ Wait! Let's check: 0 + 180 + 45 - 270 + 180 = 135° (South-East). If anti-clockw
 
 ---
 
-### Problem 04: Pythagoras Distance (`SEC01_MOD02_Q04`)
+### Problem 04: Pythagoras Distance (`SEC01_MOD02_Q04`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `Distance and Direction.pdf`  
 **Problem Statement:**
 
@@ -152,7 +172,12 @@ Direction: North-East (NE).
 
 ---
 
-### Problem 05: Multi-Person Coordinates (`SEC01_MOD02_Q05`)
+### Problem 05: Multi-Person Coordinates (`SEC01_MOD02_Q05`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `Distance and Direction.pdf`  
 **Problem Statement:**
 
@@ -185,7 +210,12 @@ Distance = 100 - (-200) = 300m along the horizontal axis.
 
 ---
 
-### Problem 06: Loop Traversal & Return Direction (`SEC01_MOD02_Q06`)
+### Problem 06: Loop Traversal & Return Direction (`SEC01_MOD02_Q06`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `Distance and Direction.pdf`  
 **Problem Statement:**
 
@@ -219,7 +249,12 @@ To reach starting point (0, 0), he must drive 5 km in the North direction.
 
 ---
 
-### Problem 07: Right-Angled Segment Path (`SEC01_MOD02_Q07`)
+### Problem 07: Right-Angled Segment Path (`SEC01_MOD02_Q07`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `Distance and Direction.pdf`  
 **Problem Statement:**
 
@@ -249,7 +284,12 @@ Shortest distance = √(x^2 + y^2) = √(12^2 + 5^2) = √(144 + 25) = √169 = 
 
 ---
 
-### Problem 08: Symmetric Traversal (`SEC01_MOD02_Q08`)
+### Problem 08: Symmetric Traversal (`SEC01_MOD02_Q08`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `Distance and Direction.pdf`  
 **Problem Statement:**
 
@@ -285,7 +325,12 @@ Therefore, he is exactly 10 km from the starting point.
 
 ---
 
-### Problem 09: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q01`)
+### Problem 09: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q01`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -312,7 +357,12 @@ This is the solution
 
 ---
 
-### Problem 10: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q02`)
+### Problem 10: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q02`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -339,7 +389,12 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 ---
 
-### Problem 11: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q03`)
+### Problem 11: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q03`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -371,7 +426,12 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 ---
 
-### Problem 12: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q04`)
+### Problem 12: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q04`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -398,7 +458,12 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 ---
 
-### Problem 13: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q05`)
+### Problem 13: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q05`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -428,7 +493,12 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 ---
 
-### Problem 14: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q06`)
+### Problem 14: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q06`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -457,7 +527,12 @@ This is the solution
 
 ---
 
-### Problem 15: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q07`)
+### Problem 15: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q07`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -488,7 +563,12 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 ---
 
-### Problem 16: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q08`)
+### Problem 16: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q08`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -520,7 +600,12 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 ---
 
-### Problem 17: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q09`)
+### Problem 17: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q09`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -550,7 +635,12 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 ---
 
-### Problem 18: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q10`)
+### Problem 18: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q10`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -582,7 +672,12 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 ---
 
-### Problem 19: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q11`)
+### Problem 19: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q11`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -613,7 +708,12 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 ---
 
-### Problem 20: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q12`)
+### Problem 20: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q12`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -645,7 +745,12 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 ---
 
-### Problem 21: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q13`)
+### Problem 21: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q13`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -676,7 +781,12 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 ---
 
-### Problem 22: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q14`)
+### Problem 22: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q14`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -707,7 +817,12 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 ---
 
-### Problem 23: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q15`)
+### Problem 23: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q15`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -737,7 +852,12 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 ---
 
-### Problem 24: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q01`)
+### Problem 24: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q01`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -769,7 +889,12 @@ Official solution from Distance & Direction Sense Test 01. Symmetrical, rotation
 
 ---
 
-### Problem 25: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q02`)
+### Problem 25: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q02`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -796,7 +921,12 @@ Official solution from Distance & Direction Sense Test 01. Symmetrical, rotation
 
 ---
 
-### Problem 26: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q03`)
+### Problem 26: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q03`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -827,7 +957,12 @@ Official solution from Distance & Direction Sense Test 01. Symmetrical, rotation
 
 ---
 
-### Problem 27: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q04`)
+### Problem 27: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q04`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -854,7 +989,12 @@ Official solution from Distance & Direction Sense Test 01. Symmetrical, rotation
 
 ---
 
-### Problem 28: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q05`)
+### Problem 28: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q05`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -881,7 +1021,12 @@ This is the solution
 
 ---
 
-### Problem 29: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q06`)
+### Problem 29: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q06`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -912,7 +1057,12 @@ Official solution from Distance & Direction Sense Test 01. Symmetrical, rotation
 
 ---
 
-### Problem 30: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q07`)
+### Problem 30: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q07`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -939,7 +1089,12 @@ Official solution from Distance & Direction Sense Test 01. Symmetrical, rotation
 
 ---
 
-### Problem 31: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q08`)
+### Problem 31: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q08`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -966,7 +1121,12 @@ Official solution from Distance & Direction Sense Test 01. Symmetrical, rotation
 
 ---
 
-### Problem 32: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q09`)
+### Problem 32: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q09`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -993,7 +1153,12 @@ Official solution from Distance & Direction Sense Test 01. Symmetrical, rotation
 
 ---
 
-### Problem 33: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q10`)
+### Problem 33: Distance and Direction Sense (`SEC01_TEST_DISTAN_Q10`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `2 _ Distance and Direction` | **Source Document:** `DISTANCE AND DIRECTION TEST_QUESTIONS.json`  
 **Problem Statement:**
 

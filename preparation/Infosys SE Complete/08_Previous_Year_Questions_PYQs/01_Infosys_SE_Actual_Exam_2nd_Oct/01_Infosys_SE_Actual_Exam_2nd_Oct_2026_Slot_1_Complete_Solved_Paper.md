@@ -10,7 +10,12 @@
 ## 🔷 SECTION 1 — REASONING ABILITY TEST
 *15 Questions | 15 Marks | 25 Minutes*
 
-### Question 1
+### Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** In a family, Arun is the son of Meena. Meena is the sister of Ravi. How is Ravi related to Arun?
 
 **Options:**
@@ -28,7 +33,12 @@ Arun is the son of Meena. Meena is the sister of Ravi. Therefore, Ravi is Meena'
 
 ---
 
-### Question 2
+### Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Six people A, B, C, D, E and F sit around a circular table facing the centre. A sits between B and C. D sits opposite
 
 **Options:**
@@ -47,7 +57,12 @@ Six people A, B, C, D, E, F sit around a circular table facing centre. Assign 6 
 
 ---
 
-### Question 3
+### Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Statements: All engineers are graduates. Some graduates are artists. Conclusions: I. Some engineers are artists. II. All artists are graduates. Which conclusion(s) logically follow?
 
 **Options:**
@@ -65,7 +80,12 @@ Statements: All engineers are graduates (E ⊆ G). Some graduates are artists (G
 
 ---
 
-### Question 4
+### Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** A standard die has opposite faces adding up to 7. If 6 is on the top face, which number is on the bottom face?
 
 **Options:**
@@ -83,7 +103,12 @@ In a standard die, opposite faces always sum to 7. If the top face is 6, the bot
 
 ---
 
-### Question 5
+### Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Five people P, Q, R, S and T stand in a row. P is immediately to the right of Q. R is immediately to the right of P. S is at one end and T is between S and Q. Who stands in the middle?
 
 **Options:**
@@ -101,7 +126,12 @@ P is immediately to the right of Q (order: Q P). R is immediately to the right o
 
 ---
 
-### Question 6
+### Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** A person walks 7 km north, turns right and walks 4 km, then turns right and walks 7 km. How far and in which direction is the person from the starting point?
 
 **Options:**
@@ -119,7 +149,12 @@ Start at (0, 0). Walking 7 km north leads to (0, 7). Turning right (east) and wa
 
 ---
 
-### Question 7
+### Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Find the next letter in the series: A, D, G, J, M, __.
 
 **Options:**
@@ -137,7 +172,12 @@ Alphabet positions: A = 1, D = 4, G = 7, J = 10, M = 13. The common difference i
 
 ---
 
-### Question 8
+### Question 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Choose the odd one out.
 
 **Options:**
@@ -155,7 +195,12 @@ Triangle, Square, and Rectangle are rectilinear polygons composed of straight li
 
 ---
 
-### Question 9
+### Question 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** If 15 August 1947 was a Friday, what day of the week was 26 January 2020?
 
 **Options:**
@@ -173,7 +218,12 @@ Calendar derivation: 15 August 1947 was a Friday. To reach 26 January 2020: Numb
 
 ---
 
-### Question 10
+### Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Find the next number: 2, 5, 10, 17, 26, __.
 
 **Options:**
@@ -191,7 +241,12 @@ The series follows the rule n² + 1: 1² + 1 = 2, 2² + 1 = 5, 3² + 1 = 10, 4²
 
 ---
 
-### Question 11
+### Question 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** John is twice as old as Mary. Five years ago, the sum of their ages was 30. What are their present ages?
 
 **Options:**
@@ -209,7 +264,12 @@ Let Mary's present age be M and John's present age be J = 2M. For Option A (20 a
 
 ---
 
-### Question 12
+### Question 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** At a meeting, every person shakes hands exactly once with every other person. If 10 people attend, how many handshakes take place?
 
 **Options:**
@@ -227,7 +287,12 @@ The number of handshakes among n people where each shakes hands once with every 
 
 ---
 
-### Question 13
+### Question 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** If the day after tomorrow is Thursday, what day was yesterday?
 
 **Options:**
@@ -245,7 +310,12 @@ If the day after tomorrow is Thursday, then tomorrow is Wednesday, and today is 
 
 ---
 
-### Question 14
+### Question 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Find the next number: 3, 8, 15, 24, 35, __.
 
 **Options:**
@@ -263,7 +333,12 @@ The sequence follows the formula n² - 1 starting from n = 2: 2² - 1 = 3, 3² -
 
 ---
 
-### Question 15
+### Question 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Complete the analogy: 5 : 25 :: 7 : ?
 
 **Options:**
@@ -284,7 +359,12 @@ The analogy relates a number to its square: 5² = 25. Therefore, 7² = 49.
 ## 🔷 SECTION 2 — TECHNICAL ABILITY TEST (QUANTITATIVE APTITUDE)
 *10 Questions | 10 Marks | 35 Minutes*
 
-### Question 1
+### Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Find the 8th term of the arithmetic sequence 8, 14, 20, 26, ...
 
 **Options:**
@@ -302,7 +382,12 @@ Arithmetic sequence: a = 8, common difference d = 14 - 8 = 6. The nth term formu
 
 ---
 
-### Question 2
+### Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** A number is increased by 20% and then decreased by 20%. What is the net percentage change?
 
 **Options:**
@@ -320,7 +405,12 @@ Net change formula for consecutive percentage changes (+x% and -y%) is x - y - (
 
 ---
 
-### Question 3
+### Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** The average of five numbers is 24. Four of the numbers are 16, 21, 27 and 30. Find the fifth number.
 
 **Options:**
@@ -338,7 +428,12 @@ Sum of 5 numbers = 5 × 24 = 120. Sum of the known four numbers = 16 + 21 + 27 +
 
 ---
 
-### Question 4
+### Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** A and B invest money in the ratio 3:5. If the total profit is ₹6400, what is B's share?
 
 **Options:**
@@ -356,7 +451,12 @@ Profit is divided in the ratio of investments: A : B = 3 : 5. Total ratio parts 
 
 ---
 
-### Question 5
+### Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** An article is bought for ₹800 and sold for ₹920. What is the profit percentage?
 
 **Options:**
@@ -374,7 +474,12 @@ Cost Price (CP) = ₹800, Selling Price (SP) = ₹920. Profit = SP - CP = ₹920
 
 ---
 
-### Question 6
+### Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** A car travels 180 km at 60 km/h. How much time does it take?
 
 **Options:**
@@ -392,7 +497,12 @@ Time = Distance / Speed = 180 km / 60 km/h = 3 hours.
 
 ---
 
-### Question 7
+### Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Pipe A fills a tank in 12 hours and Pipe B fills it in 18 hours. How long will they take together?
 
 **Options:**
@@ -410,7 +520,12 @@ Combined rate of Pipe A and Pipe B = 1/12 + 1/18 = (3 + 2) / 36 = 5/36 tank per 
 
 ---
 
-### Question 8
+### Question 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** In how many ways can 5 distinct students be arranged in a row?
 
 **Options:**
@@ -428,7 +543,12 @@ The number of distinct linear permutations of n distinct objects is n!. For 5 st
 
 ---
 
-### Question 9
+### Question 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** From 7 people, in how many ways can a committee of 3 be selected?
 
 **Options:**
@@ -446,7 +566,12 @@ Selecting a committee of 3 from 7 people without regard to order is C(7, 3) = (7
 
 ---
 
-### Question 10
+### Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** If SEND + MORE = MONEY, where each letter represents a distinct digit, what is the value of SEND?
 
 **Options:**
@@ -467,7 +592,12 @@ In the classic cryptarithmetic puzzle SEND + MORE = MONEY, M must be the carry-o
 ## 🔷 SECTION 3 — VERBAL ABILITY TEST
 *20 Questions | 20 Marks | 20 Minutes*
 
-### Question 1
+### Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Choose the word closest in meaning to “lucid”.
 
 **Options:**
@@ -485,7 +615,12 @@ In the classic cryptarithmetic puzzle SEND + MORE = MONEY, M must be the carry-o
 
 ---
 
-### Question 2
+### Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Choose the word closest in meaning to “benevolent”.
 
 **Options:**
@@ -503,7 +638,12 @@ In the classic cryptarithmetic puzzle SEND + MORE = MONEY, M must be the carry-o
 
 ---
 
-### Question 3
+### Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Choose the word opposite in meaning to “frugal”.
 
 **Options:**
@@ -521,7 +661,12 @@ In the classic cryptarithmetic puzzle SEND + MORE = MONEY, M must be the carry-o
 
 ---
 
-### Question 4
+### Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Choose the word closest in meaning to “obstinate”.
 
 **Options:**
@@ -539,7 +684,12 @@ In the classic cryptarithmetic puzzle SEND + MORE = MONEY, M must be the carry-o
 
 ---
 
-### Question 5
+### Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Choose the word closest in meaning to “erudite”.
 
 **Options:**
@@ -557,7 +707,12 @@ In the classic cryptarithmetic puzzle SEND + MORE = MONEY, M must be the carry-o
 
 ---
 
-### Question 6
+### Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** What does the idiom “break the ice” mean?
 
 **Options:**
@@ -575,7 +730,12 @@ The idiom “break the ice” means to relieve social tension, make people feel 
 
 ---
 
-### Question 7
+### Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** What does “hit the sack” mean?
 
 **Options:**
@@ -593,7 +753,12 @@ The idiom “break the ice” means to relieve social tension, make people feel 
 
 ---
 
-### Question 8
+### Question 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** What does “once in a blue moon” mean?
 
 **Options:**
@@ -611,7 +776,12 @@ The idiom “break the ice” means to relieve social tension, make people feel 
 
 ---
 
-### Question 9
+### Question 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** What does “cost an arm and a leg” mean?
 
 **Options:**
@@ -629,7 +799,12 @@ The idiom “break the ice” means to relieve social tension, make people feel 
 
 ---
 
-### Question 10
+### Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** What does “beat around the bush” mean?
 
 **Options:**
@@ -647,7 +822,12 @@ The idiom “break the ice” means to relieve social tension, make people feel 
 
 ---
 
-### Question 11
+### Question 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Choose the correct option: He ____ to school when it started to rain.
 
 **Options:**
@@ -665,7 +845,12 @@ Past continuous tense (“was walking”) is required for an ongoing action inte
 
 ---
 
-### Question 12
+### Question 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Choose the correct option: If I ____ you, I would apologize.
 
 **Options:**
@@ -683,7 +868,12 @@ Second conditional subjunctive mood requires “were” regardless of the subjec
 
 ---
 
-### Question 13
+### Question 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Choose the correct option: By this time tomorrow, I ____ my project.
 
 **Options:**
@@ -701,7 +891,12 @@ Future perfect tense (“will have finished”) expresses an action that will be
 
 ---
 
-### Question 14
+### Question 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Choose the correct option: She ____ in Paris since 2010.
 
 **Options:**
@@ -719,7 +914,12 @@ Present perfect tense (“has lived”) denotes an action that started in the pa
 
 ---
 
-### Question 15
+### Question 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Choose the correct option: They would go outside ____ it was raining.
 
 **Options:**
@@ -737,7 +937,12 @@ Present perfect tense (“has lived”) denotes an action that started in the pa
 
 ---
 
-### Question 16
+### Question 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Identify the part containing the error: “Neither of the students were present in the class.”
 
 **Options:**
@@ -755,7 +960,12 @@ Present perfect tense (“has lived”) denotes an action that started in the pa
 
 ---
 
-### Question 17
+### Question 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Identify the part containing the error: “She don’t like apples.”
 
 **Options:**
@@ -773,7 +983,12 @@ With third-person singular subject “She”, the negative auxiliary must be “
 
 ---
 
-### Question 18
+### Question 18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Identify the part containing the error: “I have visited London last year.”
 
 **Options:**
@@ -791,7 +1006,12 @@ When a specific past time marker is stated (“last year”), the simple past te
 
 ---
 
-### Question 19
+### Question 19  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Identify the part containing the error: “Him and I are going to the store.”
 
 **Options:**
@@ -809,7 +1029,12 @@ In subject position, subjective pronouns must be used: “He and I are going...�
 
 ---
 
-### Question 20
+### Question 20  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Identify the part containing the error: “It is the best book I have ever read it.”
 
 **Options:**
@@ -830,7 +1055,12 @@ The sentence “It is the best book I have ever read” is grammatically correct
 ## 🔷 SECTION 4 — PSEUDO CODE TEST
 *5 Questions | 10 Marks | 10 Minutes*
 
-### Question 1
+### Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Consider the following pseudocode: A = [3, 1, 4, 1] FOR i = 0 TO 2 SWAP A[i] AND A[i+1] END FOR PRINT A What is the output?
 
 ![Slide Figure](../../images/slot1_page_006.png)
@@ -850,7 +1080,12 @@ Initial array A = [3, 1, 4, 1]. Iteration i = 0: Swap A[0] and A[1] -> [1, 3, 4,
 
 ---
 
-### Question 2
+### Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Consider the following pseudocode: result = 0 FOR i = 1 TO 5 IF i MOD 2 == 0 result = result + i * i END IF END FOR PRINT result What is the output?
 
 ![Slide Figure](../../images/slot1_page_007.png)
@@ -870,7 +1105,12 @@ Loop i runs from 1 to 5. Even values of i are 2 and 4. When i = 2: result = 0 + 
 
 ---
 
-### Question 3
+### Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Consider the following pseudocode: FUNCTION F(n) IF n == 0 RETURN 1 ELSE RETURN n * F(n - 1) END IF END FUNCTION PRINT F(4) What is the output?
 
 ![Slide Figure](../../images/slot1_page_007.png)
@@ -890,7 +1130,12 @@ F(n) is the recursive factorial function. F(4) = 4 × F(3) = 4 × 3 × F(2) = 4 
 
 ---
 
-### Question 4
+### Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Consider the following pseudocode: FOR i = 1 TO N FOR j = 1 TO N PRINT i + j END FOR END FOR What is the time complexity of the pseudocode in terms of N?
 
 ![Slide Figure](../../images/slot1_page_007.png)
@@ -910,7 +1155,12 @@ The outer loop runs N times and the inner loop runs N times independently for ea
 
 ---
 
-### Question 5
+### Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Consider the following pseudocode: count = 0 FOR EACH x IN [2, 7, 8, 3, 10] IF x MOD 2 == 0 count = count + 1 END IF END FOR PRINT count What is printed?
 
 ![Slide Figure](../../images/slot1_page_007.png)
@@ -933,7 +1183,12 @@ The pseudocode iterates through [2, 7, 8, 3, 10] and increments count for each e
 ## 🔷 SECTION 5 — NUMERICAL PUZZLE TEST
 *4 Questions | 10 Marks | 10 Minutes*
 
-### Question 1
+### Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Maze/Grid Puzzle: A robot starts at S and must reach E. It can move only UP, DOWN, LEFT or RIGHT and cannot enter cells marked X. Grid: S  .  X  .  . .  .  X  .  X X  .  .  .  . .  X  X  .  . .  .  .  X  E What is the minimum number of moves required to reach E from S?
 
 ![Slide Figure](../../images/slot1_page_008.png)
@@ -953,7 +1208,12 @@ Grid BFS from S(0,0) to E(4,4) avoiding X: Optimal shortest path: (0,0) -> (1,0)
 
 ---
 
-### Question 2
+### Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Matrix Puzzle: Find the missing number (?) in the following matrix. 2   5   9 4   8   15 6   11  ? Choose the number that logically completes the pattern.
 
 ![Slide Figure](../../images/slot1_page_008.png)
@@ -973,7 +1233,12 @@ Row relationships: Row 1: 2 + 5 = 7; 7 + 2 = 9. Row 2: 4 + 8 = 12; 12 + 3 = 15. 
 
 ---
 
-### Question 3
+### Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Number-Path Puzzle: Starting from the cell marked S, move to the cell marked E. At every step you may move horizontally or vertically to an adjacent cell. You may enter a numbered cell only if its number is greater than the number in the cell you are currently occupying. Grid: S(1)  3   5   8 2      4   6   9 1      2   7   10 0      1   8   E(11) Which of the following gives a valid path from S to E?
 
 ![Slide Figure](../../images/slot1_page_008.png)
@@ -993,7 +1258,12 @@ A valid path must move orthogonally between adjacent cells with strictly increas
 
 ---
 
-### Question 4
+### Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Missing-Cell Grid Puzzle: Each row and each column follows the same numerical rule. 3   6   9 5   10  15 7   14  ? What number should replace ?
 
 **Options:**
@@ -1014,7 +1284,12 @@ In 3x3 magic/pattern grids, rows and columns follow arithmetic progressions or c
 ## 🔷 SECTION 6 — ENGLISH GRAMMAR TEST
 *5 Questions | 10 Marks | 10 Minutes*
 
-### Question 1
+### Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Nobody in the class ____ finished the assignment on time.
 
 **Options:**
@@ -1032,7 +1307,12 @@ Indefinite pronouns such as 'nobody', 'anyone', 'everyone' are grammatically sin
 
 ---
 
-### Question 2
+### Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Either the coach or the players ____ going to attend the meeting.
 
 **Options:**
@@ -1050,7 +1330,12 @@ In correlative conjunctions 'either... or', the verb agrees with the closer subj
 
 ---
 
-### Question 3
+### Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** I want him ____ to the party.
 
 **Options:**
@@ -1068,7 +1353,12 @@ The verb 'want' followed by an object takes a full infinitive: 'want [someone] t
 
 ---
 
-### Question 4
+### Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** The cookies ____ baked by Sarah tasted delicious.
 
 **Options:**
@@ -1086,7 +1376,12 @@ The subject 'cookies' is plural, requiring the plural auxiliary verb 'were baked
 
 ---
 
-### Question 5
+### Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Each of the players ____ received a certificate.
 
 **Options:**

@@ -10,7 +10,12 @@
 ## 🔷 SECTION 1 — REASONING ABILITY TEST
 *15 Questions | 15 Marks | 25 Minutes*
 
-### Question 1
+### Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** In a family, Karan is the brother of Neha. Neha is the daughter of Raj. How is Raj related to Karan?
 
 **Options:**
@@ -28,7 +33,12 @@ Official Exam Key: `B) Father`. Systematic step-by-step verification confirms th
 
 ---
 
-### Question 2
+### Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Five people P, Q, R, S and T sit in a row facing north. Q sits immediately to the right of P. R sits immediately to the left of S. T sits at the extreme right. Who sits in the middle?
 
 **Options:**
@@ -46,7 +56,12 @@ Official Exam Key: `B) Q`. Systematic step-by-step verification confirms this re
 
 ---
 
-### Question 3
+### Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Statements: All programmers are logical thinkers. Some logical thinkers are writers. Conclusions: I. Some programmers are writers. II. Some writers are logical thinkers. Which conclusion(s) logically follow?
 
 **Options:**
@@ -64,7 +79,12 @@ Official Exam Key: `B) Only II`. Systematic step-by-step verification confirms t
 
 ---
 
-### Question 4
+### Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** A standard die has opposite faces adding up to 7. If 2 is on the top face, which number is on the bottom face?
 
 **Options:**
@@ -82,7 +102,12 @@ Official Exam Key: `C) 5`. Systematic step-by-step verification confirms this re
 
 ---
 
-### Question 5
+### Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Six students A, B, C, D, E and F stand in a line. A is second from the left. B is immediately to the right of A. C is at the extreme right. D is immediately left of E. Who can occupy the third position?
 
 **Options:**
@@ -100,7 +125,12 @@ Official Exam Key: `A) B`. Systematic step-by-step verification confirms this re
 
 ---
 
-### Question 6
+### Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** A person walks 9 km east, turns left and walks 5 km, then turns left and walks 9 km. Where is the person from the starting point?
 
 **Options:**
@@ -118,7 +148,12 @@ Official Exam Key: `A) 5 km north`. Systematic step-by-step verification confirm
 
 ---
 
-### Question 7
+### Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Find the next letter: B, F, J, N, R, __.
 
 **Options:**
@@ -136,7 +171,12 @@ Official Exam Key: `C) V`. Systematic step-by-step verification confirms this re
 
 ---
 
-### Question 8
+### Question 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Choose the odd one out.
 
 **Options:**
@@ -154,7 +194,12 @@ Official Exam Key: `D) Moon`. Systematic step-by-step verification confirms this
 
 ---
 
-### Question 9
+### Question 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** If 1 January 2024 was a Monday, what day was 1 January 2025?
 
 **Options:**
@@ -172,7 +217,12 @@ Official Exam Key: `C) Wednesday`. Systematic step-by-step verification confirms
 
 ---
 
-### Question 10
+### Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Find the next number: 4, 9, 16, 25, 36, __.
 
 **Options:**
@@ -190,7 +240,12 @@ Official Exam Key: `C) 49`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Question 11
+### Question 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** A father is three times as old as his son. Ten years ago, he was five times as old as his son. What is the son's present age?
 
 **Options:**
@@ -208,7 +263,12 @@ Official Exam Key: `B) 20`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Question 12
+### Question 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** In a group of 12 people, every person shakes hands exactly once with every other person. How many handshakes occur?
 
 **Options:**
@@ -226,7 +286,12 @@ Official Exam Key: `C) 66`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Question 13
+### Question 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** If yesterday was Sunday, what day will it be the day after tomorrow?
 
 **Options:**
@@ -244,7 +309,12 @@ Official Exam Key: `B) Wednesday`. Systematic step-by-step verification confirms
 
 ---
 
-### Question 14
+### Question 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Find the next number: 5, 11, 19, 29, 41, __.
 
 **Options:**
@@ -262,7 +332,12 @@ Official Exam Key: `C) 55`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Question 15
+### Question 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Complete the analogy: 6 : 36 :: 9 : ?
 
 **Options:**
@@ -283,7 +358,12 @@ Official Exam Key: `C) 81`. Systematic step-by-step verification confirms this r
 ## 🔷 SECTION 2 — TECHNICAL ABILITY TEST (QUANTITATIVE APTITUDE)
 *10 Questions | 10 Marks | 35 Minutes*
 
-### Question 1
+### Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Find the 10th term of the arithmetic sequence 7, 12, 17, 22, ...
 
 **Options:**
@@ -301,7 +381,12 @@ Official Exam Key: `C) 52`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Question 2
+### Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** A price is increased by 25% and then decreased by 10%. What is the net percentage change?
 
 **Options:**
@@ -319,7 +404,12 @@ Official Exam Key: `B) 12.5% increase`. Systematic step-by-step verification con
 
 ---
 
-### Question 3
+### Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** The average of six numbers is 28. Five numbers are 17, 24, 29, 31 and 35. Find the sixth number.
 
 **Options:**
@@ -337,7 +427,12 @@ Official Exam Key: `C) 34`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Question 4
+### Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** A and B invest in the ratio 4:7. If the total profit is ₹8800, what is B's share?
 
 **Options:**
@@ -355,7 +450,12 @@ Official Exam Key: `C) ₹5600`. Systematic step-by-step verification confirms t
 
 ---
 
-### Question 5
+### Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** An article costing ₹1250 is sold for ₹1500. What is the profit percentage?
 
 **Options:**
@@ -373,7 +473,12 @@ Official Exam Key: `C) 20%`. Systematic step-by-step verification confirms this 
 
 ---
 
-### Question 6
+### Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** A train travels 270 km at 90 km/h. How much time does it take?
 
 **Options:**
@@ -391,7 +496,12 @@ Official Exam Key: `C) 3 hours`. Systematic step-by-step verification confirms t
 
 ---
 
-### Question 7
+### Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Pipe A fills a tank in 15 hours and Pipe B fills it in 10 hours. How long will they take together?
 
 **Options:**
@@ -409,7 +519,12 @@ Official Exam Key: `B) 6 hours`. Systematic step-by-step verification confirms t
 
 ---
 
-### Question 8
+### Question 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** In how many ways can 6 distinct students be arranged in a row?
 
 **Options:**
@@ -427,7 +542,12 @@ Official Exam Key: `D) 720`. Systematic step-by-step verification confirms this 
 
 ---
 
-### Question 9
+### Question 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** From 8 people, in how many ways can a committee of 3 be selected?
 
 **Options:**
@@ -445,7 +565,12 @@ Official Exam Key: `C) 56`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Question 10
+### Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** If CAT + DOG is a word-number puzzle where each distinct letter represents a distinct digit, which of the following could be the value of CAT?
 
 **Options:**
@@ -466,7 +591,12 @@ Official Exam Key: `B) 135`. Systematic step-by-step verification confirms this 
 ## 🔷 SECTION 3 — VERBAL ABILITY TEST
 *20 Questions | 20 Marks | 20 Minutes*
 
-### Question 1
+### Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Choose the word closest in meaning to “meticulous”.
 
 **Options:**
@@ -484,7 +614,12 @@ Official Exam Key: `B) Precise`. Systematic step-by-step verification confirms t
 
 ---
 
-### Question 2
+### Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Choose the word closest in meaning to “obsolete”.
 
 **Options:**
@@ -502,7 +637,12 @@ Official Exam Key: `C) Outdated`. Systematic step-by-step verification confirms 
 
 ---
 
-### Question 3
+### Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Choose the word opposite in meaning to “scarce”.
 
 **Options:**
@@ -520,7 +660,12 @@ Official Exam Key: `C) Abundant`. Systematic step-by-step verification confirms 
 
 ---
 
-### Question 4
+### Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Choose the word closest in meaning to “pragmatic”.
 
 **Options:**
@@ -538,7 +683,12 @@ Official Exam Key: `A) Practical`. Systematic step-by-step verification confirms
 
 ---
 
-### Question 5
+### Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Choose the word closest in meaning to “ambiguous”.
 
 **Options:**
@@ -556,7 +706,12 @@ Official Exam Key: `B) Unclear`. Systematic step-by-step verification confirms t
 
 ---
 
-### Question 6
+### Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** What does the idiom “spill the beans” mean?
 
 **Options:**
@@ -574,7 +729,12 @@ Official Exam Key: `B) Reveal a secret`. Systematic step-by-step verification co
 
 ---
 
-### Question 7
+### Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** What does “under the weather” mean?
 
 **Options:**
@@ -592,7 +752,12 @@ Official Exam Key: `A) Feeling unwell`. Systematic step-by-step verification con
 
 ---
 
-### Question 8
+### Question 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** What does “a blessing in disguise” mean?
 
 **Options:**
@@ -610,7 +775,12 @@ Official Exam Key: `B) Something that seems bad but turns out beneficial`. Syste
 
 ---
 
-### Question 9
+### Question 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** What does “call it a day” mean?
 
 **Options:**
@@ -628,7 +798,12 @@ Official Exam Key: `B) Stop working for the day`. Systematic step-by-step verifi
 
 ---
 
-### Question 10
+### Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** What does “on the same page” mean?
 
 **Options:**
@@ -646,7 +821,12 @@ Official Exam Key: `B) Having the same understanding`. Systematic step-by-step v
 
 ---
 
-### Question 11
+### Question 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Choose the correct option: They ____ dinner when the guests arrived.
 
 **Options:**
@@ -664,7 +844,12 @@ Official Exam Key: `B) were having`. Systematic step-by-step verification confir
 
 ---
 
-### Question 12
+### Question 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Choose the correct option: If she ____ harder, she would have passed the exam.
 
 **Options:**
@@ -682,7 +867,12 @@ Official Exam Key: `C) had studied`. Systematic step-by-step verification confir
 
 ---
 
-### Question 13
+### Question 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** By next month, he ____ at the company for two years.
 
 **Options:**
@@ -700,7 +890,12 @@ Official Exam Key: `C) will have worked`. Systematic step-by-step verification c
 
 ---
 
-### Question 14
+### Question 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** She ____ this book three times already.
 
 **Options:**
@@ -718,7 +913,12 @@ Official Exam Key: `C) has read`. Systematic step-by-step verification confirms 
 
 ---
 
-### Question 15
+### Question 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** We cancelled the match ____ it was raining heavily.
 
 **Options:**
@@ -736,7 +936,12 @@ Official Exam Key: `B) because`. Systematic step-by-step verification confirms t
 
 ---
 
-### Question 16
+### Question 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Identify the part containing the error: “Each of the employees have submitted the report.”
 
 **Options:**
@@ -754,7 +959,12 @@ Official Exam Key: `B) have submitted`. Systematic step-by-step verification con
 
 ---
 
-### Question 17
+### Question 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Identify the part containing the error: “She is senior than me in the organization.”
 
 **Options:**
@@ -772,7 +982,12 @@ Official Exam Key: `B) senior than`. Systematic step-by-step verification confir
 
 ---
 
-### Question 18
+### Question 18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Identify the part containing the error: “I have completed the work yesterday.”
 
 **Options:**
@@ -790,7 +1005,12 @@ Official Exam Key: `A) I have`. Systematic step-by-step verification confirms th
 
 ---
 
-### Question 19
+### Question 19  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Identify the part containing the error: “Between you and I, this plan needs revision.”
 
 **Options:**
@@ -808,7 +1028,12 @@ Official Exam Key: `A) Between you and I`. Systematic step-by-step verification 
 
 ---
 
-### Question 20
+### Question 20  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Identify the part containing the error: “He is one of the best player in the team.”
 
 **Options:**
@@ -829,7 +1054,12 @@ Official Exam Key: `C) player`. Systematic step-by-step verification confirms th
 ## 🔷 SECTION 4 — PSEUDO CODE TEST
 *5 Questions | 10 Marks | 10 Minutes*
 
-### Question 1
+### Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Consider the following pseudocode: A = [2, 5, 7, 9] FOR i = 0 TO 2 A[i] = A[i] + A[i+1] END FOR PRINT A What is the output?
 
 ![Slide Figure](../../images/slot2_page_007.png)
@@ -849,7 +1079,12 @@ Official Exam Key: `A) [7, 12, 16, 9]`. Systematic step-by-step verification con
 
 ---
 
-### Question 2
+### Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Consider the following pseudocode: result = 1 FOR i = 1 TO 5 IF i MOD 2 != 0 result = result * i END IF END FOR PRINT result What is the output?
 
 ![Slide Figure](../../images/slot2_page_007.png)
@@ -869,7 +1104,12 @@ Official Exam Key: `C) 15`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Question 3
+### Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Consider the following pseudocode: FUNCTION G(n) IF n <= 1 RETURN n ELSE RETURN G(n-1) + G(n-2) END IF END FUNCTION PRINT G(6) What is the output?
 
 ![Slide Figure](../../images/slot2_page_007.png)
@@ -889,7 +1129,12 @@ Official Exam Key: `B) 8`. Systematic step-by-step verification confirms this re
 
 ---
 
-### Question 4
+### Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Consider the following pseudocode: FOR i = 1 TO N FOR j = 1 TO i PRINT i + j END FOR END FOR What is the time complexity in terms of N?
 
 ![Slide Figure](../../images/slot2_page_008.png)
@@ -909,7 +1154,12 @@ Official Exam Key: `C) O(N²)`. Systematic step-by-step verification confirms th
 
 ---
 
-### Question 5
+### Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Consider the following pseudocode: count = 0 FOR EACH x IN [4, 9, 12, 15, 18, 21] IF x MOD 3 == 0 count = count + 1 END IF END FOR PRINT count What is printed?
 
 ![Slide Figure](../../images/slot2_page_008.png)
@@ -932,7 +1182,12 @@ Official Exam Key: `C) 4`. Systematic step-by-step verification confirms this re
 ## 🔷 SECTION 5 — NUMERICAL PUZZLE TEST
 *4 Questions | 10 Marks | 10 Minutes*
 
-### Question 1
+### Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Maze/Grid Puzzle: A robot starts at S and must reach E. It can move only UP, DOWN, LEFT or RIGHT and cannot enter cells marked X. Grid: S . . X . X . . X . . . X . . . X . . . . . . X E What is the minimum number of moves required to reach E from S?
 
 ![Slide Figure](../../images/slot2_page_008.png)
@@ -952,7 +1207,12 @@ Official Exam Key: `B) 9`. Systematic step-by-step verification confirms this re
 
 ---
 
-### Question 2
+### Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Matrix Puzzle: Find the missing number (?) in the matrix. 3  7  11 5  10  15 7  13  ? Choose the number that logically completes the pattern.
 
 ![Slide Figure](../../images/slot2_page_009.png)
@@ -972,7 +1232,12 @@ Official Exam Key: `C) 19`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Question 3
+### Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Number-Path Puzzle: Starting from S(2), move horizontally or vertically to an adjacent cell. You may enter a numbered cell only if its number is greater than the number in the cell currently occupied. Grid: S(2) 4 7 9 3 5 8 10 1 6 11 12 0 7 13 E(14) Which gives a valid path from S to E?
 
 ![Slide Figure](../../images/slot2_page_009.png)
@@ -992,7 +1257,12 @@ Official Exam Key: `A) 2→4→7→8→11→12→14`. Systematic step-by-step ve
 
 ---
 
-### Question 4
+### Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Missing-Cell Grid Puzzle: Each row follows the same numerical rule. 4  8  12 6  12  18 9  18  ? What number should replace ?
 
 **Options:**
@@ -1013,7 +1283,12 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 ## 🔷 SECTION 6 — ENGLISH GRAMMAR TEST
 *5 Questions | 10 Marks | 10 Minutes*
 
-### Question 1
+### Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Neither of the answers ____ correct.
 
 **Options:**
@@ -1031,7 +1306,12 @@ Official Exam Key: `C) is`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Question 2
+### Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** The manager, along with his assistants, ____ attending the conference.
 
 **Options:**
@@ -1049,7 +1329,12 @@ Official Exam Key: `C) is`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Question 3
+### Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** She made me ____ the report again.
 
 **Options:**
@@ -1067,7 +1352,12 @@ Official Exam Key: `C) check`. Systematic step-by-step verification confirms thi
 
 ---
 
-### Question 4
+### Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** The letters ____ by the secretary were sent yesterday.
 
 **Options:**
@@ -1085,7 +1375,12 @@ Official Exam Key: `A) typed`. Systematic step-by-step verification confirms thi
 
 ---
 
-### Question 5
+### Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Prompt:** Every student in the class ____ required to carry an ID card.
 
 **Options:**

@@ -6,7 +6,12 @@
 
 ---
 
-### Item 1: TOPMATE_SLOT1_SECTION_1_Q01
+### Item 1: TOPMATE_SLOT1_SECTION_1_Q01  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** In a family, Arun is the son of Meena. Meena is the sister of Ravi. How is Ravi related to Arun?
@@ -26,7 +31,12 @@ Arun is the son of Meena. Meena is the sister of Ravi. Therefore, Ravi is Meena'
 
 ---
 
-### Item 2: TOPMATE_SLOT1_SECTION_1_Q02
+### Item 2: TOPMATE_SLOT1_SECTION_1_Q02  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** Six people A, B, C, D, E and F sit around a circular table facing the centre. A sits between B and C. D sits opposite
@@ -47,7 +57,12 @@ Six people A, B, C, D, E, F sit around a circular table facing centre. Assign 6 
 
 ---
 
-### Item 3: TOPMATE_SLOT1_SECTION_1_Q03
+### Item 3: TOPMATE_SLOT1_SECTION_1_Q03  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** Statements: All engineers are graduates. Some graduates are artists. Conclusions: I. Some engineers are artists. II. All artists are graduates. Which conclusion(s) logically follow?
@@ -67,7 +82,12 @@ Statements: All engineers are graduates (E ⊆ G). Some graduates are artists (G
 
 ---
 
-### Item 4: TOPMATE_SLOT1_SECTION_1_Q04
+### Item 4: TOPMATE_SLOT1_SECTION_1_Q04  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** A standard die has opposite faces adding up to 7. If 6 is on the top face, which number is on the bottom face?
@@ -87,7 +107,12 @@ In a standard die, opposite faces always sum to 7. If the top face is 6, the bot
 
 ---
 
-### Item 5: TOPMATE_SLOT1_SECTION_1_Q05
+### Item 5: TOPMATE_SLOT1_SECTION_1_Q05  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** Five people P, Q, R, S and T stand in a row. P is immediately to the right of Q. R is immediately to the right of P. S is at one end and T is between S and Q. Who stands in the middle?
@@ -107,7 +132,12 @@ P is immediately to the right of Q (order: Q P). R is immediately to the right o
 
 ---
 
-### Item 6: TOPMATE_SLOT1_SECTION_1_Q06
+### Item 6: TOPMATE_SLOT1_SECTION_1_Q06  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** A person walks 7 km north, turns right and walks 4 km, then turns right and walks 7 km. How far and in which direction is the person from the starting point?
@@ -127,7 +157,12 @@ Start at (0, 0). Walking 7 km north leads to (0, 7). Turning right (east) and wa
 
 ---
 
-### Item 7: TOPMATE_SLOT1_SECTION_1_Q07
+### Item 7: TOPMATE_SLOT1_SECTION_1_Q07  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** Find the next letter in the series: A, D, G, J, M, __.
@@ -147,7 +182,12 @@ Alphabet positions: A = 1, D = 4, G = 7, J = 10, M = 13. The common difference i
 
 ---
 
-### Item 8: TOPMATE_SLOT1_SECTION_1_Q08
+### Item 8: TOPMATE_SLOT1_SECTION_1_Q08  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 2)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** Choose the odd one out.
@@ -167,7 +207,12 @@ Triangle, Square, and Rectangle are rectilinear polygons composed of straight li
 
 ---
 
-### Item 9: TOPMATE_SLOT1_SECTION_1_Q09
+### Item 9: TOPMATE_SLOT1_SECTION_1_Q09  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 2)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** If 15 August 1947 was a Friday, what day of the week was 26 January 2020?
@@ -187,7 +232,12 @@ Calendar derivation: 15 August 1947 was a Friday. To reach 26 January 2020: Numb
 
 ---
 
-### Item 10: TOPMATE_SLOT1_SECTION_1_Q10
+### Item 10: TOPMATE_SLOT1_SECTION_1_Q10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 2)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** Find the next number: 2, 5, 10, 17, 26, __.
@@ -207,7 +257,12 @@ The series follows the rule n² + 1: 1² + 1 = 2, 2² + 1 = 5, 3² + 1 = 10, 4²
 
 ---
 
-### Item 11: TOPMATE_SLOT1_SECTION_1_Q11
+### Item 11: TOPMATE_SLOT1_SECTION_1_Q11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 2)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** John is twice as old as Mary. Five years ago, the sum of their ages was 30. What are their present ages?
@@ -227,7 +282,12 @@ Let Mary's present age be M and John's present age be J = 2M. For Option A (20 a
 
 ---
 
-### Item 12: TOPMATE_SLOT1_SECTION_1_Q12
+### Item 12: TOPMATE_SLOT1_SECTION_1_Q12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 2)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** At a meeting, every person shakes hands exactly once with every other person. If 10 people attend, how many handshakes take place?
@@ -247,7 +307,12 @@ The number of handshakes among n people where each shakes hands once with every 
 
 ---
 
-### Item 13: TOPMATE_SLOT1_SECTION_1_Q13
+### Item 13: TOPMATE_SLOT1_SECTION_1_Q13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 2)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** If the day after tomorrow is Thursday, what day was yesterday?
@@ -267,7 +332,12 @@ If the day after tomorrow is Thursday, then tomorrow is Wednesday, and today is 
 
 ---
 
-### Item 14: TOPMATE_SLOT1_SECTION_1_Q14
+### Item 14: TOPMATE_SLOT1_SECTION_1_Q14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 2)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** Find the next number: 3, 8, 15, 24, 35, __.
@@ -287,7 +357,12 @@ The sequence follows the formula n² - 1 starting from n = 2: 2² - 1 = 3, 3² -
 
 ---
 
-### Item 15: TOPMATE_SLOT1_SECTION_1_Q15
+### Item 15: TOPMATE_SLOT1_SECTION_1_Q15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 2)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** Complete the analogy: 5 : 25 :: 7 : ?
@@ -307,7 +382,12 @@ The analogy relates a number to its square: 5² = 25. Therefore, 7² = 49.
 
 ---
 
-### Item 16: TOPMATE_SLOT2_SECTION_1_Q01
+### Item 16: TOPMATE_SLOT2_SECTION_1_Q01  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** In a family, Karan is the brother of Neha. Neha is the daughter of Raj. How is Raj related to Karan?
@@ -327,7 +407,12 @@ Official Exam Key: `B) Father`. Systematic step-by-step verification confirms th
 
 ---
 
-### Item 17: TOPMATE_SLOT2_SECTION_1_Q02
+### Item 17: TOPMATE_SLOT2_SECTION_1_Q02  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** Five people P, Q, R, S and T sit in a row facing north. Q sits immediately to the right of P. R sits immediately to the left of S. T sits at the extreme right. Who sits in the middle?
@@ -347,7 +432,12 @@ Official Exam Key: `B) Q`. Systematic step-by-step verification confirms this re
 
 ---
 
-### Item 18: TOPMATE_SLOT2_SECTION_1_Q03
+### Item 18: TOPMATE_SLOT2_SECTION_1_Q03  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** Statements: All programmers are logical thinkers. Some logical thinkers are writers. Conclusions: I. Some programmers are writers. II. Some writers are logical thinkers. Which conclusion(s) logically follow?
@@ -367,7 +457,12 @@ Official Exam Key: `B) Only II`. Systematic step-by-step verification confirms t
 
 ---
 
-### Item 19: TOPMATE_SLOT2_SECTION_1_Q04
+### Item 19: TOPMATE_SLOT2_SECTION_1_Q04  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** A standard die has opposite faces adding up to 7. If 2 is on the top face, which number is on the bottom face?
@@ -387,7 +482,12 @@ Official Exam Key: `C) 5`. Systematic step-by-step verification confirms this re
 
 ---
 
-### Item 20: TOPMATE_SLOT2_SECTION_1_Q05
+### Item 20: TOPMATE_SLOT2_SECTION_1_Q05  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** Six students A, B, C, D, E and F stand in a line. A is second from the left. B is immediately to the right of A. C is at the extreme right. D is immediately left of E. Who can occupy the third position?
@@ -407,7 +507,12 @@ Official Exam Key: `A) B`. Systematic step-by-step verification confirms this re
 
 ---
 
-### Item 21: TOPMATE_SLOT2_SECTION_1_Q06
+### Item 21: TOPMATE_SLOT2_SECTION_1_Q06  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** A person walks 9 km east, turns left and walks 5 km, then turns left and walks 9 km. Where is the person from the starting point?
@@ -427,7 +532,12 @@ Official Exam Key: `A) 5 km north`. Systematic step-by-step verification confirm
 
 ---
 
-### Item 22: TOPMATE_SLOT2_SECTION_1_Q07
+### Item 22: TOPMATE_SLOT2_SECTION_1_Q07  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 2)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** Find the next letter: B, F, J, N, R, __.
@@ -447,7 +557,12 @@ Official Exam Key: `C) V`. Systematic step-by-step verification confirms this re
 
 ---
 
-### Item 23: TOPMATE_SLOT2_SECTION_1_Q08
+### Item 23: TOPMATE_SLOT2_SECTION_1_Q08  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 2)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** Choose the odd one out.
@@ -467,7 +582,12 @@ Official Exam Key: `D) Moon`. Systematic step-by-step verification confirms this
 
 ---
 
-### Item 24: TOPMATE_SLOT2_SECTION_1_Q09
+### Item 24: TOPMATE_SLOT2_SECTION_1_Q09  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 2)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** If 1 January 2024 was a Monday, what day was 1 January 2025?
@@ -487,7 +607,12 @@ Official Exam Key: `C) Wednesday`. Systematic step-by-step verification confirms
 
 ---
 
-### Item 25: TOPMATE_SLOT2_SECTION_1_Q10
+### Item 25: TOPMATE_SLOT2_SECTION_1_Q10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 2)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** Find the next number: 4, 9, 16, 25, 36, __.
@@ -507,7 +632,12 @@ Official Exam Key: `C) 49`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 26: TOPMATE_SLOT2_SECTION_1_Q11
+### Item 26: TOPMATE_SLOT2_SECTION_1_Q11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 2)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** A father is three times as old as his son. Ten years ago, he was five times as old as his son. What is the son's present age?
@@ -527,7 +657,12 @@ Official Exam Key: `B) 20`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 27: TOPMATE_SLOT2_SECTION_1_Q12
+### Item 27: TOPMATE_SLOT2_SECTION_1_Q12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 2)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** In a group of 12 people, every person shakes hands exactly once with every other person. How many handshakes occur?
@@ -547,7 +682,12 @@ Official Exam Key: `C) 66`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 28: TOPMATE_SLOT2_SECTION_1_Q13
+### Item 28: TOPMATE_SLOT2_SECTION_1_Q13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 2)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** If yesterday was Sunday, what day will it be the day after tomorrow?
@@ -567,7 +707,12 @@ Official Exam Key: `B) Wednesday`. Systematic step-by-step verification confirms
 
 ---
 
-### Item 29: TOPMATE_SLOT2_SECTION_1_Q14
+### Item 29: TOPMATE_SLOT2_SECTION_1_Q14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 2)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** Find the next number: 5, 11, 19, 29, 41, __.
@@ -587,7 +732,12 @@ Official Exam Key: `C) 55`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 30: TOPMATE_SLOT2_SECTION_1_Q15
+### Item 30: TOPMATE_SLOT2_SECTION_1_Q15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 3)  
 **Category / Topic:** Logical Reasoning | SECTION 1 — REASONING ABILITY TEST  
 **Prompt:** Complete the analogy: 6 : 36 :: 9 : ?
@@ -607,7 +757,12 @@ Official Exam Key: `C) 81`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 31: TOPMATE_REASONING_Q001
+### Item 31: TOPMATE_REASONING_Q001  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -621,7 +776,12 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 
 ---
 
-### Item 32: TOPMATE_REASONING_Q002
+### Item 32: TOPMATE_REASONING_Q002  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -635,7 +795,12 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 
 ---
 
-### Item 33: TOPMATE_REASONING_Q003
+### Item 33: TOPMATE_REASONING_Q003  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -649,7 +814,12 @@ Logical deduction and pattern verification confirm answer key `4`. The complete 
 
 ---
 
-### Item 34: TOPMATE_REASONING_Q004
+### Item 34: TOPMATE_REASONING_Q004  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -663,7 +833,12 @@ Logical deduction and pattern verification confirm answer key `5`. The complete 
 
 ---
 
-### Item 35: TOPMATE_REASONING_Q005
+### Item 35: TOPMATE_REASONING_Q005  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -677,7 +852,12 @@ Logical deduction and pattern verification confirm answer key `5`. The complete 
 
 ---
 
-### Item 36: TOPMATE_REASONING_Q006
+### Item 36: TOPMATE_REASONING_Q006  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -691,7 +871,12 @@ Logical deduction and pattern verification confirm answer key `4`. The complete 
 
 ---
 
-### Item 37: TOPMATE_REASONING_Q007
+### Item 37: TOPMATE_REASONING_Q007  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -705,7 +890,12 @@ Logical deduction and pattern verification confirm answer key `2`. The complete 
 
 ---
 
-### Item 38: TOPMATE_REASONING_Q008
+### Item 38: TOPMATE_REASONING_Q008  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -719,7 +909,12 @@ Logical deduction and pattern verification confirm answer key `2`. The complete 
 
 ---
 
-### Item 39: TOPMATE_REASONING_Q009
+### Item 39: TOPMATE_REASONING_Q009  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -733,7 +928,12 @@ Logical deduction and pattern verification confirm answer key `3`. The complete 
 
 ---
 
-### Item 40: TOPMATE_REASONING_Q010
+### Item 40: TOPMATE_REASONING_Q010  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -747,7 +947,12 @@ Logical deduction and pattern verification confirm answer key `1`. The complete 
 
 ---
 
-### Item 41: TOPMATE_REASONING_Q011
+### Item 41: TOPMATE_REASONING_Q011  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -761,7 +966,12 @@ Logical deduction and pattern verification confirm answer key `4`. The complete 
 
 ---
 
-### Item 42: TOPMATE_REASONING_Q012
+### Item 42: TOPMATE_REASONING_Q012  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -775,7 +985,12 @@ Logical deduction and pattern verification confirm answer key `5`. The complete 
 
 ---
 
-### Item 43: TOPMATE_REASONING_Q013
+### Item 43: TOPMATE_REASONING_Q013  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -789,7 +1004,12 @@ Logical deduction and pattern verification confirm answer key `1`. The complete 
 
 ---
 
-### Item 44: TOPMATE_REASONING_Q014
+### Item 44: TOPMATE_REASONING_Q014  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -803,7 +1023,12 @@ Logical deduction and pattern verification confirm answer key `3`. The complete 
 
 ---
 
-### Item 45: TOPMATE_REASONING_Q015
+### Item 45: TOPMATE_REASONING_Q015  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -817,7 +1042,12 @@ Logical deduction and pattern verification confirm answer key `C`. The complete 
 
 ---
 
-### Item 46: TOPMATE_REASONING_Q016
+### Item 46: TOPMATE_REASONING_Q016  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -831,7 +1061,12 @@ Logical deduction and pattern verification confirm answer key `C`. The complete 
 
 ---
 
-### Item 47: TOPMATE_REASONING_Q017
+### Item 47: TOPMATE_REASONING_Q017  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -845,7 +1080,12 @@ Logical deduction and pattern verification confirm answer key `A`. The complete 
 
 ---
 
-### Item 48: TOPMATE_REASONING_Q018
+### Item 48: TOPMATE_REASONING_Q018  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -859,7 +1099,12 @@ Logical deduction and pattern verification confirm answer key `3`. The complete 
 
 ---
 
-### Item 49: TOPMATE_REASONING_Q019
+### Item 49: TOPMATE_REASONING_Q019  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -873,7 +1118,12 @@ Logical deduction and pattern verification confirm answer key `1`. The complete 
 
 ---
 
-### Item 50: TOPMATE_REASONING_Q020
+### Item 50: TOPMATE_REASONING_Q020  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -887,7 +1137,12 @@ Logical deduction and pattern verification confirm answer key `4`. The complete 
 
 ---
 
-### Item 51: TOPMATE_REASONING_Q021
+### Item 51: TOPMATE_REASONING_Q021  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -901,7 +1156,12 @@ Logical deduction and pattern verification confirm answer key `3`. The complete 
 
 ---
 
-### Item 52: TOPMATE_REASONING_Q022
+### Item 52: TOPMATE_REASONING_Q022  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -915,7 +1175,12 @@ Logical deduction and pattern verification confirm answer key `2`. The complete 
 
 ---
 
-### Item 53: TOPMATE_REASONING_Q023
+### Item 53: TOPMATE_REASONING_Q023  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -929,7 +1194,12 @@ Logical deduction and pattern verification confirm answer key `3`. The complete 
 
 ---
 
-### Item 54: TOPMATE_REASONING_Q024
+### Item 54: TOPMATE_REASONING_Q024  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -943,7 +1213,12 @@ Logical deduction and pattern verification confirm answer key `1`. The complete 
 
 ---
 
-### Item 55: TOPMATE_REASONING_Q025
+### Item 55: TOPMATE_REASONING_Q025  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -957,7 +1232,12 @@ Logical deduction and pattern verification confirm answer key `4`. The complete 
 
 ---
 
-### Item 56: TOPMATE_REASONING_Q026
+### Item 56: TOPMATE_REASONING_Q026  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -971,7 +1251,12 @@ Logical deduction and pattern verification confirm answer key `1`. The complete 
 
 ---
 
-### Item 57: TOPMATE_REASONING_Q027
+### Item 57: TOPMATE_REASONING_Q027  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -985,7 +1270,12 @@ Logical deduction and pattern verification confirm answer key `1`. The complete 
 
 ---
 
-### Item 58: TOPMATE_REASONING_Q028
+### Item 58: TOPMATE_REASONING_Q028  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -999,7 +1289,12 @@ Logical deduction and pattern verification confirm answer key `2`. The complete 
 
 ---
 
-### Item 59: TOPMATE_REASONING_Q029
+### Item 59: TOPMATE_REASONING_Q029  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1013,7 +1308,12 @@ Logical deduction and pattern verification confirm answer key `3`. The complete 
 
 ---
 
-### Item 60: TOPMATE_REASONING_Q030
+### Item 60: TOPMATE_REASONING_Q030  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1027,7 +1327,12 @@ Logical deduction and pattern verification confirm answer key `4`. The complete 
 
 ---
 
-### Item 61: TOPMATE_REASONING_Q031
+### Item 61: TOPMATE_REASONING_Q031  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1041,7 +1346,12 @@ Logical deduction and pattern verification confirm answer key `1`. The complete 
 
 ---
 
-### Item 62: TOPMATE_REASONING_Q032
+### Item 62: TOPMATE_REASONING_Q032  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1055,7 +1365,12 @@ Logical deduction and pattern verification confirm answer key `3`. The complete 
 
 ---
 
-### Item 63: TOPMATE_REASONING_Q033
+### Item 63: TOPMATE_REASONING_Q033  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1069,7 +1384,12 @@ Logical deduction and pattern verification confirm answer key `2`. The complete 
 
 ---
 
-### Item 64: TOPMATE_REASONING_Q034
+### Item 64: TOPMATE_REASONING_Q034  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1083,7 +1403,12 @@ Logical deduction and pattern verification confirm answer key `2`. The complete 
 
 ---
 
-### Item 65: TOPMATE_REASONING_Q035
+### Item 65: TOPMATE_REASONING_Q035  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1097,7 +1422,12 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 
 ---
 
-### Item 66: TOPMATE_REASONING_Q036
+### Item 66: TOPMATE_REASONING_Q036  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1111,7 +1441,12 @@ Logical deduction and pattern verification confirm answer key `A`. The complete 
 
 ---
 
-### Item 67: TOPMATE_REASONING_Q037
+### Item 67: TOPMATE_REASONING_Q037  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1125,7 +1460,12 @@ Logical deduction and pattern verification confirm answer key `2`. The complete 
 
 ---
 
-### Item 68: TOPMATE_REASONING_Q038
+### Item 68: TOPMATE_REASONING_Q038  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1139,7 +1479,12 @@ Logical deduction and pattern verification confirm answer key `1`. The complete 
 
 ---
 
-### Item 69: TOPMATE_REASONING_Q039
+### Item 69: TOPMATE_REASONING_Q039  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1153,7 +1498,12 @@ Logical deduction and pattern verification confirm answer key `3`. The complete 
 
 ---
 
-### Item 70: TOPMATE_REASONING_Q040
+### Item 70: TOPMATE_REASONING_Q040  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1167,7 +1517,12 @@ Logical deduction and pattern verification confirm answer key `3`. The complete 
 
 ---
 
-### Item 71: TOPMATE_REASONING_Q041
+### Item 71: TOPMATE_REASONING_Q041  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1181,7 +1536,12 @@ Logical deduction and pattern verification confirm answer key `E`. The complete 
 
 ---
 
-### Item 72: TOPMATE_REASONING_Q042
+### Item 72: TOPMATE_REASONING_Q042  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1195,7 +1555,12 @@ Logical deduction and pattern verification confirm answer key `C`. The complete 
 
 ---
 
-### Item 73: TOPMATE_REASONING_Q043
+### Item 73: TOPMATE_REASONING_Q043  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1209,7 +1574,12 @@ Logical deduction and pattern verification confirm answer key `C`. The complete 
 
 ---
 
-### Item 74: TOPMATE_REASONING_Q044
+### Item 74: TOPMATE_REASONING_Q044  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1223,7 +1593,12 @@ Logical deduction and pattern verification confirm answer key `A`. The complete 
 
 ---
 
-### Item 75: TOPMATE_REASONING_Q045
+### Item 75: TOPMATE_REASONING_Q045  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1237,7 +1612,12 @@ Logical deduction and pattern verification confirm answer key `2`. The complete 
 
 ---
 
-### Item 76: TOPMATE_REASONING_Q046
+### Item 76: TOPMATE_REASONING_Q046  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1251,7 +1631,12 @@ Logical deduction and pattern verification confirm answer key `3`. The complete 
 
 ---
 
-### Item 77: TOPMATE_REASONING_Q047
+### Item 77: TOPMATE_REASONING_Q047  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1265,7 +1650,12 @@ Logical deduction and pattern verification confirm answer key `4`. The complete 
 
 ---
 
-### Item 78: TOPMATE_REASONING_Q048
+### Item 78: TOPMATE_REASONING_Q048  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1279,7 +1669,12 @@ Logical deduction and pattern verification confirm answer key `4`. The complete 
 
 ---
 
-### Item 79: TOPMATE_REASONING_Q049
+### Item 79: TOPMATE_REASONING_Q049  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1293,7 +1688,12 @@ Logical deduction and pattern verification confirm answer key `2`. The complete 
 
 ---
 
-### Item 80: TOPMATE_REASONING_Q050
+### Item 80: TOPMATE_REASONING_Q050  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1307,7 +1707,12 @@ Logical deduction and pattern verification confirm answer key `C`. The complete 
 
 ---
 
-### Item 81: TOPMATE_REASONING_Q051
+### Item 81: TOPMATE_REASONING_Q051  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1321,7 +1726,12 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 
 ---
 
-### Item 82: TOPMATE_REASONING_Q052
+### Item 82: TOPMATE_REASONING_Q052  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1335,7 +1745,12 @@ Logical deduction and pattern verification confirm answer key `D`. The complete 
 
 ---
 
-### Item 83: TOPMATE_REASONING_Q053
+### Item 83: TOPMATE_REASONING_Q053  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1349,7 +1764,12 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 
 ---
 
-### Item 84: TOPMATE_REASONING_Q054
+### Item 84: TOPMATE_REASONING_Q054  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1363,7 +1783,12 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 
 ---
 
-### Item 85: TOPMATE_REASONING_Q055
+### Item 85: TOPMATE_REASONING_Q055  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1377,7 +1802,12 @@ Logical deduction and pattern verification confirm answer key `D`. The complete 
 
 ---
 
-### Item 86: TOPMATE_REASONING_Q056
+### Item 86: TOPMATE_REASONING_Q056  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1391,7 +1821,12 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 
 ---
 
-### Item 87: TOPMATE_REASONING_Q057
+### Item 87: TOPMATE_REASONING_Q057  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1405,7 +1840,12 @@ Logical deduction and pattern verification confirm answer key `D`. The complete 
 
 ---
 
-### Item 88: TOPMATE_REASONING_Q058
+### Item 88: TOPMATE_REASONING_Q058  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1419,7 +1859,12 @@ Logical deduction and pattern verification confirm answer key `C`. The complete 
 
 ---
 
-### Item 89: TOPMATE_REASONING_Q059
+### Item 89: TOPMATE_REASONING_Q059  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1433,7 +1878,12 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 
 ---
 
-### Item 90: TOPMATE_REASONING_Q060
+### Item 90: TOPMATE_REASONING_Q060  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1447,7 +1897,12 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 
 ---
 
-### Item 91: TOPMATE_REASONING_Q061
+### Item 91: TOPMATE_REASONING_Q061  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1461,7 +1916,12 @@ Logical deduction and pattern verification confirm answer key `A`. The complete 
 
 ---
 
-### Item 92: TOPMATE_REASONING_Q062
+### Item 92: TOPMATE_REASONING_Q062  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1475,7 +1935,12 @@ Logical deduction and pattern verification confirm answer key `D`. The complete 
 
 ---
 
-### Item 93: TOPMATE_REASONING_Q063
+### Item 93: TOPMATE_REASONING_Q063  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1489,7 +1954,12 @@ Logical deduction and pattern verification confirm answer key `A`. The complete 
 
 ---
 
-### Item 94: TOPMATE_REASONING_Q064
+### Item 94: TOPMATE_REASONING_Q064  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1503,7 +1973,12 @@ Logical deduction and pattern verification confirm answer key `A`. The complete 
 
 ---
 
-### Item 95: TOPMATE_REASONING_Q065
+### Item 95: TOPMATE_REASONING_Q065  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1517,7 +1992,12 @@ Logical deduction and pattern verification confirm answer key `C`. The complete 
 
 ---
 
-### Item 96: TOPMATE_REASONING_Q066
+### Item 96: TOPMATE_REASONING_Q066  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1531,7 +2011,12 @@ Logical deduction and pattern verification confirm answer key `C`. The complete 
 
 ---
 
-### Item 97: TOPMATE_REASONING_Q067
+### Item 97: TOPMATE_REASONING_Q067  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1545,7 +2030,12 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 
 ---
 
-### Item 98: TOPMATE_REASONING_Q068
+### Item 98: TOPMATE_REASONING_Q068  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1559,7 +2049,12 @@ Logical deduction and pattern verification confirm answer key `D`. The complete 
 
 ---
 
-### Item 99: TOPMATE_REASONING_Q069
+### Item 99: TOPMATE_REASONING_Q069  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1573,7 +2068,12 @@ Logical deduction and pattern verification confirm answer key `A`. The complete 
 
 ---
 
-### Item 100: TOPMATE_REASONING_Q070
+### Item 100: TOPMATE_REASONING_Q070  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1587,7 +2087,12 @@ Logical deduction and pattern verification confirm answer key `C`. The complete 
 
 ---
 
-### Item 101: TOPMATE_REASONING_Q071
+### Item 101: TOPMATE_REASONING_Q071  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1601,7 +2106,12 @@ Logical deduction and pattern verification confirm answer key `C`. The complete 
 
 ---
 
-### Item 102: TOPMATE_REASONING_Q072
+### Item 102: TOPMATE_REASONING_Q072  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1615,7 +2125,12 @@ Logical deduction and pattern verification confirm answer key `F`. The complete 
 
 ---
 
-### Item 103: TOPMATE_REASONING_Q073
+### Item 103: TOPMATE_REASONING_Q073  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1629,7 +2144,12 @@ Logical deduction and pattern verification confirm answer key `D`. The complete 
 
 ---
 
-### Item 104: TOPMATE_REASONING_Q074
+### Item 104: TOPMATE_REASONING_Q074  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1643,7 +2163,12 @@ Logical deduction and pattern verification confirm answer key `A`. The complete 
 
 ---
 
-### Item 105: TOPMATE_REASONING_Q075
+### Item 105: TOPMATE_REASONING_Q075  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1657,7 +2182,12 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 
 ---
 
-### Item 106: TOPMATE_REASONING_Q076
+### Item 106: TOPMATE_REASONING_Q076  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1671,7 +2201,12 @@ Logical deduction and pattern verification confirm answer key `C`. The complete 
 
 ---
 
-### Item 107: TOPMATE_REASONING_Q077
+### Item 107: TOPMATE_REASONING_Q077  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1685,7 +2220,12 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 
 ---
 
-### Item 108: TOPMATE_REASONING_Q078
+### Item 108: TOPMATE_REASONING_Q078  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1699,7 +2239,12 @@ Logical deduction and pattern verification confirm answer key `A`. The complete 
 
 ---
 
-### Item 109: TOPMATE_REASONING_Q079
+### Item 109: TOPMATE_REASONING_Q079  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1713,7 +2258,12 @@ Logical deduction and pattern verification confirm answer key `D`. The complete 
 
 ---
 
-### Item 110: TOPMATE_REASONING_Q080
+### Item 110: TOPMATE_REASONING_Q080  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1727,7 +2277,12 @@ Logical deduction and pattern verification confirm answer key `C`. The complete 
 
 ---
 
-### Item 111: TOPMATE_REASONING_Q081
+### Item 111: TOPMATE_REASONING_Q081  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1741,7 +2296,12 @@ Logical deduction and pattern verification confirm answer key `D`. The complete 
 
 ---
 
-### Item 112: TOPMATE_REASONING_Q082
+### Item 112: TOPMATE_REASONING_Q082  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1755,7 +2315,12 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 
 ---
 
-### Item 113: TOPMATE_REASONING_Q083
+### Item 113: TOPMATE_REASONING_Q083  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1769,7 +2334,12 @@ Logical deduction and pattern verification confirm answer key `A`. The complete 
 
 ---
 
-### Item 114: TOPMATE_REASONING_Q084
+### Item 114: TOPMATE_REASONING_Q084  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1783,7 +2353,12 @@ Logical deduction and pattern verification confirm answer key `A`. The complete 
 
 ---
 
-### Item 115: TOPMATE_REASONING_Q085
+### Item 115: TOPMATE_REASONING_Q085  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1797,7 +2372,12 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 
 ---
 
-### Item 116: TOPMATE_REASONING_Q086
+### Item 116: TOPMATE_REASONING_Q086  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1811,7 +2391,12 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 
 ---
 
-### Item 117: TOPMATE_REASONING_Q087
+### Item 117: TOPMATE_REASONING_Q087  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1825,7 +2410,12 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 
 ---
 
-### Item 118: TOPMATE_REASONING_Q088
+### Item 118: TOPMATE_REASONING_Q088  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1839,7 +2429,12 @@ Logical deduction and pattern verification confirm answer key `E`. The complete 
 
 ---
 
-### Item 119: TOPMATE_REASONING_Q089
+### Item 119: TOPMATE_REASONING_Q089  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1853,7 +2448,12 @@ Logical deduction and pattern verification confirm answer key `A`. The complete 
 
 ---
 
-### Item 120: TOPMATE_REASONING_Q090
+### Item 120: TOPMATE_REASONING_Q090  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1867,7 +2467,12 @@ Logical deduction and pattern verification confirm answer key `D`. The complete 
 
 ---
 
-### Item 121: TOPMATE_REASONING_Q091
+### Item 121: TOPMATE_REASONING_Q091  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1881,7 +2486,12 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 
 ---
 
-### Item 122: TOPMATE_REASONING_Q092
+### Item 122: TOPMATE_REASONING_Q092  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1895,7 +2505,12 @@ Logical deduction and pattern verification confirm answer key `D`. The complete 
 
 ---
 
-### Item 123: TOPMATE_REASONING_Q093
+### Item 123: TOPMATE_REASONING_Q093  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1909,7 +2524,12 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 
 ---
 
-### Item 124: TOPMATE_REASONING_Q094
+### Item 124: TOPMATE_REASONING_Q094  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1923,7 +2543,12 @@ Logical deduction and pattern verification confirm answer key `C`. The complete 
 
 ---
 
-### Item 125: TOPMATE_REASONING_Q095
+### Item 125: TOPMATE_REASONING_Q095  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1937,7 +2562,12 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 
 ---
 
-### Item 126: TOPMATE_REASONING_Q096
+### Item 126: TOPMATE_REASONING_Q096  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1951,7 +2581,12 @@ Logical deduction and pattern verification confirm answer key `A`. The complete 
 
 ---
 
-### Item 127: TOPMATE_REASONING_Q097
+### Item 127: TOPMATE_REASONING_Q097  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1965,7 +2600,12 @@ Logical deduction and pattern verification confirm answer key `C`. The complete 
 
 ---
 
-### Item 128: TOPMATE_REASONING_Q098
+### Item 128: TOPMATE_REASONING_Q098  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1979,7 +2619,12 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 
 ---
 
-### Item 129: TOPMATE_REASONING_Q099
+### Item 129: TOPMATE_REASONING_Q099  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -1993,7 +2638,12 @@ Logical deduction and pattern verification confirm answer key `D`. The complete 
 
 ---
 
-### Item 130: TOPMATE_REASONING_Q100
+### Item 130: TOPMATE_REASONING_Q100  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
@@ -2007,7 +2657,12 @@ Logical deduction and pattern verification confirm answer key `C`. The complete 
 
 ---
 
-### Item 131: TOPMATE_REASONING_Q101
+### Item 131: TOPMATE_REASONING_Q101  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Logical Reasoning.pdf` (Page 1)  
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c

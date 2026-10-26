@@ -6,7 +6,12 @@
 
 ---
 
-### Problem 01: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q01`)
+### Problem 01: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q01`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -32,7 +37,12 @@ Answer: Option A Explanation: It is clear from Fig. (X) that if seen through a m
 
 ---
 
-### Problem 02: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q02`)
+### Problem 02: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q02`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -58,7 +68,12 @@ Answer: Option B Explanation: It is clear from Fig. (X) that if seen through a m
 
 ---
 
-### Problem 03: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q03`)
+### Problem 03: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q03`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -84,7 +99,12 @@ Answer: Option B Explanation: It is clear from Fig. (X) that if seen through a m
 
 ---
 
-### Problem 04: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q04`)
+### Problem 04: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q04`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -110,7 +130,12 @@ Answer: Option D Explanation: It is clear from Fig. (X) that if seen through a m
 
 ---
 
-### Problem 05: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q05`)
+### Problem 05: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q05`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -136,7 +161,12 @@ Answer: Option A Explanation: Here, the mirror is placed vertically at AB on the
 
 ---
 
-### Problem 06: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q06`)
+### Problem 06: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q06`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -162,7 +192,12 @@ Answer: Option C Explanation: Here, the mirror is placed vertically at AB on the
 
 ---
 
-### Problem 07: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q07`)
+### Problem 07: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q07`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -188,7 +223,12 @@ Answer: Option B Explanation: Here, the mirror is placed vertically at AB on the
 
 ---
 
-### Problem 08: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q08`)
+### Problem 08: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q08`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -214,7 +254,12 @@ Answer: Option D Explanation: Here, the mirror is placed vertically at AB on the
 
 ---
 
-### Problem 09: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q09`)
+### Problem 09: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q09`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -240,7 +285,12 @@ Answer: Option C Explanation: Here, the mirror is placed vertically at AB on the
 
 ---
 
-### Problem 10: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q10`)
+### Problem 10: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q10`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -266,7 +316,12 @@ Answer: Option B Explanation In the mirror image, &bull; The right side of the o
 
 ---
 
-### Problem 11: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q11`)
+### Problem 11: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q11`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -292,7 +347,12 @@ Answer: Option C Explanation: The correct mirror image will be (3).
 
 ---
 
-### Problem 12: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q12`)
+### Problem 12: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q12`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -318,7 +378,12 @@ Answer: Option A Explanation: The correct mirror image will be (1).
 
 ---
 
-### Problem 13: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q13`)
+### Problem 13: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q13`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -344,7 +409,12 @@ Answer: Option D Explanation: The correct mirror image will be (4).
 
 ---
 
-### Problem 14: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q14`)
+### Problem 14: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q14`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -370,7 +440,12 @@ Answer: Option D Explanation: The correct mirror image will be (4).
 
 ---
 
-### Problem 15: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q15`)
+### Problem 15: Mirror Reflection Logic (`SEC01_MOD11_MIR_Q15`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -396,7 +471,12 @@ Answer: Option B Explanation: The correct mirror image will be (2).
 
 ---
 
-### Problem 16: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q01`)
+### Problem 16: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q01`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -422,7 +502,12 @@ Answer: Option A Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 17: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q02`)
+### Problem 17: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q02`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -448,7 +533,12 @@ Answer: Option C Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 18: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q03`)
+### Problem 18: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q03`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -474,7 +564,12 @@ Answer: Option A Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 19: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q04`)
+### Problem 19: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q04`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -500,7 +595,12 @@ Answer: Option B Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 20: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q05`)
+### Problem 20: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q05`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -526,7 +626,12 @@ Answer: Option C Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 21: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q06`)
+### Problem 21: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q06`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -552,7 +657,12 @@ Answer: Option B Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 22: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q07`)
+### Problem 22: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q07`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -578,7 +688,12 @@ Answer: Option B Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 23: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q08`)
+### Problem 23: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q08`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -604,7 +719,12 @@ Answer: Option A Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 24: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q09`)
+### Problem 24: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q09`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -630,7 +750,12 @@ Answer - D
 
 ---
 
-### Problem 25: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q10`)
+### Problem 25: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q10`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -656,7 +781,12 @@ Answer: Option B Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 26: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q11`)
+### Problem 26: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q11`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -682,7 +812,12 @@ Answer: Option B Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 27: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q12`)
+### Problem 27: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q12`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -708,7 +843,12 @@ Answer: Option B Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 28: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q13`)
+### Problem 28: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q13`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -734,7 +874,12 @@ Answer: Option D Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 29: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q14`)
+### Problem 29: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q14`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -760,7 +905,12 @@ Answer: Option A Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 30: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q15`)
+### Problem 30: Water Reflection (Vertical Inversion) (`SEC01_MOD11_WAT_Q15`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -786,7 +936,12 @@ Answer: Option B Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 31: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q01`)
+### Problem 31: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q01`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -825,7 +980,12 @@ Answer : C Explanation : In each triangle, multiply the lower two numbers togeth
 
 ---
 
-### Problem 32: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q02`)
+### Problem 32: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q02`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -851,7 +1011,12 @@ Answer : C Explanation : Using the lower two circles as a source, the values in 
 
 ---
 
-### Problem 33: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q03`)
+### Problem 33: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q03`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -877,7 +1042,12 @@ Answer : B Explanation : Starting on the extreme left and right hand of the row 
 
 ---
 
-### Problem 34: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q04`)
+### Problem 34: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q04`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -903,7 +1073,12 @@ Answer : A Explanation : Starting bottom left and moving clockwise around the tr
 
 ---
 
-### Problem 35: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q05`)
+### Problem 35: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q05`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -929,7 +1104,12 @@ Answer : D Explanation : Working from top to bottom, double each number and subt
 
 ---
 
-### Problem 36: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q06`)
+### Problem 36: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q06`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -970,7 +1150,12 @@ Answer : D Explanation : Working in columns, the sum of the numbers in each colu
 
 ---
 
-### Problem 37: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q07`)
+### Problem 37: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q07`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1010,7 +1195,12 @@ Answer : A Explanation : The numbers in each row and column add up to 15.
 
 ---
 
-### Problem 38: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q08`)
+### Problem 38: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q08`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1036,7 +1226,12 @@ Answer : B Explanation : Moving from left to right, numbers increase by 2,3,4 an
 
 ---
 
-### Problem 39: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q09`)
+### Problem 39: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q09`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1073,7 +1268,12 @@ Answer : C Explanation : In each square of the diagram, the sum of the numbers i
 
 ---
 
-### Problem 40: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q10`)
+### Problem 40: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q10`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1099,7 +1299,12 @@ Answer : A Explanation : Moving clockwise, around alternate segments in the chai
 
 ---
 
-### Problem 41: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q11`)
+### Problem 41: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q11`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1125,7 +1330,12 @@ Answer : D Explanation : Starting with the numbers in the top row, and following
 
 ---
 
-### Problem 42: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q12`)
+### Problem 42: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q12`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1151,7 +1361,12 @@ Answer : B Explanation : In each circle, starting at the top left segment, numbe
 
 ---
 
-### Problem 43: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q13`)
+### Problem 43: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q13`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1186,7 +1401,12 @@ Answer : C Explanation : In each group of 3 numbers, the lower number equals the
 
 ---
 
-### Problem 44: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q14`)
+### Problem 44: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q14`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1223,7 +1443,12 @@ Answer : A Explanation : Reading each row as a 3 digit number, the rows follow t
 
 ---
 
-### Problem 45: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q15`)
+### Problem 45: Matrix & Circular Arithmetic Puzzles (`SEC01_MOD11_NUM_Q15`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1249,7 +1474,12 @@ Answer : D Explanation : Starting with the circle on the top left, and moving to
 
 ---
 
-### Problem 46: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q01`)
+### Problem 46: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q01`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1276,7 +1506,12 @@ Answer: Option A Explanation: It is clear from Fig. (X) that if seen through a m
 
 ---
 
-### Problem 47: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q02`)
+### Problem 47: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q02`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1302,7 +1537,12 @@ Answer: Option B Explanation: It is clear from Fig. (X) that if seen through a m
 
 ---
 
-### Problem 48: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q03`)
+### Problem 48: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q03`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1328,7 +1568,12 @@ Answer: Option B Explanation: It is clear from Fig. (X) that if seen through a m
 
 ---
 
-### Problem 49: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q04`)
+### Problem 49: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q04`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1354,7 +1599,12 @@ Answer: Option D Explanation: It is clear from Fig. (X) that if seen through a m
 
 ---
 
-### Problem 50: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q05`)
+### Problem 50: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q05`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1389,7 +1639,12 @@ Answer: Option A Explanation: Here, the mirror is placed vertically at AB on the
 
 ---
 
-### Problem 51: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q06`)
+### Problem 51: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q06`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1424,7 +1679,12 @@ Answer: Option C Explanation: Here, the mirror is placed vertically at AB on the
 
 ---
 
-### Problem 52: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q07`)
+### Problem 52: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q07`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1451,7 +1711,12 @@ Answer: Option B Explanation: Here, the mirror is placed vertically at AB on the
 
 ---
 
-### Problem 53: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q08`)
+### Problem 53: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q08`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1486,7 +1751,12 @@ Answer: Option D Explanation: Here, the mirror is placed vertically at AB on the
 
 ---
 
-### Problem 54: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q09`)
+### Problem 54: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q09`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1513,7 +1783,12 @@ Answer: Option C Explanation: Here, the mirror is placed vertically at AB on the
 
 ---
 
-### Problem 55: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q10`)
+### Problem 55: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q10`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1541,7 +1816,12 @@ Answer: Option B Explanation In the mirror image, &bull; The right side of the o
 
 ---
 
-### Problem 56: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q11`)
+### Problem 56: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q11`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1568,7 +1848,12 @@ Answer: Option C Explanation: The correct mirror image will be (3).
 
 ---
 
-### Problem 57: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q12`)
+### Problem 57: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q12`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1595,7 +1880,12 @@ Answer: Option A Explanation: The correct mirror image will be (1).
 
 ---
 
-### Problem 58: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q13`)
+### Problem 58: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q13`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1622,7 +1912,12 @@ Answer: Option D Explanation: The correct mirror image will be (4).
 
 ---
 
-### Problem 59: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q14`)
+### Problem 59: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q14`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1649,7 +1944,12 @@ Answer: Option D Explanation: The correct mirror image will be (4).
 
 ---
 
-### Problem 60: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q15`)
+### Problem 60: Mirror Reflection Logic (`SEC01_TEST_MIRROR_Q15`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Mirror Imge_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1676,7 +1976,12 @@ Answer: Option B Explanation: The correct mirror image will be (2).
 
 ---
 
-### Problem 61: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q01`)
+### Problem 61: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q01`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1702,7 +2007,12 @@ Answer : C Explanation : In each triangle, multiply the lower two numbers togeth
 
 ---
 
-### Problem 62: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q02`)
+### Problem 62: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q02`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1728,7 +2038,12 @@ Answer : C Explanation : Using the lower two circles as a source, the values in 
 
 ---
 
-### Problem 63: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q03`)
+### Problem 63: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q03`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1754,7 +2069,12 @@ Answer : B Explanation : Starting on the extreme left and right hand of the row 
 
 ---
 
-### Problem 64: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q04`)
+### Problem 64: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q04`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1780,7 +2100,12 @@ Answer : A Explanation : Starting bottom left and moving clockwise around the tr
 
 ---
 
-### Problem 65: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q05`)
+### Problem 65: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q05`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1806,7 +2131,12 @@ Answer : D Explanation : Working from top to bottom, double each number and subt
 
 ---
 
-### Problem 66: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q06`)
+### Problem 66: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q06`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1832,7 +2162,12 @@ Answer : D Explanation : Working in columns, the sum of the numbers in each colu
 
 ---
 
-### Problem 67: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q07`)
+### Problem 67: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q07`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1858,7 +2193,12 @@ Answer : A Explanation : The numbers in each row and column add up to 15.
 
 ---
 
-### Problem 68: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q08`)
+### Problem 68: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q08`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1884,7 +2224,12 @@ Answer : B Explanation : Moving from left to right, numbers increase by 2,3,4 an
 
 ---
 
-### Problem 69: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q09`)
+### Problem 69: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q09`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1910,7 +2255,12 @@ Answer : C Explanation : In each square of the diagram, the sum of the numbers i
 
 ---
 
-### Problem 70: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q10`)
+### Problem 70: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q10`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1936,7 +2286,12 @@ Answer : A Explanation : Moving clockwise, around alternate segments in the chai
 
 ---
 
-### Problem 71: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q11`)
+### Problem 71: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q11`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1962,7 +2317,12 @@ Answer : D Explanation : Starting with the numbers in the top row, and following
 
 ---
 
-### Problem 72: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q12`)
+### Problem 72: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q12`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1988,7 +2348,12 @@ Answer : B Explanation : In each circle, starting at the top left segment, numbe
 
 ---
 
-### Problem 73: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q13`)
+### Problem 73: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q13`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2014,7 +2379,12 @@ Answer : C Explanation : In each group of 3 numbers, the lower number equals the
 
 ---
 
-### Problem 74: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q14`)
+### Problem 74: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q14`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2040,7 +2410,12 @@ Answer : A Explanation : Reading each row as a 3 digit number, the rows follow t
 
 ---
 
-### Problem 75: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q15`)
+### Problem 75: Matrix and Circular Number Puzzles (`SEC01_TEST_NUMBER_Q15`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Number Puzzles_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2066,7 +2441,12 @@ Answer : D Explanation : Starting with the circle on the top left, and moving to
 
 ---
 
-### Problem 76: Paper Folding and Punching (`SEC01_TEST_PAPER _Q01`)
+### Problem 76: Paper Folding and Punching (`SEC01_TEST_PAPER _Q01`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Paper Folding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2092,7 +2472,12 @@ Correct Option: D
 
 ---
 
-### Problem 77: Paper Folding and Punching (`SEC01_TEST_PAPER _Q02`)
+### Problem 77: Paper Folding and Punching (`SEC01_TEST_PAPER _Q02`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Paper Folding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2118,7 +2503,12 @@ Correct Option: D
 
 ---
 
-### Problem 78: Paper Folding and Punching (`SEC01_TEST_PAPER _Q03`)
+### Problem 78: Paper Folding and Punching (`SEC01_TEST_PAPER _Q03`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Paper Folding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2144,7 +2534,12 @@ Correct Option: A
 
 ---
 
-### Problem 79: Paper Folding and Punching (`SEC01_TEST_PAPER _Q04`)
+### Problem 79: Paper Folding and Punching (`SEC01_TEST_PAPER _Q04`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Paper Folding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2170,7 +2565,12 @@ Correct Option: B
 
 ---
 
-### Problem 80: Paper Folding and Punching (`SEC01_TEST_PAPER _Q05`)
+### Problem 80: Paper Folding and Punching (`SEC01_TEST_PAPER _Q05`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Paper Folding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2196,7 +2596,12 @@ Correct Option: D
 
 ---
 
-### Problem 81: Paper Folding and Punching (`SEC01_TEST_PAPER _Q06`)
+### Problem 81: Paper Folding and Punching (`SEC01_TEST_PAPER _Q06`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Paper Folding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2222,7 +2627,12 @@ Correct Option: D
 
 ---
 
-### Problem 82: Paper Folding and Punching (`SEC01_TEST_PAPER _Q07`)
+### Problem 82: Paper Folding and Punching (`SEC01_TEST_PAPER _Q07`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Paper Folding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2248,7 +2658,12 @@ Correct Option: D
 
 ---
 
-### Problem 83: Paper Folding and Punching (`SEC01_TEST_PAPER _Q08`)
+### Problem 83: Paper Folding and Punching (`SEC01_TEST_PAPER _Q08`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Paper Folding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2274,7 +2689,12 @@ Correct Option: B
 
 ---
 
-### Problem 84: Paper Folding and Punching (`SEC01_TEST_PAPER _Q09`)
+### Problem 84: Paper Folding and Punching (`SEC01_TEST_PAPER _Q09`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Paper Folding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2300,7 +2720,12 @@ Correct Option: C
 
 ---
 
-### Problem 85: Paper Folding and Punching (`SEC01_TEST_PAPER _Q10`)
+### Problem 85: Paper Folding and Punching (`SEC01_TEST_PAPER _Q10`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Paper Folding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2326,7 +2751,12 @@ Correct Option: C
 
 ---
 
-### Problem 86: Paper Folding and Punching (`SEC01_TEST_PAPER _Q11`)
+### Problem 86: Paper Folding and Punching (`SEC01_TEST_PAPER _Q11`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Paper Folding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2352,7 +2782,12 @@ Correct Option: B
 
 ---
 
-### Problem 87: Paper Folding and Punching (`SEC01_TEST_PAPER _Q12`)
+### Problem 87: Paper Folding and Punching (`SEC01_TEST_PAPER _Q12`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Paper Folding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2378,7 +2813,12 @@ Correct Option: A
 
 ---
 
-### Problem 88: Paper Folding and Punching (`SEC01_TEST_PAPER _Q13`)
+### Problem 88: Paper Folding and Punching (`SEC01_TEST_PAPER _Q13`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Paper Folding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2404,7 +2844,12 @@ Correct Option: C
 
 ---
 
-### Problem 89: Paper Folding and Punching (`SEC01_TEST_PAPER _Q14`)
+### Problem 89: Paper Folding and Punching (`SEC01_TEST_PAPER _Q14`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Paper Folding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2430,7 +2875,12 @@ Correct Option: B
 
 ---
 
-### Problem 90: Paper Folding and Punching (`SEC01_TEST_PAPER _Q15`)
+### Problem 90: Paper Folding and Punching (`SEC01_TEST_PAPER _Q15`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Paper Folding_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2456,7 +2906,12 @@ Correct Option: B
 
 ---
 
-### Problem 91: Water Reflection Inversion (`SEC01_TEST_WATER _Q01`)
+### Problem 91: Water Reflection Inversion (`SEC01_TEST_WATER _Q01`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2483,7 +2938,12 @@ Answer: Option A Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 92: Water Reflection Inversion (`SEC01_TEST_WATER _Q02`)
+### Problem 92: Water Reflection Inversion (`SEC01_TEST_WATER _Q02`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2511,7 +2971,12 @@ Answer: Option C Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 93: Water Reflection Inversion (`SEC01_TEST_WATER _Q03`)
+### Problem 93: Water Reflection Inversion (`SEC01_TEST_WATER _Q03`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2538,7 +3003,12 @@ Answer: Option A Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 94: Water Reflection Inversion (`SEC01_TEST_WATER _Q04`)
+### Problem 94: Water Reflection Inversion (`SEC01_TEST_WATER _Q04`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2566,7 +3036,12 @@ Answer: Option B Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 95: Water Reflection Inversion (`SEC01_TEST_WATER _Q05`)
+### Problem 95: Water Reflection Inversion (`SEC01_TEST_WATER _Q05`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2593,7 +3068,12 @@ Answer: Option C Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 96: Water Reflection Inversion (`SEC01_TEST_WATER _Q06`)
+### Problem 96: Water Reflection Inversion (`SEC01_TEST_WATER _Q06`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2620,7 +3100,12 @@ Answer: Option B Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 97: Water Reflection Inversion (`SEC01_TEST_WATER _Q07`)
+### Problem 97: Water Reflection Inversion (`SEC01_TEST_WATER _Q07`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2647,7 +3132,12 @@ Answer: Option B Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 98: Water Reflection Inversion (`SEC01_TEST_WATER _Q08`)
+### Problem 98: Water Reflection Inversion (`SEC01_TEST_WATER _Q08`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2675,7 +3165,12 @@ Answer: Option A Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 99: Water Reflection Inversion (`SEC01_TEST_WATER _Q09`)
+### Problem 99: Water Reflection Inversion (`SEC01_TEST_WATER _Q09`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2703,7 +3198,12 @@ Answer - D
 
 ---
 
-### Problem 100: Water Reflection Inversion (`SEC01_TEST_WATER _Q10`)
+### Problem 100: Water Reflection Inversion (`SEC01_TEST_WATER _Q10`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2730,7 +3230,12 @@ Answer: Option B Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 101: Water Reflection Inversion (`SEC01_TEST_WATER _Q11`)
+### Problem 101: Water Reflection Inversion (`SEC01_TEST_WATER _Q11`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2757,7 +3262,12 @@ Answer: Option B Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 102: Water Reflection Inversion (`SEC01_TEST_WATER _Q12`)
+### Problem 102: Water Reflection Inversion (`SEC01_TEST_WATER _Q12`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2784,7 +3294,12 @@ Answer: Option B Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 103: Water Reflection Inversion (`SEC01_TEST_WATER _Q13`)
+### Problem 103: Water Reflection Inversion (`SEC01_TEST_WATER _Q13`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2811,7 +3326,12 @@ Answer: Option D Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 104: Water Reflection Inversion (`SEC01_TEST_WATER _Q14`)
+### Problem 104: Water Reflection Inversion (`SEC01_TEST_WATER _Q14`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -2838,7 +3358,12 @@ Answer: Option A Explanation In the water image, The top side of the object beco
 
 ---
 
-### Problem 105: Water Reflection Inversion (`SEC01_TEST_WATER _Q15`)
+### Problem 105: Water Reflection Inversion (`SEC01_TEST_WATER _Q15`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 11 _ Dice Mirror Image Water` | **Source Document:** `Water Image_QUESTIONS.json`  
 **Problem Statement:**
 

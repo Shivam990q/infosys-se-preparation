@@ -13,7 +13,12 @@
 
 ---
 
-### Question 1: Alternating Operations Series (15, 30, 23, 46, 39, 78, ...)
+### Question 1: Alternating Operations Series (15, 30, 23, 46, 39, 78, ...)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Section:** Puzzle Solving Test | **Topic:** Number Series / Pattern Recognition | **Live Exam Screenshot:** `133ef797-4e5c-4394-b70b-f3f0ba560d31.jpeg`
 
 
@@ -50,7 +55,12 @@ Therefore, the next number in the series is **71** (Option B).
 
 ---
 
-### Question 2: Sum of the Cubes of First n Natural Numbers
+### Question 2: Sum of the Cubes of First n Natural Numbers  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Section:** Technical Ability Test | **Topic:** Quantitative Aptitude / Number Theory & Algebra | **Live Exam Screenshot:** `24a46df8-04a8-45d7-a7e7-ed3704fc13fd.jpeg`
 
 
@@ -92,7 +102,12 @@ Thus, the value of $n$ is **9** (Option B).
 
 ---
 
-### Question 3: Mobile Phone Companies Market Share Ratio
+### Question 3: Mobile Phone Companies Market Share Ratio  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Section:** Reasoning Ability Test | **Topic:** Data Interpretation / Pie Charts & Ratio Proportions | **Live Exam Screenshot:** `35e2b57f-0152-453c-b0b3-a4aa14bb22c4.jpeg`
 
 
@@ -135,7 +150,12 @@ Therefore, the ratio is **4:3** (Option A).
 
 ---
 
-### Question 4: Quarterly Revenue Percentage Increase Comparison
+### Question 4: Quarterly Revenue Percentage Increase Comparison  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Section:** Reasoning Ability Test | **Topic:** Data Interpretation / Tabular Quarterly Revenue Analysis | **Live Exam Screenshot:** `4c75602e-9c3c-43f6-8bca-19528e2760a8.jpeg`
 
 
@@ -184,7 +204,12 @@ Hence, the difference is **40%** (Option D).
 
 ---
 
-### Question 5: Variable Modification & Return Semantics (IncrementTest)
+### Question 5: Variable Modification & Return Semantics (IncrementTest)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Section:** Pseudocode Test | **Topic:** Language Semantics / Pre-increment vs Post-increment | **Live Exam Screenshot:** `5d343714-54b0-4c45-90d7-df4bf0958fc0.jpeg`
 
 
@@ -228,7 +253,12 @@ Therefore, the correct expression is **++i** (Option B).
 
 ---
 
-### Question 6: Target Doubling Frequency Search (Find Algorithm)
+### Question 6: Target Doubling Frequency Search (Find Algorithm)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Section:** Pseudocode Test | **Topic:** Array Traversal / Dynamic Search Target Update | **Live Exam Screenshot:** `70f04555-bbb2-4abd-b6fe-b67e69239b15.jpeg`
 
 
@@ -291,7 +321,12 @@ Therefore, the displayed output is **4** (Option C).
 
 ---
 
-### Question 7: Threshold Crossing Year Percentage Contribution
+### Question 7: Threshold Crossing Year Percentage Contribution  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Section:** Reasoning / Technical Ability | **Topic:** Data Interpretation / Multi-Company Automobile Production | **Live Exam Screenshot:** `712eca95-7a32-49c8-902d-096b7e41821c.jpeg`
 
 
@@ -342,7 +377,12 @@ Therefore, the correct percentage share is **26.23%** (Option A).
 
 ---
 
-### Question 8: Train Length Determination via Pole & Tunnel Crossing Times
+### Question 8: Train Length Determination via Pole & Tunnel Crossing Times  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Section:** Technical Ability Test | **Topic:** Quantitative Aptitude / Speed, Time & Distance | **Live Exam Screenshot:** `78c90181-a957-4388-a3f0-f676928345ea.jpeg`
 
 
@@ -392,7 +432,12 @@ Hence, the length of the train is **156 meters** (Option A).
 
 ---
 
-### Question 9: Synthesis of Target Value 7 via Mixed Increments
+### Question 9: Synthesis of Target Value 7 via Mixed Increments  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Section:** Pseudocode Test | **Topic:** Expression Evaluation / Compound Unary Operators | **Live Exam Screenshot:** `9bf8dd40-6f20-4933-8185-9f24a4f624bb.jpeg`
 
 
@@ -449,7 +494,12 @@ Therefore, the correct expression is **(++i) + (++i)** (Option D).
 
 ---
 
-### Question 10: Mystery Product Transformation of Array Elements
+### Question 10: Mystery Product Transformation of Array Elements  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Section:** Pseudocode Test | **Topic:** Algorithms / Product of Array Except Self | **Live Exam Screenshot:** `aae75e69-0132-4325-95df-81246cf7b963.jpeg`
 
 
@@ -504,7 +554,12 @@ Thus, the output is **[60, 40, 30, 24]** (Option A).
 
 ---
 
-### Question 11: Combined Household Expenditure from Pie Chart
+### Question 11: Combined Household Expenditure from Pie Chart  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Section:** Reasoning Ability Test | **Topic:** Data Interpretation / Household Budget Percentage Breakdown | **Live Exam Screenshot:** `d6a882ef-e926-4548-88b1-a2545164847a.jpeg`
 
 
@@ -544,7 +599,12 @@ Therefore, the combined expenditure is **₹27,500** (Option B).
 
 ---
 
-### Question 12: Total Survey Population Given Proportion & Count
+### Question 12: Total Survey Population Given Proportion & Count  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Section:** Technical Ability Test | **Topic:** Quantitative Aptitude / Percentage Survey Analytics | **Live Exam Screenshot:** `dd297745-f2c5-4a02-b6f8-2fafbaf8a68b.jpeg`
 
 
@@ -582,7 +642,12 @@ Hence, the total number of people surveyed is **4400** (Option A).
 
 ---
 
-### Question 13: Longest Increasing Subarray Verification Across Test Vectors
+### Question 13: Longest Increasing Subarray Verification Across Test Vectors  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Section:** Pseudocode Test | **Topic:** Array Algorithms / Longest Strictly Increasing Subarray | **Live Exam Screenshot:** `fc8cc0a1-a807-4f9d-aa3f-6826abf6f2d9.jpeg`
 
 
@@ -654,7 +719,12 @@ Hence, the correct option is **Option D**.
 
 ---
 
-### Question 14: Half and Plus-Eight Sequence (864, 432, 440, 220, ...)
+### Question 14: Half and Plus-Eight Sequence (864, 432, 440, 220, ...)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Section:** Puzzle Solving Test | **Topic:** Number Series / Alternating Arithmetic-Geometric Progression | **Live Exam Screenshot:** `ef7d52d0-561f-43a1-a15d-c939fa0fd55a.jpeg`
 
 
@@ -693,7 +763,12 @@ Therefore, the number filling the blank is **228** (Option A).
 
 ---
 
-### Question 15: Infosys Actual 11 OCT 2025 Test Pattern & Sectional Architecture
+### Question 15: Infosys Actual 11 OCT 2025 Test Pattern & Sectional Architecture  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Section:** Exam Overview & Architecture | **Topic:** Infosys Special Engineer Pattern & Sectional Distribution | **Live Exam Screenshot:** `fc8cc0a1-a807-4f9d-aa3f-6826abf6f2d9.jpeg`
 
 

@@ -13,7 +13,12 @@
 ## Official Simulation Exam 01
 **Section 3: Verbal Ability (40 Questions | 35 Minutes)**
 
-### Question 01 (ID: `SEC0405_SVA1_Q01`)
+### Question 01  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q01`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -24,7 +29,12 @@ Many a student------- made the same mistake.
 - b. have
 
 
-### Question 02 (ID: `SEC0405_SVA1_Q02`)
+### Question 02  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q02`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -35,7 +45,12 @@ The available statistics -------that the green house degradation on earth will b
 - b. shows
 
 
-### Question 03 (ID: `SEC0405_SVA1_Q03`)
+### Question 03  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q03`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -46,7 +61,12 @@ The boss, as well as his colleagues,------------ been robbed by the robber .
 - b. have
 
 
-### Question 04 (ID: `SEC0405_SVA1_Q04`)
+### Question 04  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q04`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -57,7 +77,12 @@ A body of volunteers --------been organized to help the faculty members in their
 - b. has
 
 
-### Question 05 (ID: `SEC0405_SVA1_Q05`)
+### Question 05  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q05`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -68,7 +93,12 @@ Most of the News pertaining to the sudden demise of the spiritual guru --------b
 - b. has
 
 
-### Question 06 (ID: `SEC0405_SVA1_Q06`)
+### Question 06  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q06`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -79,7 +109,12 @@ Not only the doctor but also the nurses of this nursing home ------very kind to 
 - b. is
 
 
-### Question 07 (ID: `SEC0405_SVA1_Q07`)
+### Question 07  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q07`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -90,7 +125,12 @@ If any proof was needed to show that the United Nations ---------lately become a
 - b. have
 
 
-### Question 08 (ID: `SEC0405_SVA1_Q08`)
+### Question 08  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q08`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -101,7 +141,12 @@ The famous singer and composer -------------arrived.
 - b. have
 
 
-### Question 09 (ID: `SEC0405_SVA1_Q09`)
+### Question 09  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q09`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -112,7 +157,12 @@ Neither the teacher nor the students -----------------present in the seminar.
 - b. were
 
 
-### Question 10 (ID: `SEC0405_SVA1_Q10`)
+### Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q10`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -123,7 +173,12 @@ A number of students ---------------participated in the cultural fest.
 - b. have
 
 
-### Question 11 (ID: `SEC0405_SVA1_Q11`)
+### Question 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q11`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -134,7 +189,12 @@ The number of applicants ----------------increasing day by day.
 - b. are
 
 
-### Question 12 (ID: `SEC0405_SVA1_Q12`)
+### Question 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q12`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -145,7 +205,12 @@ Bread and butter -----------------his staple breakfast every morning.
 - b. are
 
 
-### Question 13 (ID: `SEC0405_SVA1_Q13`)
+### Question 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q13`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -156,7 +221,12 @@ Ten miles -----------------a long distance to walk on foot.
 - b. are
 
 
-### Question 14 (ID: `SEC0405_SVA1_Q14`)
+### Question 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q14`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -167,7 +237,12 @@ Each of the candidates ----------------given a separate interview slot.
 - b. were
 
 
-### Question 15 (ID: `SEC0405_SVA1_Q15`)
+### Question 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q15`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -178,7 +253,12 @@ Physics -----------------always been my favorite subject in high school.
 - b. have
 
 
-### Question 16 (ID: `SEC0405_SVA1_Q16`)
+### Question 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q16`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -189,7 +269,12 @@ Either of the two routes ----------------safe for night travel.
 - b. are
 
 
-### Question 17 (ID: `SEC0405_SVA1_Q17`)
+### Question 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q17`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -200,7 +285,12 @@ The quality of these mangoes ----------------not up to the mark.
 - b. were
 
 
-### Question 18 (ID: `SEC0405_SVA1_Q18`)
+### Question 18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q18`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -211,7 +301,12 @@ Slow and steady ----------------the race.
 - b. wins
 
 
-### Question 19 (ID: `SEC0405_SVA1_Q19`)
+### Question 19  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q19`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -222,7 +317,12 @@ Gulliver's Travels ----------------written by Jonathan Swift.
 - b. were
 
 
-### Question 20 (ID: `SEC0405_SVA1_Q20`)
+### Question 20  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q20`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -233,7 +333,12 @@ None of the information ----------------verified by the official authorities.
 - b. were
 
 
-### Question 21 (ID: `SEC0405_SVA1_Q21`)
+### Question 21  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q21`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -244,7 +349,12 @@ Every man, woman, and child ----------------given a relief package.
 - b. were
 
 
-### Question 22 (ID: `SEC0405_SVA1_Q22`)
+### Question 22  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q22`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -255,7 +365,12 @@ Neither of them ----------------eligible for the senior scholarship.
 - b. are
 
 
-### Question 23 (ID: `SEC0405_SVA1_Q23`)
+### Question 23  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q23`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -266,7 +381,12 @@ One of my friends ----------------going to Canada for higher studies.
 - b. are
 
 
-### Question 24 (ID: `SEC0405_SVA1_Q24`)
+### Question 24  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q24`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -277,7 +397,12 @@ The committee ----------------divided in their opinions regarding the new policy
 - b. were
 
 
-### Question 25 (ID: `SEC0405_SVA1_Q25`)
+### Question 25  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA1_Q25`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
 
 Fill in the blank with the grammatically correct verb:
@@ -288,7 +413,12 @@ Riches ----------------wings and fly away.
 - b. have
 
 
-### Question 26 (ID: `SEC0405_SVA2_Q01`)
+### Question 26  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA2_Q01`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Error Spotting & Syntax
 
 Identify the part containing a grammatical error:
@@ -301,7 +431,12 @@ Every pale tomato slice,(a)/ wilted pickle, and brown lettuce leaf cost(b)/ an e
 - (d) No error
 
 
-### Question 27 (ID: `SEC0405_SVA2_Q02`)
+### Question 27  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA2_Q02`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Error Spotting & Syntax
 
 Identify the part containing a grammatical error:
@@ -314,7 +449,12 @@ The Smiths, along with Tisha,(a)/ has to avoid indigestion(b)/ after eating thes
 - (d) No error
 
 
-### Question 28 (ID: `SEC0405_SVA2_Q03`)
+### Question 28  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA2_Q03`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Error Spotting & Syntax
 
 Identify the part containing a grammatical error:
@@ -327,7 +467,12 @@ The department members and not the chair(a)/ has decided not to teach (b)/on Tea
 - (d) No error
 
 
-### Question 29 (ID: `SEC0405_SVA2_Q04`)
+### Question 29  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA2_Q04`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Error Spotting & Syntax
 
 Identify the part containing a grammatical error:
@@ -340,7 +485,12 @@ Even though Antonio has many friends(a)/ who love their Chevrolets and Buicks,(b
 - (d) No error
 
 
-### Question 30 (ID: `SEC0405_SVA2_Q05`)
+### Question 30  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA2_Q05`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Error Spotting & Syntax
 
 Identify the part containing a grammatical error:
@@ -353,7 +503,12 @@ My dog Floyd, together with Buster the cat(a)/,like to play with money;(b)/ the 
 - (d) No error
 
 
-### Question 31 (ID: `SEC0405_SVA2_Q06`)
+### Question 31  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA2_Q06`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Error Spotting & Syntax
 
 Identify the part containing a grammatical error:
@@ -366,7 +521,12 @@ Latoya isn't going to Daytona Beach(a)/ for spring break because fourteen dollar
 - (d) No error
 
 
-### Question 32 (ID: `SEC0405_SVA2_Q07`)
+### Question 32  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA2_Q07`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Error Spotting & Syntax
 
 Identify the part containing a grammatical error:
@@ -379,7 +539,12 @@ Even though Johnson and Johnson warn(a)/ consumers that Q-tips are for external 
 - (d) No error
 
 
-### Question 33 (ID: `SEC0405_SVA2_Q08`)
+### Question 33  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA2_Q08`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Error Spotting & Syntax
 
 Identify the part containing a grammatical error:
@@ -392,7 +557,12 @@ Neither of those two suitcases(a)/ have enough room for all the winter clothes(b
 - (d) No error
 
 
-### Question 34 (ID: `SEC0405_SVA2_Q09`)
+### Question 34  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA2_Q09`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Error Spotting & Syntax
 
 Identify the part containing a grammatical error:
@@ -405,7 +575,12 @@ The bouquet of yellow roses(a)/ lend color and fragrance(b)/ to the dimly lit li
 - (d) No error
 
 
-### Question 35 (ID: `SEC0405_SVA2_Q10`)
+### Question 35  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SVA2_Q10`)
 - **Sub-Domain Focus**: Subject-Verb Agreement: Error Spotting & Syntax
 
 Identify the part containing a grammatical error:
@@ -418,7 +593,12 @@ More than one person(a)/ were involved in the conspiracy(b)/ to destabilize the 
 - (d) No error
 
 
-### Question 36 (ID: `SEC0405_SC1_Q01`)
+### Question 36  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SC1_Q01`)
 - **Sub-Domain Focus**: Sentence Correction: Parallelism / Series Consistency
 
 Select the sentence that is grammatically correct and stylistically effective:
@@ -431,7 +611,12 @@ Topic Focus: Parallelism / Series Consistency
 - 4. She likes to read books, swim, and to jog.
 
 
-### Question 37 (ID: `SEC0405_SC1_Q02`)
+### Question 37  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SC1_Q02`)
 - **Sub-Domain Focus**: Sentence Correction: Redundancy & Conciseness
 
 Select the sentence that is grammatically correct and stylistically effective:
@@ -444,7 +629,12 @@ Topic Focus: Redundancy & Conciseness
 - 4. The truth of the matter is that he is not attending the meeting.
 
 
-### Question 38 (ID: `SEC0405_SC1_Q03`)
+### Question 38  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SC1_Q03`)
 - **Sub-Domain Focus**: Sentence Correction: Modifier Placement & Misplaced Modifiers
 
 Select the sentence that is grammatically correct and stylistically effective:
@@ -457,7 +647,12 @@ Topic Focus: Modifier Placement & Misplaced Modifiers
 - 4. Covered in melted cheese, the pizza was eaten by Maria eagerly.
 
 
-### Question 39 (ID: `SEC0405_SC1_Q04`)
+### Question 39  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SC1_Q04`)
 - **Sub-Domain Focus**: Sentence Correction: Comparison & Ambiguity
 
 Select the sentence that is grammatically correct and stylistically effective:
@@ -470,7 +665,12 @@ Topic Focus: Comparison & Ambiguity
 - 4. Both 2 and 3 resolve the ambiguity.
 
 
-### Question 40 (ID: `SEC0405_SC1_Q05`)
+### Question 40  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SC1_Q05`)
 - **Sub-Domain Focus**: Sentence Correction: Correlative Conjunctions (Not only... but also)
 
 Select the sentence that is grammatically correct and stylistically effective:
@@ -533,7 +733,12 @@ Topic Focus: Correlative Conjunctions (Not only... but also)
 ## Official Simulation Exam 02
 **Section 3: Verbal Ability (40 Questions | 35 Minutes)**
 
-### Question 01 (ID: `SEC0405_SC1_Q06`)
+### Question 01  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SC1_Q06`)
 - **Sub-Domain Focus**: Sentence Correction: Subjunctive Mood & Hypothetical Conditions
 
 Select the sentence that is grammatically correct and stylistically effective:
@@ -546,7 +751,12 @@ Topic Focus: Subjunctive Mood & Hypothetical Conditions
 - 4. If I would be the CEO, I will implement flexible work hours.
 
 
-### Question 02 (ID: `SEC0405_SC1_Q07`)
+### Question 02  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SC1_Q07`)
 - **Sub-Domain Focus**: Sentence Correction: Tense Consistency & Sequence of Tenses
 
 Select the sentence that is grammatically correct and stylistically effective:
@@ -559,7 +769,12 @@ Topic Focus: Tense Consistency & Sequence of Tenses
 - 4. By the time the fire brigade arrives, the building had collapsed.
 
 
-### Question 03 (ID: `SEC0405_SC1_Q08`)
+### Question 03  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SC1_Q08`)
 - **Sub-Domain Focus**: Sentence Correction: Idiomatic Preposition Usage
 
 Select the sentence that is grammatically correct and stylistically effective:
@@ -572,7 +787,12 @@ Topic Focus: Idiomatic Preposition Usage
 - 4. She is capable in doing the work efficiently.
 
 
-### Question 04 (ID: `SEC0405_SC1_Q09`)
+### Question 04  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SC1_Q09`)
 - **Sub-Domain Focus**: Sentence Correction: Subject-Verb Concord in Relative Clauses
 
 Select the sentence that is grammatically correct and stylistically effective:
@@ -585,7 +805,12 @@ Topic Focus: Subject-Verb Concord in Relative Clauses
 - 4. She is one of those woman who is always ready to help.
 
 
-### Question 05 (ID: `SEC0405_SC1_Q10`)
+### Question 05  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SC1_Q10`)
 - **Sub-Domain Focus**: Sentence Correction: Pronoun Case in Comparisons
 
 Select the sentence that is grammatically correct and stylistically effective:
@@ -598,7 +823,12 @@ Topic Focus: Pronoun Case in Comparisons
 - 4. John is much more fast than I at solving aptitude puzzles.
 
 
-### Question 06 (ID: `SEC0405_SC1_Q11`)
+### Question 06  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SC1_Q11`)
 - **Sub-Domain Focus**: Sentence Correction: Double Negatives
 
 Select the sentence that is grammatically correct and stylistically effective:
@@ -611,7 +841,12 @@ Topic Focus: Double Negatives
 - 4. I could not barely hear what the speaker was saying.
 
 
-### Question 07 (ID: `SEC0405_SC1_Q12`)
+### Question 07  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SC1_Q12`)
 - **Sub-Domain Focus**: Sentence Correction: Faulty Predication
 
 Select the sentence that is grammatically correct and stylistically effective:
@@ -624,7 +859,12 @@ Topic Focus: Faulty Predication
 - 4. The purpose of the seminar is on account of employee training.
 
 
-### Question 08 (ID: `SEC0405_SC1_Q13`)
+### Question 08  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SC1_Q13`)
 - **Sub-Domain Focus**: Sentence Correction: Dangling Participles
 
 Select the sentence that is grammatically correct and stylistically effective:
@@ -637,7 +877,12 @@ Topic Focus: Dangling Participles
 - 4. As the trees were walked into the forest, they seemed gigantic.
 
 
-### Question 09 (ID: `SEC0405_SC1_Q14`)
+### Question 09  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SC1_Q14`)
 - **Sub-Domain Focus**: Sentence Correction: Split Infinitives & Emphasis
 
 Select the sentence that is grammatically correct and stylistically effective:
@@ -650,7 +895,12 @@ Topic Focus: Split Infinitives & Emphasis
 - 4. Both 1 and 3 are acceptable in modern standard usage.
 
 
-### Question 10 (ID: `SEC0405_SC1_Q15`)
+### Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_SC1_Q15`)
 - **Sub-Domain Focus**: Sentence Correction: Subject Complement & Case Agreement
 
 Select the sentence that is grammatically correct and stylistically effective:
@@ -663,7 +913,12 @@ Topic Focus: Subject Complement & Case Agreement
 - 4. It was his who called you yesterday evening.
 
 
-### Question 11 (ID: `SEC0405_SC2_Q01`)
+### Question 11  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SC2_Q01`)
 - **Sub-Domain Focus**: Sentence Correction (Hard Set): Parallelism in Compound Complements
 
 Select the sentence that is grammatically correct and stylistically flawless:
@@ -676,7 +931,12 @@ Domain: Parallelism in Compound Complements
 - 4. The new manager is committed to the increase of efficiency, reducing costs, and the improvement of morale.
 
 
-### Question 12 (ID: `SEC0405_SC2_Q02`)
+### Question 12  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SC2_Q02`)
 - **Sub-Domain Focus**: Sentence Correction (Hard Set): Redundancy in Reason Clauses
 
 Select the sentence that is grammatically correct and stylistically flawless:
@@ -689,7 +949,12 @@ Domain: Redundancy in Reason Clauses
 - 4. The reason for her leaving the company is because of better opportunities abroad.
 
 
-### Question 13 (ID: `SEC0405_SC2_Q03`)
+### Question 13  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SC2_Q03`)
 - **Sub-Domain Focus**: Sentence Correction (Hard Set): Modifier Placement with Temporal Adverbs
 
 Select the sentence that is grammatically correct and stylistically flawless:
@@ -702,7 +967,12 @@ Domain: Modifier Placement with Temporal Adverbs
 - 4. She told him about the promotion only yesterday.
 
 
-### Question 14 (ID: `SEC0405_SC2_Q04`)
+### Question 14  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SC2_Q04`)
 - **Sub-Domain Focus**: Sentence Correction (Hard Set): Absolute Phrases vs Dangling Participles
 
 Select the sentence that is grammatically correct and stylistically flawless:
@@ -715,7 +985,12 @@ Domain: Absolute Phrases vs Dangling Participles
 - 4. Both 1 and 2 are grammatically sound constructions.
 
 
-### Question 15 (ID: `SEC0405_SC2_Q05`)
+### Question 15  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SC2_Q05`)
 - **Sub-Domain Focus**: Sentence Correction (Hard Set): Unbalanced Comparisons with 'Like' vs 'As'
 
 Select the sentence that is grammatically correct and stylistically flawless:
@@ -728,7 +1003,12 @@ Domain: Unbalanced Comparisons with 'Like' vs 'As'
 - 4. The algorithm processes transactions fast similar to how a dedicated neural processor does.
 
 
-### Question 16 (ID: `SEC0405_SC2_Q06`)
+### Question 16  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SC2_Q06`)
 - **Sub-Domain Focus**: Sentence Correction (Hard Set): Inverted Word Order after Negative Adverbials
 
 Select the sentence that is grammatically correct and stylistically flawless:
@@ -741,7 +1021,12 @@ Domain: Inverted Word Order after Negative Adverbials
 - 4. Seldom did we witnessed such an extraordinary market rally.
 
 
-### Question 17 (ID: `SEC0405_SC2_Q07`)
+### Question 17  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SC2_Q07`)
 - **Sub-Domain Focus**: Sentence Correction (Hard Set): Conditional Inversion (Omission of 'If')
 
 Select the sentence that is grammatically correct and stylistically flawless:
@@ -754,7 +1039,12 @@ Domain: Conditional Inversion (Omission of 'If')
 - 4. Should the system administrator patch the server in time, the breach would not have occurred.
 
 
-### Question 18 (ID: `SEC0405_SC2_Q08`)
+### Question 18  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SC2_Q08`)
 - **Sub-Domain Focus**: Sentence Correction (Hard Set): Idiomatic Use of 'Prefer to' vs 'Prefer rather than'
 
 Select the sentence that is grammatically correct and stylistically flawless:
@@ -767,7 +1057,12 @@ Domain: Idiomatic Use of 'Prefer to' vs 'Prefer rather than'
 - 4. Most young engineers prefer working remotely rather to commuting daily.
 
 
-### Question 19 (ID: `SEC0405_SC2_Q09`)
+### Question 19  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SC2_Q09`)
 - **Sub-Domain Focus**: Sentence Correction (Hard Set): Elliptical Clauses & Pronoun Consistency
 
 Select the sentence that is grammatically correct and stylistically flawless:
@@ -780,7 +1075,12 @@ Domain: Elliptical Clauses & Pronoun Consistency
 - 4. Both 2 and 3 resolve the dangling modifier.
 
 
-### Question 20 (ID: `SEC0405_SC2_Q10`)
+### Question 20  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SC2_Q10`)
 - **Sub-Domain Focus**: Sentence Correction (Hard Set): Noun-Pronoun Number Concord with Collective Antecedents
 
 Select the sentence that is grammatically correct and stylistically flawless:
@@ -793,7 +1093,12 @@ Domain: Noun-Pronoun Number Concord with Collective Antecedents
 - 4. The jury have reached its verdict after six hours of deliberation.
 
 
-### Question 21 (ID: `SEC0405_RC_P1_Q01`)
+### Question 21  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC_P1_Q01`)
 - **Sub-Domain Focus**: Reading Comprehension: AI & Workforce Transformation
 
 Read the passage and answer the question below:
@@ -810,7 +1115,12 @@ The primary purpose of the passage is to:
 - D. Recommend that companies halt technological automation immediately.
 
 
-### Question 22 (ID: `SEC0405_RC_P1_Q02`)
+### Question 22  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC_P1_Q02`)
 - **Sub-Domain Focus**: Reading Comprehension: AI & Workforce Transformation
 
 Read the passage and answer the question below:
@@ -827,7 +1137,12 @@ According to the passage, proponents of AI argue that technology:
 - D. Forces workers to take lower-paying roles.
 
 
-### Question 23 (ID: `SEC0405_RC_P1_Q03`)
+### Question 23  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC_P1_Q03`)
 - **Sub-Domain Focus**: Reading Comprehension: AI & Workforce Transformation
 
 Read the passage and answer the question below:
@@ -844,7 +1159,12 @@ Which of the following is cited as a major risk of AI in the workplace?
 - D. Immediate bankruptcy of manufacturing industries.
 
 
-### Question 24 (ID: `SEC0405_RC_P1_Q04`)
+### Question 24  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC_P1_Q04`)
 - **Sub-Domain Focus**: Reading Comprehension: AI & Workforce Transformation
 
 Read the passage and answer the question below:
@@ -861,7 +1181,12 @@ What does the word 'obsolete' most nearly mean as used in the passage?
 - D. Inherently expensive.
 
 
-### Question 25 (ID: `SEC0405_RC_P1_Q05`)
+### Question 25  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC_P1_Q05`)
 - **Sub-Domain Focus**: Reading Comprehension: AI & Workforce Transformation
 
 Read the passage and answer the question below:
@@ -878,7 +1203,12 @@ The author suggests that successful AI implementation depends on:
 - D. Relying exclusively on proprietary vendor software.
 
 
-### Question 26 (ID: `SEC0405_RC01_Q01`)
+### Question 26  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC01_Q01`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
@@ -898,7 +1228,12 @@ Q1. What, according to the passage, is/are the disadvantage(s) of constraining t
 - All
 
 
-### Question 27 (ID: `SEC0405_RC01_Q02`)
+### Question 27  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC01_Q02`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
@@ -915,7 +1250,12 @@ Q2. “Imagination unleashes Creativity”. Justify.
 - All are correct
 
 
-### Question 28 (ID: `SEC0405_RC01_Q03`)
+### Question 28  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC01_Q03`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
@@ -933,7 +1273,12 @@ Q3. According to the passage, how can a person express empathy?
 - All are correct
 
 
-### Question 29 (ID: `SEC0405_RC01_Q04`)
+### Question 29  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC01_Q04`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
@@ -949,7 +1294,12 @@ Q4. Which of the following is an appropriate title of the passage?
 - Imagining beyond the limit of the sky.
 
 
-### Question 30 (ID: `SEC0405_RC01_Q05`)
+### Question 30  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC01_Q05`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
@@ -965,7 +1315,12 @@ Q5. According to the passage, Imaginative power helps in
 - All
 
 
-### Question 31 (ID: `SEC0405_RC01_Q06`)
+### Question 31  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC01_Q06`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
@@ -982,7 +1337,12 @@ Q6. How imagination can be a useful tool in strengthening the brain connections?
 - All are correct
 
 
-### Question 32 (ID: `SEC0405_RC01_Q07`)
+### Question 32  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC01_Q07`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
@@ -1000,7 +1360,12 @@ Conjure
 - abject
 
 
-### Question 33 (ID: `SEC0405_RC01_Q08`)
+### Question 33  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC01_Q08`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
@@ -1018,7 +1383,12 @@ Quantified
 - Expiate
 
 
-### Question 34 (ID: `SEC0405_RC01_Q09`)
+### Question 34  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC01_Q09`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
@@ -1036,7 +1406,12 @@ Meticulously
 - negligent
 
 
-### Question 35 (ID: `SEC0405_RC01_Q10`)
+### Question 35  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC01_Q10`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
@@ -1054,7 +1429,12 @@ Envision
 - disregard
 
 
-### Question 36 (ID: `SEC0405_RC01_Q11`)
+### Question 36  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC01_Q11`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (11-15): Read each sentence to find out whether there is any grammatical or idiomatic error in it. The error, if any, will be in one part of the sentence. The number of that part is the answer. If there is ‘No error’, the answer is (e). (Ignore errors of punctuation, if any.)
@@ -1067,7 +1447,12 @@ Q11. As soon as we (A)/enter the hotel the (B)/Manager welcomes us and (C)/took 
 - E
 
 
-### Question 37 (ID: `SEC0405_RC01_Q12`)
+### Question 37  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC01_Q12`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 In spite of our several request (A)/ the owner of the house (B)/did not open (C)/the door of his house. (D)/No Error (E)
@@ -1079,7 +1464,12 @@ In spite of our several request (A)/ the owner of the house (B)/did not open (C)
 - E
 
 
-### Question 38 (ID: `SEC0405_RC01_Q13`)
+### Question 38  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC01_Q13`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 The manager concluded that(A)/either Mahesh (B)/or Teja were (C)/responsible for the last week’s theft. (D)/No Error (E)
@@ -1091,7 +1481,12 @@ The manager concluded that(A)/either Mahesh (B)/or Teja were (C)/responsible for
 - E
 
 
-### Question 39 (ID: `SEC0405_RC01_Q14`)
+### Question 39  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC01_Q14`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 . I have told suresh (A)/that it will not be possible (B)/for me to carry on (C)/this kind of work. (D)/ No error. (E)
@@ -1103,7 +1498,12 @@ The manager concluded that(A)/either Mahesh (B)/or Teja were (C)/responsible for
 - E
 
 
-### Question 40 (ID: `SEC0405_RC01_Q15`)
+### Question 40  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC01_Q15`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 In today meeting (A)/we must first discuss (B)/and thrash out the problem (C)/one by one. (D)/No error (E)
@@ -1165,7 +1565,12 @@ In today meeting (A)/we must first discuss (B)/and thrash out the problem (C)/on
 ## Official Simulation Exam 03
 **Section 3: Verbal Ability (40 Questions | 35 Minutes)**
 
-### Question 01 (ID: `SEC0405_RC02_Q01`)
+### Question 01  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC02_Q01`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (1-5): Read the given passage and answer the following questions based on the passage.
@@ -1183,7 +1588,12 @@ Q1. What could be the appropriate title of this passage?
 - None of These
 
 
-### Question 02 (ID: `SEC0405_RC02_Q02`)
+### Question 02  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC02_Q02`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (1-5): Read the given passage and answer the following questions based on the passage.
@@ -1201,7 +1611,12 @@ Finally, we need to reconsider our approaches to water governance. We must recog
 - All of the above
 
 
-### Question 03 (ID: `SEC0405_RC02_Q03`)
+### Question 03  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC02_Q03`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (1-5): Read the given passage and answer the following questions based on the passage.
@@ -1219,7 +1634,12 @@ Q3. As per the passage, what are the steps taken to ensure maximum fulfilment of
 - None of these
 
 
-### Question 04 (ID: `SEC0405_RC02_Q04`)
+### Question 04  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC02_Q04`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (1-5): Read the given passage and answer the following questions based on the passage.
@@ -1237,7 +1657,12 @@ Q4. Which of the following statements are not true according to the above passag
 - None of these
 
 
-### Question 05 (ID: `SEC0405_RC02_Q05`)
+### Question 05  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC02_Q05`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (1-5): Read the given passage and answer the following questions based on the passage.
@@ -1255,7 +1680,12 @@ Q5. Which of the following is the most suitable word to fill the blank (A) as gi
 - Tinker
 
 
-### Question 06 (ID: `SEC0405_RC02_Q06`)
+### Question 06  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC02_Q06`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (6-10): Read the given passage and answer the following questions based on the passage.
@@ -1276,7 +1706,12 @@ Q6. What could be the most appropriate title of this passage?
 - None of These
 
 
-### Question 07 (ID: `SEC0405_RC02_Q07`)
+### Question 07  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC02_Q07`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (6-10): Read the given passage and answer the following questions based on the passage.
@@ -1297,7 +1732,12 @@ Q7.In what aspects, the present Protection of Children from Sexual Offence (amen
 - None of these
 
 
-### Question 08 (ID: `SEC0405_RC02_Q08`)
+### Question 08  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC02_Q08`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (6-10): Read the given passage and answer the following questions based on the passage.
@@ -1318,7 +1758,12 @@ Q8. Why it is said in the italicized sentence, ‘Today, the death penalty has b
 - None of these
 
 
-### Question 09 (ID: `SEC0405_RC02_Q09`)
+### Question 09  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC02_Q09`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (6-10): Read the given passage and answer the following questions based on the passage.
@@ -1339,7 +1784,12 @@ Q9. Which one of the following statements is not true about POSCO Bill according
 - None of the above
 
 
-### Question 10 (ID: `SEC0405_RC02_Q10`)
+### Question 10  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC02_Q10`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (6-10): Read the given passage and answer the following questions based on the passage.
@@ -1360,7 +1810,12 @@ Q10. Choose among the following most suitable word to fill the blank given in (A
 - Phlegmatic
 
 
-### Question 11 (ID: `SEC0405_RC02_Q11`)
+### Question 11  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC02_Q11`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (11-15): Read the following passage and answer the following questions based on the given passage.
@@ -1383,7 +1838,12 @@ Q11. Why amalgamation of Public sector banks has become a stress lately for the 
 - All of the above
 
 
-### Question 12 (ID: `SEC0405_RC02_Q12`)
+### Question 12  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC02_Q12`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (11-15): Read the following passage and answer the following questions based on the given passage.
@@ -1406,7 +1866,12 @@ Q12. According to Section 5 of the Banking Regulation Act, what the term ‘bank
 - None of these
 
 
-### Question 13 (ID: `SEC0405_RC02_Q13`)
+### Question 13  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC02_Q13`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (11-15): Read the following passage and answer the following questions based on the given passage.
@@ -1429,7 +1894,12 @@ Q13. What causes traumatisation of bank employees according to the passage given
 - None of these
 
 
-### Question 14 (ID: `SEC0405_RC02_Q14`)
+### Question 14  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC02_Q14`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (11-15): Read the following passage and answer the following questions based on the given passage.
@@ -1452,7 +1922,12 @@ Q14. According to the above passage, what could be the other factors apart from 
 - All of the above
 
 
-### Question 15 (ID: `SEC0405_RC02_Q15`)
+### Question 15  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_RC02_Q15`)
 - **Sub-Domain Focus**: Reading Comprehension: Passage Analysis & Contextual Inference
 
 Directions (11-15): Read the following passage and answer the following questions based on the given passage.
@@ -1475,7 +1950,12 @@ Q15. According to Jyothi KP, how government should help banks in realizing the p
 - None of these
 
 
-### Question 16 (ID: `SEC0405_VOCAB_SYN_Q01`)
+### Question 16  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_VOCAB_SYN_Q01`)
 - **Sub-Domain Focus**: Vocabulary: Synonyms and Antonyms
 
 Directions (1-10): In each of the questions below, there is a word given in bold which is followed by five options. In each of the options, a pair of words is given which is either the pair of synonyms or antonyms or synonym & antonym of the word given in bold. Choose that pair as your answer.
@@ -1488,7 +1968,12 @@ Q1. ABDICATE
 - None of the Above
 
 
-### Question 17 (ID: `SEC0405_VOCAB_SYN_Q02`)
+### Question 17  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_VOCAB_SYN_Q02`)
 - **Sub-Domain Focus**: Vocabulary: Synonyms and Antonyms
 
 Directions (1-10): In each of the questions below, there is a word given in bold which is followed by five options. In each of the options, a pair of words is given which is either the pair of synonyms or antonyms or synonym & antonym of the word given in bold. Choose that pair as your answer.
@@ -1501,7 +1986,12 @@ Q2. BABBLE
 - None of the Above
 
 
-### Question 18 (ID: `SEC0405_VOCAB_SYN_Q03`)
+### Question 18  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_VOCAB_SYN_Q03`)
 - **Sub-Domain Focus**: Vocabulary: Synonyms and Antonyms
 
 Directions (1-10): In each of the questions below, there is a word given in bold which is followed by five options. In each of the options, a pair of words is given which is either the pair of synonyms or antonyms or synonym & antonym of the word given in bold. Choose that pair as your answer.
@@ -1514,7 +2004,12 @@ Q3. CAJOLE
 - None of the Above
 
 
-### Question 19 (ID: `SEC0405_VOCAB_SYN_Q04`)
+### Question 19  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_VOCAB_SYN_Q04`)
 - **Sub-Domain Focus**: Vocabulary: Synonyms and Antonyms
 
 Directions (1-10): In each of the questions below, there is a word given in bold which is followed by five options. In each of the options, a pair of words is given which is either the pair of synonyms or antonyms or synonym & antonym of the word given in bold. Choose that pair as your answer.
@@ -1527,7 +2022,12 @@ Q4. DEFILE
 - None of the Above
 
 
-### Question 20 (ID: `SEC0405_VOCAB_SYN_Q05`)
+### Question 20  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_VOCAB_SYN_Q05`)
 - **Sub-Domain Focus**: Vocabulary: Synonyms and Antonyms
 
 Directions (1-10): In each of the questions below, there is a word given in bold which is followed by five options. In each of the options, a pair of words is given which is either the pair of synonyms or antonyms or synonym & antonym of the word given in bold. Choose that pair as your answer.
@@ -1540,7 +2040,12 @@ Q5. ENTREAT
 - None of the Above
 
 
-### Question 21 (ID: `SEC0405_VOCAB_SYN_Q06`)
+### Question 21  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_VOCAB_SYN_Q06`)
 - **Sub-Domain Focus**: Vocabulary: Synonyms and Antonyms
 
 Directions (1-10): In each of the questions below, there is a word given in bold which is followed by five options. In each of the options, a pair of words is given which is either the pair of synonyms or antonyms or synonym & antonym of the word given in bold. Choose that pair as your answer.
@@ -1553,7 +2058,12 @@ Q6. FUTILE
 - None of the Above
 
 
-### Question 22 (ID: `SEC0405_VOCAB_SYN_Q07`)
+### Question 22  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_VOCAB_SYN_Q07`)
 - **Sub-Domain Focus**: Vocabulary: Synonyms and Antonyms
 
 Directions (1-10): In each of the questions below, there is a word given in bold which is followed by five options. In each of the options, a pair of words is given which is either the pair of synonyms or antonyms or synonym & antonym of the word given in bold. Choose that pair as your answer.
@@ -1566,7 +2076,12 @@ Q7. GAMUT
 - None of the Above
 
 
-### Question 23 (ID: `SEC0405_VOCAB_SYN_Q08`)
+### Question 23  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_VOCAB_SYN_Q08`)
 - **Sub-Domain Focus**: Vocabulary: Synonyms and Antonyms
 
 Directions (1-10): In each of the questions below, there is a word given in bold which is followed by five options. In each of the options, a pair of words is given which is either the pair of synonyms or antonyms or synonym & antonym of the word given in bold. Choose that pair as your answer.
@@ -1579,7 +2094,12 @@ Q8. HERESY
 - None of the Above
 
 
-### Question 24 (ID: `SEC0405_VOCAB_SYN_Q09`)
+### Question 24  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_VOCAB_SYN_Q09`)
 - **Sub-Domain Focus**: Vocabulary: Synonyms and Antonyms
 
 Directions (1-10): In each of the questions below, there is a word given in bold which is followed by five options. In each of the options, a pair of words is given which is either the pair of synonyms or antonyms or synonym & antonym of the word given in bold. Choose that pair as your answer.
@@ -1592,7 +2112,12 @@ Q9. INEPT
 - None of the Above
 
 
-### Question 25 (ID: `SEC0405_VOCAB_SYN_Q10`)
+### Question 25  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_VOCAB_SYN_Q10`)
 - **Sub-Domain Focus**: Vocabulary: Synonyms and Antonyms
 
 Directions (1-10): In each of the questions below, there is a word given in bold which is followed by five options. In each of the options, a pair of words is given which is either the pair of synonyms or antonyms or synonym & antonym of the word given in bold. Choose that pair as your answer.
@@ -1605,7 +2130,12 @@ Q10. JADED
 - None of the Above
 
 
-### Question 26 (ID: `SEC0405_ENG_SESS_Q01`)
+### Question 26  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q01`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 Directions (1-8): Read the following passage and answer the following questions based on the given passage. Some of the words are highlighted which would help you to answer some of the questions given.
@@ -1623,7 +2153,12 @@ Q71. As per the passage given above, how has India managed to amplify its democr
 - None of (i), (ii), (iii)
 
 
-### Question 27 (ID: `SEC0405_ENG_SESS_Q02`)
+### Question 27  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q02`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 . According to the passage given above, what has been the primary reasonability of the Election Commissions?
@@ -1635,7 +2170,12 @@ Q71. As per the passage given above, how has India managed to amplify its democr
 - none of these
 
 
-### Question 28 (ID: `SEC0405_ENG_SESS_Q03`)
+### Question 28  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q03`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 What is the tone used by author in the italicized statement (i) in the passage given above?
@@ -1647,7 +2187,12 @@ What is the tone used by author in the italicized statement (i) in the passage g
 - grandiose
 
 
-### Question 29 (ID: `SEC0405_ENG_SESS_Q04`)
+### Question 29  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q04`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 How can the upcoming general elections be “more than an exercise to elect new government”?
@@ -1659,7 +2204,12 @@ How can the upcoming general elections be “more than an exercise to elect new 
 - both (a) & (c)
 
 
-### Question 30 (ID: `SEC0405_ENG_SESS_Q05`)
+### Question 30  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q05`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 Which of the following statements is true in context of the information available in the above passage ?
@@ -1671,7 +2221,12 @@ Which of the following statements is true in context of the information availabl
 - All are incorrect
 
 
-### Question 31 (ID: `SEC0405_ENG_SESS_Q06`)
+### Question 31  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q06`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 Which of the following can be the most appropriate title for the passage given above?
@@ -1683,7 +2238,12 @@ Which of the following can be the most appropriate title for the passage given a
 - All are correct
 
 
-### Question 32 (ID: `SEC0405_ENG_SESS_Q07`)
+### Question 32  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q07`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 How are the opponents of Modi government trying to create possibilities of their further survival in politics?
@@ -1695,7 +2255,12 @@ How are the opponents of Modi government trying to create possibilities of their
 - none of these
 
 
-### Question 33 (ID: `SEC0405_ENG_SESS_Q08`)
+### Question 33  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q08`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 Which of the following word is most similar to ADEQUATE, as highlighted in the above passage?
@@ -1707,7 +2272,12 @@ Which of the following word is most similar to ADEQUATE, as highlighted in the a
 - meagre
 
 
-### Question 34 (ID: `SEC0405_ENG_SESS_Q09`)
+### Question 34  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q09`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 Directions (9-15): Read each sentence to find out if there is any error in it. The error, if any will be in one part of the sentence. The number of that part is the answer if there is no error, the answer is (E).
@@ -1720,7 +2290,12 @@ Q9. The Indian economy has been (A)/ in doldrums, exhibiting (B)/ slackened grow
 - No Error
 
 
-### Question 35 (ID: `SEC0405_ENG_SESS_Q10`)
+### Question 35  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q10`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 In the world of climate science, (A)/models come under particularly (B)/ intense scrutiny, with some skeptics (C)/ dismissing them entirely. (D)/ No Error (E)
@@ -1732,7 +2307,12 @@ In the world of climate science, (A)/models come under particularly (B)/ intense
 - No Error
 
 
-### Question 36 (ID: `SEC0405_ENG_SESS_Q11`)
+### Question 36  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q11`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 District Collector Divya (A)/ Devarajan urged Adivasis(B)/ to excel with academics and (C)/ to secure governments jobs. (D)/ No Error (E)
@@ -1744,7 +2324,12 @@ District Collector Divya (A)/ Devarajan urged Adivasis(B)/ to excel with academi
 - No Error
 
 
-### Question 37 (ID: `SEC0405_ENG_SESS_Q12`)
+### Question 37  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q12`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 White might show scuffs very easily (A)/ than a darker color, so white says (B)/that you're committed to keeping (C)/ your phone looking brand new. (D)/ No Error (E)
@@ -1756,7 +2341,12 @@ White might show scuffs very easily (A)/ than a darker color, so white says (B)/
 - No Error
 
 
-### Question 38 (ID: `SEC0405_ENG_SESS_Q13`)
+### Question 38  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q13`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 One of the world’s most (A)/legendary band U2 is (B)/bringing its Joshua (C)/ Tree tour to India (D)/ No Error (E)
@@ -1768,7 +2358,12 @@ One of the world’s most (A)/legendary band U2 is (B)/bringing its Joshua (C)/ 
 - No Error
 
 
-### Question 39 (ID: `SEC0405_ENG_SESS_Q14`)
+### Question 39  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q14`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 In her compositions, Siobhan(A)/ also attempts to free herself with the(B)/ constraints of traditional (C)/perspective and horizon lines. (D)/ No Error (E)
@@ -1780,7 +2375,12 @@ In her compositions, Siobhan(A)/ also attempts to free herself with the(B)/ cons
 - No Error
 
 
-### Question 40 (ID: `SEC0405_ENG_SESS_Q15`)
+### Question 40  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q15`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 Workers in the services sector (A)/ comprised of 57.8 percent of the (B)/ total employed in July 2019, the (C)/largest proportion of the employed population. (D)/ No Error (E)
@@ -1842,7 +2442,12 @@ Workers in the services sector (A)/ comprised of 57.8 percent of the (B)/ total 
 ## Official Simulation Exam 04
 **Section 3: Verbal Ability (40 Questions | 35 Minutes)**
 
-### Question 01 (ID: `SEC0405_ENG_SESS_Q16`)
+### Question 01  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q16`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 Directions (16-20): In each of the following sentences, there is a blank space. Below each sentence, there are five words out of which one can be used to fill the blank to make the sentence grammatically and coherently correct. Find the most appropriate word that fit into the blank contextually.
@@ -1855,7 +2460,12 @@ Q16. The boat tilted and _____________ within minutes and only those wearing lif
 - imposed
 
 
-### Question 02 (ID: `SEC0405_ENG_SESS_Q17`)
+### Question 02  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q17`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 The government believes that the present slowdown, marked by five ____________ quarters of dropping growth, is merely a cyclical one.
@@ -1867,7 +2477,12 @@ The government believes that the present slowdown, marked by five ____________ q
 - spacious
 
 
-### Question 03 (ID: `SEC0405_ENG_SESS_Q18`)
+### Question 03  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q18`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 Mr. Trump’s decision to call off the strike and the new red line he set for Iran could create an opportunity for such a __________.
@@ -1879,7 +2494,12 @@ Mr. Trump’s decision to call off the strike and the new red line he set for Ir
 - desalination
 
 
-### Question 04 (ID: `SEC0405_ENG_SESS_Q19`)
+### Question 04  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q19`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 Ending the culture of __________ that allows government vehicles and VIPs to ignore road rules will encourage the average citizen to follow them.
@@ -1891,7 +2511,12 @@ Ending the culture of __________ that allows government vehicles and VIPs to ign
 - efficiency
 
 
-### Question 05 (ID: `SEC0405_ENG_SESS_Q20`)
+### Question 05  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q20`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 In the past year alone, India has ______________ defence deals worth about $14.5 billion from Russia.
@@ -1903,7 +2528,12 @@ In the past year alone, India has ______________ defence deals worth about $14.5
 - globalised
 
 
-### Question 06 (ID: `SEC0405_ENG_SESS_Q21`)
+### Question 06  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q21`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 Directions (21-25): Given sentences are not in their exact position. Rearrange them to make a coherent paragraph and then answer the questions given below.
@@ -1922,7 +2552,12 @@ Q21. Which of the following should be the first sentence after rearrangement?
 - C
 
 
-### Question 07 (ID: `SEC0405_ENG_SESS_Q22`)
+### Question 07  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q22`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 Which of the following should be the third sentence after rearrangement?
@@ -1934,7 +2569,12 @@ Which of the following should be the third sentence after rearrangement?
 - C
 
 
-### Question 08 (ID: `SEC0405_ENG_SESS_Q23`)
+### Question 08  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q23`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 Which one of the following is formed with two consecutive statements after the rearrangement?
@@ -1946,7 +2586,12 @@ Which one of the following is formed with two consecutive statements after the r
 - A-B
 
 
-### Question 09 (ID: `SEC0405_ENG_SESS_Q24`)
+### Question 09  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q24`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 Which of the following should be the last sentence after rearrangement?
@@ -1958,7 +2603,12 @@ Which of the following should be the last sentence after rearrangement?
 - E
 
 
-### Question 10 (ID: `SEC0405_ENG_SESS_Q25`)
+### Question 10  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q25`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 Which of the following should be the second sentence after rearrangement?
@@ -1970,7 +2620,12 @@ Which of the following should be the second sentence after rearrangement?
 - E
 
 
-### Question 11 (ID: `SEC0405_ENG_SESS_Q26`)
+### Question 11  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q26`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 Directions (26-30): In the following questions, each sentence consists of four highlighted word. Choose the option reflecting the word which is either misspelt or grammatically incorrect. If all the highlighted words are correct, choose option (E) i.e. “all are correct” as your answer choice.
@@ -1983,7 +2638,12 @@ Q26. Mr. Bolsonaro’s critics say that his economic and environmental policies 
 - all are correct
 
 
-### Question 12 (ID: `SEC0405_ENG_SESS_Q27`)
+### Question 12  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q27`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 The yuan’s devaluation is itself a part of the complex trade war that Beijing is now wagging with the United States whose President has labelled China a currency manipulator.
@@ -1995,7 +2655,12 @@ The yuan’s devaluation is itself a part of the complex trade war that Beijing 
 - all are correct
 
 
-### Question 13 (ID: `SEC0405_ENG_SESS_Q28`)
+### Question 13  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q28`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 The investment in the Far East, which is often neglected given that Russia is seen as a European power in the post-Soviet era, also underlines India’s desire to draw Russia into its strategic forage in the Indo-Pacific.
@@ -2007,7 +2672,12 @@ The investment in the Far East, which is often neglected given that Russia is se
 - all are correct
 
 
-### Question 14 (ID: `SEC0405_ENG_SESS_Q29`)
+### Question 14  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q29`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 The threat from vaccine hesitancy, which is defined as the “reluctance or refusal to vaccinate despite the available of vaccines”, only appears to have grown more dangerous to public health.
@@ -2019,7 +2689,12 @@ The threat from vaccine hesitancy, which is defined as the “reluctance or refu
 - all are correct
 
 
-### Question 15 (ID: `SEC0405_ENG_SESS_Q30`)
+### Question 15  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q30`)
 - **Sub-Domain Focus**: English Grammar & Verbal Comprehension Session
 
 The immediate impact of last week’s drone attacks on the Abqaiq oil processing facility has been the suspension of more than half of Saudi Arabia’s daily crude oil output, thereby affecting contribution to global supply.
@@ -2031,7 +2706,12 @@ The immediate impact of last week’s drone attacks on the Abqaiq oil processing
 - all are correct
 
 
-### Question 16 (ID: `SEC0405_SUPER30_Q01`)
+### Question 16  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SUPER30_Q01`)
 - **Sub-Domain Focus**: Sentence Completion: Diction & Phrasal Verbs
 
 Pick out the most effective word from the given options to fill in the blank meaningfully:
@@ -2044,7 +2724,12 @@ The waiter hasn't brought the chocolate shake___I've been here an hour already.
 - (d) till
 
 
-### Question 17 (ID: `SEC0405_SUPER30_Q02`)
+### Question 17  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SUPER30_Q02`)
 - **Sub-Domain Focus**: Sentence Completion: Diction & Phrasal Verbs
 
 Pick out the most effective word from the given options to fill in the blank meaningfully:
@@ -2057,7 +2742,12 @@ She was so exhausted that she could ___keep her eyes open during the lecture.
 - (d) almost
 
 
-### Question 18 (ID: `SEC0405_SUPER30_Q03`)
+### Question 18  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SUPER30_Q03`)
 - **Sub-Domain Focus**: Sentence Completion: Diction & Phrasal Verbs
 
 Pick out the most effective word from the given options to fill in the blank meaningfully:
@@ -2070,7 +2760,12 @@ The committee decided to ___the proposal until further market research could be 
 - (d) execute
 
 
-### Question 19 (ID: `SEC0405_SUPER30_Q04`)
+### Question 19  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SUPER30_Q04`)
 - **Sub-Domain Focus**: Sentence Completion: Diction & Phrasal Verbs
 
 Pick out the most effective word from the given options to fill in the blank meaningfully:
@@ -2083,7 +2778,12 @@ Despite the severe financial crisis, the startup managed to ___and achieve profi
 - (d) give in
 
 
-### Question 20 (ID: `SEC0405_SUPER30_Q05`)
+### Question 20  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_SUPER30_Q05`)
 - **Sub-Domain Focus**: Sentence Completion: Diction & Phrasal Verbs
 
 Pick out the most effective word from the given options to fill in the blank meaningfully:
@@ -2096,7 +2796,12 @@ His arguments were so ___that even his fiercest critics had to concede the point
 - (d) redundant
 
 
-### Question 21 (ID: `SEC0405_SUPER30_Q06`)
+### Question 21  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_SUPER30_Q06`)
 - **Sub-Domain Focus**: Sentence Completion: Diction & Phrasal Verbs
 
 Pick out the most effective word from the given options to fill in the blank meaningfully:
@@ -2109,7 +2814,12 @@ The CEO praised the engineering team for their ___efforts in delivering the ente
 - (d) sporadic
 
 
-### Question 22 (ID: `SEC0405_SUPER30_Q07`)
+### Question 22  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_SUPER30_Q07`)
 - **Sub-Domain Focus**: Sentence Completion: Diction & Phrasal Verbs
 
 Pick out the most effective word from the given options to fill in the blank meaningfully:
@@ -2122,7 +2832,12 @@ She has an uncanny ability to ___complex algorithmic concepts into easily unders
 - (d) convolute
 
 
-### Question 23 (ID: `SEC0405_SUPER30_Q08`)
+### Question 23  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_SUPER30_Q08`)
 - **Sub-Domain Focus**: Sentence Completion: Diction & Phrasal Verbs
 
 Pick out the most effective word from the given options to fill in the blank meaningfully:
@@ -2135,7 +2850,12 @@ The board members expressed deep ___regarding the proposed merger, citing potent
 - (d) approval
 
 
-### Question 24 (ID: `SEC0405_PYQ50_Q01`)
+### Question 24  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q01`)
 - **Sub-Domain Focus**: Reading Comprehension: Central Idea
 
 What is the main idea of the passage?
@@ -2145,7 +2865,12 @@ What is the main idea of the passage?
 - c) AI offers significant benefits but also presents serious challenges. d) AI's
 
 
-### Question 25 (ID: `SEC0405_PYQ50_Q02`)
+### Question 25  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q02`)
 - **Sub-Domain Focus**: Reading Comprehension: Detail Recall
 
 According to the passage, what is a major concern related to AI in the
@@ -2157,7 +2882,12 @@ workforce?
 - d) Workers becoming too reliant on AI
 
 
-### Question 26 (ID: `SEC0405_PYQ50_Q03`)
+### Question 26  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q03`)
 - **Sub-Domain Focus**: Reading Comprehension: Inference
 
 What does the passage suggest about algorithmic bias?
@@ -2168,7 +2898,12 @@ What does the passage suggest about algorithmic bias?
 - d) It only affects the finance industry.
 
 
-### Question 27 (ID: `SEC0405_PYQ50_Q04`)
+### Question 27  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q04`)
 - **Sub-Domain Focus**: Reading Comprehension: Direct Factual
 
 The phrase "double-edged sword" is used to indicate that AI is:
@@ -2179,7 +2914,12 @@ The phrase "double-edged sword" is used to indicate that AI is:
 - d) Something that has both positive and negative effects
 
 
-### Question 28 (ID: `SEC0405_PYQ50_Q05`)
+### Question 28  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q05`)
 - **Sub-Domain Focus**: Reading Comprehension: Author's Tone
 
 What does the author propose as a necessary action for the future of
@@ -2191,7 +2931,12 @@ AI?
 - d) Limiting AI training to unbiased data only
 
 
-### Question 29 (ID: `SEC0405_PYQ50_Q06`)
+### Question 29  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q06`)
 - **Sub-Domain Focus**: Reading Comprehension: Main Theme
 
 What is the primary purpose of this passage?
@@ -2202,7 +2947,12 @@ What is the primary purpose of this passage?
 - d) To discuss the economic challenges of sustainability
 
 
-### Question 30 (ID: `SEC0405_PYQ50_Q07`)
+### Question 30  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q07`)
 - **Sub-Domain Focus**: Reading Comprehension: Factual Recall
 
 Which of the following is NOT listed as a pillar of sustainability?
@@ -2213,7 +2963,12 @@ Which of the following is NOT listed as a pillar of sustainability?
 - d) Economic Viability
 
 
-### Question 31 (ID: `SEC0405_PYQ50_Q08`)
+### Question 31  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q08`)
 - **Sub-Domain Focus**: Reading Comprehension: Inference
 
 The author believes that the common understanding of sustainability
@@ -2225,7 +2980,12 @@ is often:
 - d) Narrowly focused on the environment
 
 
-### Question 32 (ID: `SEC0405_PYQ50_Q09`)
+### Question 32  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q09`)
 - **Sub-Domain Focus**: Reading Comprehension: Vocabulary in Context
 
 According to the passage, what does "social equity" in the context of
@@ -2237,7 +2997,12 @@ sustainability imply?
 - d) Societies prioritize social events.
 
 
-### Question 33 (ID: `SEC0405_PYQ50_Q10`)
+### Question 33  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q10`)
 - **Sub-Domain Focus**: Reading Comprehension: Tone Analysis
 
 What is the author's vision of a "truly sustainable solution"?
@@ -2248,7 +3013,12 @@ What is the author's vision of a "truly sustainable solution"?
 - d) An approach that stops all forms of resource consumption.
 
 
-### Question 34 (ID: `SEC0405_PYQ50_Q11`)
+### Question 34  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q11`)
 - **Sub-Domain Focus**: Sentence Correction: Parallelism
 
 (A) Each of the employees / (B) were given a bonus / (C) for their hard
@@ -2260,7 +3030,12 @@ work. / (D) No error.
 - d) Option D
 
 
-### Question 35 (ID: `SEC0405_PYQ50_Q12`)
+### Question 35  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q12`)
 - **Sub-Domain Focus**: Sentence Correction: Subject-Verb Agreement
 
 (A) The manager was angry at him / (B) for not finishing the work / (C) on
@@ -2272,7 +3047,12 @@ time. / (D) No error.
 - d) Option D
 
 
-### Question 36 (ID: `SEC0405_PYQ50_Q13`)
+### Question 36  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q13`)
 - **Sub-Domain Focus**: Sentence Correction: Punctuation & Conjunctions
 
 (A) If I was you, / (B) I would not accept / (C) this offer. / (D) No error.
@@ -2283,7 +3063,12 @@ time. / (D) No error.
 - d) Option D
 
 
-### Question 37 (ID: `SEC0405_PYQ50_Q14`)
+### Question 37  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q14`)
 - **Sub-Domain Focus**: Sentence Correction: Subject-Verb Agreement
 
 (A) The sceneries of Kashmir / (B) are more charming / (C) than that of
@@ -2295,7 +3080,12 @@ Darjeeling. / (D) No error.
 - d) Option D
 
 
-### Question 38 (ID: `SEC0405_PYQ50_Q15`)
+### Question 38  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q15`)
 - **Sub-Domain Focus**: Sentence Correction: Subjunctive Mood
 
 (A) The company has decided / (B) to invest into / (C) the new technology
@@ -2307,7 +3097,12 @@ sector. / (D) No error.
 - d) Option D
 
 
-### Question 39 (ID: `SEC0405_PYQ50_Q16`)
+### Question 39  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q16`)
 - **Sub-Domain Focus**: Sentence Correction: Degrees of Comparison
 
 (A) Neither my colleague nor my boss / (B) are aware of / (C) the
@@ -2319,7 +3114,12 @@ situation. / (D) No error.
 - d) Option D
 
 
-### Question 40 (ID: `SEC0405_PYQ50_Q17`)
+### Question 40  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q17`)
 - **Sub-Domain Focus**: Sentence Correction: Logical Comparison
 
 (A) He is one of the most intelligent boys / (B) that has ever / (C) studied
@@ -2381,7 +3181,12 @@ in this school. / (D) No error.
 ## Official Simulation Exam 05
 **Section 3: Verbal Ability (40 Questions | 35 Minutes)**
 
-### Question 01 (ID: `SEC0405_PYQ50_Q18`)
+### Question 01  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q18`)
 - **Sub-Domain Focus**: Sentence Correction: Inverted Syntax
 
 (A) Despite of his best efforts, / (B) he could not / (C) clear the
@@ -2393,7 +3198,12 @@ examination. / (D) No error.
 - d) Option D
 
 
-### Question 02 (ID: `SEC0405_PYQ50_Q19`)
+### Question 02  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q19`)
 - **Sub-Domain Focus**: Sentence Correction: Infinitive Placement
 
 (A) I have been working on this project / (B) since four / (C) hours now. /
@@ -2405,7 +3215,12 @@ examination. / (D) No error.
 - d) Option D
 
 
-### Question 03 (ID: `SEC0405_PYQ50_Q20`)
+### Question 03  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q20`)
 - **Sub-Domain Focus**: Sentence Correction: SVA Partitive
 
 (A) The reason I couldn't attend the meeting / (B) was because I / (C) had
@@ -2423,7 +3238,12 @@ alternative to the underlined part to improve the sentence.
 - d) Option D
 
 
-### Question 04 (ID: `SEC0405_PYQ50_Q21`)
+### Question 04  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q21`)
 - **Sub-Domain Focus**: Sentence Completion: Prepositional Idioms
 
 The data collected from the survey are not reliable.
@@ -2434,7 +3254,12 @@ The data collected from the survey are not reliable.
 - d) No correction required
 
 
-### Question 05 (ID: `SEC0405_PYQ50_Q22`)
+### Question 05  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q22`)
 - **Sub-Domain Focus**: Sentence Completion: Prepositions
 
 Had I known about the traffic, I would have left earlier.
@@ -2445,7 +3270,12 @@ Had I known about the traffic, I would have left earlier.
 - d) No correction required
 
 
-### Question 06 (ID: `SEC0405_PYQ50_Q23`)
+### Question 06  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q23`)
 - **Sub-Domain Focus**: Sentence Completion: Prepositions
 
 He is not only a great speaker but also a talented writer.
@@ -2456,7 +3286,12 @@ He is not only a great speaker but also a talented writer.
 - d) No correction required
 
 
-### Question 07 (ID: `SEC0405_PYQ50_Q24`)
+### Question 07  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q24`)
 - **Sub-Domain Focus**: Sentence Completion: Phrasal Idioms
 
 Being a rainy day, we decided to stay indoors.
@@ -2467,7 +3302,12 @@ Being a rainy day, we decided to stay indoors.
 - d) No correction required
 
 
-### Question 08 (ID: `SEC0405_PYQ50_Q25`)
+### Question 08  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q25`)
 - **Sub-Domain Focus**: Sentence Completion: Concessive Connectors
 
 I am looking forward to meet you next week.
@@ -2478,7 +3318,12 @@ I am looking forward to meet you next week.
 - d) No correction required
 
 
-### Question 09 (ID: `SEC0405_PYQ50_Q26`)
+### Question 09  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q26`)
 - **Sub-Domain Focus**: Sentence Completion: Subordinate Conjunctions
 
 The two brothers often quarrel between themselves.
@@ -2489,7 +3334,12 @@ The two brothers often quarrel between themselves.
 - d) No correction required
 
 
-### Question 10 (ID: `SEC0405_PYQ50_Q27`)
+### Question 10  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q27`)
 - **Sub-Domain Focus**: Sentence Completion: Purpose Clauses
 
 If you would have practiced more, you would have won the match.
@@ -2500,7 +3350,12 @@ If you would have practiced more, you would have won the match.
 - d) No correction required
 
 
-### Question 11 (ID: `SEC0405_PYQ50_Q28`)
+### Question 11  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q28`)
 - **Sub-Domain Focus**: Sentence Completion: Preposition Choice
 
 No sooner did the bell ring when the students rushed out.
@@ -2511,7 +3366,12 @@ No sooner did the bell ring when the students rushed out.
 - d) No correction required
 
 
-### Question 12 (ID: `SEC0405_PYQ50_Q29`)
+### Question 12  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q29`)
 - **Sub-Domain Focus**: Sentence Completion: Causal Connectors
 
 She is more taller than her sister.
@@ -2522,7 +3382,12 @@ She is more taller than her sister.
 - d) No correction required
 
 
-### Question 13 (ID: `SEC0405_PYQ50_Q30`)
+### Question 13  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q30`)
 - **Sub-Domain Focus**: Sentence Completion: Correlative Conjunctions
 
 The committee have submitted its report.
@@ -2532,7 +3397,12 @@ The committee have submitted its report.
 - d) No correction required
 
 
-### Question 14 (ID: `SEC0405_PYQ50_Q31`)
+### Question 14  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q31`)
 - **Sub-Domain Focus**: Vocabulary: Synonyms
 
 The CEO's speech was so ______ that everyone was motivated to work
@@ -2544,7 +3414,12 @@ harder.
 - d) mundane
 
 
-### Question 15 (ID: `SEC0405_PYQ50_Q32`)
+### Question 15  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q32`)
 - **Sub-Domain Focus**: Vocabulary: Antonyms
 
 Despite his initial _______, he grew to love the city's vibrant culture.
@@ -2555,7 +3430,12 @@ Despite his initial _______, he grew to love the city's vibrant culture.
 - d) contentment
 
 
-### Question 16 (ID: `SEC0405_PYQ50_Q33`)
+### Question 16  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q33`)
 - **Sub-Domain Focus**: Vocabulary: Synonyms
 
 The new software is designed to _______ the workflow by automating
@@ -2567,7 +3447,12 @@ repetitive tasks.
 - d) obstruct
 
 
-### Question 17 (ID: `SEC0405_PYQ50_Q34`)
+### Question 17  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q34`)
 - **Sub-Domain Focus**: Vocabulary: Antonyms
 
 His ______ nature made him an excellent diplomat, as he was always able
@@ -2579,7 +3464,12 @@ to find common ground.
 - d) arrogant
 
 
-### Question 18 (ID: `SEC0405_PYQ50_Q35`)
+### Question 18  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q35`)
 - **Sub-Domain Focus**: Vocabulary: Synonyms
 
 The evidence was _______; there was no doubt that he was guilty.
@@ -2590,7 +3480,12 @@ The evidence was _______; there was no doubt that he was guilty.
 - d) debatable
 
 
-### Question 19 (ID: `SEC0405_PYQ50_Q36`)
+### Question 19  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q36`)
 - **Sub-Domain Focus**: Vocabulary: Antonyms
 
 The company had to ______ its expansion plans due to the economic
@@ -2602,7 +3497,12 @@ downturn.
 - d) broadcast
 
 
-### Question 20 (ID: `SEC0405_PYQ50_Q37`)
+### Question 20  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q37`)
 - **Sub-Domain Focus**: Vocabulary: Synonyms
 
 She has a _______ for details, which makes her an excellent editor.
@@ -2613,7 +3513,12 @@ She has a _______ for details, which makes her an excellent editor.
 - d) distaste
 
 
-### Question 21 (ID: `SEC0405_PYQ50_Q38`)
+### Question 21  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q38`)
 - **Sub-Domain Focus**: Vocabulary: Antonyms
 
 The ancient ruins were so well ______ that tourists could easily imagine
@@ -2625,7 +3530,12 @@ life in the past.
 - d) fabricated
 
 
-### Question 22 (ID: `SEC0405_PYQ50_Q39`)
+### Question 22  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q39`)
 - **Sub-Domain Focus**: Vocabulary: Synonyms
 
 The politician's speech was filled with ______ promises that were unlikely
@@ -2637,7 +3547,12 @@ to be fulfilled.
 - d) concrete
 
 
-### Question 23 (ID: `SEC0405_PYQ50_Q40`)
+### Question 23  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q40`)
 - **Sub-Domain Focus**: Vocabulary: Antonyms
 
 The artist was known for his ______ use of color, often combining bright
@@ -2649,7 +3564,12 @@ and unexpected shades.
 - d) muted
 
 
-### Question 24 (ID: `SEC0405_PYQ50_Q41`)
+### Question 24  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q41`)
 - **Sub-Domain Focus**: Para Jumbles: Sentence Ordering
 
 A. However, this convenience comes with a risk to personal data security. 
@@ -2666,7 +3586,12 @@ information.
 - d) CBDA
 
 
-### Question 25 (ID: `SEC0405_PYQ50_Q42`)
+### Question 25  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q42`)
 - **Sub-Domain Focus**: Para Jumbles: Sentence Ordering
 
 A. This discipline helps in developing focus and mental clarity. 
@@ -2680,7 +3605,12 @@ D. Even a few minutes of daily practice can have a significant positive impact.
 - d) CDAB
 
 
-### Question 26 (ID: `SEC0405_PYQ50_Q43`)
+### Question 26  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q43`)
 - **Sub-Domain Focus**: Para Jumbles: Sentence Ordering
 
 A. As a result, they can offer lower prices to consumers. 
@@ -2695,7 +3625,12 @@ D. This lack of overhead costs gives them a major financial advantage.
 - d) CDAB
 
 
-### Question 27 (ID: `SEC0405_PYQ50_Q44`)
+### Question 27  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q44`)
 - **Sub-Domain Focus**: Para Jumbles: Sentence Ordering
 
 A. It is the process of converting waste materials into new
@@ -2712,7 +3647,12 @@ glass.
 - d) BADC
 
 
-### Question 28 (ID: `SEC0405_PYQ50_Q45`)
+### Question 28  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q45`)
 - **Sub-Domain Focus**: Para Jumbles: Sentence Ordering
 
 A. Effective time management begins with setting clear
@@ -2730,7 +3670,12 @@ and make necessary adjustments.
 - d) BACD
 
 
-### Question 29 (ID: `SEC0405_PYQ50_Q46`)
+### Question 29  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q46`)
 - **Sub-Domain Focus**: Verbal Analogies: Instrument to Metric
 
 Analogy: ODOMETER : DISTANCE
@@ -2741,7 +3686,12 @@ Analogy: ODOMETER : DISTANCE
 - d) All of the above
 
 
-### Question 30 (ID: `SEC0405_PYQ50_Q47`)
+### Question 30  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q47`)
 - **Sub-Domain Focus**: Verbal Analogies: Profession to Workplace
 
 Analogy: DOCTOR : HOSPITAL
@@ -2752,7 +3702,12 @@ Analogy: DOCTOR : HOSPITAL
 - d) All of the above
 
 
-### Question 31 (ID: `SEC0405_PYQ50_Q48`)
+### Question 31  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q48`)
 - **Sub-Domain Focus**: One-Word Substitution: Terminology
 
 One-Word Substitution: A person who is new to a profession or activity.
@@ -2763,7 +3718,12 @@ One-Word Substitution: A person who is new to a profession or activity.
 - d) Connoisseur
 
 
-### Question 32 (ID: `SEC0405_PYQ50_Q49`)
+### Question 32  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q49`)
 - **Sub-Domain Focus**: One-Word Substitution: Terminology
 
 One-Word Substitution: A place where government records are kept.
@@ -2774,7 +3734,12 @@ One-Word Substitution: A place where government records are kept.
 - d) Hangar
 
 
-### Question 33 (ID: `SEC0405_PYQ50_Q50`)
+### Question 33  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `SEC0405_PYQ50_Q50`)
 - **Sub-Domain Focus**: One-Word Substitution: Terminology
 
 One-Word Substitution: Something that is certain to happen.
@@ -2785,7 +3750,12 @@ One-Word Substitution: Something that is certain to happen.
 - d) Unlikely
 
 
-### Question 34 (ID: `OS4U_Topic 01_0`)
+### Question 34  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 01_0`)
 - **Sub-Domain Focus**: Reading Comprehension
 
 What is the foundation of progress in the world of science, according to the passage?
@@ -2796,7 +3766,12 @@ What is the foundation of progress in the world of science, according to the pas
 - D
 
 
-### Question 35 (ID: `OS4U_Topic 01_0`)
+### Question 35  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 01_0`)
 - **Sub-Domain Focus**: Reading Comprehension
 
 What has made large-scale data collection more feasible?
@@ -2807,7 +3782,12 @@ What has made large-scale data collection more feasible?
 - D
 
 
-### Question 36 (ID: `OS4U_Topic 01_0`)
+### Question 36  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 01_0`)
 - **Sub-Domain Focus**: Reading Comprehension
 
 What challenge arises from the large volume of data collected?
@@ -2818,7 +3798,12 @@ What challenge arises from the large volume of data collected?
 - D
 
 
-### Question 37 (ID: `OS4U_Topic 01_0`)
+### Question 37  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 01_0`)
 - **Sub-Domain Focus**: Reading Comprehension
 
 What primarily causes global warming?
@@ -2829,7 +3814,12 @@ What primarily causes global warming?
 - D
 
 
-### Question 38 (ID: `OS4U_Topic 01_0`)
+### Question 38  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 01_0`)
 - **Sub-Domain Focus**: Reading Comprehension
 
 Which human activities have contributed significantly to global warming?
@@ -2840,7 +3830,12 @@ Which human activities have contributed significantly to global warming?
 - D
 
 
-### Question 39 (ID: `OS4U_Topic 01_0`)
+### Question 39  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 01_0`)
 - **Sub-Domain Focus**: Reading Comprehension
 
 Which of the following is an impact of global warming mentioned in the passage?
@@ -2851,7 +3846,12 @@ Which of the following is an impact of global warming mentioned in the passage?
 - D
 
 
-### Question 40 (ID: `OS4U_Topic 01_0`)
+### Question 40  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (ID: `OS4U_Topic 01_0`)
 - **Sub-Domain Focus**: Reading Comprehension
 
 What is a key factor in effective communication?

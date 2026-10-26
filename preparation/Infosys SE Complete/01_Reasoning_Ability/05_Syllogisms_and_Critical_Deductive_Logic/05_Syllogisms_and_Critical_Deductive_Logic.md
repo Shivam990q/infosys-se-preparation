@@ -6,7 +6,12 @@
 
 ---
 
-### Problem 01: Critical Reasoning: Flaw in Argument (`SEC01_MOD08_Q01`)
+### Problem 01: Critical Reasoning: Flaw in Argument (`SEC01_MOD08_Q01`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `Critical Reasoning Practice Sheet.pdf`  
 **Problem Statement:**
 
@@ -37,7 +42,12 @@ Therefore, Option B most seriously weakens the argument.
 
 ---
 
-### Problem 02: Critical Reasoning: Dialogue Analysis (`SEC01_MOD08_Q02`)
+### Problem 02: Critical Reasoning: Dialogue Analysis (`SEC01_MOD08_Q02`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `Critical Reasoning Practice Sheet.pdf`  
 **Problem Statement:**
 
@@ -68,7 +78,12 @@ Therefore, Option D accurately describes Barbie's counter-argument.
 
 ---
 
-### Problem 03: Syllogisms with Possibility (`SEC01_MOD08_Q03`)
+### Problem 03: Syllogisms with Possibility (`SEC01_MOD08_Q03`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `Syllogism Questions 2.pdf`  
 **Problem Statement:**
 
@@ -106,7 +121,12 @@ Since both Conclusion I and Conclusion II follow, the answer is E.
 
 ---
 
-### Problem 04: Syllogisms with Possibility (`SEC01_MOD08_Q04`)
+### Problem 04: Syllogisms with Possibility (`SEC01_MOD08_Q04`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `Syllogism Questions 2.pdf`  
 **Problem Statement:**
 
@@ -144,7 +164,12 @@ Since both conclusions follow as possibilities, the answer is E.
 
 ---
 
-### Problem 05: Syllogisms Complementary Pairs (`SEC01_MOD08_Q05`)
+### Problem 05: Syllogisms Complementary Pairs (`SEC01_MOD08_Q05`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `Syllogism Questions 2.pdf`  
 **Problem Statement:**
 
@@ -185,7 +210,12 @@ Therefore, either conclusion I or conclusion II must follow (Option C).
 
 ---
 
-### Problem 06: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q01`)
+### Problem 06: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q01`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -223,7 +253,12 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 07: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q02`)
+### Problem 07: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q02`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -259,7 +294,12 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 08: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q03`)
+### Problem 08: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q03`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -295,7 +335,12 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 09: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q04`)
+### Problem 09: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q04`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -331,7 +376,12 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 10: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q05`)
+### Problem 10: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q05`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -367,7 +417,12 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 11: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q06`)
+### Problem 11: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q06`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -405,7 +460,12 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 12: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q07`)
+### Problem 12: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q07`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -440,7 +500,12 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 13: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q08`)
+### Problem 13: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q08`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -475,7 +540,12 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 14: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q09`)
+### Problem 14: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q09`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -510,7 +580,12 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 15: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q10`)
+### Problem 15: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q10`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -545,7 +620,12 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 16: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q11`)
+### Problem 16: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q11`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -583,7 +663,12 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 17: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q12`)
+### Problem 17: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q12`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -619,7 +704,12 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 18: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q13`)
+### Problem 18: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q13`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -655,7 +745,12 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 19: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q14`)
+### Problem 19: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q14`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -691,7 +786,12 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 20: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q15`)
+### Problem 20: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q15`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -727,7 +827,12 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 21: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q01`)
+### Problem 21: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q01`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `Syllogisms 03_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -760,7 +865,12 @@ This is the solution
 
 ---
 
-### Problem 22: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q02`)
+### Problem 22: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q02`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `Syllogisms 03_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -789,7 +899,12 @@ This is the solution
 
 ---
 
-### Problem 23: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q03`)
+### Problem 23: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q03`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `Syllogisms 03_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -818,7 +933,12 @@ This is the solution
 
 ---
 
-### Problem 24: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q04`)
+### Problem 24: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q04`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `Syllogisms 03_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -849,7 +969,12 @@ This is the solution
 
 ---
 
-### Problem 25: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q05`)
+### Problem 25: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q05`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `Syllogisms 03_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -876,7 +1001,12 @@ This is the solution
 
 ---
 
-### Problem 26: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q06`)
+### Problem 26: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q06`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `Syllogisms 03_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -903,7 +1033,12 @@ This is the solution
 
 ---
 
-### Problem 27: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q07`)
+### Problem 27: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q07`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `Syllogisms 03_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -930,7 +1065,12 @@ This is the solution
 
 ---
 
-### Problem 28: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q08`)
+### Problem 28: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q08`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `Syllogisms 03_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -957,7 +1097,12 @@ This is the solution
 
 ---
 
-### Problem 29: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q09`)
+### Problem 29: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q09`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `Syllogisms 03_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -986,7 +1131,12 @@ This is the solution
 
 ---
 
-### Problem 30: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q10`)
+### Problem 30: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q10`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `Syllogisms 03_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1013,7 +1163,12 @@ This is the solution
 
 ---
 
-### Problem 31: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q11`)
+### Problem 31: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q11`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `Syllogisms 03_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1042,7 +1197,12 @@ This is the solution
 
 ---
 
-### Problem 32: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q12`)
+### Problem 32: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q12`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `Syllogisms 03_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1071,7 +1231,12 @@ This is the solution
 
 ---
 
-### Problem 33: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q13`)
+### Problem 33: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q13`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `Syllogisms 03_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1098,7 +1263,12 @@ This is the solution
 
 ---
 
-### Problem 34: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q14`)
+### Problem 34: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q14`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `Syllogisms 03_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1127,7 +1297,12 @@ This is the solution
 
 ---
 
-### Problem 35: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q15`)
+### Problem 35: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q15`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `Syllogisms 03_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1156,7 +1331,12 @@ This is the solution
 
 ---
 
-### Problem 36: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q01`)
+### Problem 36: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q01`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms Test 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1193,7 +1373,12 @@ Official solution from Syllogisms Topic Test 02. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 37: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q02`)
+### Problem 37: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q02`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms Test 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1228,7 +1413,12 @@ Official solution from Syllogisms Topic Test 02. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 38: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q03`)
+### Problem 38: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q03`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms Test 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1263,7 +1453,12 @@ Official solution from Syllogisms Topic Test 02. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 39: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q04`)
+### Problem 39: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q04`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms Test 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1298,7 +1493,12 @@ Official solution from Syllogisms Topic Test 02. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 40: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q05`)
+### Problem 40: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q05`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms Test 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1334,7 +1534,12 @@ Official solution from Syllogisms Topic Test 02. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 41: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q06`)
+### Problem 41: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q06`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms Test 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1372,7 +1577,12 @@ Official solution from Syllogisms Topic Test 02. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 42: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q07`)
+### Problem 42: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q07`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms Test 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1409,7 +1619,12 @@ Official solution from Syllogisms Topic Test 02. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 43: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q08`)
+### Problem 43: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q08`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms Test 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1447,7 +1662,12 @@ Official solution from Syllogisms Topic Test 02. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 44: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q09`)
+### Problem 44: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q09`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms Test 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1483,7 +1703,12 @@ Official solution from Syllogisms Topic Test 02. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 45: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q10`)
+### Problem 45: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q10`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms Test 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1520,7 +1745,12 @@ Official solution from Syllogisms Topic Test 02. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 46: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q11`)
+### Problem 46: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q11`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms Test 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1557,7 +1787,12 @@ Official solution from Syllogisms Topic Test 02. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 47: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q12`)
+### Problem 47: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q12`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms Test 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1593,7 +1828,12 @@ Official solution from Syllogisms Topic Test 02. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 48: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q13`)
+### Problem 48: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q13`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms Test 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1628,7 +1868,12 @@ Official solution from Syllogisms Topic Test 02. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 49: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q14`)
+### Problem 49: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q14`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms Test 02_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -1663,7 +1908,12 @@ Official solution from Syllogisms Topic Test 02. Symmetrical, rotational, or ded
 
 ---
 
-### Problem 50: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q15`)
+### Problem 50: Syllogistic Logic (`SEC01_TEST_SYLLOG_Q15`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `8 _ Critical Reasoning & Syllogism` | **Source Document:** `syllogisms Test 02_QUESTIONS.json`  
 **Problem Statement:**
 

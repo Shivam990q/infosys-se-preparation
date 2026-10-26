@@ -32,7 +32,12 @@ Below is the verified compendium of all critical reasoning and deductive verbal 
 ## Part 1: OnlineStudy4U Master Critical Reasoning Questions
 
 
-## Question 1: Identifying Logical Inferences
+## Question 1: Identifying Logical Inferences  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Question ID**: `INFY-SET1-18`  
 - **Figure**:
   ![Original Question Slide](../../images/mock2_slide_p12.png)  
@@ -57,7 +62,12 @@ $$\mathbf{\text{Verified Answer: (b) Plastic contributes to pollution.}}$$
 
 ---
 
-## Question 2: Logical Course of Action
+## Question 2: Logical Course of Action  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Question ID**: `INFY-SET1-19`  
 - **Figure**:
   ![Original Question Slide](../../images/mock2_slide_p13.png)  
@@ -81,7 +91,12 @@ $$\mathbf{\text{Verified Answer: (a) Encourage use of eco-friendly alternatives.
 
 ---
 
-## Question 3: Identifying Implicit Assumptions
+## Question 3: Identifying Implicit Assumptions  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Question ID**: `INFY-SET1-20`  
 - **Figure**:
   ![Original Question Slide](../../images/mock2_slide_p13.png)  
@@ -136,7 +151,12 @@ $$\mathbf{\text{Verified Answer: (a) Mobile phones distract students.}}$$
 
 ---
 
-## Question 4: Identifying Deductive Inferences
+## Question 4: Identifying Deductive Inferences  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Question ID**: `INFY-SET2-18`  
 - **Figure**:
   ![Original Question Slide](../../images/mock2_slide_p25.png)  
@@ -160,7 +180,12 @@ $$\mathbf{\text{Verified Answer: (b) Online education can be accessed from anywh
 
 ---
 
-## Question 5: Pragmatic Course of Action
+## Question 5: Pragmatic Course of Action  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Question ID**: `INFY-SET2-19`  
 - **Figure**:
   ![Original Question Slide](../../images/mock2_slide_p26.png)  
@@ -184,7 +209,12 @@ $$\mathbf{\text{Verified Answer: (b) Combine online and traditional learning for
 
 ---
 
-## Question 6: Implicit Urban Transit Assumptions
+## Question 6: Implicit Urban Transit Assumptions  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Question ID**: `INFY-SET2-20`  
 - **Figure**:
   ![Original Question Slide](../../images/mock2_slide_p26.png)  
@@ -239,7 +269,12 @@ $$\mathbf{\text{Verified Answer: (a) People use private vehicles because public 
 
 ---
 
-## Question 7: Critical Reasoning — Policy Assumptions
+## Question 7: Critical Reasoning — Policy Assumptions  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Question ID**: `INFY-PRAC-11`  
 - **Figure**:
   ![Original Question Slide](../../images/mock2_slide_p38.png)  

@@ -17,7 +17,12 @@ The 50 questions are also modularized into dedicated topic compendiums for targe
 
 ---
 
-### Question 01: Arithmetic & Commercial Math (Page 01)
+### Question 01: Arithmetic & Commercial Math (Page 01)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_01.png`](images/INFOSYS_TOP_50_page_01.png)
 
 #### Problem Statement
@@ -47,7 +52,12 @@ The Sales of different Chocolates in a shop on Sunday is as follows: KitKat - 15
 | ![INFOSYS_TOP_50_page_01.png](../../images/INFOSYS_TOP_50_page_01.png) |
 
 ---
-### Question 02: Reasoning & Letter-Number Puzzles (Page 02)
+### Question 02: Reasoning & Letter-Number Puzzles (Page 02)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_02.png`](images/INFOSYS_TOP_50_page_02.png)
 
 #### Problem Statement
@@ -76,7 +86,12 @@ In a sequence of alphanumeric observations, identify the terminal missing value 
 | ![INFOSYS_TOP_50_page_02.png](../../images/INFOSYS_TOP_50_page_02.png) |
 
 ---
-### Question 03: Quantitative Aptitude — Proportions (Page 03)
+### Question 03: Quantitative Aptitude — Proportions (Page 03)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_03.png`](images/INFOSYS_TOP_50_page_03.png)
 
 #### Problem Statement
@@ -104,7 +119,12 @@ Evaluation of candidate marks and proportion distribution in assessment test.
 | ![INFOSYS_TOP_50_page_03.png](../../images/INFOSYS_TOP_50_page_03.png) |
 
 ---
-### Question 04: Reasoning Ability — Number Sequence (Page 04)
+### Question 04: Reasoning Ability — Number Sequence (Page 04)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_04.png`](images/INFOSYS_TOP_50_page_04.png)
 
 #### Problem Statement
@@ -132,7 +152,12 @@ Identify the missing sequence value in the reasoning assessment progression.
 | ![INFOSYS_TOP_50_page_04.png](../../images/INFOSYS_TOP_50_page_04.png) |
 
 ---
-### Question 05: Quantitative Aptitude — Percentages (Page 05)
+### Question 05: Quantitative Aptitude — Percentages (Page 05)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_05.png`](images/INFOSYS_TOP_50_page_05.png)
 
 #### Problem Statement
@@ -160,7 +185,12 @@ Calculate the effective percentage yield in the assessment scenario.
 | ![INFOSYS_TOP_50_page_05.png](../../images/INFOSYS_TOP_50_page_05.png) |
 
 ---
-### Question 06: Logical Deduction (Page 06)
+### Question 06: Logical Deduction (Page 06)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_06.png`](images/INFOSYS_TOP_50_page_06.png)
 
 #### Problem Statement
@@ -188,7 +218,12 @@ Determine the truth value of the logical condition in the candidate test.
 | ![INFOSYS_TOP_50_page_06.png](../../images/INFOSYS_TOP_50_page_06.png) |
 
 ---
-### Question 07: Arithmetic — Speed & Distance (Page 07)
+### Question 07: Arithmetic — Speed & Distance (Page 07)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_07.png`](images/INFOSYS_TOP_50_page_07.png)
 
 #### Problem Statement
@@ -216,7 +251,12 @@ Relative speed calculation for two moving bodies in the same direction.
 | ![INFOSYS_TOP_50_page_07.png](../../images/INFOSYS_TOP_50_page_07.png) |
 
 ---
-### Question 08: Reasoning — Coding-Decoding (Page 08)
+### Question 08: Reasoning — Coding-Decoding (Page 08)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_08.png`](images/INFOSYS_TOP_50_page_08.png)
 
 #### Problem Statement
@@ -244,7 +284,12 @@ Letter pattern mapping and substitution cipher calculation.
 | ![INFOSYS_TOP_50_page_08.png](../../images/INFOSYS_TOP_50_page_08.png) |
 
 ---
-### Question 09: Logical Venn Diagrams (Page 09)
+### Question 09: Logical Venn Diagrams (Page 09)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_09.png`](images/INFOSYS_TOP_50_page_09.png)
 
 #### Problem Statement
@@ -272,7 +317,12 @@ Venn set intersection of subsets in the problem.
 | ![INFOSYS_TOP_50_page_09.png](../../images/INFOSYS_TOP_50_page_09.png) |
 
 ---
-### Question 10: Number Theory (Page 10)
+### Question 10: Number Theory (Page 10)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_10.png`](images/INFOSYS_TOP_50_page_10.png)
 
 #### Problem Statement
@@ -300,7 +350,12 @@ Find the highest common factor and remainder under division.
 | ![INFOSYS_TOP_50_page_10.png](../../images/INFOSYS_TOP_50_page_10.png) |
 
 ---
-### Question 11: Arithmetic — Profit and Loss (Page 11)
+### Question 11: Arithmetic — Profit and Loss (Page 11)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_11.png`](images/INFOSYS_TOP_50_page_11.png)
 
 #### Problem Statement
@@ -328,7 +383,12 @@ An article marked at a discount is sold for a net gain. Find the profit percenta
 | ![INFOSYS_TOP_50_page_11.png](../../images/INFOSYS_TOP_50_page_11.png) |
 
 ---
-### Question 12: Reasoning — Direction Sense (Page 12)
+### Question 12: Reasoning — Direction Sense (Page 12)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_12.png`](images/INFOSYS_TOP_50_page_12.png)
 
 #### Problem Statement
@@ -356,7 +416,12 @@ A person walks 10m North, turns East 15m, then South 10m. Find distance from sta
 | ![INFOSYS_TOP_50_page_12.png](../../images/INFOSYS_TOP_50_page_12.png) |
 
 ---
-### Question 13: Reasoning — Syllogisms (Page 13)
+### Question 13: Reasoning — Syllogisms (Page 13)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_13.png`](images/INFOSYS_TOP_50_page_13.png)
 
 #### Problem Statement
@@ -385,7 +450,12 @@ Statements: Some doctors are scientists. Some scientists are teachers. Conclusio
 | ![INFOSYS_TOP_50_page_13.png](../../images/INFOSYS_TOP_50_page_13.png) |
 
 ---
-### Question 14: Arithmetic — Averages (Page 14)
+### Question 14: Arithmetic — Averages (Page 14)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_14.png`](images/INFOSYS_TOP_50_page_14.png)
 
 #### Problem Statement
@@ -413,7 +483,12 @@ The average of 5 consecutive odd numbers is 25. Find the largest number.
 | ![INFOSYS_TOP_50_page_14.png](../../images/INFOSYS_TOP_50_page_14.png) |
 
 ---
-### Question 15: Reasoning — Blood Relations (Page 15)
+### Question 15: Reasoning — Blood Relations (Page 15)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_15.png`](images/INFOSYS_TOP_50_page_15.png)
 
 #### Problem Statement
@@ -441,7 +516,12 @@ Pointing to a man, a woman says: 'His mother is the only daughter of my mother.'
 | ![INFOSYS_TOP_50_page_15.png](../../images/INFOSYS_TOP_50_page_15.png) |
 
 ---
-### Question 16: Quantitative Aptitude — Time and Work (Page 16)
+### Question 16: Quantitative Aptitude — Time and Work (Page 16)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_16.png`](images/INFOSYS_TOP_50_page_16.png)
 
 #### Problem Statement
@@ -469,7 +549,12 @@ A can finish a task in 12 days, B in 24 days. How many days working together?
 | ![INFOSYS_TOP_50_page_16.png](../../images/INFOSYS_TOP_50_page_16.png) |
 
 ---
-### Question 17: Reasoning — Seating Arrangement (Page 17)
+### Question 17: Reasoning — Seating Arrangement (Page 17)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_17.png`](images/INFOSYS_TOP_50_page_17.png)
 
 #### Problem Statement
@@ -497,7 +582,12 @@ Five friends P, Q, R, S, T sit in a row facing North. S is between T and Q. Q is
 | ![INFOSYS_TOP_50_page_17.png](../../images/INFOSYS_TOP_50_page_17.png) |
 
 ---
-### Question 18: Data Sufficiency — Compound Interest (Page 18)
+### Question 18: Data Sufficiency — Compound Interest (Page 18)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_18.png`](images/INFOSYS_TOP_50_page_18.png)
 
 #### Problem Statement
@@ -529,7 +619,12 @@ Statement II: The interest earned is Rs. 331.
 | ![INFOSYS_TOP_50_page_18.png](../../images/INFOSYS_TOP_50_page_18.png) |
 
 ---
-### Question 19: Quantitative Aptitude — Simple Interest (Page 19)
+### Question 19: Quantitative Aptitude — Simple Interest (Page 19)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_19.png`](images/INFOSYS_TOP_50_page_19.png)
 
 #### Problem Statement
@@ -557,7 +652,12 @@ A sum doubles itself in 8 years at simple interest. What is the rate of interest
 | ![INFOSYS_TOP_50_page_19.png](../../images/INFOSYS_TOP_50_page_19.png) |
 
 ---
-### Question 20: Reasoning — Number Analogy (Page 20)
+### Question 20: Reasoning — Number Analogy (Page 20)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_20.png`](images/INFOSYS_TOP_50_page_20.png)
 
 #### Problem Statement
@@ -585,7 +685,12 @@ Find the missing term: 12 : 144 :: 15 : ?
 | ![INFOSYS_TOP_50_page_20.png](../../images/INFOSYS_TOP_50_page_20.png) |
 
 ---
-### Question 21: Reasoning — Coding-Decoding (Page 21)
+### Question 21: Reasoning — Coding-Decoding (Page 21)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_21.png`](images/INFOSYS_TOP_50_page_21.png)
 
 #### Problem Statement
@@ -614,7 +719,12 @@ In a certain language, GENERAL is coded as IJSJWFQ. How is ACCOUNT written in th
 | ![INFOSYS_TOP_50_page_21.png](../../images/INFOSYS_TOP_50_page_21.png) |
 
 ---
-### Question 22: Reasoning — Mathematical Analogy (Page 22)
+### Question 22: Reasoning — Mathematical Analogy (Page 22)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_22.png`](images/INFOSYS_TOP_50_page_22.png)
 
 #### Problem Statement
@@ -642,7 +752,12 @@ Select the option related to the third term on the same basis: 15 : 21 :: ?
 | ![INFOSYS_TOP_50_page_22.png](../../images/INFOSYS_TOP_50_page_22.png) |
 
 ---
-### Question 23: Reasoning — Fictional Language Code (Page 23)
+### Question 23: Reasoning — Fictional Language Code (Page 23)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_23.png`](images/INFOSYS_TOP_50_page_23.png)
 
 #### Problem Statement
@@ -675,7 +790,12 @@ If 'Bells are brown' = '723', 'Rail in sea' = '614', 'Sea is noisy' = '359', 'Br
 | ![INFOSYS_TOP_50_page_23.png](../../images/INFOSYS_TOP_50_page_23.png) |
 
 ---
-### Question 24: Reasoning — Interleaved Series (Page 24)
+### Question 24: Reasoning — Interleaved Series (Page 24)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_24.png`](images/INFOSYS_TOP_50_page_24.png)
 
 #### Problem Statement
@@ -704,7 +824,12 @@ Find the next term: 1, 2, 1, 4, 2, 8, 3, 16, 5, 32, 7, 64, ?
 | ![INFOSYS_TOP_50_page_24.png](../../images/INFOSYS_TOP_50_page_24.png) |
 
 ---
-### Question 25: Reasoning — Ranking and Ordering (Page 25)
+### Question 25: Reasoning — Ranking and Ordering (Page 25)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_25.png`](images/INFOSYS_TOP_50_page_25.png)
 
 #### Problem Statement
@@ -732,7 +857,12 @@ Six friends P, Q, R, S, T, U go to college. T is older than P and Q, younger tha
 | ![INFOSYS_TOP_50_page_25.png](../../images/INFOSYS_TOP_50_page_25.png) |
 
 ---
-### Question 26: Quantitative Aptitude — Ratio and Proportion (Page 26)
+### Question 26: Quantitative Aptitude — Ratio and Proportion (Page 26)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_26.png`](images/INFOSYS_TOP_50_page_26.png)
 
 #### Problem Statement
@@ -761,7 +891,12 @@ Two numbers are in ratio 3:5. If 8 is added to both, the ratio becomes 2:3. Find
 | ![INFOSYS_TOP_50_page_26.png](../../images/INFOSYS_TOP_50_page_26.png) |
 
 ---
-### Question 27: Quantitative Aptitude — Pipes & Cisterns (Page 27)
+### Question 27: Quantitative Aptitude — Pipes & Cisterns (Page 27)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_27.png`](images/INFOSYS_TOP_50_page_27.png)
 
 #### Problem Statement
@@ -790,7 +925,12 @@ Two pipes P and Q together can fill a cistern in 6 hours. If opened separately, 
 | ![INFOSYS_TOP_50_page_27.png](../../images/INFOSYS_TOP_50_page_27.png) |
 
 ---
-### Question 28: Quantitative Aptitude — Probability (Page 28)
+### Question 28: Quantitative Aptitude — Probability (Page 28)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_28.png`](images/INFOSYS_TOP_50_page_28.png)
 
 #### Problem Statement
@@ -820,7 +960,12 @@ From a well-shuffled pack of 52 cards, two cards are drawn at random. What is th
 | ![INFOSYS_TOP_50_page_28.png](../../images/INFOSYS_TOP_50_page_28.png) |
 
 ---
-### Question 29: Quantitative Aptitude — Men & Women Work (Page 29)
+### Question 29: Quantitative Aptitude — Men & Women Work (Page 29)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_29.png`](images/INFOSYS_TOP_50_page_29.png)
 
 #### Problem Statement
@@ -848,7 +993,12 @@ From a well-shuffled pack of 52 cards, two cards are drawn at random. What is th
 | ![INFOSYS_TOP_50_page_29.png](../../images/INFOSYS_TOP_50_page_29.png) |
 
 ---
-### Question 30: Statistics — Range of Data (Page 30)
+### Question 30: Statistics — Range of Data (Page 30)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_30.png`](images/INFOSYS_TOP_50_page_30.png)
 
 #### Problem Statement
@@ -878,7 +1028,12 @@ Find the range of the following dataset: 7, 10, 6, 72, 83, 12, 5.
 | ![INFOSYS_TOP_50_page_30.png](../../images/INFOSYS_TOP_50_page_30.png) |
 
 ---
-### Question 31: Reasoning — Syllogisms (Page 31)
+### Question 31: Reasoning — Syllogisms (Page 31)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_31.png`](images/INFOSYS_TOP_50_page_31.png)
 
 #### Problem Statement
@@ -907,7 +1062,12 @@ Statements: All pens are pencils. All pencils are shoes. Conclusions: I. All pen
 | ![INFOSYS_TOP_50_page_31.png](../../images/INFOSYS_TOP_50_page_31.png) |
 
 ---
-### Question 32: Data Sufficiency — Profit Percentage (Page 32)
+### Question 32: Data Sufficiency — Profit Percentage (Page 32)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_32.png`](images/INFOSYS_TOP_50_page_32.png)
 
 #### Problem Statement
@@ -940,7 +1100,12 @@ Statement II: The profit earned is Rs. 50.
 | ![INFOSYS_TOP_50_page_32.png](../../images/INFOSYS_TOP_50_page_32.png) |
 
 ---
-### Question 33: Data Sufficiency — Savings Ratio (Page 33)
+### Question 33: Data Sufficiency — Savings Ratio (Page 33)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_33.png`](images/INFOSYS_TOP_50_page_33.png)
 
 #### Problem Statement
@@ -973,7 +1138,12 @@ Statement II: The expenditure of A and B are in the ratio 2:3.
 | ![INFOSYS_TOP_50_page_33.png](../../images/INFOSYS_TOP_50_page_33.png) |
 
 ---
-### Question 34: Reasoning — Multi-Statement Syllogisms (Page 34)
+### Question 34: Reasoning — Multi-Statement Syllogisms (Page 34)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_34.png`](images/INFOSYS_TOP_50_page_34.png)
 
 #### Problem Statement
@@ -1005,7 +1175,12 @@ Which conclusions logically follow?
 | ![INFOSYS_TOP_50_page_34.png](../../images/INFOSYS_TOP_50_page_34.png) |
 
 ---
-### Question 35: Quantitative Aptitude — Cricket Statistics (Page 35)
+### Question 35: Quantitative Aptitude — Cricket Statistics (Page 35)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_35.png`](images/INFOSYS_TOP_50_page_35.png)
 
 #### Problem Statement
@@ -1037,7 +1212,12 @@ A batsman scored 110 runs which included 4 boundaries (fours), 6 sixes, and the 
 | ![INFOSYS_TOP_50_page_35.png](../../images/INFOSYS_TOP_50_page_35.png) |
 
 ---
-### Question 36: Statistics — Average Scaling (Page 36)
+### Question 36: Statistics — Average Scaling (Page 36)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_36.png`](images/INFOSYS_TOP_50_page_36.png)
 
 #### Problem Statement
@@ -1067,7 +1247,12 @@ The sum of 15 data points is 2100. If each data point is doubled and then 10 is 
 | ![INFOSYS_TOP_50_page_36.png](../../images/INFOSYS_TOP_50_page_36.png) |
 
 ---
-### Question 37: Quantitative Aptitude — Daily Sales Average (Page 37)
+### Question 37: Quantitative Aptitude — Daily Sales Average (Page 37)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_37.png`](images/INFOSYS_TOP_50_page_37.png)
 
 #### Problem Statement
@@ -1096,7 +1281,12 @@ The daily sales by a shop for a 7-day week were: Rs. 2800, Rs. 3300, Rs. 2500, R
 | ![INFOSYS_TOP_50_page_37.png](../../images/INFOSYS_TOP_50_page_37.png) |
 
 ---
-### Question 38: Reasoning — Number Series Conditions (Page 38)
+### Question 38: Reasoning — Number Series Conditions (Page 38)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_38.png`](images/INFOSYS_TOP_50_page_38.png)
 
 #### Problem Statement
@@ -1125,7 +1315,12 @@ In the sequence: 6 1 2 7 8 9 4 5 3 2 4 6 5 8 9 1 0 3 2, how many even numbers ar
 | ![INFOSYS_TOP_50_page_38.png](../../images/INFOSYS_TOP_50_page_38.png) |
 
 ---
-### Question 39: Arithmetic — Heads and Legs Problem (Page 39)
+### Question 39: Arithmetic — Heads and Legs Problem (Page 39)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_39.png`](images/INFOSYS_TOP_50_page_39.png)
 
 #### Problem Statement
@@ -1155,7 +1350,12 @@ In a farm, there are some cows and their owners. If the total number of heads is
 | ![INFOSYS_TOP_50_page_39.png](../../images/INFOSYS_TOP_50_page_39.png) |
 
 ---
-### Question 40: Data Sufficiency — Direction Coordinates (Page 40)
+### Question 40: Data Sufficiency — Direction Coordinates (Page 40)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_40.png`](images/INFOSYS_TOP_50_page_40.png)
 
 #### Problem Statement
@@ -1187,7 +1387,12 @@ Statement II: Q is to the east of S. S is to the south of A.
 | ![INFOSYS_TOP_50_page_40.png](../../images/INFOSYS_TOP_50_page_40.png) |
 
 ---
-### Question 41: Quantitative Aptitude — Percentages (Page 41)
+### Question 41: Quantitative Aptitude — Percentages (Page 41)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_41.png`](images/INFOSYS_TOP_50_page_41.png)
 
 #### Problem Statement
@@ -1216,7 +1421,12 @@ Sixty percent of a number 'X' is equal to thirty percent of another number 'Y'. 
 | ![INFOSYS_TOP_50_page_41.png](../../images/INFOSYS_TOP_50_page_41.png) |
 
 ---
-### Question 42: Quantitative Aptitude — Chain Rule Work (Page 42)
+### Question 42: Quantitative Aptitude — Chain Rule Work (Page 42)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_42.png`](images/INFOSYS_TOP_50_page_42.png)
 
 #### Problem Statement
@@ -1246,7 +1456,12 @@ If 5 bakers make 50 cupcakes in 5 hours, how many cupcakes will 10 bakers make i
 | ![INFOSYS_TOP_50_page_42.png](../../images/INFOSYS_TOP_50_page_42.png) |
 
 ---
-### Question 43: Data Sufficiency — Age Problems (Page 43)
+### Question 43: Data Sufficiency — Age Problems (Page 43)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_43.png`](images/INFOSYS_TOP_50_page_43.png)
 
 #### Problem Statement
@@ -1278,7 +1493,12 @@ Statement II: Dhruv is 6 years younger than Yash, who is 28 years old.
 | ![INFOSYS_TOP_50_page_43.png](../../images/INFOSYS_TOP_50_page_43.png) |
 
 ---
-### Question 44: Data Sufficiency — Queue Ranking (Page 44)
+### Question 44: Data Sufficiency — Queue Ranking (Page 44)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_44.png`](images/INFOSYS_TOP_50_page_44.png)
 
 #### Problem Statement
@@ -1310,7 +1530,12 @@ Statement II: Priya is 15th from the end and has 9 people in front of her.
 | ![INFOSYS_TOP_50_page_44.png](../../images/INFOSYS_TOP_50_page_44.png) |
 
 ---
-### Question 45: Reasoning — 'Only a few' Syllogisms (Page 45)
+### Question 45: Reasoning — 'Only a few' Syllogisms (Page 45)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_45.png`](images/INFOSYS_TOP_50_page_45.png)
 
 #### Problem Statement
@@ -1340,7 +1565,12 @@ Conclusions: I. Some A is not B. II. All B can never be C.
 | ![INFOSYS_TOP_50_page_45.png](../../images/INFOSYS_TOP_50_page_45.png) |
 
 ---
-### Question 46: Quantitative Aptitude — Fractions (Page 46)
+### Question 46: Quantitative Aptitude — Fractions (Page 46)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_46.png`](images/INFOSYS_TOP_50_page_46.png)
 
 #### Problem Statement
@@ -1372,7 +1602,12 @@ A man buys a certain number of mangoes and sells 3/5th of the total. He gives ha
 | ![INFOSYS_TOP_50_page_46.png](../../images/INFOSYS_TOP_50_page_46.png) |
 
 ---
-### Question 47: Reasoning — Multi-Operation Series (Page 47)
+### Question 47: Reasoning — Multi-Operation Series (Page 47)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_47.png`](images/INFOSYS_TOP_50_page_47.png)
 
 #### Problem Statement
@@ -1408,7 +1643,12 @@ What two numbers should replace the question marks in the series: 6, 7, 14, 17, 
 | ![INFOSYS_TOP_50_page_47.png](../../images/INFOSYS_TOP_50_page_47.png) |
 
 ---
-### Question 48: Data Interpretation — Causes of Death Pie Chart (Page 48)
+### Question 48: Data Interpretation — Causes of Death Pie Chart (Page 48)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_48.png`](images/INFOSYS_TOP_50_page_48.png)
 
 #### Problem Statement
@@ -1438,7 +1678,12 @@ The pie chart shows causes of death in a country: Heart Attack 25%, Accidents 22
 | ![INFOSYS_TOP_50_page_48.png](../../images/INFOSYS_TOP_50_page_48.png) |
 
 ---
-### Question 49: Data Interpretation — Athlete Ratio Table (Page 49)
+### Question 49: Data Interpretation — Athlete Ratio Table (Page 49)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_49.png`](images/INFOSYS_TOP_50_page_49.png)
 
 #### Problem Statement
@@ -1468,7 +1713,12 @@ From the sports competition table, Country A has Male athletes (300, 320, 340, 3
 | ![INFOSYS_TOP_50_page_49.png](../../images/INFOSYS_TOP_50_page_49.png) |
 
 ---
-### Question 50: Data Interpretation — Multi-Year Total Participants (Page 50)
+### Question 50: Data Interpretation — Multi-Year Total Participants (Page 50)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_50.png`](images/INFOSYS_TOP_50_page_50.png)
 
 #### Problem Statement

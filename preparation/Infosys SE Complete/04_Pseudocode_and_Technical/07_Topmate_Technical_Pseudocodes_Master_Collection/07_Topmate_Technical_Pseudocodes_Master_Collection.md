@@ -6,7 +6,12 @@
 
 ---
 
-### Item 1: TOPMATE_SLOT1_SECTION_4_Q01
+### Item 1: TOPMATE_SLOT1_SECTION_4_Q01  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 6)  
 **Category / Topic:** Pseudocode | SECTION 4 — PSEUDO CODE TEST  
 **Prompt:** Consider the following pseudocode: A = [3, 1, 4, 1] FOR i = 0 TO 2 SWAP A[i] AND A[i+1] END FOR PRINT A What is the output?
@@ -26,7 +31,12 @@ Initial array A = [3, 1, 4, 1]. Iteration i = 0: Swap A[0] and A[1] -> [1, 3, 4,
 
 ---
 
-### Item 2: TOPMATE_SLOT1_SECTION_4_Q02
+### Item 2: TOPMATE_SLOT1_SECTION_4_Q02  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 7)  
 **Category / Topic:** Pseudocode | SECTION 4 — PSEUDO CODE TEST  
 **Prompt:** Consider the following pseudocode: result = 0 FOR i = 1 TO 5 IF i MOD 2 == 0 result = result + i * i END IF END FOR PRINT result What is the output?
@@ -46,7 +56,12 @@ Loop i runs from 1 to 5. Even values of i are 2 and 4. When i = 2: result = 0 + 
 
 ---
 
-### Item 3: TOPMATE_SLOT1_SECTION_4_Q03
+### Item 3: TOPMATE_SLOT1_SECTION_4_Q03  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 7)  
 **Category / Topic:** Pseudocode | SECTION 4 — PSEUDO CODE TEST  
 **Prompt:** Consider the following pseudocode: FUNCTION F(n) IF n == 0 RETURN 1 ELSE RETURN n * F(n - 1) END IF END FUNCTION PRINT F(4) What is the output?
@@ -66,7 +81,12 @@ F(n) is the recursive factorial function. F(4) = 4 × F(3) = 4 × 3 × F(2) = 4 
 
 ---
 
-### Item 4: TOPMATE_SLOT1_SECTION_4_Q04
+### Item 4: TOPMATE_SLOT1_SECTION_4_Q04  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 7)  
 **Category / Topic:** Pseudocode | SECTION 4 — PSEUDO CODE TEST  
 **Prompt:** Consider the following pseudocode: FOR i = 1 TO N FOR j = 1 TO N PRINT i + j END FOR END FOR What is the time complexity of the pseudocode in terms of N?
@@ -86,7 +106,12 @@ The outer loop runs N times and the inner loop runs N times independently for ea
 
 ---
 
-### Item 5: TOPMATE_SLOT1_SECTION_4_Q05
+### Item 5: TOPMATE_SLOT1_SECTION_4_Q05  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf` (Page 7)  
 **Category / Topic:** Pseudocode | SECTION 4 — PSEUDO CODE TEST  
 **Prompt:** Consider the following pseudocode: count = 0 FOR EACH x IN [2, 7, 8, 3, 10] IF x MOD 2 == 0 count = count + 1 END IF END FOR PRINT count What is printed?
@@ -106,7 +131,12 @@ The pseudocode iterates through [2, 7, 8, 3, 10] and increments count for each e
 
 ---
 
-### Item 6: TOPMATE_SLOT2_SECTION_4_Q01
+### Item 6: TOPMATE_SLOT2_SECTION_4_Q01  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 7)  
 **Category / Topic:** Pseudocode | SECTION 4 — PSEUDO CODE TEST  
 **Prompt:** Consider the following pseudocode: A = [2, 5, 7, 9] FOR i = 0 TO 2 A[i] = A[i] + A[i+1] END FOR PRINT A What is the output?
@@ -126,7 +156,12 @@ Official Exam Key: `A) [7, 12, 16, 9]`. Systematic step-by-step verification con
 
 ---
 
-### Item 7: TOPMATE_SLOT2_SECTION_4_Q02
+### Item 7: TOPMATE_SLOT2_SECTION_4_Q02  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 7)  
 **Category / Topic:** Pseudocode | SECTION 4 — PSEUDO CODE TEST  
 **Prompt:** Consider the following pseudocode: result = 1 FOR i = 1 TO 5 IF i MOD 2 != 0 result = result * i END IF END FOR PRINT result What is the output?
@@ -146,7 +181,12 @@ Official Exam Key: `C) 15`. Systematic step-by-step verification confirms this r
 
 ---
 
-### Item 8: TOPMATE_SLOT2_SECTION_4_Q03
+### Item 8: TOPMATE_SLOT2_SECTION_4_Q03  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 7)  
 **Category / Topic:** Pseudocode | SECTION 4 — PSEUDO CODE TEST  
 **Prompt:** Consider the following pseudocode: FUNCTION G(n) IF n <= 1 RETURN n ELSE RETURN G(n-1) + G(n-2) END IF END FUNCTION PRINT G(6) What is the output?
@@ -166,7 +206,12 @@ Official Exam Key: `B) 8`. Systematic step-by-step verification confirms this re
 
 ---
 
-### Item 9: TOPMATE_SLOT2_SECTION_4_Q04
+### Item 9: TOPMATE_SLOT2_SECTION_4_Q04  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 8)  
 **Category / Topic:** Pseudocode | SECTION 4 — PSEUDO CODE TEST  
 **Prompt:** Consider the following pseudocode: FOR i = 1 TO N FOR j = 1 TO i PRINT i + j END FOR END FOR What is the time complexity in terms of N?
@@ -186,7 +231,12 @@ Official Exam Key: `C) O(N²)`. Systematic step-by-step verification confirms th
 
 ---
 
-### Item 10: TOPMATE_SLOT2_SECTION_4_Q05
+### Item 10: TOPMATE_SLOT2_SECTION_4_Q05  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf` (Page 8)  
 **Category / Topic:** Pseudocode | SECTION 4 — PSEUDO CODE TEST  
 **Prompt:** Consider the following pseudocode: count = 0 FOR EACH x IN [4, 9, 12, 15, 18, 21] IF x MOD 3 == 0 count = count + 1 END IF END FOR PRINT count What is printed?
@@ -206,7 +256,12 @@ Official Exam Key: `C) 4`. Systematic step-by-step verification confirms this re
 
 ---
 
-### Item 11: TOPMATE_PSEUDOCODE_Q001
+### Item 11: TOPMATE_PSEUDOCODE_Q001  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 1)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -220,7 +275,12 @@ Step-by-step register execution confirms B.
 
 ---
 
-### Item 12: TOPMATE_PSEUDOCODE_Q002
+### Item 12: TOPMATE_PSEUDOCODE_Q002  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 2)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -234,7 +294,12 @@ Step-by-step register execution confirms C.
 
 ---
 
-### Item 13: TOPMATE_PSEUDOCODE_Q003
+### Item 13: TOPMATE_PSEUDOCODE_Q003  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 3)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -248,7 +313,12 @@ Step-by-step register execution confirms D.
 
 ---
 
-### Item 14: TOPMATE_PSEUDOCODE_Q004
+### Item 14: TOPMATE_PSEUDOCODE_Q004  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 4)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -262,7 +332,12 @@ Step-by-step register execution confirms C.
 
 ---
 
-### Item 15: TOPMATE_PSEUDOCODE_Q005
+### Item 15: TOPMATE_PSEUDOCODE_Q005  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 5)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -276,7 +351,12 @@ Step-by-step register execution confirms C.
 
 ---
 
-### Item 16: TOPMATE_PSEUDOCODE_Q006
+### Item 16: TOPMATE_PSEUDOCODE_Q006  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 5)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -290,7 +370,12 @@ Step-by-step register execution confirms C.
 
 ---
 
-### Item 17: TOPMATE_PSEUDOCODE_Q007
+### Item 17: TOPMATE_PSEUDOCODE_Q007  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 6)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -304,7 +389,12 @@ Step-by-step register execution confirms D.
 
 ---
 
-### Item 18: TOPMATE_PSEUDOCODE_Q008
+### Item 18: TOPMATE_PSEUDOCODE_Q008  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 6)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -318,7 +408,12 @@ Step-by-step register execution confirms 16.
 
 ---
 
-### Item 19: TOPMATE_PSEUDOCODE_Q009
+### Item 19: TOPMATE_PSEUDOCODE_Q009  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 7)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -332,7 +427,12 @@ Step-by-step register execution confirms 11.
 
 ---
 
-### Item 20: TOPMATE_PSEUDOCODE_Q010
+### Item 20: TOPMATE_PSEUDOCODE_Q010  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 8)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -346,7 +446,12 @@ Step-by-step register execution confirms C.
 
 ---
 
-### Item 21: TOPMATE_PSEUDOCODE_Q011
+### Item 21: TOPMATE_PSEUDOCODE_Q011  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 8)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -360,7 +465,12 @@ Step-by-step register execution confirms 22.
 
 ---
 
-### Item 22: TOPMATE_PSEUDOCODE_Q012
+### Item 22: TOPMATE_PSEUDOCODE_Q012  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 9)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -374,7 +484,12 @@ Step-by-step register execution confirms 4.
 
 ---
 
-### Item 23: TOPMATE_PSEUDOCODE_Q013
+### Item 23: TOPMATE_PSEUDOCODE_Q013  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 9)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -388,7 +503,12 @@ Step-by-step register execution confirms 20.
 
 ---
 
-### Item 24: TOPMATE_PSEUDOCODE_Q014
+### Item 24: TOPMATE_PSEUDOCODE_Q014  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 9)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -402,7 +522,12 @@ Step-by-step register execution confirms 4.
 
 ---
 
-### Item 25: TOPMATE_PSEUDOCODE_Q015
+### Item 25: TOPMATE_PSEUDOCODE_Q015  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 10)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -416,7 +541,12 @@ Step-by-step register execution confirms 43.
 
 ---
 
-### Item 26: TOPMATE_PSEUDOCODE_Q016
+### Item 26: TOPMATE_PSEUDOCODE_Q016  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 11)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -430,7 +560,12 @@ Step-by-step register execution confirms 26.
 
 ---
 
-### Item 27: TOPMATE_PSEUDOCODE_Q017
+### Item 27: TOPMATE_PSEUDOCODE_Q017  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 11)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -444,7 +579,12 @@ Step-by-step register execution confirms 43.
 
 ---
 
-### Item 28: TOPMATE_PSEUDOCODE_Q018
+### Item 28: TOPMATE_PSEUDOCODE_Q018  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 11)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -458,7 +598,12 @@ Step-by-step register execution confirms 26.
 
 ---
 
-### Item 29: TOPMATE_PSEUDOCODE_Q019
+### Item 29: TOPMATE_PSEUDOCODE_Q019  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 12)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -472,7 +617,12 @@ Step-by-step register execution confirms 24.
 
 ---
 
-### Item 30: TOPMATE_PSEUDOCODE_Q020
+### Item 30: TOPMATE_PSEUDOCODE_Q020  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 13)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -486,7 +636,12 @@ Step-by-step register execution confirms 171.
 
 ---
 
-### Item 31: TOPMATE_PSEUDOCODE_Q021
+### Item 31: TOPMATE_PSEUDOCODE_Q021  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 13)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -500,7 +655,12 @@ Step-by-step register execution confirms 20.
 
 ---
 
-### Item 32: TOPMATE_PSEUDOCODE_Q022
+### Item 32: TOPMATE_PSEUDOCODE_Q022  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 14)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -514,7 +674,12 @@ Step-by-step register execution confirms B.
 
 ---
 
-### Item 33: TOPMATE_PSEUDOCODE_Q023
+### Item 33: TOPMATE_PSEUDOCODE_Q023  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 14)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -528,7 +693,12 @@ Step-by-step register execution confirms B.
 
 ---
 
-### Item 34: TOPMATE_PSEUDOCODE_Q024
+### Item 34: TOPMATE_PSEUDOCODE_Q024  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 15)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -542,7 +712,12 @@ Step-by-step register execution confirms A.
 
 ---
 
-### Item 35: TOPMATE_PSEUDOCODE_Q025
+### Item 35: TOPMATE_PSEUDOCODE_Q025  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 16)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -556,7 +731,12 @@ Step-by-step register execution confirms a.
 
 ---
 
-### Item 36: TOPMATE_PSEUDOCODE_Q026
+### Item 36: TOPMATE_PSEUDOCODE_Q026  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 16)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -570,7 +750,12 @@ Step-by-step register execution confirms c.
 
 ---
 
-### Item 37: TOPMATE_PSEUDOCODE_Q027
+### Item 37: TOPMATE_PSEUDOCODE_Q027  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 17)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -584,7 +769,12 @@ Step-by-step register execution confirms a.
 
 ---
 
-### Item 38: TOPMATE_PSEUDOCODE_Q028
+### Item 38: TOPMATE_PSEUDOCODE_Q028  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 18)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -598,7 +788,12 @@ Step-by-step register execution confirms c.
 
 ---
 
-### Item 39: TOPMATE_PSEUDOCODE_Q029
+### Item 39: TOPMATE_PSEUDOCODE_Q029  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 19)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -612,7 +807,12 @@ Step-by-step register execution confirms a.
 
 ---
 
-### Item 40: TOPMATE_PSEUDOCODE_Q030
+### Item 40: TOPMATE_PSEUDOCODE_Q030  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 20)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -626,7 +826,12 @@ Step-by-step register execution confirms a.
 
 ---
 
-### Item 41: TOPMATE_PSEUDOCODE_Q031
+### Item 41: TOPMATE_PSEUDOCODE_Q031  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 21)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -640,7 +845,12 @@ Step-by-step register execution confirms 3 5 7 9 5.
 
 ---
 
-### Item 42: TOPMATE_PSEUDOCODE_Q032
+### Item 42: TOPMATE_PSEUDOCODE_Q032  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 22)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -654,7 +864,12 @@ Step-by-step register execution confirms D.
 
 ---
 
-### Item 43: TOPMATE_PSEUDOCODE_Q033
+### Item 43: TOPMATE_PSEUDOCODE_Q033  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 23)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -668,7 +883,12 @@ Step-by-step register execution confirms B.
 
 ---
 
-### Item 44: TOPMATE_PSEUDOCODE_Q000
+### Item 44: TOPMATE_PSEUDOCODE_Q000  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 23)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -682,7 +902,12 @@ Step-by-step register execution confirms B.
 
 ---
 
-### Item 45: TOPMATE_PSEUDOCODE_Q034
+### Item 45: TOPMATE_PSEUDOCODE_Q034  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 24)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -696,7 +921,12 @@ Step-by-step register execution confirms B.
 
 ---
 
-### Item 46: TOPMATE_PSEUDOCODE_Q035
+### Item 46: TOPMATE_PSEUDOCODE_Q035  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 25)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -710,7 +940,12 @@ Step-by-step register execution confirms C.
 
 ---
 
-### Item 47: TOPMATE_PSEUDOCODE_Q036
+### Item 47: TOPMATE_PSEUDOCODE_Q036  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 26)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -724,7 +959,12 @@ Step-by-step register execution confirms 14.
 
 ---
 
-### Item 48: TOPMATE_PSEUDOCODE_Q037
+### Item 48: TOPMATE_PSEUDOCODE_Q037  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 27)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -738,7 +978,12 @@ Step-by-step register execution confirms B.
 
 ---
 
-### Item 49: TOPMATE_PSEUDOCODE_Q038
+### Item 49: TOPMATE_PSEUDOCODE_Q038  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 29)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -752,7 +997,12 @@ Step-by-step register execution confirms B.
 
 ---
 
-### Item 50: TOPMATE_PSEUDOCODE_Q040
+### Item 50: TOPMATE_PSEUDOCODE_Q040  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 30)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -766,7 +1016,12 @@ Step-by-step register execution confirms A.
 
 ---
 
-### Item 51: TOPMATE_PSEUDOCODE_Q042
+### Item 51: TOPMATE_PSEUDOCODE_Q042  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 32)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -780,7 +1035,12 @@ Step-by-step register execution confirms c.
 
 ---
 
-### Item 52: TOPMATE_PSEUDOCODE_Q043
+### Item 52: TOPMATE_PSEUDOCODE_Q043  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 34)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -794,7 +1054,12 @@ Step-by-step register execution confirms c.
 
 ---
 
-### Item 53: TOPMATE_PSEUDOCODE_Q044
+### Item 53: TOPMATE_PSEUDOCODE_Q044  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 35)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -808,7 +1073,12 @@ Step-by-step register execution confirms D.
 
 ---
 
-### Item 54: TOPMATE_PSEUDOCODE_Q045
+### Item 54: TOPMATE_PSEUDOCODE_Q045  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 35)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -822,7 +1092,12 @@ Step-by-step register execution confirms D.
 
 ---
 
-### Item 55: TOPMATE_PSEUDOCODE_Q046
+### Item 55: TOPMATE_PSEUDOCODE_Q046  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 36)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -836,7 +1111,12 @@ Step-by-step register execution confirms c.
 
 ---
 
-### Item 56: TOPMATE_PSEUDOCODE_Q047
+### Item 56: TOPMATE_PSEUDOCODE_Q047  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 36)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -850,7 +1130,12 @@ Step-by-step register execution confirms d.
 
 ---
 
-### Item 57: TOPMATE_PSEUDOCODE_Q048
+### Item 57: TOPMATE_PSEUDOCODE_Q048  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 37)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -864,7 +1149,12 @@ Step-by-step register execution confirms D.
 
 ---
 
-### Item 58: TOPMATE_PSEUDOCODE_Q050
+### Item 58: TOPMATE_PSEUDOCODE_Q050  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 39)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -878,7 +1168,12 @@ Step-by-step register execution confirms A.
 
 ---
 
-### Item 59: TOPMATE_PSEUDOCODE_Q051
+### Item 59: TOPMATE_PSEUDOCODE_Q051  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 40)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -892,7 +1187,12 @@ Step-by-step register execution confirms A.
 
 ---
 
-### Item 60: TOPMATE_PSEUDOCODE_Q052
+### Item 60: TOPMATE_PSEUDOCODE_Q052  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 41)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -906,7 +1206,12 @@ Step-by-step register execution confirms D.
 
 ---
 
-### Item 61: TOPMATE_PSEUDOCODE_Q053
+### Item 61: TOPMATE_PSEUDOCODE_Q053  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 42)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -920,7 +1225,12 @@ Step-by-step register execution confirms A.
 
 ---
 
-### Item 62: TOPMATE_PSEUDOCODE_Q054
+### Item 62: TOPMATE_PSEUDOCODE_Q054  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 43)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -934,7 +1244,12 @@ Step-by-step register execution confirms C.
 
 ---
 
-### Item 63: TOPMATE_PSEUDOCODE_Q055
+### Item 63: TOPMATE_PSEUDOCODE_Q055  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 43)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -948,7 +1263,12 @@ Step-by-step register execution confirms D.
 
 ---
 
-### Item 64: TOPMATE_PSEUDOCODE_Q056
+### Item 64: TOPMATE_PSEUDOCODE_Q056  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 44)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -962,7 +1282,12 @@ Step-by-step register execution confirms C.
 
 ---
 
-### Item 65: TOPMATE_PSEUDOCODE_Q057
+### Item 65: TOPMATE_PSEUDOCODE_Q057  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 45)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -976,7 +1301,12 @@ Step-by-step register execution confirms B.
 
 ---
 
-### Item 66: TOPMATE_PSEUDOCODE_Q058
+### Item 66: TOPMATE_PSEUDOCODE_Q058  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 45)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -990,7 +1320,12 @@ Step-by-step register execution confirms A.
 
 ---
 
-### Item 67: TOPMATE_PSEUDOCODE_Q059
+### Item 67: TOPMATE_PSEUDOCODE_Q059  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 46)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1004,7 +1339,12 @@ Step-by-step register execution confirms 8.
 
 ---
 
-### Item 68: TOPMATE_PSEUDOCODE_Q060
+### Item 68: TOPMATE_PSEUDOCODE_Q060  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 47)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1018,7 +1358,12 @@ Step-by-step register execution confirms 18.
 
 ---
 
-### Item 69: TOPMATE_PSEUDOCODE_Q061
+### Item 69: TOPMATE_PSEUDOCODE_Q061  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 48)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1032,7 +1377,12 @@ Step-by-step register execution confirms C.
 
 ---
 
-### Item 70: TOPMATE_PSEUDOCODE_Q062
+### Item 70: TOPMATE_PSEUDOCODE_Q062  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 48)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1046,7 +1396,12 @@ Step-by-step register execution confirms 16.
 
 ---
 
-### Item 71: TOPMATE_PSEUDOCODE_Q063
+### Item 71: TOPMATE_PSEUDOCODE_Q063  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 49)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1060,7 +1415,12 @@ Step-by-step register execution confirms B.
 
 ---
 
-### Item 72: TOPMATE_PSEUDOCODE_Q064
+### Item 72: TOPMATE_PSEUDOCODE_Q064  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 50)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1074,7 +1434,12 @@ Step-by-step register execution confirms 10.
 
 ---
 
-### Item 73: TOPMATE_PSEUDOCODE_Q065
+### Item 73: TOPMATE_PSEUDOCODE_Q065  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 50)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1088,7 +1453,12 @@ Step-by-step register execution confirms 10.
 
 ---
 
-### Item 74: TOPMATE_PSEUDOCODE_Q066
+### Item 74: TOPMATE_PSEUDOCODE_Q066  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 51)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1102,7 +1472,12 @@ Step-by-step register execution confirms 14.
 
 ---
 
-### Item 75: TOPMATE_PSEUDOCODE_Q067
+### Item 75: TOPMATE_PSEUDOCODE_Q067  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 52)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1116,7 +1491,12 @@ Step-by-step register execution confirms 26.
 
 ---
 
-### Item 76: TOPMATE_PSEUDOCODE_Q068
+### Item 76: TOPMATE_PSEUDOCODE_Q068  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 52)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1130,7 +1510,12 @@ Step-by-step register execution confirms 26.
 
 ---
 
-### Item 77: TOPMATE_PSEUDOCODE_Q069
+### Item 77: TOPMATE_PSEUDOCODE_Q069  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 53)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1144,7 +1529,12 @@ Step-by-step register execution confirms 3.
 
 ---
 
-### Item 78: TOPMATE_PSEUDOCODE_Q070
+### Item 78: TOPMATE_PSEUDOCODE_Q070  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 53)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1158,7 +1548,12 @@ Step-by-step register execution confirms 34.
 
 ---
 
-### Item 79: TOPMATE_PSEUDOCODE_Q071
+### Item 79: TOPMATE_PSEUDOCODE_Q071  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 54)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1172,7 +1567,12 @@ Step-by-step register execution confirms 27.
 
 ---
 
-### Item 80: TOPMATE_PSEUDOCODE_Q072
+### Item 80: TOPMATE_PSEUDOCODE_Q072  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 55)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1186,7 +1586,12 @@ Step-by-step register execution confirms A.
 
 ---
 
-### Item 81: TOPMATE_PSEUDOCODE_Q073
+### Item 81: TOPMATE_PSEUDOCODE_Q073  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 55)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1200,7 +1605,12 @@ Step-by-step register execution confirms C.
 
 ---
 
-### Item 82: TOPMATE_PSEUDOCODE_Q074
+### Item 82: TOPMATE_PSEUDOCODE_Q074  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 56)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1214,7 +1624,12 @@ Step-by-step register execution confirms C.
 
 ---
 
-### Item 83: TOPMATE_PSEUDOCODE_Q075
+### Item 83: TOPMATE_PSEUDOCODE_Q075  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 57)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1228,7 +1643,12 @@ Step-by-step register execution confirms D.
 
 ---
 
-### Item 84: TOPMATE_PSEUDOCODE_Q076
+### Item 84: TOPMATE_PSEUDOCODE_Q076  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 58)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1242,7 +1662,12 @@ Step-by-step register execution confirms C.
 
 ---
 
-### Item 85: TOPMATE_PSEUDOCODE_Q077
+### Item 85: TOPMATE_PSEUDOCODE_Q077  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 58)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1256,7 +1681,12 @@ Step-by-step register execution confirms HeyAnshika.
 
 ---
 
-### Item 86: TOPMATE_PSEUDOCODE_Q078
+### Item 86: TOPMATE_PSEUDOCODE_Q078  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 59)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1270,7 +1700,12 @@ Step-by-step register execution confirms 15.
 
 ---
 
-### Item 87: TOPMATE_PSEUDOCODE_Q080
+### Item 87: TOPMATE_PSEUDOCODE_Q080  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 61)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1284,7 +1719,12 @@ Step-by-step register execution confirms 2.
 
 ---
 
-### Item 88: TOPMATE_PSEUDOCODE_Q081
+### Item 88: TOPMATE_PSEUDOCODE_Q081  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 62)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1298,7 +1738,12 @@ Step-by-step register execution confirms 2.
 
 ---
 
-### Item 89: TOPMATE_PSEUDOCODE_Q082
+### Item 89: TOPMATE_PSEUDOCODE_Q082  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 63)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1312,7 +1757,12 @@ Step-by-step register execution confirms D.
 
 ---
 
-### Item 90: TOPMATE_PSEUDOCODE_Q083
+### Item 90: TOPMATE_PSEUDOCODE_Q083  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 64)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1326,7 +1776,12 @@ Step-by-step register execution confirms D.
 
 ---
 
-### Item 91: TOPMATE_PSEUDOCODE_Q084
+### Item 91: TOPMATE_PSEUDOCODE_Q084  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 65)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1340,7 +1795,12 @@ Step-by-step register execution confirms A.
 
 ---
 
-### Item 92: TOPMATE_PSEUDOCODE_Q085
+### Item 92: TOPMATE_PSEUDOCODE_Q085  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 66)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1354,7 +1814,12 @@ Step-by-step register execution confirms A.
 
 ---
 
-### Item 93: TOPMATE_PSEUDOCODE_Q086
+### Item 93: TOPMATE_PSEUDOCODE_Q086  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 66)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1368,7 +1833,12 @@ Step-by-step register execution confirms A.
 
 ---
 
-### Item 94: TOPMATE_PSEUDOCODE_Q087
+### Item 94: TOPMATE_PSEUDOCODE_Q087  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 67)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1382,7 +1852,12 @@ Step-by-step register execution confirms A.
 
 ---
 
-### Item 95: TOPMATE_PSEUDOCODE_Q088
+### Item 95: TOPMATE_PSEUDOCODE_Q088  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 68)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1396,7 +1871,12 @@ Step-by-step register execution confirms A.
 
 ---
 
-### Item 96: TOPMATE_PSEUDOCODE_Q089
+### Item 96: TOPMATE_PSEUDOCODE_Q089  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 69)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1410,7 +1890,12 @@ Step-by-step register execution confirms C.
 
 ---
 
-### Item 97: TOPMATE_PSEUDOCODE_Q090
+### Item 97: TOPMATE_PSEUDOCODE_Q090  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 69)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1424,7 +1909,12 @@ Step-by-step register execution confirms C.
 
 ---
 
-### Item 98: TOPMATE_PSEUDOCODE_Q091
+### Item 98: TOPMATE_PSEUDOCODE_Q091  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 70)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1438,7 +1928,12 @@ Step-by-step register execution confirms 3 10 27 70.
 
 ---
 
-### Item 99: TOPMATE_PSEUDOCODE_Q092
+### Item 99: TOPMATE_PSEUDOCODE_Q092  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 71)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1452,7 +1947,12 @@ Step-by-step register execution confirms 8 * 2^24.
 
 ---
 
-### Item 100: TOPMATE_PSEUDOCODE_Q093
+### Item 100: TOPMATE_PSEUDOCODE_Q093  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 71)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1466,7 +1966,12 @@ Step-by-step register execution confirms 8 * 2^24.
 
 ---
 
-### Item 101: TOPMATE_PSEUDOCODE_Q094
+### Item 101: TOPMATE_PSEUDOCODE_Q094  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 72)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1480,7 +1985,12 @@ Step-by-step register execution confirms False.
 
 ---
 
-### Item 102: TOPMATE_PSEUDOCODE_Q095
+### Item 102: TOPMATE_PSEUDOCODE_Q095  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 72)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1494,7 +2004,12 @@ Step-by-step register execution confirms False.
 
 ---
 
-### Item 103: TOPMATE_PSEUDOCODE_Q096
+### Item 103: TOPMATE_PSEUDOCODE_Q096  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 73)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1508,7 +2023,12 @@ Step-by-step register execution confirms C.
 
 ---
 
-### Item 104: TOPMATE_PSEUDOCODE_Q097
+### Item 104: TOPMATE_PSEUDOCODE_Q097  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 73)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1522,7 +2042,12 @@ Step-by-step register execution confirms C.
 
 ---
 
-### Item 105: TOPMATE_PSEUDOCODE_Q098
+### Item 105: TOPMATE_PSEUDOCODE_Q098  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 74)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1536,7 +2061,12 @@ Step-by-step register execution confirms 0.
 
 ---
 
-### Item 106: TOPMATE_PSEUDOCODE_Q099
+### Item 106: TOPMATE_PSEUDOCODE_Q099  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 75)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1550,7 +2080,12 @@ Step-by-step register execution confirms B.
 
 ---
 
-### Item 107: TOPMATE_PSEUDOCODE_Q100
+### Item 107: TOPMATE_PSEUDOCODE_Q100  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 75)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1564,7 +2099,12 @@ Step-by-step register execution confirms 18.
 
 ---
 
-### Item 108: TOPMATE_PSEUDOCODE_Q101
+### Item 108: TOPMATE_PSEUDOCODE_Q101  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 76)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1578,7 +2118,12 @@ Step-by-step register execution confirms 0,1.
 
 ---
 
-### Item 109: TOPMATE_PSEUDOCODE_Q102
+### Item 109: TOPMATE_PSEUDOCODE_Q102  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 77)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1592,7 +2137,12 @@ Step-by-step register execution confirms 337.
 
 ---
 
-### Item 110: TOPMATE_PSEUDOCODE_Q103
+### Item 110: TOPMATE_PSEUDOCODE_Q103  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 78)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1606,7 +2156,12 @@ Step-by-step register execution confirms 21.
 
 ---
 
-### Item 111: TOPMATE_PSEUDOCODE_Q104
+### Item 111: TOPMATE_PSEUDOCODE_Q104  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 79)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1620,7 +2175,12 @@ Step-by-step register execution confirms A.
 
 ---
 
-### Item 112: TOPMATE_PSEUDOCODE_Q105
+### Item 112: TOPMATE_PSEUDOCODE_Q105  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 79)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1634,7 +2194,12 @@ Step-by-step register execution confirms 90.
 
 ---
 
-### Item 113: TOPMATE_PSEUDOCODE_Q106
+### Item 113: TOPMATE_PSEUDOCODE_Q106  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 80)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1648,7 +2213,12 @@ Step-by-step register execution confirms Option C.
 
 ---
 
-### Item 114: TOPMATE_PSEUDOCODE_Q107
+### Item 114: TOPMATE_PSEUDOCODE_Q107  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 81)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1662,7 +2232,12 @@ Step-by-step register execution confirms Option D.
 
 ---
 
-### Item 115: TOPMATE_PSEUDOCODE_Q108
+### Item 115: TOPMATE_PSEUDOCODE_Q108  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 82)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1676,7 +2251,12 @@ Step-by-step register execution confirms Option C.
 
 ---
 
-### Item 116: TOPMATE_PSEUDOCODE_Q109
+### Item 116: TOPMATE_PSEUDOCODE_Q109  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 83)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1690,7 +2270,12 @@ Step-by-step register execution confirms Option B.
 
 ---
 
-### Item 117: TOPMATE_PSEUDOCODE_Q110
+### Item 117: TOPMATE_PSEUDOCODE_Q110  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 84)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1704,7 +2289,12 @@ Step-by-step register execution confirms Option B.
 
 ---
 
-### Item 118: TOPMATE_PSEUDOCODE_Q111
+### Item 118: TOPMATE_PSEUDOCODE_Q111  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 85)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1718,7 +2308,12 @@ Step-by-step register execution confirms Option D.
 
 ---
 
-### Item 119: TOPMATE_PSEUDOCODE_Q112
+### Item 119: TOPMATE_PSEUDOCODE_Q112  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 85)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1732,7 +2327,12 @@ Step-by-step register execution confirms Option D.
 
 ---
 
-### Item 120: TOPMATE_PSEUDOCODE_Q113
+### Item 120: TOPMATE_PSEUDOCODE_Q113  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 86)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1746,7 +2346,12 @@ Step-by-step register execution confirms Option C.
 
 ---
 
-### Item 121: TOPMATE_PSEUDOCODE_Q114
+### Item 121: TOPMATE_PSEUDOCODE_Q114  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 87)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
@@ -1760,7 +2365,12 @@ Step-by-step register execution confirms Option A.
 
 ---
 
-### Item 122: TOPMATE_PSEUDOCODE_Q115
+### Item 122: TOPMATE_PSEUDOCODE_Q115  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Source Document:** `Infosys Pseudocodes.pdf` (Page 88)  
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?

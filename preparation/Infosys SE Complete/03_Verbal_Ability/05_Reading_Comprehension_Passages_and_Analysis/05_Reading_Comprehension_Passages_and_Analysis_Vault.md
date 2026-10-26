@@ -23,12 +23,22 @@ Below is the definitive, unabridged archive of all reading comprehension passage
 ## Part 1: CampusMonk Premier Reading Comprehension Vault
 
 
-## Problem 001 (ID: `SEC0405_RC_P1_Q01`)
+## Problem 001  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC_P1_Q01`)
 - **Source Module**: `Live _ Infosys Previous year / Practice Sets`
 - **Source File**: `Reading Comprehension2311.pdf`
 - **Topic Domain**: **Reading Comprehension: AI & Workforce Transformation**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Read the passage and answer the question below:
 
 [Passage Excerpt]:
@@ -55,12 +65,22 @@ Paragraph Reference: The passage explicitly explores both dimensions: benefits (
 
 ---
 
-## Problem 002 (ID: `SEC0405_RC_P1_Q02`)
+## Problem 002  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC_P1_Q02`)
 - **Source Module**: `Live _ Infosys Previous year / Practice Sets`
 - **Source File**: `Reading Comprehension2311.pdf`
 - **Topic Domain**: **Reading Comprehension: AI & Workforce Transformation**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Read the passage and answer the question below:
 
 [Passage Excerpt]:
@@ -87,12 +107,22 @@ Paragraph Reference: 'Proponents, however, contend that AI augments human capabi
 
 ---
 
-## Problem 003 (ID: `SEC0405_RC_P1_Q03`)
+## Problem 003  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC_P1_Q03`)
 - **Source Module**: `Live _ Infosys Previous year / Practice Sets`
 - **Source File**: `Reading Comprehension2311.pdf`
 - **Topic Domain**: **Reading Comprehension: AI & Workforce Transformation**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Read the passage and answer the question below:
 
 [Passage Excerpt]:
@@ -119,12 +149,22 @@ Paragraph Reference: 'Critics argue that AI can inadvertently perpetuate biases 
 
 ---
 
-## Problem 004 (ID: `SEC0405_RC_P1_Q04`)
+## Problem 004  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC_P1_Q04`)
 - **Source Module**: `Live _ Infosys Previous year / Practice Sets`
 - **Source File**: `Reading Comprehension2311.pdf`
 - **Topic Domain**: **Reading Comprehension: AI & Workforce Transformation**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Read the passage and answer the question below:
 
 [Passage Excerpt]:
@@ -151,12 +191,22 @@ Vocabulary in Context: 'render certain job roles obsolete' means that automation
 
 ---
 
-## Problem 005 (ID: `SEC0405_RC_P1_Q05`)
+## Problem 005  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC_P1_Q05`)
 - **Source Module**: `Live _ Infosys Previous year / Practice Sets`
 - **Source File**: `Reading Comprehension2311.pdf`
 - **Topic Domain**: **Reading Comprehension: AI & Workforce Transformation**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Read the passage and answer the question below:
 
 [Passage Excerpt]:
@@ -183,12 +233,22 @@ Paragraph Reference: 'Organizations that successfully implement AI balance techn
 
 ---
 
-## Problem 006 (ID: `SEC0405_RC01_Q01`)
+## Problem 006  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC01_Q01`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
 Though many take creativity for granted, it is a trait not possessed by everyone. Many people are labelled as primarily “right brained” or “left brained” (if such a thing exists): It is argued that highly intellectual, logical types are less likely to be creative, have less wild imaginations and are typically rule followers who do not believe in much of anything that cannot be logically quantified. Regardless of the left brain / right brain argument, imagination unleashes creativity, allowing you to live a life filled with potential. The creative individual does not see the sky as the limit, instead the limit is as far as he or she can imagine. They not only think outside the box, for them there is no box, and so their brains are constantly challenged, humming and conjuring up all sorts of goodies. Anything the mind can conjure is good enough to become true, be it work, life, personal goals accomplishments or anything. A very good trait to cultivate from childhood.
@@ -218,12 +278,22 @@ Refer the last few lines of first paragraph "But stifling your imagination is th
 
 ---
 
-## Problem 007 (ID: `SEC0405_RC01_Q02`)
+## Problem 007  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC01_Q02`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
 Though many take creativity for granted, it is a trait not possessed by everyone. Many people are labelled as primarily “right brained” or “left brained” (if such a thing exists): It is argued that highly intellectual, logical types are less likely to be creative, have less wild imaginations and are typically rule followers who do not believe in much of anything that cannot be logically quantified. Regardless of the left brain / right brain argument, imagination unleashes creativity, allowing you to live a life filled with potential. The creative individual does not see the sky as the limit, instead the limit is as far as he or she can imagine. They not only think outside the box, for them there is no box, and so their brains are constantly challenged, humming and conjuring up all sorts of goodies. Anything the mind can conjure is good enough to become true, be it work, life, personal goals accomplishments or anything. A very good trait to cultivate from childhood.
@@ -250,12 +320,22 @@ Refer second paragraph of the passage " The creative individual does not see the
 
 ---
 
-## Problem 008 (ID: `SEC0405_RC01_Q03`)
+## Problem 008  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC01_Q03`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
 Though many take creativity for granted, it is a trait not possessed by everyone. Many people are labelled as primarily “right brained” or “left brained” (if such a thing exists): It is argued that highly intellectual, logical types are less likely to be creative, have less wild imaginations and are typically rule followers who do not believe in much of anything that cannot be logically quantified. Regardless of the left brain / right brain argument, imagination unleashes creativity, allowing you to live a life filled with potential. The creative individual does not see the sky as the limit, instead the limit is as far as he or she can imagine. They not only think outside the box, for them there is no box, and so their brains are constantly challenged, humming and conjuring up all sorts of goodies. Anything the mind can conjure is good enough to become true, be it work, life, personal goals accomplishments or anything. A very good trait to cultivate from childhood.
@@ -283,12 +363,22 @@ Refer the third paragraph of the passage "our imagination may leave you in a goo
 
 ---
 
-## Problem 009 (ID: `SEC0405_RC01_Q04`)
+## Problem 009  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC01_Q04`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
 Though many take creativity for granted, it is a trait not possessed by everyone. Many people are labelled as primarily “right brained” or “left brained” (if such a thing exists): It is argued that highly intellectual, logical types are less likely to be creative, have less wild imaginations and are typically rule followers who do not believe in much of anything that cannot be logically quantified. Regardless of the left brain / right brain argument, imagination unleashes creativity, allowing you to live a life filled with potential. The creative individual does not see the sky as the limit, instead the limit is as far as he or she can imagine. They not only think outside the box, for them there is no box, and so their brains are constantly challenged, humming and conjuring up all sorts of goodies. Anything the mind can conjure is good enough to become true, be it work, life, personal goals accomplishments or anything. A very good trait to cultivate from childhood.
@@ -314,12 +404,22 @@ Q4. Which of the following is an appropriate title of the passage?
 
 ---
 
-## Problem 010 (ID: `SEC0405_RC01_Q05`)
+## Problem 010  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC01_Q05`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
 Though many take creativity for granted, it is a trait not possessed by everyone. Many people are labelled as primarily “right brained” or “left brained” (if such a thing exists): It is argued that highly intellectual, logical types are less likely to be creative, have less wild imaginations and are typically rule followers who do not believe in much of anything that cannot be logically quantified. Regardless of the left brain / right brain argument, imagination unleashes creativity, allowing you to live a life filled with potential. The creative individual does not see the sky as the limit, instead the limit is as far as he or she can imagine. They not only think outside the box, for them there is no box, and so their brains are constantly challenged, humming and conjuring up all sorts of goodies. Anything the mind can conjure is good enough to become true, be it work, life, personal goals accomplishments or anything. A very good trait to cultivate from childhood.
@@ -345,12 +445,22 @@ The passage is about about using imagination for different purposes. All the giv
 
 ---
 
-## Problem 011 (ID: `SEC0405_RC01_Q06`)
+## Problem 011  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC01_Q06`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
 Though many take creativity for granted, it is a trait not possessed by everyone. Many people are labelled as primarily “right brained” or “left brained” (if such a thing exists): It is argued that highly intellectual, logical types are less likely to be creative, have less wild imaginations and are typically rule followers who do not believe in much of anything that cannot be logically quantified. Regardless of the left brain / right brain argument, imagination unleashes creativity, allowing you to live a life filled with potential. The creative individual does not see the sky as the limit, instead the limit is as far as he or she can imagine. They not only think outside the box, for them there is no box, and so their brains are constantly challenged, humming and conjuring up all sorts of goodies. Anything the mind can conjure is good enough to become true, be it work, life, personal goals accomplishments or anything. A very good trait to cultivate from childhood.
@@ -377,12 +487,22 @@ Refer the last paragraph of the passage "On the other hand, someone who uses the
 
 ---
 
-## Problem 012 (ID: `SEC0405_RC01_Q07`)
+## Problem 012  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC01_Q07`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
 Though many take creativity for granted, it is a trait not possessed by everyone. Many people are labelled as primarily “right brained” or “left brained” (if such a thing exists): It is argued that highly intellectual, logical types are less likely to be creative, have less wild imaginations and are typically rule followers who do not believe in much of anything that cannot be logically quantified. Regardless of the left brain / right brain argument, imagination unleashes creativity, allowing you to live a life filled with potential. The creative individual does not see the sky as the limit, instead the limit is as far as he or she can imagine. They not only think outside the box, for them there is no box, and so their brains are constantly challenged, humming and conjuring up all sorts of goodies. Anything the mind can conjure is good enough to become true, be it work, life, personal goals accomplishments or anything. A very good trait to cultivate from childhood.
@@ -410,12 +530,22 @@ Conjure means implore (someone) to do something. Hence it has same meaning as ad
 
 ---
 
-## Problem 013 (ID: `SEC0405_RC01_Q08`)
+## Problem 013  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC01_Q08`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
 Though many take creativity for granted, it is a trait not possessed by everyone. Many people are labelled as primarily “right brained” or “left brained” (if such a thing exists): It is argued that highly intellectual, logical types are less likely to be creative, have less wild imaginations and are typically rule followers who do not believe in much of anything that cannot be logically quantified. Regardless of the left brain / right brain argument, imagination unleashes creativity, allowing you to live a life filled with potential. The creative individual does not see the sky as the limit, instead the limit is as far as he or she can imagine. They not only think outside the box, for them there is no box, and so their brains are constantly challenged, humming and conjuring up all sorts of goodies. Anything the mind can conjure is good enough to become true, be it work, life, personal goals accomplishments or anything. A very good trait to cultivate from childhood.
@@ -443,12 +573,22 @@ Quantified means express or measure the quantity of. Hence it has same meaning a
 
 ---
 
-## Problem 014 (ID: `SEC0405_RC01_Q09`)
+## Problem 014  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC01_Q09`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
 Though many take creativity for granted, it is a trait not possessed by everyone. Many people are labelled as primarily “right brained” or “left brained” (if such a thing exists): It is argued that highly intellectual, logical types are less likely to be creative, have less wild imaginations and are typically rule followers who do not believe in much of anything that cannot be logically quantified. Regardless of the left brain / right brain argument, imagination unleashes creativity, allowing you to live a life filled with potential. The creative individual does not see the sky as the limit, instead the limit is as far as he or she can imagine. They not only think outside the box, for them there is no box, and so their brains are constantly challenged, humming and conjuring up all sorts of goodies. Anything the mind can conjure is good enough to become true, be it work, life, personal goals accomplishments or anything. A very good trait to cultivate from childhood.
@@ -476,12 +616,22 @@ Meticulous means in a way that shows great attention to detail, very thoroughly.
 
 ---
 
-## Problem 015 (ID: `SEC0405_RC01_Q10`)
+## Problem 015  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC01_Q10`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
 Though many take creativity for granted, it is a trait not possessed by everyone. Many people are labelled as primarily “right brained” or “left brained” (if such a thing exists): It is argued that highly intellectual, logical types are less likely to be creative, have less wild imaginations and are typically rule followers who do not believe in much of anything that cannot be logically quantified. Regardless of the left brain / right brain argument, imagination unleashes creativity, allowing you to live a life filled with potential. The creative individual does not see the sky as the limit, instead the limit is as far as he or she can imagine. They not only think outside the box, for them there is no box, and so their brains are constantly challenged, humming and conjuring up all sorts of goodies. Anything the mind can conjure is good enough to become true, be it work, life, personal goals accomplishments or anything. A very good trait to cultivate from childhood.
@@ -509,12 +659,22 @@ Envision means imagine as a future possibility, visualize.. Hence it has opposit
 
 ---
 
-## Problem 016 (ID: `SEC0405_RC01_Q11`)
+## Problem 016  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC01_Q11`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (11-15): Read each sentence to find out whether there is any grammatical or idiomatic error in it. The error, if any, will be in one part of the sentence. The number of that part is the answer. If there is ‘No error’, the answer is (e). (Ignore errors of punctuation, if any.)
 Q11. As soon as we (A)/enter the hotel the (B)/Manager welcomes us and (C)/took us to the table. (D)/No Error (E)
 
@@ -537,12 +697,22 @@ Q11. As soon as we (A)/enter the hotel the (B)/Manager welcomes us and (C)/took 
 
 ---
 
-## Problem 017 (ID: `SEC0405_RC01_Q12`)
+## Problem 017  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC01_Q12`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 In spite of our several request (A)/ the owner of the house (B)/did not open (C)/the door of his house. (D)/No Error (E)
 
 ### Options
@@ -564,12 +734,22 @@ requests&rsquo; will be used in place of &lsquo;request&rsquo; because &lsquo;se
 
 ---
 
-## Problem 018 (ID: `SEC0405_RC01_Q13`)
+## Problem 018  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC01_Q13`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 The manager concluded that(A)/either Mahesh (B)/or Teja were (C)/responsible for the last week’s theft. (D)/No Error (E)
 
 ### Options
@@ -591,12 +771,22 @@ was&rsquo; will be used in place of &lsquo;were&rsquo; as if &lsquo;either&helli
 
 ---
 
-## Problem 019 (ID: `SEC0405_RC01_Q14`)
+## Problem 019  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC01_Q14`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 . I have told suresh (A)/that it will not be possible (B)/for me to carry on (C)/this kind of work. (D)/ No error. (E)
 
 ### Options
@@ -618,12 +808,22 @@ This is the solution
 
 ---
 
-## Problem 020 (ID: `SEC0405_RC01_Q15`)
+## Problem 020  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC01_Q15`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 In today meeting (A)/we must first discuss (B)/and thrash out the problem (C)/one by one. (D)/No error (E)
 
 ### Options
@@ -645,12 +845,22 @@ In today meeting (A)/we must first discuss (B)/and thrash out the problem (C)/on
 
 ---
 
-## Problem 021 (ID: `SEC0405_RC02_Q01`)
+## Problem 021  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC02_Q01`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (1-5): Read the given passage and answer the following questions based on the passage.
 For almost two decades, the Central Ground Water Board (CGWB) has been reporting on the increasing number of over-exploited blocks across India, the ‘dark’ category blocks. The recent annual book of CGWB has reported 1,034 units, out of the 6,584 units it monitors, as over-exploited. If this is the ‘crisis’, then we have had it for long. What has this not received enough attention? Is it because these zones are not in cities?
 Just to be sure how critical the ‘crisis’ is, CGWB’s 2013 estimates say that the groundwater development in India is just about 62% of the utilisable groundwater reserves. Similarly, a recent report by the Central Water Commission, prepared in collaboration with the Indian Space Research Organisation (ISRO), asserted that India is not yet in “water scarcity condition”. But it is certainly in a “water-stressed condition”, with reducing per capita water availability. Here, we certainly don’t mean to say that India can continue with the present ways of water management. We also cannot remain in a state of denial that a crisis is not in the making. However, certain steps need to be taken to ensure a more useful and productive discourse about water governance challenges.
@@ -678,12 +888,22 @@ Refer to the last and second last paragraph of this passage, it states that cris
 
 ---
 
-## Problem 022 (ID: `SEC0405_RC02_Q02`)
+## Problem 022  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC02_Q02`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (1-5): Read the given passage and answer the following questions based on the passage.
 For almost two decades, the Central Ground Water Board (CGWB) has been reporting on the increasing number of over-exploited blocks across India, the ‘dark’ category blocks. The recent annual book of CGWB has reported 1,034 units, out of the 6,584 units it monitors, as over-exploited. If this is the ‘crisis’, then we have had it for long. What has this not received enough attention? Is it because these zones are not in cities?
 Just to be sure how critical the ‘crisis’ is, CGWB’s 2013 estimates say that the groundwater development in India is just about 62% of the utilisable groundwater reserves. Similarly, a recent report by the Central Water Commission, prepared in collaboration with the Indian Space Research Organisation (ISRO), asserted that India is not yet in “water scarcity condition”. But it is certainly in a “water-stressed condition”, with reducing per capita water availability. Here, we certainly don’t mean to say that India can continue with the present ways of water management. We also cannot remain in a state of denial that a crisis is not in the making. However, certain steps need to be taken to ensure a more useful and productive discourse about water governance challenges.
@@ -711,12 +931,22 @@ Refer to the fourth paragraph of the passage, it states that the main challenge 
 
 ---
 
-## Problem 023 (ID: `SEC0405_RC02_Q03`)
+## Problem 023  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC02_Q03`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (1-5): Read the given passage and answer the following questions based on the passage.
 For almost two decades, the Central Ground Water Board (CGWB) has been reporting on the increasing number of over-exploited blocks across India, the ‘dark’ category blocks. The recent annual book of CGWB has reported 1,034 units, out of the 6,584 units it monitors, as over-exploited. If this is the ‘crisis’, then we have had it for long. What has this not received enough attention? Is it because these zones are not in cities?
 Just to be sure how critical the ‘crisis’ is, CGWB’s 2013 estimates say that the groundwater development in India is just about 62% of the utilisable groundwater reserves. Similarly, a recent report by the Central Water Commission, prepared in collaboration with the Indian Space Research Organisation (ISRO), asserted that India is not yet in “water scarcity condition”. But it is certainly in a “water-stressed condition”, with reducing per capita water availability. Here, we certainly don’t mean to say that India can continue with the present ways of water management. We also cannot remain in a state of denial that a crisis is not in the making. However, certain steps need to be taken to ensure a more useful and productive discourse about water governance challenges.
@@ -744,12 +974,22 @@ Refer to the, third, fourth and fifth paragraph of the above passage, the steps 
 
 ---
 
-## Problem 024 (ID: `SEC0405_RC02_Q04`)
+## Problem 024  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC02_Q04`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (1-5): Read the given passage and answer the following questions based on the passage.
 For almost two decades, the Central Ground Water Board (CGWB) has been reporting on the increasing number of over-exploited blocks across India, the ‘dark’ category blocks. The recent annual book of CGWB has reported 1,034 units, out of the 6,584 units it monitors, as over-exploited. If this is the ‘crisis’, then we have had it for long. What has this not received enough attention? Is it because these zones are not in cities?
 Just to be sure how critical the ‘crisis’ is, CGWB’s 2013 estimates say that the groundwater development in India is just about 62% of the utilisable groundwater reserves. Similarly, a recent report by the Central Water Commission, prepared in collaboration with the Indian Space Research Organisation (ISRO), asserted that India is not yet in “water scarcity condition”. But it is certainly in a “water-stressed condition”, with reducing per capita water availability. Here, we certainly don’t mean to say that India can continue with the present ways of water management. We also cannot remain in a state of denial that a crisis is not in the making. However, certain steps need to be taken to ensure a more useful and productive discourse about water governance challenges.
@@ -777,12 +1017,22 @@ With the given information about water governance strategies, all the options ar
 
 ---
 
-## Problem 025 (ID: `SEC0405_RC02_Q05`)
+## Problem 025  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC02_Q05`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (1-5): Read the given passage and answer the following questions based on the passage.
 For almost two decades, the Central Ground Water Board (CGWB) has been reporting on the increasing number of over-exploited blocks across India, the ‘dark’ category blocks. The recent annual book of CGWB has reported 1,034 units, out of the 6,584 units it monitors, as over-exploited. If this is the ‘crisis’, then we have had it for long. What has this not received enough attention? Is it because these zones are not in cities?
 Just to be sure how critical the ‘crisis’ is, CGWB’s 2013 estimates say that the groundwater development in India is just about 62% of the utilisable groundwater reserves. Similarly, a recent report by the Central Water Commission, prepared in collaboration with the Indian Space Research Organisation (ISRO), asserted that India is not yet in “water scarcity condition”. But it is certainly in a “water-stressed condition”, with reducing per capita water availability. Here, we certainly don’t mean to say that India can continue with the present ways of water management. We also cannot remain in a state of denial that a crisis is not in the making. However, certain steps need to be taken to ensure a more useful and productive discourse about water governance challenges.
@@ -810,12 +1060,22 @@ Option (c) , &lsquo;Strengthen&rsquo; is the most suitable word to fit in the bl
 
 ---
 
-## Problem 026 (ID: `SEC0405_RC02_Q06`)
+## Problem 026  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC02_Q06`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (6-10): Read the given passage and answer the following questions based on the passage.
 There has been much development recently with respect to the Protection of Children from Sexual Offences (POCSO) Act, 2012. With an objective of stopping the rampant sexual abuse of children, the Protection of Children from Sexual Offences (Amendment) Bill, 2019 was introduced in the Rajya Sabha in July, and later passed by both Houses of Parliament. It is all set to become the ‘law of the land’. The present bill is welcome in certain respects as it specifically defines what ‘child pornography’ is; ‘using a child for pornographic purposes’ and for ‘possessing or storing pornography involving a child’ is punishable. It has also widened the ambit of ‘Aggravated sexual assault’.
 The highlight of the Bill is the introduction of the death penalty for the rape of minors. The Bill, in its object clause, justifies this by referring to the judgments of the Supreme Court in Machhi Singh (1983) and Devender Pal Singh (2002) in which the court has held that the death penalty can be awarded only in rarest of rare cases. Thus the intention of the Bill is to have a deterrent effect; but it can be argued that the introduction of the death penalty may backfire in cases of child sexual abuse and even have a catastrophic effect. Often, the perpetrators of abuse are family members and having such penalty in the statute book may discourage the registration of the crime itself. Also, it may threaten the life of the minor as the maximum punishment for murder is also the death sentence.
@@ -846,12 +1106,22 @@ Option (a) is the most suitable answer choice. It fits as the title of the passa
 
 ---
 
-## Problem 027 (ID: `SEC0405_RC02_Q07`)
+## Problem 027  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC02_Q07`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (6-10): Read the given passage and answer the following questions based on the passage.
 There has been much development recently with respect to the Protection of Children from Sexual Offences (POCSO) Act, 2012. With an objective of stopping the rampant sexual abuse of children, the Protection of Children from Sexual Offences (Amendment) Bill, 2019 was introduced in the Rajya Sabha in July, and later passed by both Houses of Parliament. It is all set to become the ‘law of the land’. The present bill is welcome in certain respects as it specifically defines what ‘child pornography’ is; ‘using a child for pornographic purposes’ and for ‘possessing or storing pornography involving a child’ is punishable. It has also widened the ambit of ‘Aggravated sexual assault’.
 The highlight of the Bill is the introduction of the death penalty for the rape of minors. The Bill, in its object clause, justifies this by referring to the judgments of the Supreme Court in Machhi Singh (1983) and Devender Pal Singh (2002) in which the court has held that the death penalty can be awarded only in rarest of rare cases. Thus the intention of the Bill is to have a deterrent effect; but it can be argued that the introduction of the death penalty may backfire in cases of child sexual abuse and even have a catastrophic effect. Often, the perpetrators of abuse are family members and having such penalty in the statute book may discourage the registration of the crime itself. Also, it may threaten the life of the minor as the maximum punishment for murder is also the death sentence.
@@ -882,12 +1152,22 @@ Refer to the introductory paragraph of this passage. The elements are mentioned 
 
 ---
 
-## Problem 028 (ID: `SEC0405_RC02_Q08`)
+## Problem 028  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC02_Q08`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (6-10): Read the given passage and answer the following questions based on the passage.
 There has been much development recently with respect to the Protection of Children from Sexual Offences (POCSO) Act, 2012. With an objective of stopping the rampant sexual abuse of children, the Protection of Children from Sexual Offences (Amendment) Bill, 2019 was introduced in the Rajya Sabha in July, and later passed by both Houses of Parliament. It is all set to become the ‘law of the land’. The present bill is welcome in certain respects as it specifically defines what ‘child pornography’ is; ‘using a child for pornographic purposes’ and for ‘possessing or storing pornography involving a child’ is punishable. It has also widened the ambit of ‘Aggravated sexual assault’.
 The highlight of the Bill is the introduction of the death penalty for the rape of minors. The Bill, in its object clause, justifies this by referring to the judgments of the Supreme Court in Machhi Singh (1983) and Devender Pal Singh (2002) in which the court has held that the death penalty can be awarded only in rarest of rare cases. Thus the intention of the Bill is to have a deterrent effect; but it can be argued that the introduction of the death penalty may backfire in cases of child sexual abuse and even have a catastrophic effect. Often, the perpetrators of abuse are family members and having such penalty in the statute book may discourage the registration of the crime itself. Also, it may threaten the life of the minor as the maximum punishment for murder is also the death sentence.
@@ -918,12 +1198,22 @@ Refer to the third paragraph of this passage, where it elaborates the statement 
 
 ---
 
-## Problem 029 (ID: `SEC0405_RC02_Q09`)
+## Problem 029  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC02_Q09`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (6-10): Read the given passage and answer the following questions based on the passage.
 There has been much development recently with respect to the Protection of Children from Sexual Offences (POCSO) Act, 2012. With an objective of stopping the rampant sexual abuse of children, the Protection of Children from Sexual Offences (Amendment) Bill, 2019 was introduced in the Rajya Sabha in July, and later passed by both Houses of Parliament. It is all set to become the ‘law of the land’. The present bill is welcome in certain respects as it specifically defines what ‘child pornography’ is; ‘using a child for pornographic purposes’ and for ‘possessing or storing pornography involving a child’ is punishable. It has also widened the ambit of ‘Aggravated sexual assault’.
 The highlight of the Bill is the introduction of the death penalty for the rape of minors. The Bill, in its object clause, justifies this by referring to the judgments of the Supreme Court in Machhi Singh (1983) and Devender Pal Singh (2002) in which the court has held that the death penalty can be awarded only in rarest of rare cases. Thus the intention of the Bill is to have a deterrent effect; but it can be argued that the introduction of the death penalty may backfire in cases of child sexual abuse and even have a catastrophic effect. Often, the perpetrators of abuse are family members and having such penalty in the statute book may discourage the registration of the crime itself. Also, it may threaten the life of the minor as the maximum punishment for murder is also the death sentence.
@@ -954,12 +1244,22 @@ Statement given in option (c) is not true because death penalty it is introduced
 
 ---
 
-## Problem 030 (ID: `SEC0405_RC02_Q10`)
+## Problem 030  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC02_Q10`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (6-10): Read the given passage and answer the following questions based on the passage.
 There has been much development recently with respect to the Protection of Children from Sexual Offences (POCSO) Act, 2012. With an objective of stopping the rampant sexual abuse of children, the Protection of Children from Sexual Offences (Amendment) Bill, 2019 was introduced in the Rajya Sabha in July, and later passed by both Houses of Parliament. It is all set to become the ‘law of the land’. The present bill is welcome in certain respects as it specifically defines what ‘child pornography’ is; ‘using a child for pornographic purposes’ and for ‘possessing or storing pornography involving a child’ is punishable. It has also widened the ambit of ‘Aggravated sexual assault’.
 The highlight of the Bill is the introduction of the death penalty for the rape of minors. The Bill, in its object clause, justifies this by referring to the judgments of the Supreme Court in Machhi Singh (1983) and Devender Pal Singh (2002) in which the court has held that the death penalty can be awarded only in rarest of rare cases. Thus the intention of the Bill is to have a deterrent effect; but it can be argued that the introduction of the death penalty may backfire in cases of child sexual abuse and even have a catastrophic effect. Often, the perpetrators of abuse are family members and having such penalty in the statute book may discourage the registration of the crime itself. Also, it may threaten the life of the minor as the maximum punishment for murder is also the death sentence.
@@ -990,12 +1290,22 @@ Ramification- Complex or unwelcomed consequences of an action of event (a)Acumen
 
 ---
 
-## Problem 031 (ID: `SEC0405_RC02_Q11`)
+## Problem 031  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC02_Q11`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (11-15): Read the following passage and answer the following questions based on the given passage.
 As the country celebrates 50 years since bank nationalisation, bank employees will be proud that they have contributed to nation-building. Still there are basic issues close to the bankman’s heart that are yet to find redressal, observes Jyothi KP, Vice-President, All-India Bank Officers’ Confederation, Kerala, and a National Executive Committee member.The Banking Companies (Acquisition and Transfer of Undertakings) Acts of 1970 and 1980 provide that the Central Government, in consultation with the Reserve Bank of India, may make a scheme, inter alia, for amalgamation of any nationalised bank with any other nationalised bank or any other banking institution. Various committees, including Narasimhan Committee (1998) constituted by the RBI, Leeladhar Committee (2008) chaired by the RBI Deputy Governor, and the Nayak Committee (2014) constituted by the RBI, have recommended consolidation of public sector banks (PSBs) given underlying benefits/synergies.
 Taking note of this and potential benefits of consolidation for banks as well as the public through enhanced access to banking services, the government, in order to facilitate consolidation among PSBs to create strong and competitive banks, serving as catalysts for growth, with improved risk profile, has approved a framework for proposals to amalgamate PSBs through an Alternative Mechanism.The following amalgamation/mergers have already happened post-nationalisation and some more are reportedly in the pipeline. This creates stress for the employees since they are scared for their existence and job security, observes Jyothi.
@@ -1028,12 +1338,22 @@ As it is mentioned in paragraph second, due to amalgamation of banks, the job se
 
 ---
 
-## Problem 032 (ID: `SEC0405_RC02_Q12`)
+## Problem 032  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC02_Q12`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (11-15): Read the following passage and answer the following questions based on the given passage.
 As the country celebrates 50 years since bank nationalisation, bank employees will be proud that they have contributed to nation-building. Still there are basic issues close to the bankman’s heart that are yet to find redressal, observes Jyothi KP, Vice-President, All-India Bank Officers’ Confederation, Kerala, and a National Executive Committee member.The Banking Companies (Acquisition and Transfer of Undertakings) Acts of 1970 and 1980 provide that the Central Government, in consultation with the Reserve Bank of India, may make a scheme, inter alia, for amalgamation of any nationalised bank with any other nationalised bank or any other banking institution. Various committees, including Narasimhan Committee (1998) constituted by the RBI, Leeladhar Committee (2008) chaired by the RBI Deputy Governor, and the Nayak Committee (2014) constituted by the RBI, have recommended consolidation of public sector banks (PSBs) given underlying benefits/synergies.
 Taking note of this and potential benefits of consolidation for banks as well as the public through enhanced access to banking services, the government, in order to facilitate consolidation among PSBs to create strong and competitive banks, serving as catalysts for growth, with improved risk profile, has approved a framework for proposals to amalgamate PSBs through an Alternative Mechanism.The following amalgamation/mergers have already happened post-nationalisation and some more are reportedly in the pipeline. This creates stress for the employees since they are scared for their existence and job security, observes Jyothi.
@@ -1066,12 +1386,22 @@ Referring to the paragraph fifth, the provisions in the section 5 of banking reg
 
 ---
 
-## Problem 033 (ID: `SEC0405_RC02_Q13`)
+## Problem 033  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC02_Q13`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (11-15): Read the following passage and answer the following questions based on the given passage.
 As the country celebrates 50 years since bank nationalisation, bank employees will be proud that they have contributed to nation-building. Still there are basic issues close to the bankman’s heart that are yet to find redressal, observes Jyothi KP, Vice-President, All-India Bank Officers’ Confederation, Kerala, and a National Executive Committee member.The Banking Companies (Acquisition and Transfer of Undertakings) Acts of 1970 and 1980 provide that the Central Government, in consultation with the Reserve Bank of India, may make a scheme, inter alia, for amalgamation of any nationalised bank with any other nationalised bank or any other banking institution. Various committees, including Narasimhan Committee (1998) constituted by the RBI, Leeladhar Committee (2008) chaired by the RBI Deputy Governor, and the Nayak Committee (2014) constituted by the RBI, have recommended consolidation of public sector banks (PSBs) given underlying benefits/synergies.
 Taking note of this and potential benefits of consolidation for banks as well as the public through enhanced access to banking services, the government, in order to facilitate consolidation among PSBs to create strong and competitive banks, serving as catalysts for growth, with improved risk profile, has approved a framework for proposals to amalgamate PSBs through an Alternative Mechanism.The following amalgamation/mergers have already happened post-nationalisation and some more are reportedly in the pipeline. This creates stress for the employees since they are scared for their existence and job security, observes Jyothi.
@@ -1104,12 +1434,22 @@ Paragraph third and fourth of this passage contains the reasons behind the traum
 
 ---
 
-## Problem 034 (ID: `SEC0405_RC02_Q14`)
+## Problem 034  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC02_Q14`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (11-15): Read the following passage and answer the following questions based on the given passage.
 As the country celebrates 50 years since bank nationalisation, bank employees will be proud that they have contributed to nation-building. Still there are basic issues close to the bankman’s heart that are yet to find redressal, observes Jyothi KP, Vice-President, All-India Bank Officers’ Confederation, Kerala, and a National Executive Committee member.The Banking Companies (Acquisition and Transfer of Undertakings) Acts of 1970 and 1980 provide that the Central Government, in consultation with the Reserve Bank of India, may make a scheme, inter alia, for amalgamation of any nationalised bank with any other nationalised bank or any other banking institution. Various committees, including Narasimhan Committee (1998) constituted by the RBI, Leeladhar Committee (2008) chaired by the RBI Deputy Governor, and the Nayak Committee (2014) constituted by the RBI, have recommended consolidation of public sector banks (PSBs) given underlying benefits/synergies.
 Taking note of this and potential benefits of consolidation for banks as well as the public through enhanced access to banking services, the government, in order to facilitate consolidation among PSBs to create strong and competitive banks, serving as catalysts for growth, with improved risk profile, has approved a framework for proposals to amalgamate PSBs through an Alternative Mechanism.The following amalgamation/mergers have already happened post-nationalisation and some more are reportedly in the pipeline. This creates stress for the employees since they are scared for their existence and job security, observes Jyothi.
@@ -1142,12 +1482,22 @@ As mentioned in paragraph 5th, we can conclude that all these acts of bankers sh
 
 ---
 
-## Problem 035 (ID: `SEC0405_RC02_Q15`)
+## Problem 035  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_RC02_Q15`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (11-15): Read the following passage and answer the following questions based on the given passage.
 As the country celebrates 50 years since bank nationalisation, bank employees will be proud that they have contributed to nation-building. Still there are basic issues close to the bankman’s heart that are yet to find redressal, observes Jyothi KP, Vice-President, All-India Bank Officers’ Confederation, Kerala, and a National Executive Committee member.The Banking Companies (Acquisition and Transfer of Undertakings) Acts of 1970 and 1980 provide that the Central Government, in consultation with the Reserve Bank of India, may make a scheme, inter alia, for amalgamation of any nationalised bank with any other nationalised bank or any other banking institution. Various committees, including Narasimhan Committee (1998) constituted by the RBI, Leeladhar Committee (2008) chaired by the RBI Deputy Governor, and the Nayak Committee (2014) constituted by the RBI, have recommended consolidation of public sector banks (PSBs) given underlying benefits/synergies.
 Taking note of this and potential benefits of consolidation for banks as well as the public through enhanced access to banking services, the government, in order to facilitate consolidation among PSBs to create strong and competitive banks, serving as catalysts for growth, with improved risk profile, has approved a framework for proposals to amalgamate PSBs through an Alternative Mechanism.The following amalgamation/mergers have already happened post-nationalisation and some more are reportedly in the pipeline. This creates stress for the employees since they are scared for their existence and job security, observes Jyothi.
@@ -1180,12 +1530,22 @@ Here, In the third paragraph of the passage, KP Jyothi is stating the measures h
 
 ---
 
-## Problem 036 (ID: `SEC0405_ENG_SESS_Q01`)
+## Problem 036  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_ENG_SESS_Q01`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `ENGLISH SESSION_QUESTIONS.json`
 - **Topic Domain**: **English Grammar & Verbal Comprehension Session**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 Directions (1-8): Read the following passage and answer the following questions based on the given passage. Some of the words are highlighted which would help you to answer some of the questions given.
 All political parties must be mindful of the core values that invigorate Indian democracyAs the countdown for elections to the 17th Lok Sabha begins, the world’s largest democracy has a chance to re-imagine itself. Over the last 16 general elections and numerous elections at lower levels, the resolute trust that the founding fathers of the Republic put in the parliamentary democratic system has been substantially proven wise. India did make some dangerous turns and show signs of fragility, especially during the Emergency in the 1970s, but in the long term it expanded the scope of its democracy through widening representation, devolution of power and redistribution of resources. This is not to overlook the various maladies that have afflicted the country’s democracy, such as disinformation campaigns, corruption, disenfranchisement of the weaker sections of the society, the corroding influence of money and muscle power in elections, and divisive majoritarian tendencies. (i) The representative character of institutions has in general improved, women and religious minorities are alarmingly underrepresented. The exercise of elections itself is a matter of great pride for all Indians. The Election Commission of India has over the decades evolved itself into a fine institution and plays a critical role in the support of democracy. Its efforts to increase voter participation through a series of small steps over the years, including the use of the Electronic Voting Machines, have been praiseworthy.
 The vulnerabilities of Indian democracy have been pronounced in the last five years, and some of its long-term gains have been undermined. Therefore, this election is more than an exercise to elect a new government. This should also be an occasion to reiterate and reinforce Indian democracy’s core values, its representative character and its promise of a constant rejuvenation of the collective spirit. The ECI has announced a series of fresh measures to strengthen the integrity of the electoral process and curb some rapidly growing hazards such as the spread of falsehoods aimed at creating social polarisation for consolidation of votes. Measures such as better monitoring of social media campaigns, while steps in the right direction, are not in themselves adequate to deal with the challenges of these times. The stakes are high for all contenders this year, and Indian politics has reached a level of competitiveness where ground rules of engagement are routinely disregarded. Prime Minister Narendra Modi, who rode to power in 2014 on the agenda of material progress through Hindutva, has to defend his reign to seek a second term. His opponents sense an existential danger from him and are trying to mobilise those left behind or who feel disempowered by his governance. While furthering individual interests, all parties must realise that democracy itself is at stake if the campaign is aimed at communal polarisation. Though the promise of Indian democracy has not been fully realised, voters have remained committed to it. They turn up in large numbers to vote, and consider the very act of voting as empowerment. That trust should be upheld.
@@ -1213,12 +1573,22 @@ To validate the answer, refer to the first paragraph of the passage given above,
 
 ---
 
-## Problem 037 (ID: `SEC0405_ENG_SESS_Q02`)
+## Problem 037  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_ENG_SESS_Q02`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `ENGLISH SESSION_QUESTIONS.json`
 - **Topic Domain**: **English Grammar & Verbal Comprehension Session**
 
-### Question Statement
+### Question Statement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 . According to the passage given above, what has been the primary reasonability of the Election Commissions?
 
 ### Options
@@ -1240,12 +1610,22 @@ To validate the answer, refer to the last few lines of the first paragraph of th
 
 ---
 
-## Problem 038 (ID: `SEC0405_ENG_SESS_Q03`)
+## Problem 038  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (ID: `SEC0405_ENG_SESS_Q03`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `ENGLISH SESSION_QUESTIONS.json`
 - **Topic Domain**: **English Grammar & Verbal Comprehension Session**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 What is the tone used by author in the italicized statement (i) in the passage given above?
 
 ### Options
@@ -1267,12 +1647,22 @@ In the italicized statement indicates contradiction. Hence, option (c) is the mo
 
 ---
 
-## Problem 039 (ID: `SEC0405_ENG_SESS_Q05`)
+## Problem 039  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q05`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `ENGLISH SESSION_QUESTIONS.json`
 - **Topic Domain**: **English Grammar & Verbal Comprehension Session**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Which of the following statements is true in context of the information available in the above passage ?
 
 ### Options
@@ -1294,12 +1684,22 @@ To validate the answer, refer to the first paragraph of the passage given above,
 
 ---
 
-## Problem 040 (ID: `SEC0405_ENG_SESS_Q06`)
+## Problem 040  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q06`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `ENGLISH SESSION_QUESTIONS.json`
 - **Topic Domain**: **English Grammar & Verbal Comprehension Session**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Which of the following can be the most appropriate title for the passage given above?
 
 ### Options
@@ -1321,12 +1721,22 @@ Among the given options, most appropriate choice for the title of the passage is
 
 ---
 
-## Problem 041 (ID: `SEC0405_ENG_SESS_Q08`)
+## Problem 041  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_ENG_SESS_Q08`)
 - **Source Module**: `Module 3_ Reading Comprehension`
 - **Source File**: `ENGLISH SESSION_QUESTIONS.json`
 - **Topic Domain**: **English Grammar & Verbal Comprehension Session**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Which of the following word is most similar to ADEQUATE, as highlighted in the above passage?
 
 ### Options
@@ -1348,12 +1758,22 @@ Among the given words, "apposite" is synonymous with "adequate". All other words
 
 ---
 
-## Problem 042 (ID: `SEC0405_PYQ50_Q01`)
+## Problem 042  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_PYQ50_Q01`)
 - **Source Module**: `PYQ Verbal Ability Questions`
 - **Source File**: `Verbal Ability.pdf`
 - **Topic Domain**: **Reading Comprehension: Central Idea**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 What is the main idea of the passage?
 
 ### Options
@@ -1373,12 +1793,22 @@ Passage analysis confirms that AI is presented as a 'double-edged sword' bringin
 
 ---
 
-## Problem 043 (ID: `SEC0405_PYQ50_Q02`)
+## Problem 043  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_PYQ50_Q02`)
 - **Source Module**: `PYQ Verbal Ability Questions`
 - **Source File**: `Verbal Ability.pdf`
 - **Topic Domain**: **Reading Comprehension: Detail Recall**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 According to the passage, what is a major concern related to AI in the
 workforce?
 
@@ -1400,12 +1830,22 @@ Paragraph text highlights job displacement and privacy/algorithmic bias as criti
 
 ---
 
-## Problem 044 (ID: `SEC0405_PYQ50_Q03`)
+## Problem 044  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_PYQ50_Q03`)
 - **Source Module**: `PYQ Verbal Ability Questions`
 - **Source File**: `Verbal Ability.pdf`
 - **Topic Domain**: **Reading Comprehension: Inference**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 What does the passage suggest about algorithmic bias?
 
 ### Options
@@ -1426,12 +1866,22 @@ Passage directly states: 'An AI system trained on biased data will perpetuate an
 
 ---
 
-## Problem 045 (ID: `SEC0405_PYQ50_Q04`)
+## Problem 045  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_PYQ50_Q04`)
 - **Source Module**: `PYQ Verbal Ability Questions`
 - **Source File**: `Verbal Ability.pdf`
 - **Topic Domain**: **Reading Comprehension: Direct Factual**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 The phrase "double-edged sword" is used to indicate that AI is:
 
 ### Options
@@ -1452,12 +1902,22 @@ Direct phrase quote from paragraph 1.
 
 ---
 
-## Problem 046 (ID: `SEC0405_PYQ50_Q05`)
+## Problem 046  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_PYQ50_Q05`)
 - **Source Module**: `PYQ Verbal Ability Questions`
 - **Source File**: `Verbal Ability.pdf`
 - **Topic Domain**: **Reading Comprehension: Author's Tone**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 What does the author propose as a necessary action for the future of
 AI?
 
@@ -1479,12 +1939,22 @@ Author maintains an objective, balanced tone discussing both pros and cons.
 
 ---
 
-## Problem 047 (ID: `SEC0405_PYQ50_Q06`)
+## Problem 047  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_PYQ50_Q06`)
 - **Source Module**: `PYQ Verbal Ability Questions`
 - **Source File**: `Verbal Ability.pdf`
 - **Topic Domain**: **Reading Comprehension: Main Theme**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 What is the primary purpose of this passage?
 
 ### Options
@@ -1505,12 +1975,22 @@ Passage 2 focuses on clean sustainable energy transition.
 
 ---
 
-## Problem 048 (ID: `SEC0405_PYQ50_Q07`)
+## Problem 048  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_PYQ50_Q07`)
 - **Source Module**: `PYQ Verbal Ability Questions`
 - **Source File**: `Verbal Ability.pdf`
 - **Topic Domain**: **Reading Comprehension: Factual Recall**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 Which of the following is NOT listed as a pillar of sustainability?
 
 ### Options
@@ -1531,12 +2011,22 @@ Text explicitly cites storage and intermittency as major hurdles.
 
 ---
 
-## Problem 049 (ID: `SEC0405_PYQ50_Q08`)
+## Problem 049  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_PYQ50_Q08`)
 - **Source Module**: `PYQ Verbal Ability Questions`
 - **Source File**: `Verbal Ability.pdf`
 - **Topic Domain**: **Reading Comprehension: Inference**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 The author believes that the common understanding of sustainability
 is often:
 
@@ -1558,12 +2048,22 @@ Passage states grid modernization is essential for renewable integration.
 
 ---
 
-## Problem 050 (ID: `SEC0405_PYQ50_Q09`)
+## Problem 050  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_PYQ50_Q09`)
 - **Source Module**: `PYQ Verbal Ability Questions`
 - **Source File**: `Verbal Ability.pdf`
 - **Topic Domain**: **Reading Comprehension: Vocabulary in Context**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 According to the passage, what does "social equity" in the context of
 sustainability imply?
 
@@ -1585,12 +2085,22 @@ Contextual replacement for shift / changeover.
 
 ---
 
-## Problem 051 (ID: `SEC0405_PYQ50_Q10`)
+## Problem 051  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (ID: `SEC0405_PYQ50_Q10`)
 - **Source Module**: `PYQ Verbal Ability Questions`
 - **Source File**: `Verbal Ability.pdf`
 - **Topic Domain**: **Reading Comprehension: Tone Analysis**
 
-### Question Statement
+### Question Statement  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 What is the author's vision of a "truly sustainable solution"?
 
 ### Options
@@ -1639,7 +2149,12 @@ Author provides informative factual overview with positive forward-looking stanc
 > **Passage Text:**  
 > *"In the world of science, data serves as the foundation of progress. Researchers collect,  analyze, and interpret data to understand natural phenomena. With the advancements in  technology, large-scale data collection has become more feasible, allowing scientists to  develop models that predict future trends. However, the sheer volume of data can sometimes  overwhelm, leading to challenges in sorting relevant information from irrelevant noise."*
 
-### Question RC-01
+### Question RC-01  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** What is the foundation of progress in the world of science, according to the passage?
 
@@ -1658,7 +2173,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-02
+### Question RC-02  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** What has made large-scale data collection more feasible?
 
@@ -1677,7 +2197,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-03
+### Question RC-03  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** What challenge arises from the large volume of data collected?
 
@@ -1701,7 +2226,12 @@ Author provides informative factual overview with positive forward-looking stanc
 > **Passage Text:**  
 > *"Global warming refers to the long-term rise in the average temperature of the Earth's climate  system. It is primarily caused by increased concentrations of greenhouse gases, which trap  heat in the atmosphere. Human activities, such as deforestation and burning fossil fuels, have  significantly contributed to this phenomenon. While the impacts of global warming can be  felt globally, some regions experience more extreme effects, such as rising sea levels and  more frequent natural disasters."*
 
-### Question RC-04
+### Question RC-04  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** What primarily causes global warming?
 
@@ -1720,7 +2250,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-05
+### Question RC-05  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** Which human activities have contributed significantly to global warming?
 
@@ -1739,7 +2274,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-06
+### Question RC-06  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** Which of the following is an impact of global warming mentioned in the passage?
 
@@ -1763,7 +2303,12 @@ Author provides informative factual overview with positive forward-looking stanc
 > **Passage Text:**  
 > *"Communication is an essential skill in today’s fast-paced world. With the rise of digital  platforms, people now have more ways to communicate than ever before. However, despite  the abundance of tools, effective communication still depends on the ability to convey ideas  clearly and listen actively. Miscommunication often occurs when messages are not carefully  crafted or when individuals fail to understand the perspectives of others."*
 
-### Question RC-07
+### Question RC-07  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** What is a key factor in effective communication?
 
@@ -1782,7 +2327,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-08
+### Question RC-08  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** What leads to miscommunication according to the passage?
 
@@ -1801,7 +2351,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-09
+### Question RC-09  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** Which of the following is not mentioned as an essential component of communication?
 
@@ -1825,7 +2380,12 @@ Author provides informative factual overview with positive forward-looking stanc
 > **Passage Text:**  
 > *"Nutrition plays a critical role in maintaining health and well-being. A balanced diet, rich in  vitamins and minerals, helps the body function properly and protects against diseases. While  some individuals follow strict diets for personal or cultural reasons, it is important to ensure  that all essential nutrients are consumed. Skipping meals or eliminating major food groups  can lead to nutrient deficiencies, which may affect overall health."*
 
-### Question RC-10
+### Question RC-10  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** What plays a critical role in maintaining health, according to the passage?
 
@@ -1844,7 +2404,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-11
+### Question RC-11  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** What is the consequence of skipping meals or eliminating major food groups?
 
@@ -1863,7 +2428,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-12
+### Question RC-12  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** What does a balanced diet protect the body from?
 
@@ -1887,7 +2457,12 @@ Author provides informative factual overview with positive forward-looking stanc
 > **Passage Text:**  
 > *"The Industrial Revolution, which began in the late 18th century, transformed societies from  agrarian economies to industrial powerhouses. Factories sprung up, and mass production  became the norm. This shift led to significant economic growth and urbanization, but also  brought about challenges such as poor working conditions and environmental degradation.  Over time, labor reforms and technological advancements have helped mitigate some of  these issues."*
 
-### Question RC-13
+### Question RC-13  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** What major change did the Industrial Revolution bring about?
 
@@ -1906,7 +2481,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-14
+### Question RC-14  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** What was one negative effect of the Industrial Revolution?
 
@@ -1925,7 +2505,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-15
+### Question RC-15  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** How were some of the negative effects of the Industrial Revolution mitigated?
 
@@ -1949,7 +2534,12 @@ Author provides informative factual overview with positive forward-looking stanc
 > **Passage Text:**  
 > *"Artificial intelligence (AI) is transforming industries by enabling machines to perform tasks  that typically require human intelligence. From healthcare to finance, AI is being used to  analyze data, recognize patterns, and make predictions. However, as AI becomes more  integrated into daily life, concerns about job displacement and ethical implications continue  to grow. Striking a balance between innovation and societal impact remains a key challenge."*
 
-### Question RC-16
+### Question RC-16  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** What does AI enable machines to do?
 
@@ -1968,7 +2558,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-17
+### Question RC-17  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** In which industries is AI being used according to the passage?
 
@@ -1987,7 +2582,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-18
+### Question RC-18  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** What is one concern associated with AI?
 
@@ -2006,7 +2606,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-19
+### Question RC-19  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** What remains a key challenge with AI's growth?
 
@@ -2025,7 +2630,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-20
+### Question RC-20  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** Which of the following is NOT a benefit of AI mentioned in the passage?
 
@@ -2049,7 +2659,12 @@ Author provides informative factual overview with positive forward-looking stanc
 > **Passage Text:**  
 > *"The advancement of technology has brought about significant changes in various fields. The  educational sector, in particular, has seen a shift from traditional methods of learning to  digital platforms. With the introduction of e-learning, students are now able to access  resources from anywhere, thereby enhancing their learning experience. However, this shift  also brings challenges, such as the lack of personal interaction between teachers and  students, which some argue is crucial for effective learning."*
 
-### Question RC-21
+### Question RC-21  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** According to the passage, one major advantage of e-learning is:
 
@@ -2068,7 +2683,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-22
+### Question RC-22  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** The passage suggests that a challenge of e-learning is:
 
@@ -2087,7 +2707,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-23
+### Question RC-23  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** The tone of the passage can best be described as:
 
@@ -2111,7 +2736,12 @@ Author provides informative factual overview with positive forward-looking stanc
 > **Passage Text:**  
 > *"Climate change has become one of the most pressing issues of our time. Global temperatures  are rising at an unprecedented rate, largely due to human activities such as deforestation and  the burning of fossil fuels. While some progress has been made in addressing this issue,  more needs to be done to prevent irreversible damage to our planet. Governments, industries,  and individuals must work together to implement sustainable practices."*
 
-### Question RC-24
+### Question RC-24  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** What is the main cause of rising global temperatures according to the passage?
 
@@ -2130,7 +2760,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-25
+### Question RC-25  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** The phrase "irreversible damage" in the passage means:
 
@@ -2149,7 +2784,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-26
+### Question RC-26  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** The author believes that climate change can be tackled if:
 
@@ -2173,7 +2813,12 @@ Author provides informative factual overview with positive forward-looking stanc
 > **Passage Text:**  
 > *"In ancient times, the art of storytelling was a key form of entertainment. Stories were passed  down orally from generation to generation, with each storyteller adding their own personal  touch to the tale. This tradition has slowly faded with the advent of the written word and  modern technology. Yet, storytelling remains a powerful tool for communication, allowing  individuals to connect with one another through shared experiences and values."*
 
-### Question RC-27
+### Question RC-27  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** The primary focus of the passage is:
 
@@ -2192,7 +2837,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-28
+### Question RC-28  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** According to the passage, oral storytelling was important because:
 
@@ -2211,7 +2861,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-29
+### Question RC-29  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** The author suggests that despite changes, storytelling:
 
@@ -2235,7 +2890,12 @@ Author provides informative factual overview with positive forward-looking stanc
 > **Passage Text:**  
 > *"In recent years, the concept of remote work has gained traction as more companies realize its  benefits. Employees, especially in the tech industry, can now work from home or any  location with internet access. This flexibility has improved work-life balance for many,  though some argue that it blurs the lines between personal and professional time."*
 
-### Question RC-30
+### Question RC-30  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** One benefit of remote work mentioned in the passage is:
 
@@ -2254,7 +2914,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-31
+### Question RC-31  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** A challenge of remote work, according to the passage, is:
 
@@ -2273,7 +2938,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-32
+### Question RC-32  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** The passage primarily discusses:
 
@@ -2297,7 +2967,12 @@ Author provides informative factual overview with positive forward-looking stanc
 > **Passage Text:**  
 > *"The field of artificial intelligence (AI) is advancing rapidly, with new applications being  developed in healthcare, education, and even creative industries. However, as AI becomes  more powerful, concerns about its ethical implications grow. Many experts believe that  proper regulations are needed to ensure that AI is used responsibly, particularly when it  comes to privacy and security."*
 
-### Question RC-33
+### Question RC-33  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** What is one area where AI is being applied according to the passage?
 
@@ -2316,7 +2991,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-34
+### Question RC-34  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** The passage suggests that one of the main concerns regarding AI is:
 
@@ -2335,7 +3015,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-35
+### Question RC-35  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** The author's attitude towards AI can best be described as:
 
@@ -2359,7 +3044,12 @@ Author provides informative factual overview with positive forward-looking stanc
 > **Passage Text:**  
 > *"Over the years, travel has evolved from a necessity for trade and exploration to a leisure  activity enjoyed by many. With the advent of affordable air travel, people can now explore  different parts of the world with relative ease. This has given rise to global tourism, which  has both positive and negative effects on local economies and cultures."*
 
-### Question RC-36
+### Question RC-36  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** The passage suggests that the rise of global tourism is due to:
 
@@ -2378,7 +3068,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-37
+### Question RC-37  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** One negative effect of global tourism mentioned in the passage is:
 
@@ -2397,7 +3092,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-38
+### Question RC-38  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** The tone of the passage can best be described as:
 
@@ -2421,7 +3121,12 @@ Author provides informative factual overview with positive forward-looking stanc
 > **Passage Text:**  
 > *"Many researchers believe that music can have a profound effect on our emotions. Studies  have shown that listening to certain types of music can improve mood, reduce stress, and                                                                                                                                                                                                                    even boost cognitive function. However, not all music has the same impact on everyone, as  personal preferences play a significant role in how we respond to different genres."*
 
-### Question RC-39
+### Question RC-39  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** What is one benefit of music mentioned in the passage?
 
@@ -2440,7 +3145,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-40
+### Question RC-40  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** The passage suggests that the effect of music on individuals is influenced by:
 
@@ -2464,7 +3174,12 @@ Author provides informative factual overview with positive forward-looking stanc
 > **Passage Text:**  
 > *"The concept of sustainable development emphasizes meeting the needs of the present  without compromising the ability of future generations to meet their own needs. This  requires a balance between economic growth, environmental protection, and social equity.  However, achieving sustainability is a complex challenge, as it demands significant changes  in policy, consumption patterns, and the way industries operate."*
 
-### Question RC-41
+### Question RC-41  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** According to the passage, sustainable development focuses on:
 
@@ -2483,7 +3198,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-42
+### Question RC-42  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** One challenge of achieving sustainability mentioned in the passage is:
 
@@ -2502,7 +3222,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-43
+### Question RC-43  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** The phrase "social equity" in the passage refers to:
 
@@ -2526,7 +3251,12 @@ Author provides informative factual overview with positive forward-looking stanc
 > **Passage Text:**  
 > *"As urban populations continue to grow, cities face the challenge of providing adequate  infrastructure and services to meet the needs of their residents. One solution that many urban  planners are exploring is the concept of "smart cities." These cities use advanced  technologies, such as data analytics and IoT devices, to improve efficiency in areas such as  transportation, energy usage, and waste management."*
 
-### Question RC-44
+### Question RC-44  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** What is the primary goal of smart cities according to the passage?
 
@@ -2545,7 +3275,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-45
+### Question RC-45  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** According to the passage, one area where smart cities can make an impact is:
 
@@ -2564,7 +3299,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-46
+### Question RC-46  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** The passage suggests that smart cities rely heavily on:
 
@@ -2588,7 +3328,12 @@ Author provides informative factual overview with positive forward-looking stanc
 > **Passage Text:**  
 > *"The study of marine life has revealed that oceans play a vital role in regulating the Earth's  climate. Marine organisms, such as phytoplankton, absorb carbon dioxide from the  atmosphere, helping to reduce the greenhouse effect. However, rising sea temperatures and  pollution are threatening marine ecosystems, which could disrupt this natural balance."*
 
-### Question RC-47
+### Question RC-47  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** According to the passage, marine life helps regulate the Earth's climate by:
 
@@ -2607,7 +3352,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-48
+### Question RC-48  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** One threat to marine ecosystems mentioned in the passage is:
 
@@ -2626,7 +3376,12 @@ Author provides informative factual overview with positive forward-looking stanc
 
 ---
 
-### Question RC-49
+### Question RC-49  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** The phrase "disrupt this natural balance" refers to:
 
@@ -2650,7 +3405,12 @@ Author provides informative factual overview with positive forward-looking stanc
 > **Passage Text:**  
 > *"Human history is marked by migrations of people in search of better opportunities. Whether  driven by economic necessity, conflict, or environmental factors, these migrations have  shaped the demographic and cultural landscapes of nations. Today, global migration  continues, influenced by factors such as climate change and political instability."*
 
-### Question RC-50
+### Question RC-50  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Question:** The passage suggests that one reason for modern global migration is:
 
@@ -2825,7 +3585,12 @@ part of an operation's contract design it in from the start.
 
 ## Part 2: Verbal Ability Questions and Explanations (Q26 to Q45)
 
-### Question ITM-P01-Q26 (Infosys System Engineer ITM Mock Paper 1 - Q26)
+### Question ITM-P01-Q26  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q26)
 **Section:** Section 3: Verbal Ability | **Page:** 3  
 **Visual Reference Plate:** [paper_01_page_03.png](images/paper_01_page_03.png)
 
@@ -2845,7 +3610,12 @@ The passage argues that technical debt is analogous to financial debt: not inher
 
 ---
 
-### Question ITM-P01-Q27 (Infosys System Engineer ITM Mock Paper 1 - Q27)
+### Question ITM-P01-Q27  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q27)
 **Section:** Section 3: Verbal Ability | **Page:** 3  
 **Visual Reference Plate:** [paper_01_page_03.png](images/paper_01_page_03.png)
 
@@ -2865,7 +3635,12 @@ The passage states explicitly: 'yet managers, seeing only the delivered function
 
 ---
 
-### Question ITM-P01-Q28 (Infosys System Engineer ITM Mock Paper 1 - Q28)
+### Question ITM-P01-Q28  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q28)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_01_page_04.png](images/paper_01_page_04.png)
 
@@ -2885,7 +3660,12 @@ Critics argue that fixed quotas 'are arbitrary and encourage cosmetic rewrites t
 
 ---
 
-### Question ITM-P01-Q29 (Infosys System Engineer ITM Mock Paper 1 - Q29)
+### Question ITM-P01-Q29  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q29)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_01_page_04.png](images/paper_01_page_04.png)
 
@@ -2905,7 +3685,12 @@ The passage defines interest directly: 'the interest, meaning the extra effort e
 
 ---
 
-### Question ITM-P01-Q30 (Infosys System Engineer ITM Mock Paper 1 - Q30)
+### Question ITM-P01-Q30  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q30)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_01_page_04.png](images/paper_01_page_04.png)
 
@@ -2926,7 +3711,12 @@ The passage explicitly notes that a delivery slowdown is often caused by accumul
 
 ---
 
-### Question ITM-P01-Q31 (Infosys System Engineer ITM Mock Paper 1 - Q31)
+### Question ITM-P01-Q31  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q31)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_01_page_04.png](images/paper_01_page_04.png)
 
@@ -2946,7 +3736,12 @@ With correlative conjunctions 'neither... nor', the verb agrees in number with t
 
 ---
 
-### Question ITM-P01-Q32 (Infosys System Engineer ITM Mock Paper 1 - Q32)
+### Question ITM-P01-Q32  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q32)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_01_page_04.png](images/paper_01_page_04.png)
 
@@ -2966,7 +3761,12 @@ Inverted third conditional structure uses 'Had + subject + past participle'. The
 
 ---
 
-### Question ITM-P01-Q33 (Infosys System Engineer ITM Mock Paper 1 - Q33)
+### Question ITM-P01-Q33  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q33)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_01_page_04.png](images/paper_01_page_04.png)
 
@@ -2987,7 +3787,12 @@ Negative adverbial 'Hardly' placed at the beginning of a clause triggers negativ
 
 ---
 
-### Question ITM-P01-Q34 (Infosys System Engineer ITM Mock Paper 1 - Q34)
+### Question ITM-P01-Q34  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q34)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_01_page_04.png](images/paper_01_page_04.png)
 
@@ -3007,7 +3812,12 @@ The number of applicants are increasing, but a large number of them lacks the re
 
 ---
 
-### Question ITM-P01-Q35 (Infosys System Engineer ITM Mock Paper 1 - Q35)
+### Question ITM-P01-Q35  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q35)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_01_page_04.png](images/paper_01_page_04.png)
 
@@ -3028,7 +3838,12 @@ The true grammatical subject of the sentence is 'Each' (distributive pronoun, si
 
 ---
 
-### Question ITM-P01-Q36 (Infosys System Engineer ITM Mock Paper 1 - Q36)
+### Question ITM-P01-Q36  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q36)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_01_page_04.png](images/paper_01_page_04.png)
 
@@ -3051,7 +3866,12 @@ Coherent narrative flow: Q introduces initial state ('The engineers were confide
 
 ---
 
-### Question ITM-P01-Q37 (Infosys System Engineer ITM Mock Paper 1 - Q37)
+### Question ITM-P01-Q37  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q37)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_01_page_05.png](images/paper_01_page_05.png)
 
@@ -3074,7 +3894,12 @@ Logical progression: Q introduces the subject ('Counterfactual questions... are 
 
 ---
 
-### Question ITM-P01-Q38 (Infosys System Engineer ITM Mock Paper 1 - Q38)
+### Question ITM-P01-Q38  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q38)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_01_page_05.png](images/paper_01_page_05.png)
 
@@ -3098,7 +3923,12 @@ Chronological progression: P establishes historical origin in the 1960s ('The fi
 
 ---
 
-### Question ITM-P01-Q39 (Infosys System Engineer ITM Mock Paper 1 - Q39)
+### Question ITM-P01-Q39  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q39)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_01_page_05.png](images/paper_01_page_05.png)
 
@@ -3118,7 +3948,12 @@ The auditor's meticulous approach uncovered discrepancies others had missed. "Me
 
 ---
 
-### Question ITM-P01-Q40 (Infosys System Engineer ITM Mock Paper 1 - Q40)
+### Question ITM-P01-Q40  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q40)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_01_page_05.png](images/paper_01_page_05.png)
 
@@ -3138,7 +3973,12 @@ The contract was deliberately worded to obfuscate the penalty clauses. "Obfuscat
 
 ---
 
-### Question ITM-P01-Q41 (Infosys System Engineer ITM Mock Paper 1 - Q41)
+### Question ITM-P01-Q41  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q41)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_01_page_05.png](images/paper_01_page_05.png)
 
@@ -3158,7 +3998,12 @@ Fill in the blank: The startup's success proved ______; within a year it had van
 
 ---
 
-### Question ITM-P01-Q42 (Infosys System Engineer ITM Mock Paper 1 - Q42)
+### Question ITM-P01-Q42  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q42)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_01_page_05.png](images/paper_01_page_05.png)
 
@@ -3178,7 +4023,12 @@ Synonym of UBIQUITOUS:
 
 ---
 
-### Question ITM-P01-Q43 (Infosys System Engineer ITM Mock Paper 1 - Q43)
+### Question ITM-P01-Q43  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q43)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_01_page_05.png](images/paper_01_page_05.png)
 
@@ -3198,7 +4048,12 @@ Synonym of RECALCITRANT:
 
 ---
 
-### Question ITM-P01-Q44 (Infosys System Engineer ITM Mock Paper 1 - Q44)
+### Question ITM-P01-Q44  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q44)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_01_page_05.png](images/paper_01_page_05.png)
 
@@ -3218,7 +4073,12 @@ Antonym of LOQUACIOUS:
 
 ---
 
-### Question ITM-P01-Q45 (Infosys System Engineer ITM Mock Paper 1 - Q45)
+### Question ITM-P01-Q45  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q45)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_01_page_05.png](images/paper_01_page_05.png)
 
@@ -3238,7 +4098,12 @@ Antonym of MAGNANIMOUS:
 
 ---
 
-### Question ITM-P02-Q26 (Infosys System Engineer ITM Mock Paper 2 - Q26)
+### Question ITM-P02-Q26  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q26)
 **Section:** Section 3: Verbal Ability | **Page:** 3  
 **Visual Reference Plate:** [paper_02_page_03.png](images/paper_02_page_03.png)
 
@@ -3260,7 +4125,12 @@ According to the reading comprehension passage for Paper 2, option (B) is direct
 
 ---
 
-### Question ITM-P02-Q27 (Infosys System Engineer ITM Mock Paper 2 - Q27)
+### Question ITM-P02-Q27  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q27)
 **Section:** Section 3: Verbal Ability | **Page:** 3  
 **Visual Reference Plate:** [paper_02_page_03.png](images/paper_02_page_03.png)
 
@@ -3280,7 +4150,12 @@ According to the reading comprehension passage for Paper 2, option (B) is direct
 
 ---
 
-### Question ITM-P02-Q28 (Infosys System Engineer ITM Mock Paper 2 - Q28)
+### Question ITM-P02-Q28  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q28)
 **Section:** Section 3: Verbal Ability | **Page:** 3  
 **Visual Reference Plate:** [paper_02_page_03.png](images/paper_02_page_03.png)
 
@@ -3300,7 +4175,12 @@ According to the reading comprehension passage for Paper 2, option (B) is direct
 
 ---
 
-### Question ITM-P02-Q29 (Infosys System Engineer ITM Mock Paper 2 - Q29)
+### Question ITM-P02-Q29  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q29)
 **Section:** Section 3: Verbal Ability | **Page:** 3  
 **Visual Reference Plate:** [paper_02_page_03.png](images/paper_02_page_03.png)
 
@@ -3320,7 +4200,12 @@ According to the reading comprehension passage for Paper 2, option (B) is direct
 
 ---
 
-### Question ITM-P02-Q30 (Infosys System Engineer ITM Mock Paper 2 - Q30)
+### Question ITM-P02-Q30  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q30)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_02_page_04.png](images/paper_02_page_04.png)
 
@@ -3341,7 +4226,12 @@ According to the reading comprehension passage for Paper 2, option (C) is direct
 
 ---
 
-### Question ITM-P02-Q31 (Infosys System Engineer ITM Mock Paper 2 - Q31)
+### Question ITM-P02-Q31  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q31)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_02_page_04.png](images/paper_02_page_04.png)
 
@@ -3361,7 +4251,12 @@ Each of the servers in the cluster have its own dedicated backup.
 
 ---
 
-### Question ITM-P02-Q32 (Infosys System Engineer ITM Mock Paper 2 - Q32)
+### Question ITM-P02-Q32  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q32)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_02_page_04.png](images/paper_02_page_04.png)
 
@@ -3382,7 +4277,12 @@ than
 
 ---
 
-### Question ITM-P02-Q33 (Infosys System Engineer ITM Mock Paper 2 - Q33)
+### Question ITM-P02-Q33  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q33)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_02_page_04.png](images/paper_02_page_04.png)
 
@@ -3402,7 +4302,12 @@ The report, along with its supporting data sheets, were submitted before the dea
 
 ---
 
-### Question ITM-P02-Q34 (Infosys System Engineer ITM Mock Paper 2 - Q34)
+### Question ITM-P02-Q34  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q34)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_02_page_04.png](images/paper_02_page_04.png)
 
@@ -3422,7 +4327,12 @@ Hypothetical conditions use the subjunctive "were" after "if", regardless of sub
 
 ---
 
-### Question ITM-P02-Q35 (Infosys System Engineer ITM Mock Paper 2 - Q35)
+### Question ITM-P02-Q35  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q35)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_02_page_04.png](images/paper_02_page_04.png)
 
@@ -3444,7 +4354,12 @@ so "were responsible".
 
 ---
 
-### Question ITM-P02-Q36 (Infosys System Engineer ITM Mock Paper 2 - Q36)
+### Question ITM-P02-Q36  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q36)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_02_page_04.png](images/paper_02_page_04.png)
 
@@ -3467,7 +4382,12 @@ Sentence sequence: Q→P→R→S.. Coherent narrative progression establishes lo
 
 ---
 
-### Question ITM-P02-Q37 (Infosys System Engineer ITM Mock Paper 2 - Q37)
+### Question ITM-P02-Q37  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q37)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_02_page_04.png](images/paper_02_page_04.png)
 
@@ -3490,7 +4410,12 @@ Sentence sequence: Q→S→P→R.. Coherent narrative progression establishes lo
 
 ---
 
-### Question ITM-P02-Q38 (Infosys System Engineer ITM Mock Paper 2 - Q38)
+### Question ITM-P02-Q38  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q38)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_02_page_04.png](images/paper_02_page_04.png)
 
@@ -3514,7 +4439,12 @@ Sentence sequence: Q→R→S→P.. Coherent narrative progression establishes lo
 
 ---
 
-### Question ITM-P02-Q39 (Infosys System Engineer ITM Mock Paper 2 - Q39)
+### Question ITM-P02-Q39  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q39)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_02_page_04.png](images/paper_02_page_04.png)
 
@@ -3534,7 +4464,12 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-### Question ITM-P02-Q40 (Infosys System Engineer ITM Mock Paper 2 - Q40)
+### Question ITM-P02-Q40  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q40)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_02_page_04.png](images/paper_02_page_04.png)
 
@@ -3554,7 +4489,12 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-### Question ITM-P02-Q41 (Infosys System Engineer ITM Mock Paper 2 - Q41)
+### Question ITM-P02-Q41  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q41)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_02_page_05.png](images/paper_02_page_05.png)
 
@@ -3575,7 +4515,12 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-### Question ITM-P02-Q42 (Infosys System Engineer ITM Mock Paper 2 - Q42)
+### Question ITM-P02-Q42  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q42)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_02_page_05.png](images/paper_02_page_05.png)
 
@@ -3595,7 +4540,12 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-### Question ITM-P02-Q43 (Infosys System Engineer ITM Mock Paper 2 - Q43)
+### Question ITM-P02-Q43  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q43)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_02_page_05.png](images/paper_02_page_05.png)
 
@@ -3615,7 +4565,12 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-### Question ITM-P02-Q44 (Infosys System Engineer ITM Mock Paper 2 - Q44)
+### Question ITM-P02-Q44  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q44)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_02_page_05.png](images/paper_02_page_05.png)
 
@@ -3635,7 +4590,12 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-### Question ITM-P02-Q45 (Infosys System Engineer ITM Mock Paper 2 - Q45)
+### Question ITM-P02-Q45  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q45)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_02_page_05.png](images/paper_02_page_05.png)
 
@@ -3655,7 +4615,12 @@ Section 4: Pseudo Code
 
 ---
 
-### Question ITM-P03-Q26 (Infosys System Engineer ITM Mock Paper 3 - Q26)
+### Question ITM-P03-Q26  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q26)
 **Section:** Section 3: Verbal Ability | **Page:** 3  
 **Visual Reference Plate:** [paper_03_page_03.png](images/paper_03_page_03.png)
 
@@ -3675,7 +4640,12 @@ According to the reading comprehension passage for Paper 3, option (B) is direct
 
 ---
 
-### Question ITM-P03-Q27 (Infosys System Engineer ITM Mock Paper 3 - Q27)
+### Question ITM-P03-Q27  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q27)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_03_page_04.png](images/paper_03_page_04.png)
 
@@ -3695,7 +4665,12 @@ According to the reading comprehension passage for Paper 3, option (B) is direct
 
 ---
 
-### Question ITM-P03-Q28 (Infosys System Engineer ITM Mock Paper 3 - Q28)
+### Question ITM-P03-Q28  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q28)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_03_page_04.png](images/paper_03_page_04.png)
 
@@ -3715,7 +4690,12 @@ According to the reading comprehension passage for Paper 3, option (A) is direct
 
 ---
 
-### Question ITM-P03-Q29 (Infosys System Engineer ITM Mock Paper 3 - Q29)
+### Question ITM-P03-Q29  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q29)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_03_page_04.png](images/paper_03_page_04.png)
 
@@ -3735,7 +4715,12 @@ According to the reading comprehension passage for Paper 3, option (B) is direct
 
 ---
 
-### Question ITM-P03-Q30 (Infosys System Engineer ITM Mock Paper 3 - Q30)
+### Question ITM-P03-Q30  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q30)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_03_page_04.png](images/paper_03_page_04.png)
 
@@ -3756,7 +4741,12 @@ According to the reading comprehension passage for Paper 3, option (A) is direct
 
 ---
 
-### Question ITM-P03-Q31 (Infosys System Engineer ITM Mock Paper 3 - Q31)
+### Question ITM-P03-Q31  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q31)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_03_page_04.png](images/paper_03_page_04.png)
 
@@ -3778,7 +4768,12 @@ grammatical form.
 
 ---
 
-### Question ITM-P03-Q32 (Infosys System Engineer ITM Mock Paper 3 - Q32)
+### Question ITM-P03-Q32  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q32)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_03_page_04.png](images/paper_03_page_04.png)
 
@@ -3801,7 +4796,12 @@ pronoun: "in which the researchers were confident".
 
 ---
 
-### Question ITM-P03-Q33 (Infosys System Engineer ITM Mock Paper 3 - Q33)
+### Question ITM-P03-Q33  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q33)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_03_page_04.png](images/paper_03_page_04.png)
 
@@ -3823,7 +4823,12 @@ the sentence needs an explicit human subject: "the team decided".
 
 ---
 
-### Question ITM-P03-Q34 (Infosys System Engineer ITM Mock Paper 3 - Q34)
+### Question ITM-P03-Q34  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q34)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_03_page_04.png](images/paper_03_page_04.png)
 
@@ -3843,7 +4848,12 @@ The correct comparative form is simply "more efficient than", not "as compared t
 
 ---
 
-### Question ITM-P03-Q35 (Infosys System Engineer ITM Mock Paper 3 - Q35)
+### Question ITM-P03-Q35  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q35)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_03_page_04.png](images/paper_03_page_04.png)
 
@@ -3866,7 +4876,12 @@ was informed and then acted.
 
 ---
 
-### Question ITM-P03-Q36 (Infosys System Engineer ITM Mock Paper 3 - Q36)
+### Question ITM-P03-Q36  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q36)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_03_page_04.png](images/paper_03_page_04.png)
 
@@ -3889,7 +4904,12 @@ Sentence sequence: Q→S→P→R.. Coherent narrative progression establishes lo
 
 ---
 
-### Question ITM-P03-Q37 (Infosys System Engineer ITM Mock Paper 3 - Q37)
+### Question ITM-P03-Q37  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q37)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_03_page_05.png](images/paper_03_page_05.png)
 
@@ -3913,7 +4933,12 @@ Sentence sequence: Q→S→P→R.. Coherent narrative progression establishes lo
 
 ---
 
-### Question ITM-P03-Q38 (Infosys System Engineer ITM Mock Paper 3 - Q38)
+### Question ITM-P03-Q38  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q38)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_03_page_05.png](images/paper_03_page_05.png)
 
@@ -3938,7 +4963,12 @@ Sentence sequence: Q→S→P→R.. Coherent narrative progression establishes lo
 
 ---
 
-### Question ITM-P03-Q39 (Infosys System Engineer ITM Mock Paper 3 - Q39)
+### Question ITM-P03-Q39  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q39)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_03_page_05.png](images/paper_03_page_05.png)
 
@@ -3959,7 +4989,12 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-### Question ITM-P03-Q40 (Infosys System Engineer ITM Mock Paper 3 - Q40)
+### Question ITM-P03-Q40  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q40)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_03_page_05.png](images/paper_03_page_05.png)
 
@@ -3979,7 +5014,12 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-### Question ITM-P03-Q41 (Infosys System Engineer ITM Mock Paper 3 - Q41)
+### Question ITM-P03-Q41  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q41)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_03_page_05.png](images/paper_03_page_05.png)
 
@@ -4001,7 +5041,12 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-### Question ITM-P03-Q42 (Infosys System Engineer ITM Mock Paper 3 - Q42)
+### Question ITM-P03-Q42  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q42)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_03_page_05.png](images/paper_03_page_05.png)
 
@@ -4021,7 +5066,12 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-### Question ITM-P03-Q43 (Infosys System Engineer ITM Mock Paper 3 - Q43)
+### Question ITM-P03-Q43  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q43)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_03_page_05.png](images/paper_03_page_05.png)
 
@@ -4041,7 +5091,12 @@ Standard vocabulary / grammatical definition establishes that option (B) is the 
 
 ---
 
-### Question ITM-P03-Q44 (Infosys System Engineer ITM Mock Paper 3 - Q44)
+### Question ITM-P03-Q44  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q44)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_03_page_05.png](images/paper_03_page_05.png)
 
@@ -4061,7 +5116,12 @@ Standard vocabulary / grammatical definition establishes that option (C) is the 
 
 ---
 
-### Question ITM-P03-Q45 (Infosys System Engineer ITM Mock Paper 3 - Q45)
+### Question ITM-P03-Q45  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q45)
 **Section:** Section 3: Verbal Ability | **Page:** 5  
 **Visual Reference Plate:** [paper_03_page_05.png](images/paper_03_page_05.png)
 
@@ -4081,7 +5141,12 @@ Section 4: Pseudo Code
 
 ---
 
-### Question ITM-P04-Q26 (Infosys System Engineer ITM Mock Paper 4 - Q26)
+### Question ITM-P04-Q26  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q26)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_04_page_04.png](images/paper_04_page_04.png)
 
@@ -4101,7 +5166,12 @@ According to the reading comprehension passage for Paper 4, option (A) is direct
 
 ---
 
-### Question ITM-P04-Q27 (Infosys System Engineer ITM Mock Paper 4 - Q27)
+### Question ITM-P04-Q27  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q27)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_04_page_04.png](images/paper_04_page_04.png)
 
@@ -4123,7 +5193,12 @@ According to the reading comprehension passage for Paper 4, option (B) is direct
 
 ---
 
-### Question ITM-P04-Q28 (Infosys System Engineer ITM Mock Paper 4 - Q28)
+### Question ITM-P04-Q28  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q28)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_04_page_04.png](images/paper_04_page_04.png)
 
@@ -4143,7 +5218,12 @@ According to the reading comprehension passage for Paper 4, option (B) is direct
 
 ---
 
-### Question ITM-P04-Q29 (Infosys System Engineer ITM Mock Paper 4 - Q29)
+### Question ITM-P04-Q29  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q29)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_04_page_04.png](images/paper_04_page_04.png)
 
@@ -4165,7 +5245,12 @@ According to the reading comprehension passage for Paper 4, option (A) is direct
 
 ---
 
-### Question ITM-P04-Q30 (Infosys System Engineer ITM Mock Paper 4 - Q30)
+### Question ITM-P04-Q30  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q30)
 **Section:** Section 3: Verbal Ability | **Page:** 4  
 **Visual Reference Plate:** [paper_04_page_04.png](images/paper_04_page_04.png)
 

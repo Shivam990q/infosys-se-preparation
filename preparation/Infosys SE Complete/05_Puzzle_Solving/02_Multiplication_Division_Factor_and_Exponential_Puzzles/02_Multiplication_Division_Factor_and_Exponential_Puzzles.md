@@ -14,7 +14,12 @@ This module contains matrix number puzzles governed by multiplicative factors, q
 
 ## Structured Questions & Exhaustive Mathematical Solutions
 
-### Question 16: Matrix Number Puzzle 16
+### Question 16: Matrix Number Puzzle 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **Category:** Topic 02: Multiplication, Division, and Factor Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -54,7 +59,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (25):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 17: Matrix Number Puzzle 17
+### Question 17: Matrix Number Puzzle 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **Category:** Topic 02: Multiplication, Division, and Factor Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -94,7 +104,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (4):** Correct. Exactly matches the derived mathematical rule with zero contradiction.
 
 ---
-### Question 18: Matrix Number Puzzle 18
+### Question 18: Matrix Number Puzzle 18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **Category:** Topic 02: Multiplication, Division, and Factor Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -134,7 +149,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (3):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 19: Matrix Number Puzzle 19
+### Question 19: Matrix Number Puzzle 19  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Category:** Topic 02: Multiplication, Division, and Factor Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -174,7 +194,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (7):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 20: Matrix Number Puzzle 20
+### Question 20: Matrix Number Puzzle 20  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Category:** Topic 02: Multiplication, Division, and Factor Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -214,7 +239,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (4):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 21: Matrix Number Puzzle 21
+### Question 21: Matrix Number Puzzle 21  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Category:** Topic 02: Multiplication, Division, and Factor Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -254,7 +284,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (12):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 22: Matrix Number Puzzle 22
+### Question 22: Matrix Number Puzzle 22  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Category:** Topic 02: Multiplication, Division, and Factor Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -294,7 +329,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (45):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 23: Matrix Number Puzzle 23
+### Question 23: Matrix Number Puzzle 23  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Category:** Topic 02: Multiplication, Division, and Factor Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -334,7 +374,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (42):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 24: Matrix Number Puzzle 24
+### Question 24: Matrix Number Puzzle 24  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Category:** Topic 02: Multiplication, Division, and Factor Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -374,7 +419,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (23):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 25: Matrix Number Puzzle 25
+### Question 25: Matrix Number Puzzle 25  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Category:** Topic 02: Multiplication, Division, and Factor Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -414,7 +464,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (39):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 26: Matrix Number Puzzle 26
+### Question 26: Matrix Number Puzzle 26  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 
 **Category:** Topic 02: Multiplication, Division, and Factor Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -454,7 +509,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (17):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 27: Matrix Number Puzzle 27
+### Question 27: Matrix Number Puzzle 27  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 
 **Category:** Topic 02: Multiplication, Division, and Factor Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -494,7 +554,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (36):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 28: Matrix Number Puzzle 28
+### Question 28: Matrix Number Puzzle 28  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 **Category:** Topic 02: Multiplication, Division, and Factor Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -534,7 +599,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (7):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 29: Matrix Number Puzzle 29
+### Question 29: Matrix Number Puzzle 29  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 **Category:** Topic 02: Multiplication, Division, and Factor Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -574,7 +644,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (15):** Correct. Exactly matches the derived mathematical rule with zero contradiction.
 
 ---
-### Question 30: Matrix Number Puzzle 30
+### Question 30: Matrix Number Puzzle 30  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 **Category:** Topic 02: Multiplication, Division, and Factor Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  

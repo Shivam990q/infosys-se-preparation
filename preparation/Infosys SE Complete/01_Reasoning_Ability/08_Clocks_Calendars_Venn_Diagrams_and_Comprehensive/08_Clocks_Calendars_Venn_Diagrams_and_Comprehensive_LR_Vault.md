@@ -6,7 +6,12 @@
 
 ---
 
-### Problem 01: Calendar & Day Calculation (`SEC01_MOD12_CAL_Q01`)
+### Problem 01: Calendar & Day Calculation (`SEC01_MOD12_CAL_Q01`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Calender _ LR_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -37,7 +42,12 @@ Therefore, 700 is not a leap year.
 
 ---
 
-### Problem 02: Calendar & Day Calculation (`SEC01_MOD12_CAL_Q02`)
+### Problem 02: Calendar & Day Calculation (`SEC01_MOD12_CAL_Q02`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Calender _ LR_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -72,7 +82,12 @@ Therefore, after 61 days it will be Saturday.
 
 ---
 
-### Problem 03: Calendar & Day Calculation (`SEC01_MOD12_CAL_Q03`)
+### Problem 03: Calendar & Day Calculation (`SEC01_MOD12_CAL_Q03`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Calender _ LR_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -101,7 +116,12 @@ Day on 6th March 2004 = Monday - 1 day = Sunday.
 
 ---
 
-### Problem 04: Calendar & Day Calculation (`SEC01_MOD12_CAL_Q04`)
+### Problem 04: Calendar & Day Calculation (`SEC01_MOD12_CAL_Q04`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Calender _ LR_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -129,7 +149,12 @@ Total days = (x weeks) + (x days) = 7x + x = 8x days.
 
 ---
 
-### Problem 05: Calendar & Day Calculation (`SEC01_MOD12_CAL_Q05`)
+### Problem 05: Calendar & Day Calculation (`SEC01_MOD12_CAL_Q05`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Calender _ LR_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -161,7 +186,12 @@ Therefore, the last day of a century cannot be Tuesday.
 
 ---
 
-### Problem 06: Calendar & Day Calculation (`SEC01_MOD12_CAL_Q06`)
+### Problem 06: Calendar & Day Calculation (`SEC01_MOD12_CAL_Q06`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Calender _ LR_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -190,7 +220,12 @@ Day on 8th Feb 2004 = Tuesday - 2 days = Sunday.
 
 ---
 
-### Problem 07: Calendar & Day Calculation (`SEC01_MOD12_CAL_Q07`)
+### Problem 07: Calendar & Day Calculation (`SEC01_MOD12_CAL_Q07`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Calender _ LR_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -218,7 +253,12 @@ Day on 8th Dec 2006 = Saturday - 1 day = Friday.
 
 ---
 
-### Problem 08: Calendar & Day Calculation (`SEC01_MOD12_CAL_Q08`)
+### Problem 08: Calendar & Day Calculation (`SEC01_MOD12_CAL_Q08`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Calender _ LR_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -246,7 +286,12 @@ Day on Jan 1, 2009 = Tuesday + 2 days = Thursday.
 
 ---
 
-### Problem 09: Calendar & Day Calculation (`SEC01_MOD12_CAL_Q09`)
+### Problem 09: Calendar & Day Calculation (`SEC01_MOD12_CAL_Q09`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Calender _ LR_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -274,7 +319,12 @@ Day on Jan 1, 2008 = Monday + 1 day = Tuesday.
 
 ---
 
-### Problem 10: Calendar & Day Calculation (`SEC01_MOD12_CAL_Q10`)
+### Problem 10: Calendar & Day Calculation (`SEC01_MOD12_CAL_Q10`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Calender _ LR_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -306,7 +356,12 @@ Day on Jan 1, 2010 = Sunday + 5 days = Friday.
 
 ---
 
-### Problem 11: Calendar & Day Calculation (`SEC01_MOD12_CAL_Q11`)
+### Problem 11: Calendar & Day Calculation (`SEC01_MOD12_CAL_Q11`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Calender _ LR_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -344,7 +399,12 @@ Therefore, 28th May, 2006 was a Sunday.
 
 ---
 
-### Problem 12: Clock Angle Formula (`SEC01_MOD12_CLK_Q01`)
+### Problem 12: Clock Angle Formula (`SEC01_MOD12_CLK_Q01`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Clock Concept Vault`  
 **Problem Statement:**
 
@@ -373,7 +433,12 @@ Therefore, the angle between the hands is 130°.
 
 ---
 
-### Problem 13: Clock Reflex Angle (`SEC01_MOD12_CLK_Q02`)
+### Problem 13: Clock Reflex Angle (`SEC01_MOD12_CLK_Q02`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Clock Concept Vault`  
 **Problem Statement:**
 
@@ -403,7 +468,12 @@ Therefore, the reflex angle is 197.5°.
 
 ---
 
-### Problem 14: Circular Seating Facing Centre (`SEC01_MOD13_Q01`)
+### Problem 14: Circular Seating Facing Centre (`SEC01_MOD13_Q01`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -439,7 +509,12 @@ Therefore, exactly right of R is V (Option c).
 
 ---
 
-### Problem 15: Relative Position in Circle (`SEC01_MOD13_Q02`)
+### Problem 15: Relative Position in Circle (`SEC01_MOD13_Q02`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -475,7 +550,12 @@ Therefore, the answer is 'Both II & III' (Option d).
 
 ---
 
-### Problem 16: Calendar and Day Determination (`SEC01_TEST_CALEND_Q01`)
+### Problem 16: Calendar and Day Determination (`SEC01_TEST_CALEND_Q01`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Calender _ LR_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -501,7 +581,12 @@ Official solution from Calendar Logical Reasoning Test. Symmetrical, rotational,
 
 ---
 
-### Problem 17: Calendar and Day Determination (`SEC01_TEST_CALEND_Q02`)
+### Problem 17: Calendar and Day Determination (`SEC01_TEST_CALEND_Q02`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Calender _ LR_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -527,7 +612,12 @@ Official solution from Calendar Logical Reasoning Test. Symmetrical, rotational,
 
 ---
 
-### Problem 18: Calendar and Day Determination (`SEC01_TEST_CALEND_Q03`)
+### Problem 18: Calendar and Day Determination (`SEC01_TEST_CALEND_Q03`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Calender _ LR_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -553,7 +643,12 @@ Official solution from Calendar Logical Reasoning Test. Symmetrical, rotational,
 
 ---
 
-### Problem 19: Calendar and Day Determination (`SEC01_TEST_CALEND_Q04`)
+### Problem 19: Calendar and Day Determination (`SEC01_TEST_CALEND_Q04`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Calender _ LR_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -579,7 +674,12 @@ Official solution from Calendar Logical Reasoning Test. Symmetrical, rotational,
 
 ---
 
-### Problem 20: Calendar and Day Determination (`SEC01_TEST_CALEND_Q05`)
+### Problem 20: Calendar and Day Determination (`SEC01_TEST_CALEND_Q05`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Calender _ LR_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -605,7 +705,12 @@ Official solution from Calendar Logical Reasoning Test. Symmetrical, rotational,
 
 ---
 
-### Problem 21: Calendar and Day Determination (`SEC01_TEST_CALEND_Q06`)
+### Problem 21: Calendar and Day Determination (`SEC01_TEST_CALEND_Q06`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Calender _ LR_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -631,7 +736,12 @@ Official solution from Calendar Logical Reasoning Test. Symmetrical, rotational,
 
 ---
 
-### Problem 22: Calendar and Day Determination (`SEC01_TEST_CALEND_Q07`)
+### Problem 22: Calendar and Day Determination (`SEC01_TEST_CALEND_Q07`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Calender _ LR_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -657,7 +767,12 @@ Official solution from Calendar Logical Reasoning Test. Symmetrical, rotational,
 
 ---
 
-### Problem 23: Calendar and Day Determination (`SEC01_TEST_CALEND_Q08`)
+### Problem 23: Calendar and Day Determination (`SEC01_TEST_CALEND_Q08`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Calender _ LR_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -683,7 +798,12 @@ Official solution from Calendar Logical Reasoning Test. Symmetrical, rotational,
 
 ---
 
-### Problem 24: Calendar and Day Determination (`SEC01_TEST_CALEND_Q09`)
+### Problem 24: Calendar and Day Determination (`SEC01_TEST_CALEND_Q09`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Calender _ LR_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -709,7 +829,12 @@ Official solution from Calendar Logical Reasoning Test. Symmetrical, rotational,
 
 ---
 
-### Problem 25: Calendar and Day Determination (`SEC01_TEST_CALEND_Q10`)
+### Problem 25: Calendar and Day Determination (`SEC01_TEST_CALEND_Q10`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Calender _ LR_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -735,7 +860,12 @@ Official solution from Calendar Logical Reasoning Test. Symmetrical, rotational,
 
 ---
 
-### Problem 26: Calendar and Day Determination (`SEC01_TEST_CALEND_Q11`)
+### Problem 26: Calendar and Day Determination (`SEC01_TEST_CALEND_Q11`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 12_ Clocks & Calendar` | **Source Document:** `Calender _ LR_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -761,7 +891,12 @@ Official solution from Calendar Logical Reasoning Test. Symmetrical, rotational,
 
 ---
 
-### Problem 27: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P02_Q1`)
+### Problem 27: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P02_Q1`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -802,7 +937,12 @@ Step-by-step reasoning verified against master answer key (C) from Module 15 Log
 
 ---
 
-### Problem 28: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P02_Q2`)
+### Problem 28: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P02_Q2`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -846,7 +986,12 @@ Step-by-step reasoning verified against master answer key (A) from Module 15 Log
 
 ---
 
-### Problem 29: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P02_Q3`)
+### Problem 29: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P02_Q3`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -890,7 +1035,12 @@ Step-by-step reasoning verified against master answer key (E) from Module 15 Log
 
 ---
 
-### Problem 30: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P02_Q4`)
+### Problem 30: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P02_Q4`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -930,7 +1080,12 @@ Step-by-step reasoning verified against master answer key (Verified in Scan Book
 
 ---
 
-### Problem 31: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P03_Q5`)
+### Problem 31: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P03_Q5`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -972,7 +1127,12 @@ Step-by-step reasoning verified against master answer key (D) from Module 15 Log
 
 ---
 
-### Problem 32: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P03_Q6`)
+### Problem 32: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P03_Q6`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1012,7 +1172,12 @@ Step-by-step reasoning verified against master answer key (C) from Module 15 Log
 
 ---
 
-### Problem 33: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P03_Q7`)
+### Problem 33: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P03_Q7`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1052,7 +1217,12 @@ Step-by-step reasoning verified against master answer key (E) from Module 15 Log
 
 ---
 
-### Problem 34: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P03_Q8`)
+### Problem 34: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P03_Q8`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1093,7 +1263,12 @@ Step-by-step reasoning verified against master answer key (D) from Module 15 Log
 
 ---
 
-### Problem 35: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P03_Q9`)
+### Problem 35: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P03_Q9`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1120,7 +1295,12 @@ Step-by-step reasoning verified against master answer key (Verified in Scan Book
 
 ---
 
-### Problem 36: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P04_Q10`)
+### Problem 36: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P04_Q10`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1164,7 +1344,12 @@ Step-by-step reasoning verified against master answer key (B) from Module 15 Log
 
 ---
 
-### Problem 37: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P04_Q11`)
+### Problem 37: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P04_Q11`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1204,7 +1389,12 @@ Step-by-step reasoning verified against master answer key (C) from Module 15 Log
 
 ---
 
-### Problem 38: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P04_Q12`)
+### Problem 38: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P04_Q12`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1247,7 +1437,12 @@ Step-by-step reasoning verified against master answer key (C) from Module 15 Log
 
 ---
 
-### Problem 39: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P05_Q13`)
+### Problem 39: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P05_Q13`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1285,7 +1480,12 @@ Step-by-step reasoning verified against master answer key (A) from Module 15 Log
 
 ---
 
-### Problem 40: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P05_Q14`)
+### Problem 40: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P05_Q14`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1323,7 +1523,12 @@ Step-by-step reasoning verified against master answer key (B) from Module 15 Log
 
 ---
 
-### Problem 41: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P05_Q15`)
+### Problem 41: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P05_Q15`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1359,7 +1564,12 @@ Step-by-step reasoning verified against master answer key (B) from Module 15 Log
 
 ---
 
-### Problem 42: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P05_Q16`)
+### Problem 42: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P05_Q16`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1393,7 +1603,12 @@ Step-by-step reasoning verified against master answer key (B) from Module 15 Log
 
 ---
 
-### Problem 43: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P05_Q17`)
+### Problem 43: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P05_Q17`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1425,7 +1640,12 @@ Step-by-step reasoning verified against master answer key (C) from Module 15 Log
 
 ---
 
-### Problem 44: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P06_Q18`)
+### Problem 44: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P06_Q18`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1466,7 +1686,12 @@ Step-by-step reasoning verified against master answer key (C) from Module 15 Log
 
 ---
 
-### Problem 45: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P06_Q19`)
+### Problem 45: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P06_Q19`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1501,7 +1726,12 @@ Step-by-step reasoning verified against master answer key (E) from Module 15 Log
 
 ---
 
-### Problem 46: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P06_Q20`)
+### Problem 46: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P06_Q20`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1533,7 +1763,12 @@ Step-by-step reasoning verified against master answer key (C) from Module 15 Log
 
 ---
 
-### Problem 47: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P06_Q21`)
+### Problem 47: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P06_Q21`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1579,7 +1814,12 @@ Step-by-step reasoning verified against master answer key (A) from Module 15 Log
 
 ---
 
-### Problem 48: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P06_Q22`)
+### Problem 48: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P06_Q22`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1616,7 +1856,12 @@ Step-by-step reasoning verified against master answer key (C) from Module 15 Log
 
 ---
 
-### Problem 49: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P06_Q23`)
+### Problem 49: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P06_Q23`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1643,7 +1888,12 @@ Step-by-step reasoning verified against master answer key (Verified in Scan Book
 
 ---
 
-### Problem 50: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P07_Q24`)
+### Problem 50: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P07_Q24`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1681,7 +1931,12 @@ Step-by-step reasoning verified against master answer key (C) from Module 15 Log
 
 ---
 
-### Problem 51: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P07_Q25`)
+### Problem 51: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P07_Q25`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1720,7 +1975,12 @@ Step-by-step reasoning verified against master answer key (B) from Module 15 Log
 
 ---
 
-### Problem 52: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P07_Q26`)
+### Problem 52: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P07_Q26`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1759,7 +2019,12 @@ Step-by-step reasoning verified against master answer key (C) from Module 15 Log
 
 ---
 
-### Problem 53: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P07_Q27`)
+### Problem 53: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P07_Q27`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1790,7 +2055,12 @@ Step-by-step reasoning verified against master answer key (C) from Module 15 Log
 
 ---
 
-### Problem 54: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P08_Q28`)
+### Problem 54: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P08_Q28`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1821,7 +2091,12 @@ Step-by-step reasoning verified against master answer key (C) from Module 15 Log
 
 ---
 
-### Problem 55: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P08_Q29`)
+### Problem 55: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P08_Q29`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1852,7 +2127,12 @@ Step-by-step reasoning verified against master answer key (A) from Module 15 Log
 
 ---
 
-### Problem 56: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P08_Q30`)
+### Problem 56: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P08_Q30`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1883,7 +2163,12 @@ Step-by-step reasoning verified against master answer key (C) from Module 15 Log
 
 ---
 
-### Problem 57: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P08_Q31`)
+### Problem 57: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P08_Q31`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1919,7 +2204,12 @@ Step-by-step reasoning verified against master answer key (D) from Module 15 Log
 
 ---
 
-### Problem 58: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P08_Q32`)
+### Problem 58: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P08_Q32`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -1964,7 +2254,12 @@ Step-by-step reasoning verified against master answer key (B) from Module 15 Log
 
 ---
 
-### Problem 59: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P08_Q33`)
+### Problem 59: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P08_Q33`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2003,7 +2298,12 @@ Step-by-step reasoning verified against master answer key (Verified in Scan Book
 
 ---
 
-### Problem 60: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P09_Q34`)
+### Problem 60: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P09_Q34`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2035,7 +2335,12 @@ Step-by-step reasoning verified against master answer key (D) from Module 15 Log
 
 ---
 
-### Problem 61: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P09_Q35`)
+### Problem 61: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P09_Q35`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2074,7 +2379,12 @@ Step-by-step reasoning verified against master answer key (B) from Module 15 Log
 
 ---
 
-### Problem 62: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P09_Q36`)
+### Problem 62: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P09_Q36`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2111,7 +2421,12 @@ Step-by-step reasoning verified against master answer key (A) from Module 15 Log
 
 ---
 
-### Problem 63: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P10_Q37`)
+### Problem 63: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P10_Q37`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2152,7 +2467,12 @@ Step-by-step reasoning verified against master answer key (A) from Module 15 Log
 
 ---
 
-### Problem 64: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P10_Q38`)
+### Problem 64: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P10_Q38`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2193,7 +2513,12 @@ Step-by-step reasoning verified against master answer key (B) from Module 15 Log
 
 ---
 
-### Problem 65: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P10_Q39`)
+### Problem 65: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P10_Q39`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2248,7 +2573,12 @@ Step-by-step reasoning verified against master answer key (B) from Module 15 Log
 
 ---
 
-### Problem 66: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P10_Q40`)
+### Problem 66: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P10_Q40`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2301,7 +2631,12 @@ Step-by-step reasoning verified against master answer key (D) from Module 15 Log
 
 ---
 
-### Problem 67: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P11_Q41`)
+### Problem 67: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P11_Q41`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2336,7 +2671,12 @@ Step-by-step reasoning verified against master answer key (D) from Module 15 Log
 
 ---
 
-### Problem 68: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P11_Q42`)
+### Problem 68: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P11_Q42`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2378,7 +2718,12 @@ Step-by-step reasoning verified against master answer key (B) from Module 15 Log
 
 ---
 
-### Problem 69: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P11_Q43`)
+### Problem 69: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P11_Q43`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2417,7 +2762,12 @@ Step-by-step reasoning verified against master answer key (C) from Module 15 Log
 
 ---
 
-### Problem 70: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P11_Q44`)
+### Problem 70: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P11_Q44`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2458,7 +2808,12 @@ Step-by-step reasoning verified against master answer key (B) from Module 15 Log
 
 ---
 
-### Problem 71: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P11_Q45`)
+### Problem 71: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P11_Q45`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2491,7 +2846,12 @@ Step-by-step reasoning verified against master answer key (A) from Module 15 Log
 
 ---
 
-### Problem 72: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P11_Q46`)
+### Problem 72: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P11_Q46`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2522,7 +2882,12 @@ Step-by-step reasoning verified against master answer key (Verified in Scan Book
 
 ---
 
-### Problem 73: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P12_Q47`)
+### Problem 73: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P12_Q47`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2561,7 +2926,12 @@ Step-by-step reasoning verified against master answer key (D) from Module 15 Log
 
 ---
 
-### Problem 74: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P12_Q48`)
+### Problem 74: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P12_Q48`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2603,7 +2973,12 @@ Step-by-step reasoning verified against master answer key (E) from Module 15 Log
 
 ---
 
-### Problem 75: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P12_Q49`)
+### Problem 75: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P12_Q49`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2645,7 +3020,12 @@ Step-by-step reasoning verified against master answer key (B) from Module 15 Log
 
 ---
 
-### Problem 76: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P12_Q50`)
+### Problem 76: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P12_Q50`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2687,7 +3067,12 @@ Step-by-step reasoning verified against master answer key (B) from Module 15 Log
 
 ---
 
-### Problem 77: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P13_Q51`)
+### Problem 77: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P13_Q51`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2732,7 +3117,12 @@ Step-by-step reasoning verified against master answer key (D) from Module 15 Log
 
 ---
 
-### Problem 78: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P13_Q52`)
+### Problem 78: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P13_Q52`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2780,7 +3170,12 @@ Step-by-step reasoning verified against master answer key (B) from Module 15 Log
 
 ---
 
-### Problem 79: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P13_Q53`)
+### Problem 79: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P13_Q53`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2827,7 +3222,12 @@ Step-by-step reasoning verified against master answer key (A) from Module 15 Log
 
 ---
 
-### Problem 80: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P13_Q54`)
+### Problem 80: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P13_Q54`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2874,7 +3274,12 @@ Step-by-step reasoning verified against master answer key (Verified in Scan Book
 
 ---
 
-### Problem 81: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P14_Q55`)
+### Problem 81: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P14_Q55`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2906,7 +3311,12 @@ Step-by-step reasoning verified against master answer key (A) from Module 15 Log
 
 ---
 
-### Problem 82: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P14_Q56`)
+### Problem 82: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P14_Q56`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -2932,7 +3342,12 @@ Step-by-step reasoning verified against master answer key (C) from Module 15 Log
 
 ---
 
-### Problem 83: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P14_Q3`)
+### Problem 83: Comprehensive Logical Reasoning Vault (`SEC01_MOD13_SCAN_P14_Q3`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `Module 15 Scan Book Logical Reasoning` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 

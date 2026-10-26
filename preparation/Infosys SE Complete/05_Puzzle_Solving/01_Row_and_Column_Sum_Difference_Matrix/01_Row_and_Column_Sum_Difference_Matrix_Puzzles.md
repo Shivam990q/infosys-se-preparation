@@ -14,7 +14,12 @@ This module contains foundational Infosys matrix number puzzles where numbers in
 
 ## Structured Questions & Exhaustive Mathematical Solutions
 
-### Question 1: Matrix Number Puzzle 1
+### Question 1: Matrix Number Puzzle 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **Category:** Topic 01: Row and Column Sum & Difference Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -54,7 +59,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (18):** Correct. Exactly matches the derived mathematical rule with zero contradiction.
 
 ---
-### Question 2: Matrix Number Puzzle 2
+### Question 2: Matrix Number Puzzle 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **Category:** Topic 01: Row and Column Sum & Difference Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -94,7 +104,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (43):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 3: Matrix Number Puzzle 3
+### Question 3: Matrix Number Puzzle 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **Category:** Topic 01: Row and Column Sum & Difference Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -134,7 +149,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (18):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 4: Matrix Number Puzzle 4
+### Question 4: Matrix Number Puzzle 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **Category:** Topic 01: Row and Column Sum & Difference Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -174,7 +194,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (48):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 5: Matrix Number Puzzle 5
+### Question 5: Matrix Number Puzzle 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 **Category:** Topic 01: Row and Column Sum & Difference Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -214,7 +239,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (45):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 6: Matrix Number Puzzle 6
+### Question 6: Matrix Number Puzzle 6  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Category:** Topic 01: Row and Column Sum & Difference Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -254,7 +284,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (16):** Correct. Exactly matches the derived mathematical rule with zero contradiction.
 
 ---
-### Question 7: Matrix Number Puzzle 7
+### Question 7: Matrix Number Puzzle 7  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Category:** Topic 01: Row and Column Sum & Difference Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -294,7 +329,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (6):** Correct. Exactly matches the derived mathematical rule with zero contradiction.
 
 ---
-### Question 8: Matrix Number Puzzle 8
+### Question 8: Matrix Number Puzzle 8  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Category:** Topic 01: Row and Column Sum & Difference Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -334,7 +374,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (17):** Correct. Exactly matches the derived mathematical rule with zero contradiction.
 
 ---
-### Question 9: Matrix Number Puzzle 9
+### Question 9: Matrix Number Puzzle 9  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Category:** Topic 01: Row and Column Sum & Difference Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -374,7 +419,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (15):** Correct. Exactly matches the derived mathematical rule with zero contradiction.
 
 ---
-### Question 10: Matrix Number Puzzle 10
+### Question 10: Matrix Number Puzzle 10  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Category:** Topic 01: Row and Column Sum & Difference Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -414,7 +464,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (11):** Correct. Exactly matches the derived mathematical rule with zero contradiction.
 
 ---
-### Question 11: Matrix Number Puzzle 11
+### Question 11: Matrix Number Puzzle 11  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 **Category:** Topic 01: Row and Column Sum & Difference Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -454,7 +509,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (52):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 12: Matrix Number Puzzle 12
+### Question 12: Matrix Number Puzzle 12  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 
 **Category:** Topic 01: Row and Column Sum & Difference Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -494,7 +554,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (16):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 13: Matrix Number Puzzle 13
+### Question 13: Matrix Number Puzzle 13  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 **Category:** Topic 01: Row and Column Sum & Difference Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -534,7 +599,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (32):** Correct. Exactly matches the derived mathematical rule with zero contradiction.
 
 ---
-### Question 14: Matrix Number Puzzle 14
+### Question 14: Matrix Number Puzzle 14  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 **Category:** Topic 01: Row and Column Sum & Difference Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  
@@ -574,7 +644,12 @@ Find the missing number (?) from the given matrix:
 - **Option D (40):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---
-### Question 15: Matrix Number Puzzle 15
+### Question 15: Matrix Number Puzzle 15  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 **Category:** Topic 01: Row and Column Sum & Difference Puzzles  
 **Format:** Multiple Choice Single Answer (MCQ)  

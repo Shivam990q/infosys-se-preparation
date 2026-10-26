@@ -6,7 +6,12 @@
 
 ---
 
-### Problem 01: Linear Seating Arrangement (`SEC01_MOD03_Q01`)
+### Problem 01: Linear Seating Arrangement (`SEC01_MOD03_Q01`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `3_ Linear & Parallel Arrangement` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -47,7 +52,12 @@ Position of A is position 4, which is Fourth from the left.
 
 ---
 
-### Problem 02: Linear Order of Cars (`SEC01_MOD03_Q02`)
+### Problem 02: Linear Order of Cars (`SEC01_MOD03_Q02`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `3_ Linear & Parallel Arrangement` | **Source Document:** `Logical Reasoning.pdf`  
 **Problem Statement:**
 
@@ -80,7 +90,12 @@ The car at the extreme right is Cadillac.
 
 ---
 
-### Problem 03: Parallel Rows Seating (10 People) (`SEC01_MOD03_Q03`)
+### Problem 03: Parallel Rows Seating (10 People) (`SEC01_MOD03_Q03`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `3_ Linear & Parallel Arrangement` | **Source Document:** `Parallel Arrangement Sheet.pdf`  
 **Problem Statement:**
 
@@ -116,7 +131,12 @@ Therefore, D & R are sitting diagonally opposite.
 
 ---
 
-### Problem 04: Parallel Rows Seating (10 People) (`SEC01_MOD03_Q04`)
+### Problem 04: Parallel Rows Seating (10 People) (`SEC01_MOD03_Q04`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `3_ Linear & Parallel Arrangement` | **Source Document:** `Parallel Arrangement Sheet.pdf`  
 **Problem Statement:**
 
@@ -147,7 +167,12 @@ Detailed placement satisfies all conditions giving C second to the right of E.
 
 ---
 
-### Problem 05: Parallel Rows Seating (8 Engineers) (`SEC01_MOD03_Q05`)
+### Problem 05: Parallel Rows Seating (8 Engineers) (`SEC01_MOD03_Q05`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `3_ Linear & Parallel Arrangement` | **Source Document:** `Parallel Arrangement Sheet.pdf`  
 **Problem Statement:**
 
@@ -180,7 +205,12 @@ Row 2 (facing North): B, A, C, D.
 
 ---
 
-### Problem 06: Square Arrangement (Corners & Sides) (`SEC01_MOD06_Q01`)
+### Problem 06: Square Arrangement (Corners & Sides) (`SEC01_MOD06_Q01`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `6 Square Triangle Based Arrangement` | **Source Document:** `Arrangement - Square Rectangle Miss.pdf`  
 **Problem Statement:**
 
@@ -211,7 +241,12 @@ Therefore, option (b) R is the correct answer.
 
 ---
 
-### Problem 07: Mixed Facing Polygonal Arrangement (`SEC01_MOD06_Q02`)
+### Problem 07: Mixed Facing Polygonal Arrangement (`SEC01_MOD06_Q02`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `6 Square Triangle Based Arrangement` | **Source Document:** `Arrangement - Square Rectangle Miss.pdf`  
 **Problem Statement:**
 
@@ -251,7 +286,12 @@ Testing both orientations uniquely resolves the circular/polygonal layout where 
 
 ---
 
-### Problem 01: Circular Seating (Facing Centre) (`SEC01_MOD05_Q01`)
+### Problem 01: Circular Seating (Facing Centre) (`SEC01_MOD05_Q01`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `5 Circular Arrangement` | **Source Document:** `Circular Arrangement Assignment Sheet.pdf`  
 **Problem Statement:**
 
@@ -303,7 +343,12 @@ Therefore, option 1 (H) is the correct answer.
 
 ---
 
-### Problem 02: Circular Seating (Facing Centre) (`SEC01_MOD05_Q02`)
+### Problem 02: Circular Seating (Facing Centre) (`SEC01_MOD05_Q02`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `5 Circular Arrangement` | **Source Document:** `Circular Arrangement Assignment Sheet.pdf`  
 **Problem Statement:**
 
@@ -332,7 +377,12 @@ Since N is not among options R, F, M, the answer is 'None of these' (N).
 
 ---
 
-### Problem 03: Circular Seating (BOB 2008) (`SEC01_MOD05_Q03`)
+### Problem 03: Circular Seating (BOB 2008) (`SEC01_MOD05_Q03`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `5 Circular Arrangement` | **Source Document:** `Circular Arrangement Assignment Sheet.pdf`  
 **Problem Statement:**
 
@@ -365,7 +415,12 @@ Therefore, F sits between G and D.
 
 ---
 
-### Problem 04: 2-Variable Circular Seating (Friends + Marks) (`SEC01_MOD05_Q04`)
+### Problem 04: 2-Variable Circular Seating (Friends + Marks) (`SEC01_MOD05_Q04`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `5 Circular Arrangement` | **Source Document:** `Circular Arrangement.pdf`  
 **Problem Statement:**
 
@@ -398,7 +453,12 @@ Therefore, U scores 5 marks.
 
 ---
 
-### Problem 05: Multi-Attribute Engineering Specialisation Puzzle (`SEC01_MOD07_Q01`)
+### Problem 05: Multi-Attribute Engineering Specialisation Puzzle (`SEC01_MOD07_Q01`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `7 _ Puzzle` | **Source Document:** `Puzzles.pdf`  
 **Problem Statement:**
 
@@ -432,7 +492,12 @@ Therefore, Varun is studying Mechanical engineering (Option b).
 
 ---
 
-### Problem 06: Multi-Attribute Engineering Specialisation Puzzle (`SEC01_MOD07_Q02`)
+### Problem 06: Multi-Attribute Engineering Specialisation Puzzle (`SEC01_MOD07_Q02`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `7 _ Puzzle` | **Source Document:** `Puzzles.pdf`  
 **Problem Statement:**
 
@@ -466,7 +531,12 @@ Therefore, Deepak likes Cricket (Option b).
 
 ---
 
-### Problem 07: Colour & Career Matrix Puzzle (`SEC01_MOD07_Q03`)
+### Problem 07: Colour & Career Matrix Puzzle (`SEC01_MOD07_Q03`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `7 _ Puzzle` | **Source Document:** `Puzzles.pdf`  
 **Problem Statement:**
 

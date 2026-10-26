@@ -12,7 +12,12 @@
 
 ---
 
-### Question ITM-P01-Q51 (Infosys System Engineer ITM Mock Paper 1 - Q51)
+### Question ITM-P01-Q51  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q51)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 6  
 **Visual Reference Plate:** [paper_01_page_06.png](images/paper_01_page_06.png)
 
@@ -79,7 +84,12 @@ Removing 2 sticks can at most destroy four 1×1 squares (by removing the two int
 
 ---
 
-### Question ITM-P01-Q52 (Infosys System Engineer ITM Mock Paper 1 - Q52)
+### Question ITM-P01-Q52  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q52)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 6  
 **Visual Reference Plate:** [paper_01_page_06.png](images/paper_01_page_06.png)
 
@@ -153,7 +163,12 @@ Determining the circular wheel formula:
 
 ---
 
-### Question ITM-P01-Q53 (Infosys System Engineer ITM Mock Paper 1 - Q53)
+### Question ITM-P01-Q53  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q53)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 6  
 **Visual Reference Plate:** [paper_01_page_06.png](images/paper_01_page_06.png)
 
@@ -234,7 +249,12 @@ Missing number = 100.
 
 ---
 
-### Question ITM-P01-Q54 (Infosys System Engineer ITM Mock Paper 1 - Q54)
+### Question ITM-P01-Q54  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 1 - Q54)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 7  
 **Visual Reference Plate:** [paper_01_page_07.png](images/paper_01_page_07.png)
 
@@ -297,7 +317,12 @@ Pattern: n³ + n² for n = 1, 2, 3, 4, 5, ...
 
 ---
 
-### Question ITM-P02-Q51 (Infosys System Engineer ITM Mock Paper 2 - Q51)
+### Question ITM-P02-Q51  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q51)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 6  
 **Visual Reference Plate:** [paper_02_page_06.png](images/paper_02_page_06.png)
 
@@ -357,7 +382,12 @@ only 1 stick removed.
 
 ---
 
-### Question ITM-P02-Q52 (Infosys System Engineer ITM Mock Paper 2 - Q52)
+### Question ITM-P02-Q52  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q52)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 6  
 **Visual Reference Plate:** [paper_02_page_06.png](images/paper_02_page_06.png)
 
@@ -432,7 +462,12 @@ Wheel 3: T = 7, R = 4, B = 3, L = 6, Centre = ?
 
 ---
 
-### Question ITM-P02-Q53 (Infosys System Engineer ITM Mock Paper 2 - Q53)
+### Question ITM-P02-Q53  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q53)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 6  
 **Visual Reference Plate:** [paper_02_page_06.png](images/paper_02_page_06.png)
 
@@ -514,7 +549,12 @@ Matrix logic. Find the missing number.
 
 ---
 
-### Question ITM-P02-Q54 (Infosys System Engineer ITM Mock Paper 2 - Q54)
+### Question ITM-P02-Q54  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 2 - Q54)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 6  
 **Visual Reference Plate:** [paper_02_page_06.png](images/paper_02_page_06.png)
 
@@ -567,7 +607,12 @@ Section 6: Grammar
 
 ---
 
-### Question ITM-P03-Q51 (Infosys System Engineer ITM Mock Paper 3 - Q51)
+### Question ITM-P03-Q51  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q51)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 7  
 **Visual Reference Plate:** [paper_03_page_07.png](images/paper_03_page_07.png)
 
@@ -635,7 +680,12 @@ breaks the third — 2 sticks minimum.
 
 ---
 
-### Question ITM-P03-Q52 (Infosys System Engineer ITM Mock Paper 3 - Q52)
+### Question ITM-P03-Q52  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q52)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 7  
 **Visual Reference Plate:** [paper_03_page_07.png](images/paper_03_page_07.png)
 
@@ -704,7 +754,12 @@ Wheel 3: T = 8, R = 5, B = 6, L = 4, Centre = ?
 
 ---
 
-### Question ITM-P03-Q53 (Infosys System Engineer ITM Mock Paper 3 - Q53)
+### Question ITM-P03-Q53  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q53)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 7  
 **Visual Reference Plate:** [paper_03_page_07.png](images/paper_03_page_07.png)
 
@@ -783,7 +838,12 @@ consecutive primes: 2²,3²,5²,7²,11². The missing cell is 11² = 121.
 
 ---
 
-### Question ITM-P03-Q54 (Infosys System Engineer ITM Mock Paper 3 - Q54)
+### Question ITM-P03-Q54  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 3 - Q54)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 7  
 **Visual Reference Plate:** [paper_03_page_07.png](images/paper_03_page_07.png)
 
@@ -841,7 +901,12 @@ Section 6: Grammar
 
 ---
 
-### Question ITM-P04-Q51 (Infosys System Engineer ITM Mock Paper 4 - Q51)
+### Question ITM-P04-Q51  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q51)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 7  
 **Visual Reference Plate:** [paper_04_page_07.png](images/paper_04_page_07.png)
 
@@ -918,7 +983,12 @@ squares). Minimum = 6.
 
 ---
 
-### Question ITM-P04-Q52 (Infosys System Engineer ITM Mock Paper 4 - Q52)
+### Question ITM-P04-Q52  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q52)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 7  
 **Visual Reference Plate:** [paper_04_page_07.png](images/paper_04_page_07.png)
 
@@ -987,7 +1057,12 @@ Wheel 3: T = 6, R = 4, B = 9, L = 2, Centre = ?
 
 ---
 
-### Question ITM-P04-Q53 (Infosys System Engineer ITM Mock Paper 4 - Q53)
+### Question ITM-P04-Q53  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q53)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 7  
 **Visual Reference Plate:** [paper_04_page_07.png](images/paper_04_page_07.png)
 
@@ -1065,7 +1140,12 @@ Matrix logic. Find the missing number.
 
 ---
 
-### Question ITM-P04-Q54 (Infosys System Engineer ITM Mock Paper 4 - Q54)
+### Question ITM-P04-Q54  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 4 - Q54)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 7  
 **Visual Reference Plate:** [paper_04_page_07.png](images/paper_04_page_07.png)
 
@@ -1122,7 +1202,12 @@ Section 6: Grammar
 
 ---
 
-### Question ITM-P05-Q51 (Infosys System Engineer ITM Mock Paper 5 - Q51)
+### Question ITM-P05-Q51  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q51)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 7  
 **Visual Reference Plate:** [paper_05_page_07.png](images/paper_05_page_07.png)
 
@@ -1200,7 +1285,12 @@ suffice (remove all 4 centre-arm shared sticks). Verified by exhaustive computer
 
 ---
 
-### Question ITM-P05-Q52 (Infosys System Engineer ITM Mock Paper 5 - Q52)
+### Question ITM-P05-Q52  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q52)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 7  
 **Visual Reference Plate:** [paper_05_page_07.png](images/paper_05_page_07.png)
 
@@ -1269,7 +1359,12 @@ Wheel 3: T = 12, R = 3, B = 9, L = 5, Centre = ?
 
 ---
 
-### Question ITM-P05-Q53 (Infosys System Engineer ITM Mock Paper 5 - Q53)
+### Question ITM-P05-Q53  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q53)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 7  
 **Visual Reference Plate:** [paper_05_page_07.png](images/paper_05_page_07.png)
 
@@ -1347,7 +1442,12 @@ Matrix logic. Find the missing number.
 
 ---
 
-### Question ITM-P05-Q54 (Infosys System Engineer ITM Mock Paper 5 - Q54)
+### Question ITM-P05-Q54  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (Infosys System Engineer ITM Mock Paper 5 - Q54)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 7  
 **Visual Reference Plate:** [paper_05_page_07.png](images/paper_05_page_07.png)
 
@@ -1400,7 +1500,12 @@ Section 6: Grammar
 
 ---
 
-### Question ITM-P06-Q51 (Infosys System Engineer ITM Mock Paper 6 - Q51)
+### Question ITM-P06-Q51  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q51)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 7  
 **Visual Reference Plate:** [paper_06_page_07.png](images/paper_06_page_07.png)
 
@@ -1467,7 +1572,12 @@ every square, while a set of 4 does. Minimum = 4.
 
 ---
 
-### Question ITM-P06-Q52 (Infosys System Engineer ITM Mock Paper 6 - Q52)
+### Question ITM-P06-Q52  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q52)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 7  
 **Visual Reference Plate:** [paper_06_page_07.png](images/paper_06_page_07.png)
 
@@ -1536,7 +1646,12 @@ Wheel 3: T = 5, R = 3, B = 4, L = 1, Centre = ?
 
 ---
 
-### Question ITM-P06-Q53 (Infosys System Engineer ITM Mock Paper 6 - Q53)
+### Question ITM-P06-Q53  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q53)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 7  
 **Visual Reference Plate:** [paper_06_page_07.png](images/paper_06_page_07.png)
 
@@ -1614,7 +1729,12 @@ Matrix logic. Find the missing number.
 
 ---
 
-### Question ITM-P06-Q54 (Infosys System Engineer ITM Mock Paper 6 - Q54)
+### Question ITM-P06-Q54  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 6 - Q54)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 7  
 **Visual Reference Plate:** [paper_06_page_07.png](images/paper_06_page_07.png)
 
@@ -1671,7 +1791,12 @@ Section 6: Grammar
 
 ---
 
-### Question ITM-P07-Q51 (Infosys System Engineer ITM Mock Paper 7 - Q51)
+### Question ITM-P07-Q51  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q51)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 8  
 **Visual Reference Plate:** [paper_07_page_08.png](images/paper_07_page_08.png)
 
@@ -1746,7 +1871,12 @@ squares, while a set of 4 does. Minimum = 4.
 
 ---
 
-### Question ITM-P07-Q52 (Infosys System Engineer ITM Mock Paper 7 - Q52)
+### Question ITM-P07-Q52  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q52)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 8  
 **Visual Reference Plate:** [paper_07_page_08.png](images/paper_07_page_08.png)
 
@@ -1815,7 +1945,12 @@ Wheel 3: T = 7, R = 3, B = 2, L = 6, Centre = ?
 
 ---
 
-### Question ITM-P07-Q53 (Infosys System Engineer ITM Mock Paper 7 - Q53)
+### Question ITM-P07-Q53  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q53)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 8  
 **Visual Reference Plate:** [paper_07_page_08.png](images/paper_07_page_08.png)
 
@@ -1873,7 +2008,12 @@ Number combination. In the addition SEND + MORE = MONEY, each letter stands for 
 
 ---
 
-### Question ITM-P07-Q54 (Infosys System Engineer ITM Mock Paper 7 - Q54)
+### Question ITM-P07-Q54  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+ (Infosys System Engineer ITM Mock Paper 7 - Q54)
 **Section:** Section 5: Numeric Puzzle Solving | **Page:** 8  
 **Visual Reference Plate:** [paper_07_page_08.png](images/paper_07_page_08.png)
 

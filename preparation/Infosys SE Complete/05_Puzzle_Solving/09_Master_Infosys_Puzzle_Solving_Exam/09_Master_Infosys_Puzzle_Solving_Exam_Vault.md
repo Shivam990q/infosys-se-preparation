@@ -62,7 +62,12 @@ Total Verified Questions in Vault: **51**
 
 ## Detailed Solutions for All Problems in Vault
 
-### Problem 1: Triangle Product and Top Addition Pattern (`SEC06_PUZ_Q01`)
+### Problem 1: Triangle Product and Top Addition Pattern (`SEC06_PUZ_Q01`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 ![Figure](../../images/q1_1.png)
 
@@ -100,7 +105,12 @@ Hence, the missing number is 9 (Option B).
 
 ---
 
-### Problem 2: Concentric Hexagonal Circle Grid End-Average Pattern (`SEC06_PUZ_Q02`)
+### Problem 2: Concentric Hexagonal Circle Grid End-Average Pattern (`SEC06_PUZ_Q02`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 ![Figure](../../images/q2_1.png)
 
@@ -141,7 +151,12 @@ Hence, the missing number is 6 (Option B).
 
 ---
 
-### Problem 3: Octagonal Ring Reverse Alphabet Complement Pattern (`SEC06_PUZ_Q03`)
+### Problem 3: Octagonal Ring Reverse Alphabet Complement Pattern (`SEC06_PUZ_Q03`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 ![Figure](../../images/q3_1.png)
 
@@ -181,7 +196,12 @@ Hence, the missing letter is O (Option A).
 
 ---
 
-### Problem 4: Sequential Square Two-Digit Concatenation Pattern (`SEC06_PUZ_Q04`)
+### Problem 4: Sequential Square Two-Digit Concatenation Pattern (`SEC06_PUZ_Q04`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 ![Figure](../../images/q4_1.png)
 
@@ -219,7 +239,12 @@ Hence, the missing number is 1 (Option A).
 
 ---
 
-### Problem 5: Recursive Progression Tree Pattern (2x + 3) (`SEC06_PUZ_Q05`)
+### Problem 5: Recursive Progression Tree Pattern (2x + 3) (`SEC06_PUZ_Q05`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 ![Figure](../../images/q5_1.png)
 
@@ -267,7 +292,12 @@ Hence, the missing number is 253 (Option D).
 
 ---
 
-### Problem 6: Two-Column Ladder Incremental Row Sum Pattern (`SEC06_PUZ_Q06`)
+### Problem 6: Two-Column Ladder Incremental Row Sum Pattern (`SEC06_PUZ_Q06`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 ![Figure](../../images/q6_1.png)
 
@@ -309,7 +339,12 @@ Hence, the missing number is 2 (Option C).
 
 ---
 
-### Problem 7: Five-Pointed Star Upper Minus Lower Balance Pattern (`SEC06_PUZ_Q07`)
+### Problem 7: Five-Pointed Star Upper Minus Lower Balance Pattern (`SEC06_PUZ_Q07`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 ![Figure](../../images/q7_1.png)
 
@@ -343,7 +378,12 @@ Hence, the missing number is 10 (Option B).
 
 ---
 
-### Problem 8: Reverse Alphabetical Positional Sum Box Pattern (`SEC06_PUZ_Q08`)
+### Problem 8: Reverse Alphabetical Positional Sum Box Pattern (`SEC06_PUZ_Q08`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 ![Figure](../../images/q8_1.png)
 
@@ -384,7 +424,12 @@ Hence, the missing letter is B (Option A).
 
 ---
 
-### Problem 9: 4×3 Quadratic Sum Matrix Pattern (A² + B² - 2 = C) (`SEC06_PUZ_Q09`)
+### Problem 9: 4×3 Quadratic Sum Matrix Pattern (A² + B² - 2 = C) (`SEC06_PUZ_Q09`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 ![Figure](../../images/q9_1.png)
 
@@ -425,7 +470,12 @@ Hence, the missing number is 5 (Option C).
 
 ---
 
-### Problem 10: 3×3 Letter-Number Product Matrix Pattern (`SEC06_PUZ_Q10`)
+### Problem 10: 3×3 Letter-Number Product Matrix Pattern (`SEC06_PUZ_Q10`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 ![Figure](../../images/q10_1.png)
 
@@ -464,7 +514,12 @@ Hence, the missing letter is R (Option D).
 
 ---
 
-### Problem 11: Divided Circles Sum of Squares Pattern (`SEC06_PUZ_Q11`)
+### Problem 11: Divided Circles Sum of Squares Pattern (`SEC06_PUZ_Q11`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 ![Figure](../../images/q11_1.png)
 
@@ -499,7 +554,12 @@ Hence, the missing number is 26 (Option D).
 
 ---
 
-### Problem 12: Dual-Variable Block Proportionality Pattern (`SEC06_PUZ_Q12`)
+### Problem 12: Dual-Variable Block Proportionality Pattern (`SEC06_PUZ_Q12`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 
 ![Figure](../../images/q12_1.png)
 
@@ -540,7 +600,12 @@ Hence, the correct pair is A = 14, B = 28 (Option C).
 
 ---
 
-### Problem 13: 4×4 Column Linear Product Matrix Pattern (`SEC06_PUZ_Q13`)
+### Problem 13: 4×4 Column Linear Product Matrix Pattern (`SEC06_PUZ_Q13`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/q13_1.png)
 
@@ -579,7 +644,12 @@ Hence, the missing number is 9 (Option B).
 
 ---
 
-### Problem 14: Dual-Set Exponential Square Grid Pattern (`SEC06_PUZ_Q14`)
+### Problem 14: Dual-Set Exponential Square Grid Pattern (`SEC06_PUZ_Q14`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/q14_1.png)
 
@@ -619,7 +689,12 @@ Hence, the missing number in the second set is 99 (Option C).
 
 ---
 
-### Problem 15: Segmented Four-Square Constant Sum (22) Pattern (`SEC06_PUZ_Q15`)
+### Problem 15: Segmented Four-Square Constant Sum (22) Pattern (`SEC06_PUZ_Q15`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/q15_1.png)
 
@@ -657,7 +732,12 @@ Hence, the missing number is 9 (Option D).
 
 ---
 
-### Problem 16: T-Shaped Block Upper Mean Average Pattern (`SEC06_PUZ_Q16`)
+### Problem 16: T-Shaped Block Upper Mean Average Pattern (`SEC06_PUZ_Q16`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/q16_1.png)
 
@@ -693,7 +773,12 @@ Hence, the missing number is 3 (Option B).
 
 ---
 
-### Problem 17: Hexagonal Letter Positional Addition Pattern (`SEC06_PUZ_Q17`)
+### Problem 17: Hexagonal Letter Positional Addition Pattern (`SEC06_PUZ_Q17`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/q17_1.png)
 
@@ -732,7 +817,12 @@ Hence, the missing letter is M (Option A).
 
 ---
 
-### Problem 18: Team Selection Constraint Satisfaction Puzzle (`SEC06_LOGIC_Q01`)
+### Problem 18: Team Selection Constraint Satisfaction Puzzle (`SEC06_LOGIC_Q01`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_24.png)
 
@@ -772,7 +862,12 @@ Hence, the only valid team selection is DAPQ (Option B).
 
 ---
 
-### Problem 19: Balbir Butcher Shop Dog Theft (Truth and Lie Logic) (`SEC06_LOGIC_Q02`)
+### Problem 19: Balbir Butcher Shop Dog Theft (Truth and Lie Logic) (`SEC06_LOGIC_Q02`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_25.png)
 
@@ -836,7 +931,12 @@ Hence, Option D is 100% mathematically proven.
 
 ---
 
-### Problem 20: The 3 Jug Water Riddle (12L, 8L, 5L State Transition) (`SEC06_LOGIC_Q03`)
+### Problem 20: The 3 Jug Water Riddle (12L, 8L, 5L State Transition) (`SEC06_LOGIC_Q03`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_26.png)
 
@@ -882,7 +982,12 @@ Hence, Option B is correct.
 
 ---
 
-### Problem 21: The 8 Balls Balance Scale Puzzle (`SEC06_LOGIC_Q04`)
+### Problem 21: The 8 Balls Balance Scale Puzzle (`SEC06_LOGIC_Q04`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_27.png)
 
@@ -921,7 +1026,12 @@ Hence, the minimum number of weight checks required is 2 (Option B).
 
 ---
 
-### Problem 22: Infosys PYQ Matrix Deduction Problem 22 (`SEC06_MAT_022`)
+### Problem 22: Infosys PYQ Matrix Deduction Problem 22 (`SEC06_MAT_022`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -958,7 +1068,12 @@ Conclusion confirms answer D.
 
 ---
 
-### Problem 23: Infosys PYQ Matrix Deduction Problem 23 (`SEC06_MAT_023`)
+### Problem 23: Infosys PYQ Matrix Deduction Problem 23 (`SEC06_MAT_023`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -995,7 +1110,12 @@ Conclusion confirms answer B.
 
 ---
 
-### Problem 24: Infosys PYQ Matrix Deduction Problem 24 (`SEC06_MAT_024`)
+### Problem 24: Infosys PYQ Matrix Deduction Problem 24 (`SEC06_MAT_024`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1032,7 +1152,12 @@ Conclusion confirms answer B.
 
 ---
 
-### Problem 25: Infosys PYQ Matrix Deduction Problem 25 (`SEC06_MAT_025`)
+### Problem 25: Infosys PYQ Matrix Deduction Problem 25 (`SEC06_MAT_025`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1069,7 +1194,12 @@ Conclusion confirms answer B.
 
 ---
 
-### Problem 26: Infosys PYQ Matrix Deduction Problem 26 (`SEC06_MAT_026`)
+### Problem 26: Infosys PYQ Matrix Deduction Problem 26 (`SEC06_MAT_026`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1106,7 +1236,12 @@ Conclusion confirms answer A.
 
 ---
 
-### Problem 27: Infosys PYQ Matrix Deduction Problem 27 (`SEC06_MAT_027`)
+### Problem 27: Infosys PYQ Matrix Deduction Problem 27 (`SEC06_MAT_027`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1143,7 +1278,12 @@ Conclusion confirms answer D.
 
 ---
 
-### Problem 28: Infosys PYQ Matrix Deduction Problem 28 (`SEC06_MAT_028`)
+### Problem 28: Infosys PYQ Matrix Deduction Problem 28 (`SEC06_MAT_028`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1180,7 +1320,12 @@ Conclusion confirms answer D.
 
 ---
 
-### Problem 29: Infosys PYQ Matrix Deduction Problem 29 (`SEC06_MAT_029`)
+### Problem 29: Infosys PYQ Matrix Deduction Problem 29 (`SEC06_MAT_029`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1217,7 +1362,12 @@ Conclusion confirms answer D.
 
 ---
 
-### Problem 30: Infosys PYQ Matrix Deduction Problem 30 (`SEC06_MAT_030`)
+### Problem 30: Infosys PYQ Matrix Deduction Problem 30 (`SEC06_MAT_030`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1254,7 +1404,12 @@ Conclusion confirms answer D.
 
 ---
 
-### Problem 31: Infosys PYQ Matrix Deduction Problem 31 (`SEC06_MAT_031`)
+### Problem 31: Infosys PYQ Matrix Deduction Problem 31 (`SEC06_MAT_031`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1291,7 +1446,12 @@ Conclusion confirms answer D.
 
 ---
 
-### Problem 32: Infosys PYQ Matrix Deduction Problem 32 (`SEC06_MAT_032`)
+### Problem 32: Infosys PYQ Matrix Deduction Problem 32 (`SEC06_MAT_032`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1328,7 +1488,12 @@ Conclusion confirms answer C.
 
 ---
 
-### Problem 33: Infosys PYQ Matrix Deduction Problem 33 (`SEC06_MAT_033`)
+### Problem 33: Infosys PYQ Matrix Deduction Problem 33 (`SEC06_MAT_033`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1365,7 +1530,12 @@ Conclusion confirms answer A.
 
 ---
 
-### Problem 34: Infosys PYQ Matrix Deduction Problem 34 (`SEC06_MAT_034`)
+### Problem 34: Infosys PYQ Matrix Deduction Problem 34 (`SEC06_MAT_034`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1402,7 +1572,12 @@ Conclusion confirms answer D.
 
 ---
 
-### Problem 35: Infosys PYQ Matrix Deduction Problem 35 (`SEC06_MAT_035`)
+### Problem 35: Infosys PYQ Matrix Deduction Problem 35 (`SEC06_MAT_035`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1439,7 +1614,12 @@ Conclusion confirms answer B.
 
 ---
 
-### Problem 36: Infosys PYQ Matrix Deduction Problem 36 (`SEC06_MAT_036`)
+### Problem 36: Infosys PYQ Matrix Deduction Problem 36 (`SEC06_MAT_036`)  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1476,7 +1656,12 @@ Conclusion confirms answer A.
 
 ---
 
-### Problem 37: Infosys PYQ Matrix Deduction Problem 37 (`SEC06_MAT_037`)
+### Problem 37: Infosys PYQ Matrix Deduction Problem 37 (`SEC06_MAT_037`)  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1513,7 +1698,12 @@ Conclusion confirms answer C.
 
 ---
 
-### Problem 38: Infosys PYQ Matrix Deduction Problem 38 (`SEC06_MAT_038`)
+### Problem 38: Infosys PYQ Matrix Deduction Problem 38 (`SEC06_MAT_038`)  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1550,7 +1740,12 @@ Conclusion confirms answer D.
 
 ---
 
-### Problem 39: Infosys PYQ Matrix Deduction Problem 39 (`SEC06_MAT_039`)
+### Problem 39: Infosys PYQ Matrix Deduction Problem 39 (`SEC06_MAT_039`)  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1587,7 +1782,12 @@ Conclusion confirms answer C.
 
 ---
 
-### Problem 40: Infosys PYQ Matrix Deduction Problem 40 (`SEC06_MAT_040`)
+### Problem 40: Infosys PYQ Matrix Deduction Problem 40 (`SEC06_MAT_040`)  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
+> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
+> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
+> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1624,7 +1824,12 @@ Conclusion confirms answer A.
 
 ---
 
-### Problem 41: Infosys PYQ Matrix Deduction Problem 41 (`SEC06_MAT_041`)
+### Problem 41: Infosys PYQ Matrix Deduction Problem 41 (`SEC06_MAT_041`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1661,7 +1866,12 @@ Conclusion confirms answer B.
 
 ---
 
-### Problem 42: Infosys PYQ Matrix Deduction Problem 42 (`SEC06_MAT_042`)
+### Problem 42: Infosys PYQ Matrix Deduction Problem 42 (`SEC06_MAT_042`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1698,7 +1908,12 @@ Conclusion confirms answer A.
 
 ---
 
-### Problem 43: Infosys PYQ Matrix Deduction Problem 43 (`SEC06_MAT_043`)
+### Problem 43: Infosys PYQ Matrix Deduction Problem 43 (`SEC06_MAT_043`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1735,7 +1950,12 @@ Conclusion confirms answer C.
 
 ---
 
-### Problem 44: Infosys PYQ Matrix Deduction Problem 44 (`SEC06_MAT_044`)
+### Problem 44: Infosys PYQ Matrix Deduction Problem 44 (`SEC06_MAT_044`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1772,7 +1992,12 @@ Conclusion confirms answer C.
 
 ---
 
-### Problem 45: Infosys PYQ Matrix Deduction Problem 45 (`SEC06_MAT_045`)
+### Problem 45: Infosys PYQ Matrix Deduction Problem 45 (`SEC06_MAT_045`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1809,7 +2034,12 @@ Conclusion confirms answer B.
 
 ---
 
-### Problem 46: Infosys PYQ Matrix Deduction Problem 46 (`SEC06_MAT_046`)
+### Problem 46: Infosys PYQ Matrix Deduction Problem 46 (`SEC06_MAT_046`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1846,7 +2076,12 @@ Conclusion confirms answer B.
 
 ---
 
-### Problem 47: Infosys PYQ Matrix Deduction Problem 47 (`SEC06_MAT_047`)
+### Problem 47: Infosys PYQ Matrix Deduction Problem 47 (`SEC06_MAT_047`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1883,7 +2118,12 @@ Conclusion confirms answer C.
 
 ---
 
-### Problem 48: Infosys PYQ Matrix Deduction Problem 48 (`SEC06_MAT_048`)
+### Problem 48: Infosys PYQ Matrix Deduction Problem 48 (`SEC06_MAT_048`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1920,7 +2160,12 @@ Conclusion confirms answer C.
 
 ---
 
-### Problem 49: Infosys PYQ Matrix Deduction Problem 49 (`SEC06_MAT_049`)
+### Problem 49: Infosys PYQ Matrix Deduction Problem 49 (`SEC06_MAT_049`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1957,7 +2202,12 @@ Conclusion confirms answer A.
 
 ---
 
-### Problem 50: Infosys PYQ Matrix Deduction Problem 50 (`SEC06_MAT_050`)
+### Problem 50: Infosys PYQ Matrix Deduction Problem 50 (`SEC06_MAT_050`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 
@@ -1994,7 +2244,12 @@ Conclusion confirms answer D.
 
 ---
 
-### Problem 51: Infosys PYQ Matrix Deduction Problem 51 (`SEC06_MAT_051`)
+### Problem 51: Infosys PYQ Matrix Deduction Problem 51 (`SEC06_MAT_051`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 
 ![Figure](../../images/number_puzzles_ebook_page_14.png)
 

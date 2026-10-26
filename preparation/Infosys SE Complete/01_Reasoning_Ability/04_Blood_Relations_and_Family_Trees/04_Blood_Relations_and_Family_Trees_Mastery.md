@@ -6,7 +6,12 @@
 
 ---
 
-### Problem 01: Family Tree Logic (`SEC01_MOD04_Q01`)
+### Problem 01: Family Tree Logic (`SEC01_MOD04_Q01`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `4 _ Blood Relation` | **Source Document:** `Practice Sheet - assignment blood relaton CM.pdf`  
 **Problem Statement:**
 
@@ -48,7 +53,12 @@ Ques 1: Aditya is Bhavi's brother, Bharat is Jayant's father. Ella is Bhavi's mo
 
 ---
 
-### Problem 02: Indirect Statement Deduction (`SEC01_MOD04_Q02`)
+### Problem 02: Indirect Statement Deduction (`SEC01_MOD04_Q02`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `4 _ Blood Relation` | **Source Document:** `Practice Sheet - assignment blood relaton CM.pdf`  
 **Problem Statement:**
 
@@ -79,7 +89,12 @@ Therefore, the boy is the son of the man.
 
 ---
 
-### Problem 03: Multi-Generation Family Tree (`SEC01_MOD04_Q03`)
+### Problem 03: Multi-Generation Family Tree (`SEC01_MOD04_Q03`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `4 _ Blood Relation` | **Source Document:** `Practice Sheet - assignment blood relaton CM.pdf`  
 **Problem Statement:**
 
@@ -109,7 +124,12 @@ Therefore, B is the paternal uncle of D.
 
 ---
 
-### Problem 04: Kinship Tracking (`SEC01_MOD04_Q04`)
+### Problem 04: Kinship Tracking (`SEC01_MOD04_Q04`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `4 _ Blood Relation` | **Source Document:** `Practice Sheet - assignment blood relaton CM.pdf`  
 **Problem Statement:**
 
@@ -139,7 +159,12 @@ Ques 4: Vidya is the wife of Gopi and Gopi is the brother of Akhil. Akhil is the
 
 ---
 
-### Problem 05: Coded Blood Relation Expression (`SEC01_MOD04_Q05`)
+### Problem 05: Coded Blood Relation Expression (`SEC01_MOD04_Q05`)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+
+
 **Origin Module:** `4 _ Blood Relation` | **Source Document:** `Blood Relation.pdf`  
 **Problem Statement:**
 
@@ -176,7 +201,12 @@ Therefore, option A is completely true.
 
 ---
 
-### Problem 06: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q01`)
+### Problem 06: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q01`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `4 _ Blood Relation` | **Source Document:** `BLOOD RELATION TEST 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -206,7 +236,12 @@ Official solution from Blood Relation Topic Mock Test 01. Symmetrical, rotationa
 
 ---
 
-### Problem 07: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q02`)
+### Problem 07: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q02`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `4 _ Blood Relation` | **Source Document:** `BLOOD RELATION TEST 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -236,7 +271,12 @@ Official solution from Blood Relation Topic Mock Test 01. Symmetrical, rotationa
 
 ---
 
-### Problem 08: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q03`)
+### Problem 08: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q03`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `4 _ Blood Relation` | **Source Document:** `BLOOD RELATION TEST 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -267,7 +307,12 @@ Official solution from Blood Relation Topic Mock Test 01. Symmetrical, rotationa
 
 ---
 
-### Problem 09: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q04`)
+### Problem 09: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q04`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `4 _ Blood Relation` | **Source Document:** `BLOOD RELATION TEST 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -294,7 +339,12 @@ This is the solution
 
 ---
 
-### Problem 10: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q05`)
+### Problem 10: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q05`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `4 _ Blood Relation` | **Source Document:** `BLOOD RELATION TEST 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -321,7 +371,12 @@ This is the solution
 
 ---
 
-### Problem 11: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q06`)
+### Problem 11: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q06`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `4 _ Blood Relation` | **Source Document:** `BLOOD RELATION TEST 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -351,7 +406,12 @@ Official solution from Blood Relation Topic Mock Test 01. Symmetrical, rotationa
 
 ---
 
-### Problem 12: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q07`)
+### Problem 12: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q07`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `4 _ Blood Relation` | **Source Document:** `BLOOD RELATION TEST 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -381,7 +441,12 @@ Official solution from Blood Relation Topic Mock Test 01. Symmetrical, rotationa
 
 ---
 
-### Problem 13: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q08`)
+### Problem 13: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q08`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `4 _ Blood Relation` | **Source Document:** `BLOOD RELATION TEST 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -411,7 +476,12 @@ Official solution from Blood Relation Topic Mock Test 01. Symmetrical, rotationa
 
 ---
 
-### Problem 14: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q09`)
+### Problem 14: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q09`)  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+
+
 **Origin Module:** `4 _ Blood Relation` | **Source Document:** `BLOOD RELATION TEST 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -444,7 +514,12 @@ Official solution from Blood Relation Topic Mock Test 01. Symmetrical, rotationa
 
 ---
 
-### Problem 15: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q10`)
+### Problem 15: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q10`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `4 _ Blood Relation` | **Source Document:** `BLOOD RELATION TEST 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -477,7 +552,12 @@ Official solution from Blood Relation Topic Mock Test 01. Symmetrical, rotationa
 
 ---
 
-### Problem 16: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q11`)
+### Problem 16: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q11`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `4 _ Blood Relation` | **Source Document:** `BLOOD RELATION TEST 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -507,7 +587,12 @@ Official solution from Blood Relation Topic Mock Test 01. Symmetrical, rotationa
 
 ---
 
-### Problem 17: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q12`)
+### Problem 17: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q12`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `4 _ Blood Relation` | **Source Document:** `BLOOD RELATION TEST 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -537,7 +622,12 @@ Official solution from Blood Relation Topic Mock Test 01. Symmetrical, rotationa
 
 ---
 
-### Problem 18: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q13`)
+### Problem 18: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q13`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `4 _ Blood Relation` | **Source Document:** `BLOOD RELATION TEST 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -570,7 +660,12 @@ Official solution from Blood Relation Topic Mock Test 01. Symmetrical, rotationa
 
 ---
 
-### Problem 19: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q14`)
+### Problem 19: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q14`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `4 _ Blood Relation` | **Source Document:** `BLOOD RELATION TEST 01_QUESTIONS.json`  
 **Problem Statement:**
 
@@ -600,7 +695,12 @@ This is the solution
 
 ---
 
-### Problem 20: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q15`)
+### Problem 20: Blood Relations & Family Trees (`SEC01_TEST_BLOOD _Q15`)  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
+> **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
+> **💡 Preparation Advice:** *Alternate numerical drill. Skimmable if earlier core questions are mastered.*
+
+
 **Origin Module:** `4 _ Blood Relation` | **Source Document:** `BLOOD RELATION TEST 01_QUESTIONS.json`  
 **Problem Statement:**
 
