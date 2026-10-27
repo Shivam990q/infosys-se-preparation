@@ -16,7 +16,7 @@
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -42,7 +42,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -68,7 +68,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -94,7 +94,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -120,7 +120,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -146,7 +146,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -172,7 +172,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -198,7 +198,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -224,7 +224,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -250,7 +250,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -276,7 +276,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -302,7 +302,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -328,7 +328,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -354,7 +354,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -380,7 +380,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -406,7 +406,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -432,7 +432,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `5`  
 
@@ -458,7 +458,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -484,7 +484,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -510,7 +510,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -536,7 +536,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -562,7 +562,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -588,7 +588,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -614,7 +614,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -640,7 +640,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -666,7 +666,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -692,7 +692,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -718,7 +718,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -744,7 +744,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -770,7 +770,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -796,7 +796,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -822,7 +822,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -848,7 +848,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -874,7 +874,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -900,7 +900,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -926,7 +926,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -952,7 +952,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -978,7 +978,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -1004,7 +1004,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -1030,7 +1030,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -1056,7 +1056,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -1082,7 +1082,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -1108,7 +1108,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -1134,7 +1134,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -1160,7 +1160,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -1186,7 +1186,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -1212,7 +1212,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -1238,7 +1238,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -1264,7 +1264,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -1290,7 +1290,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -1316,7 +1316,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -1342,7 +1342,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -1368,7 +1368,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -1394,7 +1394,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -1420,7 +1420,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1446,7 +1446,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -1472,7 +1472,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `2134`  
 
@@ -1498,7 +1498,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -1524,7 +1524,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -1550,7 +1550,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -1576,7 +1576,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -1602,7 +1602,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -1628,7 +1628,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -1654,7 +1654,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -1680,7 +1680,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -1706,7 +1706,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -1732,7 +1732,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -1758,7 +1758,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -1784,7 +1784,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -1810,7 +1810,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -1836,7 +1836,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -1862,7 +1862,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -1888,7 +1888,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -1914,7 +1914,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -1940,7 +1940,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -1966,7 +1966,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -1992,7 +1992,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -2018,7 +2018,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -2044,7 +2044,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -2070,7 +2070,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -2096,7 +2096,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -2122,7 +2122,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -2148,7 +2148,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -2174,7 +2174,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -2200,7 +2200,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -2226,7 +2226,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -2252,7 +2252,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -2278,7 +2278,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -2304,7 +2304,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -2330,7 +2330,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -2356,7 +2356,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -2382,7 +2382,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -2408,7 +2408,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -2434,7 +2434,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -2460,7 +2460,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -2486,7 +2486,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -2512,7 +2512,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -2538,7 +2538,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -2564,7 +2564,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -2590,7 +2590,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -2616,7 +2616,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -2642,7 +2642,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -2668,7 +2668,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -2694,7 +2694,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -2720,7 +2720,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -2746,7 +2746,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -2772,7 +2772,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -2798,7 +2798,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -2824,7 +2824,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -2850,7 +2850,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -2876,7 +2876,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -2902,7 +2902,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -2928,7 +2928,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -2954,7 +2954,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -2980,7 +2980,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -3006,7 +3006,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -3032,7 +3032,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -3058,7 +3058,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -3084,7 +3084,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -3110,7 +3110,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -3136,7 +3136,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -3162,7 +3162,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -3188,7 +3188,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -3214,7 +3214,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -3240,7 +3240,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -3266,7 +3266,7 @@ Grammatical concord, contextual semantics, and vocabulary conventions confirm an
 **Sentence / Transcript:**  
 . After a few months in Mumbai (
 
-![Verbal Slide Page 1](../../images/verbal_page_001.png)
+![Verbal Slide Page 1](../images/verbal_page_001.png)
 
 > **Verified Answer Key:** `A`  
 

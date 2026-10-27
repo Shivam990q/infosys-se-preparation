@@ -60,7 +60,6 @@ cout<< Test::getX();      }
 Therefore, the output is `0 5` (Option C).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -112,7 +111,6 @@ return 0;
 Therefore, the result is `Compile time error` (Option B).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -154,7 +152,6 @@ In Java:
 Statements C and D are evaluated in the course key (Option C&D).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_03.png)
 
 ---
 
@@ -196,7 +193,6 @@ is invalid in C language?
 3. When termination condition is reached, the printed result or accumulated value matches Option `D`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_03.png)
 
 ---
 
@@ -245,7 +241,6 @@ main ()
 3. When termination condition is reached, the printed result or accumulated value matches Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_04.png)
 
 ---
 
@@ -295,7 +290,6 @@ print n
 3. When termination condition is reached, the printed result or accumulated value matches Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_04.png)
 
 ---
 
@@ -346,7 +340,6 @@ Trace of do-while loop:
 Output sequence: `6 5 4` (Option D).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_04.png)
 
 ---
 
@@ -398,7 +391,6 @@ end for
 3. Summing/reducing returned values produces the exact result corresponding to Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_05.png)
 
 ---
 
@@ -448,7 +440,6 @@ return f(n);
 3. Summing/reducing returned values produces the exact result corresponding to Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_06.png)
 
 ---
 
@@ -503,7 +494,6 @@ Print n
 3. When termination condition is reached, the printed result or accumulated value matches Option `D`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_06.png)
 
 ---
 
@@ -557,7 +547,6 @@ Print x+y+z
 3. When termination condition is reached, the printed result or accumulated value matches Option `D`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_06.png)
 
 ---
 
@@ -609,7 +598,6 @@ print a
 3. When termination condition is reached, the printed result or accumulated value matches Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_07.png)
 
 ---
 
@@ -658,7 +646,6 @@ Print (stringLength (str1))
 3. When termination condition is reached, the printed result or accumulated value matches Option `D`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_07.png)
 
 ---
 
@@ -713,7 +700,6 @@ Print x+y
 3. When termination condition is reached, the printed result or accumulated value matches Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_09.png)
 
 ---
 
@@ -758,7 +744,6 @@ number of swaps required.
 3. When termination condition is reached, the printed result or accumulated value matches Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_09.png)
 
 ---
 
@@ -807,7 +792,6 @@ Print a+b
 3. When termination condition is reached, the printed result or accumulated value matches Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_10.png)
 
 ---
 
@@ -853,7 +837,6 @@ end-for
 3. When termination condition is reached, the printed result or accumulated value matches Option `D`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_10.png)
 
 ---
 
@@ -898,7 +881,6 @@ end-for
 3. When termination condition is reached, the printed result or accumulated value matches Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_10.png)
 
 ---
 
@@ -944,7 +926,6 @@ end-while
 3. When termination condition is reached, the printed result or accumulated value matches Option `D`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_10.png)
 
 ---
 
@@ -990,7 +971,6 @@ end-for
 3. When termination condition is reached, the printed result or accumulated value matches Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_10.png)
 
 ---
 
@@ -1036,7 +1016,6 @@ display (a or b and c)
 3. When termination condition is reached, the printed result or accumulated value matches Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_11.png)
 
 ---
 
@@ -1081,7 +1060,6 @@ end-for
 3. When termination condition is reached, the printed result or accumulated value matches Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_11.png)
 
 ---
 
@@ -1131,7 +1109,6 @@ Display m
 3. When termination condition is reached, the printed result or accumulated value matches Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_11.png)
 
 ---
 
@@ -1178,7 +1155,6 @@ end – for
 3. When termination condition is reached, the printed result or accumulated value matches Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_11.png)
 
 ---
 
@@ -1225,7 +1201,6 @@ Print pp+qq+rr
 3. When termination condition is reached, the printed result or accumulated value matches Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_11.png)
 
 ---
 
@@ -1270,7 +1245,6 @@ End for
 3. When termination condition is reached, the printed result or accumulated value matches Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_13.png)
 
 ---
 
@@ -1319,7 +1293,6 @@ Display res
 3. When termination condition is reached, the printed result or accumulated value matches Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_13.png)
 
 ---
 
@@ -1367,7 +1340,6 @@ Display marks
 3. When termination condition is reached, the printed result or accumulated value matches Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_13.png)
 
 ---
 
@@ -1414,7 +1386,6 @@ args) {
 2. Object lifecycle and inheritance rules dictate the behavior, confirming Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_13.png)
 
 ---
 
@@ -1464,7 +1435,6 @@ System.out.printIn(b);
 2. Object lifecycle and inheritance rules dictate the behavior, confirming Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_13.png)
 
 ---
 
@@ -1528,7 +1498,6 @@ If(n==10)
 2. Object lifecycle and inheritance rules dictate the behavior, confirming Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_14.png)
 
 ---
 
@@ -1578,7 +1547,6 @@ Int maximum = 10
 2. Object lifecycle and inheritance rules dictate the behavior, confirming Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_14.png)
 
 ---
 
@@ -1626,7 +1594,6 @@ System.out.printIn(“i”);
 2. Object lifecycle and inheritance rules dictate the behavior, confirming Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_14.png)
 
 ---
 
@@ -1680,7 +1647,6 @@ System.out.printIn(sum);
 4. Cross-verifying against the master answer key confirms Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_14.png)
 
 ---
 
@@ -1738,7 +1704,6 @@ System.out.printIn(sum);
 4. Cross-verifying against the master answer key confirms Option `D`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_14.png)
 
 ---
 
@@ -1788,7 +1753,6 @@ System.out.printIn(i);
 2. Object lifecycle and inheritance rules dictate the behavior, confirming Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_15.png)
 
 ---
 
@@ -1840,7 +1804,6 @@ Print”campus monk”
 3. When termination condition is reached, the printed result or accumulated value matches Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_15.png)
 
 ---
 
@@ -1887,7 +1850,6 @@ Print f+k
 3. When termination condition is reached, the printed result or accumulated value matches Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_15.png)
 
 ---
 
@@ -1937,7 +1899,6 @@ End if
 3. When termination condition is reached, the printed result or accumulated value matches Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_16.png)
 
 ---
 
@@ -1982,7 +1943,6 @@ Print m
 3. When termination condition is reached, the printed result or accumulated value matches Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_16.png)
 
 ---
 
@@ -2029,7 +1989,6 @@ End for
 3. When termination condition is reached, the printed result or accumulated value matches Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_16.png)
 
 ---
 
@@ -2077,7 +2036,6 @@ int $=5;
 2. Object lifecycle and inheritance rules dictate the behavior, confirming Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_16.png)
 
 ---
 
@@ -2131,7 +2089,6 @@ uses to determine that location?
 3. When termination condition is reached, the printed result or accumulated value matches Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_17.png)
 
 ---
 
@@ -2187,7 +2144,6 @@ System.out.print(x);
 2. Object lifecycle and inheritance rules dictate the behavior, confirming Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_17.png)
 
 ---
 
@@ -2239,7 +2195,6 @@ System.out.print(x*2);
 2. Object lifecycle and inheritance rules dictate the behavior, confirming Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_18.png)
 
 ---
 
@@ -2293,7 +2248,6 @@ f();
 2. Object lifecycle and inheritance rules dictate the behavior, confirming Option `D`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_18.png)
 
 ---
 
@@ -2348,7 +2302,6 @@ Print n
 3. When termination condition is reached, the printed result or accumulated value matches Option `D`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_19.png)
 
 ---
 
@@ -2398,7 +2351,6 @@ printf("%d",m);
 3. When termination condition is reached, the printed result or accumulated value matches Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_19.png)
 
 ---
 
@@ -2450,7 +2402,6 @@ while(i<2020);
 3. When termination condition is reached, the printed result or accumulated value matches Option `D`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_19.png)
 
 ---
 
@@ -2506,7 +2457,6 @@ printf("abc\n");
 3. When termination condition is reached, the printed result or accumulated value matches Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_19.png)
 
 ---
 
@@ -2558,7 +2508,6 @@ Print a+b
 3. When termination condition is reached, the printed result or accumulated value matches Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_21.png)
 
 ---
 
@@ -2609,7 +2558,6 @@ End If
 3. When termination condition is reached, the printed result or accumulated value matches Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_22.png)
 
 ---
 
@@ -2665,7 +2613,6 @@ Print x+y+z
 3. When termination condition is reached, the printed result or accumulated value matches Option `D`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_22.png)
 
 ---
 
@@ -2708,7 +2655,6 @@ case statement?
 3. When termination condition is reached, the printed result or accumulated value matches Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_24.png)
 
 ---
 
@@ -2764,7 +2710,6 @@ Loop trace for i = 1 to 4:
 Output: `Hi4` (Option C).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_25.png)
 
 ---
 
@@ -2815,7 +2760,6 @@ In C, integer literals starting with `0` are interpreted in OCTAL base:
 - The else block executes, printing `Btech` (Option B).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_25.png)
 
 ---
 
@@ -2854,7 +2798,6 @@ static?
 In Java, `public static void main(String[] args)` is declared `static` so that the Java Virtual Machine (JVM) can invoke it directly without needing to instantiate an object of the containing class (Option A).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_25.png)
 
 ---
 
@@ -2903,7 +2846,6 @@ cout<< Test::getX();      }
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `0 5`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -2950,7 +2892,6 @@ return 0;
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `Compile time error`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -2988,7 +2929,6 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `Scheduler process`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -3030,7 +2970,6 @@ d)   D) A final method can be inherited.
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `C&D`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -3075,7 +3014,6 @@ printf(“ NOT EQUAL TO 5.”)
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `5`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -3121,7 +3059,6 @@ print n
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `5`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -3166,7 +3103,6 @@ end while
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `6 5 4`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -3204,7 +3140,6 @@ T The concatenation of two lists is to be performed in O(1) time. Which of the f
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `a)     Circular doubly linked list`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -3252,7 +3187,6 @@ Output (A[i][j]);
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `a)     The matrix A itself`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -3299,7 +3233,6 @@ end for
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `10`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -3345,7 +3278,6 @@ return f(n);
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `7`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -3396,7 +3328,6 @@ Print n
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `2`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -3446,7 +3377,6 @@ Print x+y+z
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `30`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -3484,7 +3414,6 @@ How many times campus monk will be printed? Set k = 1, p = 4 Int j = p + k / 2 I
 Official Video Solution from Day 06 Full Length Mock I. Full execution trace and operator evaluation confirms Option `2 Times`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_06.png)
 
 ---
 
@@ -3522,7 +3451,6 @@ Find the output of the following code. #include   void main() { int a = 10; if (
 Official Video Solution from Day 06 Full Length Mock I. Full execution trace and operator evaluation confirms Option `B.tech`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_06.png)
 
 ---
 
@@ -3560,6 +3488,5 @@ Predict the output of the given pseudocode if the value of the number is 6: Read
 Official Video Solution from Day 07 Full Length Mock II. Full execution trace and operator evaluation confirms Option `1440.0`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_10.png)
 
 ---

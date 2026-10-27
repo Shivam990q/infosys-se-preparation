@@ -474,7 +474,7 @@ The subject 'cookies' is plural, requiring the plural auxiliary verb 'were baked
 
 > **Topic:** *"Effective communication is one of the most important skills for success in a professional workplace."*
 
-![Original Slide](../../images/slot1_page_010.png)
+![Original Slide](../images/slot1_page_010.png)
 
 > **Verified Answer Key:** Full Score Corporate Model Essay & Structural Breakdown (10/10 Band)
 
@@ -965,7 +965,7 @@ Official Exam Key: `D) is`. Systematic step-by-step verification confirms this r
 
 > **Topic:** *"Technology can improve productivity, but human skills remain essential in the modern workplace."*
 
-![Original Slide](../../images/slot2_page_010.png)
+![Original Slide](../images/slot2_page_010.png)
 
 > **Verified Answer Key:** Full Score Corporate Model Essay & Structural Breakdown (10/10 Band)
 

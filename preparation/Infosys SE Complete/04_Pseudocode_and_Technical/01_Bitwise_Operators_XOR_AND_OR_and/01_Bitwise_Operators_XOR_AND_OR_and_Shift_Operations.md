@@ -60,7 +60,6 @@ cout<< Test::getX();      }
 Therefore, the output is `0 5` (Option C).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -112,7 +111,6 @@ return 0;
 Therefore, the result is `Compile time error` (Option B).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -172,7 +170,6 @@ for (int x = 10; x >= 0; x--)
 Therefore, the values printed are `7 6 3` (Option A).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -221,7 +218,6 @@ Print x+y+z
 4. Cross-verifying against the master answer key confirms Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_06.png)
 
 ---
 
@@ -274,7 +270,6 @@ Print p+q+r
 4. Cross-verifying against the master answer key confirms Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_06.png)
 
 ---
 
@@ -327,7 +322,6 @@ Print x + y + z
 4. Cross-verifying against the master answer key confirms Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_07.png)
 
 ---
 
@@ -379,7 +373,6 @@ End function fun()
 4. Cross-verifying against the master answer key confirms Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_08.png)
 
 ---
 
@@ -427,7 +420,6 @@ Print a + b + c
 4. Cross-verifying against the master answer key confirms Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_08.png)
 
 ---
 
@@ -477,7 +469,6 @@ End function func
 4. Cross-verifying against the master answer key confirms Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_08.png)
 
 ---
 
@@ -526,7 +517,6 @@ Print a+b+c
 4. Cross-verifying against the master answer key confirms Option `D`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_11.png)
 
 ---
 
@@ -577,7 +567,6 @@ Print a+b+c
 4. Cross-verifying against the master answer key confirms Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_12.png)
 
 ---
 
@@ -624,7 +613,6 @@ Print p+q+r
 4. Cross-verifying against the master answer key confirms Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_12.png)
 
 ---
 
@@ -672,7 +660,6 @@ Print a+b+c
 4. Cross-verifying against the master answer key confirms Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_12.png)
 
 ---
 
@@ -723,7 +710,6 @@ Print p+q
 4. Cross-verifying against the master answer key confirms Option `Ans`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_12.png)
 
 ---
 
@@ -777,7 +763,6 @@ System.out.printIn(sum);
 4. Cross-verifying against the master answer key confirms Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_14.png)
 
 ---
 
@@ -835,7 +820,6 @@ System.out.printIn(sum);
 4. Cross-verifying against the master answer key confirms Option `D`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_14.png)
 
 ---
 
@@ -882,7 +866,6 @@ Print a+b+c
 4. Cross-verifying against the master answer key confirms Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_15.png)
 
 ---
 
@@ -928,7 +911,6 @@ Print b+c
 4. Cross-verifying against the master answer key confirms Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_16.png)
 
 ---
 
@@ -974,7 +956,6 @@ Print m
 4. Cross-verifying against the master answer key confirms Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_16.png)
 
 ---
 
@@ -1018,7 +999,6 @@ expression:
 4. Cross-verifying against the master answer key confirms Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_17.png)
 
 ---
 
@@ -1069,7 +1049,6 @@ End function fun()
 4. Cross-verifying against the master answer key confirms Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_18.png)
 
 ---
 
@@ -1118,7 +1097,6 @@ Print x+y+z
 4. Cross-verifying against the master answer key confirms Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_19.png)
 
 ---
 
@@ -1169,7 +1147,6 @@ Which is the last popped element?
 4. Cross-verifying against the master answer key confirms Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_20.png)
 
 ---
 
@@ -1219,7 +1196,6 @@ End if
 4. Cross-verifying against the master answer key confirms Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_22.png)
 
 ---
 
@@ -1270,7 +1246,6 @@ return 0;
 4. Cross-verifying against the master answer key confirms Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_23.png)
 
 ---
 
@@ -1319,7 +1294,6 @@ printf(“%d”, a&b);
 4. Cross-verifying against the master answer key confirms Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_24.png)
 
 ---
 
@@ -1370,7 +1344,6 @@ return 0;
 4. Cross-verifying against the master answer key confirms Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_24.png)
 
 ---
 
@@ -1417,7 +1390,6 @@ cout<<“k=“<<k;
 In the expression `k = (k > 5 && n = 4 ? 100 : 200);`, `n = 4` is an assignment expression with lower precedence than the logical AND `&&`. Because assignment requires an lvalue and has lower precedence, this causes a syntax compile error without explicit parentheses (Option D).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_25.png)
 
 ---
 
@@ -1467,7 +1439,6 @@ Bitwise Right Shift Assignment `X >>= 2`:
 Output: `22` (Option C).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_25.png)
 
 ---
 
@@ -1516,7 +1487,6 @@ cout<< Test::getX();      }
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `0 5`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -1563,7 +1533,6 @@ return 0;
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `Compile time error`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -1611,7 +1580,6 @@ printf("%d ", x);
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `7 6 3`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -1649,7 +1617,6 @@ Integer a, b, c Set a = 2, b = 4, c = 7 b = 7 + a if (c > b) b = b + b end if b 
 Official Video Solution from Day 06 Full Length Mock I. Full execution trace and operator evaluation confirms Option `54`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_06.png)
 
 ---
 
@@ -1687,7 +1654,6 @@ Int p, q, r Set p = 6, q = 4, r = 7 p = (r + 5) + p If ((q & r & p) < (p & 6)) {
 Official Video Solution from Day 06 Full Length Mock I. Full execution trace and operator evaluation confirms Option `26`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_06.png)
 
 ---
 
@@ -1725,7 +1691,6 @@ What is the output of this code? Int p, q, r; Set p = 0, q = 7, r = 9; If ((q + 
 Official Video Solution from Day 06 Full Length Mock I. Full execution trace and operator evaluation confirms Option `16`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_06.png)
 
 ---
 
@@ -1763,7 +1728,6 @@ What will be the output of the following pseudocode? Initial values: a = 4, b = 
 Official Video Solution from Day 06 Full Length Mock I. Full execution trace and operator evaluation confirms Option `11`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_06.png)
 
 ---
 
@@ -1801,7 +1765,6 @@ What will be the output of this pseudocode? a = 7, b = 2, c = 8 If ((b ^ a) < a 
 Official Video Solution from Day 06 Full Length Mock I. Full execution trace and operator evaluation confirms Option `20`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_06.png)
 
 ---
 
@@ -1839,7 +1802,6 @@ Find the output of the code snippet. Integer x, y, z Set x = 1, y = 8, z = 2 If 
 Official Video Solution from Day 06 Full Length Mock I. Full execution trace and operator evaluation confirms Option `11`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_06.png)
 
 ---
 
@@ -1877,7 +1839,6 @@ Find the output of the following code. #include   void main () { int x = 91; x >
 Official Video Solution from Day 06 Full Length Mock I. Full execution trace and operator evaluation confirms Option `22`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_06.png)
 
 ---
 
@@ -1915,7 +1876,6 @@ What is the output of the following C code? int f(int x, int *py, int **ppz) { i
 Official Video Solution from Day 07 Full Length Mock II. Full execution trace and operator evaluation confirms Option `19`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_10.png)
 
 ---
 
@@ -1953,7 +1913,6 @@ What is the output of the following C code? #include   int main() { int a = 12; 
 Official Video Solution from Day 07 Full Length Mock II. Full execution trace and operator evaluation confirms Option `Compiler Error`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_10.png)
 
 ---
 
@@ -1991,7 +1950,6 @@ Predict the output of the following pseudocode. Integer x, y, z Set x = -2, y = 
 Official Video Solution from Day 07 Full Length Mock II. Full execution trace and operator evaluation confirms Option `3`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_10.png)
 
 ---
 
@@ -2029,7 +1987,6 @@ Q1.) Integer p, q, r Set p = 0, q = 2, r = 9 r = 7 + p q = q + r for (each r fro
 Official Video Solution from Day 08 Full Length Mock III. Full execution trace and operator evaluation confirms Option `9`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_14.png)
 
 ---
 
@@ -2067,7 +2024,6 @@ Q2.) #include  using namespace std; int main() { int a = 3, b = 2, c = 5; int re
 Official Video Solution from Day 08 Full Length Mock III. Full execution trace and operator evaluation confirms Option `12`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_14.png)
 
 ---
 
@@ -2105,7 +2061,6 @@ Q3.) Integer value, n Set value = 1, n = 45 while (value less than equal to n) v
 Official Video Solution from Day 08 Full Length Mock III. Full execution trace and operator evaluation confirms Option `64`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_14.png)
 
 ---
 
@@ -2143,7 +2098,6 @@ Q4.) Predict the output of the following pseudocode. Integer x, y, z Set x = -2,
 Official Video Solution from Day 08 Full Length Mock III. Full execution trace and operator evaluation confirms Option `3`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_14.png)
 
 ---
 
@@ -2181,7 +2135,6 @@ Q5. What is the output int main() { int x = 10; int *y, **z; y = &x; z = &y; **z
 Official Video Solution from Day 08 Full Length Mock III. Full execution trace and operator evaluation confirms Option `7 7 7`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_14.png)
 
 ---
 
@@ -2216,7 +2169,6 @@ Q8. What will be the output of the following pseudocode? int a , b ,c Set a=0,b=
 Official Video Solution from Day 08 Full Length Mock III. Full execution trace and operator evaluation confirms Option `20`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_14.png)
 
 ---
 
@@ -2251,7 +2203,6 @@ Q10. What is the output of following Integer value, n Set value = 32, n = 1 whil
 Official Video Solution from Day 08 Full Length Mock III. Full execution trace and operator evaluation confirms Option `undefined`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_14.png)
 
 ---
 
@@ -2289,7 +2240,6 @@ What is the output of following pseudo code: Fun() { Int a=10 , b=20 , c=30; If(
 Official Video Solution from Day 09 Full Length Mock IV. Full execution trace and operator evaluation confirms Option `False`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_18.png)
 
 ---
 
@@ -2327,7 +2277,6 @@ What is the output of following code: Int main(){ Int n=(1<<2+3<<4) Print(n); Re
 Official Video Solution from Day 09 Full Length Mock IV. Full execution trace and operator evaluation confirms Option `512`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_18.png)
 
 ---
 
@@ -2365,7 +2314,6 @@ What is the output of following: Integer x, y Set x = 15, y = 12 y = x &ndash; 1
 Official Video Solution from Day 09 Full Length Mock IV. Full execution trace and operator evaluation confirms Option `15 27 39`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_18.png)
 
 ---
 
@@ -2403,7 +2351,6 @@ Official Video Solution from Day 09 Full Length Mock IV. Full execution trace an
 Official Video Solution from Day 09 Full Length Mock IV. Full execution trace and operator evaluation confirms Option `No error`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_18.png)
 
 ---
 
@@ -2441,7 +2388,6 @@ int main() { int x = 9, y = 2, z = 6; int a = x & y | z; printf("%d", a); return
 Official Video Solution from Day 09 Full Length Mock IV. Full execution trace and operator evaluation confirms Option `6`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_18.png)
 
 ---
 
@@ -2476,7 +2422,6 @@ Integer p, q, r Set p = 4, q = 2, r = 5 p = (q + p) + p if ((q + p)   p) then p 
 Official Video Solution from Day 09 Full Length Mock IV. Full execution trace and operator evaluation confirms Option `undefined`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_18.png)
 
 ---
 
@@ -2511,7 +2456,6 @@ Integer a, b, c Set a = 2, b = 4, c = 7 b = 7 + a if (c > b) b = b + b end if b 
 Official Video Solution from Day 09 Full Length Mock IV. Full execution trace and operator evaluation confirms Option `undefined`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_18.png)
 
 ---
 
@@ -2546,6 +2490,5 @@ Integer a, b, c Set a = 1, b = 6, c = 7 b = (a & b) + b for (each c from 3 to 5)
 Official Video Solution from Day 09 Full Length Mock IV. Full execution trace and operator evaluation confirms Option `undefined`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_18.png)
 
 ---

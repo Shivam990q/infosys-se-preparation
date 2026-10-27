@@ -46,7 +46,6 @@ executed and waiting?
 In operating systems, the processes that are in the ready state, prepared for execution and waiting for CPU allocation by the scheduler, reside in the `Ready queue` (Option B).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -88,7 +87,6 @@ A running process can be transitioned to the blocked (waiting) state by system c
 - In some contexts, specific fork synchronization primitives may block. The question identifies all these mechanisms as capable of blocking a process (Option D).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -128,7 +126,6 @@ interrupt the running process?
 - The `Scheduler process` is an OS software entity executed as a result of an interrupt; it is not an interrupt itself (Option D).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -183,7 +180,6 @@ Output (A[i][j]);
 2. Executing the code fragment step-by-step yields Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_05.png)
 
 ---
 
@@ -224,7 +220,6 @@ expression: 1 2 + 3 * 4 2 - 3 1 + * -
 2. Executing the code fragment step-by-step yields Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_09.png)
 
 ---
 
@@ -265,7 +260,6 @@ server-based model?
 2. Executing the code fragment step-by-step yields Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_17.png)
 
 ---
 
@@ -307,7 +301,6 @@ expression.
 2. Executing the code fragment step-by-step yields Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_20.png)
 
 ---
 
@@ -358,7 +351,6 @@ Which is the last popped element?
 4. Cross-verifying against the master answer key confirms Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_20.png)
 
 ---
 
@@ -396,7 +388,6 @@ Which is the last popped element?
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `Ready queue`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -434,7 +425,6 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `All of these`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
 
@@ -472,6 +462,5 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `Scheduler process`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../images/pseudocode_ebook_page_02.png)
 
 ---
