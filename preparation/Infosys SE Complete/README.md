@@ -7,6 +7,16 @@
 
 ---
 
+## 📌 Master Census, Deep Research & Complete 5-Tier Taxonomy
+
+| Master Document | Markdown Link | Compiled Print PDF | Forensic Scope & Coverage |
+| :--- | :---: | :---: | :--- |
+| **Complete Folder-by-Folder Census & 5-Tier Taxonomy** | [View Markdown](INFOSYS_SE_COMPLETE_FOLDER_BY_FOLDER_CENSUS_AND_TAXONOMY.md) | [Download PDF](INFOSYS_SE_COMPLETE_FOLDER_BY_FOLDER_CENSUS_AND_TAXONOMY.pdf) | Physical audit of all 339 Markdown files, 426 PDF files across 154 directories with 5-tier hierarchical taxonomy (`Section` ➔ `Topic` ➔ `Subtopic` ➔ `Sub-to-Subtopic` ➔ `Question Archetype`). |
+| **Assessment Round Deep Research & Elite Vault Census** | [View Markdown](INFOSYS_SE_ASSESSMENT_ROUND_DEEP_RESEARCH_AND_ELITE_VAULT_CENSUS.md) | [Download PDF](INFOSYS_SE_ASSESSMENT_ROUND_DEEP_RESEARCH_AND_ELITE_VAULT_CENSUS.pdf) | Exhaustive analysis of the Infosys SE assessment round, section weightages, negative marking rules, sectional cut-offs, recurrence patterns, and elite vault mapping. |
+| **Multi-Tier Syllabus & Recurrence Taxonomy** | [View Markdown](INFOSYS_SE_COMPLETE_MULTI_TIER_SYLLABUS_AND_RECURRENCE_TAXONOMY.md) | [Download PDF](INFOSYS_SE_COMPLETE_MULTI_TIER_SYLLABUS_AND_RECURRENCE_TAXONOMY.pdf) | Empirical recurrence probability matrix, repeated question patterns across slots, frequency distribution, and strategic preparation priority ladder. |
+
+---
+
 ## 🏛️ Directory Architecture & Module Census
 
 ```
