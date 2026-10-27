@@ -2,10 +2,10 @@
 
 > **Core Purpose:** The definitive, zero-redundancy curriculum designed strictly to crack the **Infosys Systems Engineer (SE)** Recruitment Examination.  
 > **Exclusivity:** **100% Pure SE Role Focus** — All Specialist Programmer (SP) and Digital Specialist Engineer (DSE) upper-level questions and duplicate variants purged to maximize preparation speed and eliminate cognitive friction.  
-> **Total Pure SE Questions:** **3,022 High-Yield Verified Questions**  
+> **Total Pure SE Questions:** **3,324 High-Yield Verified Questions & Lexical Items**  
 > **Quality & Priority Breakdown:** 🔴 **1,249 Must-Solve (Direct Slot Recurrence)** | 🟡 **1,707 Core SE Level (Fundamental Syllabus Concepts)** | ⚪ **66 Practice Variants**  
 > **Verification Score:** **100.0% Answer Key Coverage (3,022 / 3,022)** | **100.0% Step-by-Step Derivations (3,022 / 3,022)**  
-> **Total Curated Modules:** **66 Comprehensive Modules across 9 Complete Sections**  
+> **Total Curated Modules:** **67 Comprehensive Modules across 9 Complete Sections**  
 > **Status:** 100% Mathematically Verified, Deductively Proven with Zero Hallucination.
 
 ---
@@ -43,9 +43,10 @@
 | `03_Verbal_Ability` | `04_Para_Jumbles_and_Sentence_Rearrangement_Compendium` | **79** | 🔴 30 | 🟡 49 | ⚪ 0 | [📄 MD](03_Verbal_Ability/04_Para_Jumbles_and_Sentence_Rearrangement_Compendium_Elite.md) &nbsp;•&nbsp; [📥 PDF](03_Verbal_Ability/04_Para_Jumbles_and_Sentence_Rearrangement_Compendium_Elite.pdf) |
 | `03_Verbal_Ability` | `05_Reading_Comprehension_Passages_and_Analysis_Vault` | **111** | 🔴 38 | 🟡 73 | ⚪ 0 | [📄 MD](03_Verbal_Ability/05_Reading_Comprehension_Passages_and_Analysis_Vault_Elite.md) &nbsp;•&nbsp; [📥 PDF](03_Verbal_Ability/05_Reading_Comprehension_Passages_and_Analysis_Vault_Elite.pdf) |
 | `03_Verbal_Ability` | `06_Critical_Reasoning_and_Deductive_Verbal_Logic` | **5** | 🔴 2 | 🟡 3 | ⚪ 0 | [📄 MD](03_Verbal_Ability/06_Critical_Reasoning_and_Deductive_Verbal_Logic_Elite.md) &nbsp;•&nbsp; [📥 PDF](03_Verbal_Ability/06_Critical_Reasoning_and_Deductive_Verbal_Logic_Elite.pdf) |
-| `03_Verbal_Ability` | `07_Vocabulary_Synonyms_Antonyms_Idioms_and_Analogies` | **146** | 🔴 37 | 🟡 109 | ⚪ 0 | [📄 MD](03_Verbal_Ability/07_Vocabulary_Synonyms_Antonyms_Idioms_and_Analogies_Elite.md) &nbsp;•&nbsp; [📥 PDF](03_Verbal_Ability/07_Vocabulary_Synonyms_Antonyms_Idioms_and_Analogies_Elite.pdf) |
+| `03_Verbal_Ability` | `07_Vocabulary_Synonyms_Antonyms_Idioms_and_Analogies` | **151** | 🔴 131 | 🟡 20 | ⚪ 0 | [📄 MD](03_Verbal_Ability/07_Vocabulary_Synonyms_Antonyms_Idioms_and_Analogies_Elite.md) &nbsp;•&nbsp; [📥 PDF](03_Verbal_Ability/07_Vocabulary_Synonyms_Antonyms_Idioms_and_Analogies_Elite.pdf) |
 | `03_Verbal_Ability` | `08_Master_Verbal_Ability_Grand_Question_Bank_All_Sources` | **0** | 🔴 0 | 🟡 0 | ⚪ 0 | [📄 MD](03_Verbal_Ability/08_Master_Verbal_Ability_Grand_Question_Bank_All_Sources_Elite.md) &nbsp;•&nbsp; [📥 PDF](03_Verbal_Ability/08_Master_Verbal_Ability_Grand_Question_Bank_All_Sources_Elite.pdf) |
 | `03_Verbal_Ability` | `09_Infosys_SE_Verbal_Ability_Official_Exam_Simulations` | **200** | 🔴 50 | 🟡 90 | ⚪ 60 | [📄 MD](03_Verbal_Ability/09_Infosys_SE_Verbal_Ability_Official_Exam_Simulations_Elite.md) &nbsp;•&nbsp; [📥 PDF](03_Verbal_Ability/09_Infosys_SE_Verbal_Ability_Official_Exam_Simulations_Elite.pdf) |
+| `03_Verbal_Ability` | `10_Infosys_SE_Question_Derived_Master_Vocabulary_and_Idioms_Vault` | **297** | 🔴 297 | 🟡 0 | ⚪ 0 | [📄 MD](03_Verbal_Ability/10_Infosys_SE_Question_Derived_Master_Vocabulary_and_Idioms_Vault_Elite.md) &nbsp;•&nbsp; [📥 PDF](03_Verbal_Ability/10_Infosys_SE_Question_Derived_Master_Vocabulary_and_Idioms_Vault_Elite.pdf) |
 | `04_Pseudocode_and_Technical` | `01_Bitwise_Operators_XOR_AND_OR_and_Shift_Operations` | **42** | 🔴 20 | 🟡 22 | ⚪ 0 | [📄 MD](04_Pseudocode_and_Technical/01_Bitwise_Operators_XOR_AND_OR_and_Shift_Operations_Elite.md) &nbsp;•&nbsp; [📥 PDF](04_Pseudocode_and_Technical/01_Bitwise_Operators_XOR_AND_OR_and_Shift_Operations_Elite.pdf) |
 | `04_Pseudocode_and_Technical` | `02_Loop_Execution_Nested_Loops_and_Boundary_Conditions` | **78** | 🔴 37 | 🟡 41 | ⚪ 0 | [📄 MD](04_Pseudocode_and_Technical/02_Loop_Execution_Nested_Loops_and_Boundary_Conditions_Elite.md) &nbsp;•&nbsp; [📥 PDF](04_Pseudocode_and_Technical/02_Loop_Execution_Nested_Loops_and_Boundary_Conditions_Elite.pdf) |
 | `04_Pseudocode_and_Technical` | `03_Recursion_Call_Stack_and_Accumulator_Tracing` | **39** | 🔴 18 | 🟡 21 | ⚪ 0 | [📄 MD](04_Pseudocode_and_Technical/03_Recursion_Call_Stack_and_Accumulator_Tracing_Elite.md) &nbsp;•&nbsp; [📥 PDF](04_Pseudocode_and_Technical/03_Recursion_Call_Stack_and_Accumulator_Tracing_Elite.pdf) |
