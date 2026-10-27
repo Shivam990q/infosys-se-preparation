@@ -34,7 +34,10 @@ SET 01: Seven girls A, B, C, D, E, F and G are sitting in a row facing North. E 
 - C. Second from the left
 - D. Third from the right
 
-**Exact Answer:** `B. Fourth from the left`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B. Fourth from the left`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -73,7 +76,10 @@ SET 02: Six cars Maruti, Fargo, Fiat, Mercedes, Ambassador and Cadillac are park
 - C. Fargo
 - D. Ambassador
 
-**Exact Answer:** `A. Cadillac`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `A. Cadillac`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -112,7 +118,10 @@ SET 01: Ten people are sitting in two parallel rows. A, B, C, D, E are sitting i
 - c. E & P
 - d. None of these
 
-**Exact Answer:** `b. D & R`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b. D & R`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -155,7 +164,10 @@ SET 02: Ten people are sitting in two parallel rows. In Row 1 – A, B, C, D and
 - D. Second to the left
 - E. Fourth to the right
 
-**Exact Answer:** `B. Second to the right`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B. Second to the right`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -192,7 +204,10 @@ SET 04: Eight Engineers at ABC company sit in two parallel rows of 4 people each
 - (4) S
 - (5) Cannot determined
 
-**Exact Answer:** `(3) R`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(3) R`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -231,7 +246,10 @@ Eight people P, Q, R, S, T, U, V and W are sitting around a square table. Four o
 - (d) W
 - (e) None of these
 
-**Exact Answer:** `(b) R`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(b) R`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -267,7 +285,10 @@ V, U, T are seated in a table facing centre. A, B, C are also seated at the same
 - C. C sits opposite to T
 - D. U is to the immediate right of A
 
-**Exact Answer:** `A. A and B are adjacent`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `A. A and B are adjacent`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -314,7 +335,10 @@ Directions: M, N, P, R, T, W, F and H are sitting around a circle facing the cen
 - 4) Data inadequate
 - 5) None of these
 
-**Exact Answer:** `1) H`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `1) H`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -372,7 +396,10 @@ From the above arrangement of M, N, P, R, T, W, F and H, who is to the immediate
 - 4) Data inadequate
 - 5) None of these
 
-**Exact Answer:** `5) None of these`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `5) None of these`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -407,7 +434,10 @@ A, B, C, D, E, F, G and H are sitting around a circle facing the centre. F is th
 - 4) E
 - 5) None of these
 
-**Exact Answer:** `3) F`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `3) F`
+
 
 **Complete Mathematical / Logical Deduction:**
 

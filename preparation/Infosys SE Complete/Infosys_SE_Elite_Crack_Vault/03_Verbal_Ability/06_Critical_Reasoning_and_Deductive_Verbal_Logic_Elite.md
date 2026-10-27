@@ -30,7 +30,10 @@ Which of the following can be inferred?
 - Option (c) contradicts the premise of action.
 - Option (b) is a direct, necessary, and conservative deduction.
 
-**Official Answer Key**: `18 → b`  
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: Option **(B)**
+  
 $$\mathbf{\text{Verified Answer: (b) Plastic contributes to pollution.}}$$
 
 ---
@@ -60,7 +63,10 @@ Which is the best course of action?
 - Banning single-use plastic requires providing viable substitutes so daily commerce does not collapse.
 - Encouraging eco-friendly alternatives directly complements the reduction of pollution.
 
-**Official Answer Key**: `19 → a`  
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: Option **(A)**
+  
 $$\mathbf{\text{Verified Answer: (a) Encourage use of eco-friendly alternatives.}}$$
 
 ---
@@ -91,7 +97,10 @@ $$\mathbf{\text{Verified Answer: (a) Encourage use of eco-friendly alternatives.
 - For someone to propose barring phones inside classrooms, they must believe that phone usage negatively impacts classroom learning (e.g., through distraction).
 - If phones were not believed to cause distraction or harm in the learning environment, the restriction would lack rationale.
 
-**Official Answer Key**: `20 → a`  
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: Option **(A)**
+  
 $$\mathbf{\text{Verified Answer: (a) Mobile phones distract students.}}$$
 
 ---
@@ -151,7 +160,10 @@ Which of the following can be inferred?
 - *Accessibility* in educational technology denotes the capability to access coursework regardless of geographical location.
 - Therefore, inferring that *online education can be accessed from anywhere* is a direct semantic consequence of accessibility.
 
-**Official Answer Key**: `18 → b`  
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: Option **(B)**
+  
 $$\mathbf{\text{Verified Answer: (b) Online education can be accessed from anywhere.}}$$
 
 ---
@@ -181,7 +193,10 @@ Which is the most logical course of action?
 - Integrating digital tools with classroom pedagogy (hybrid/blended learning) maximizes student outcomes.
 - Banning or terminating effective systems is reactionary and counterproductive.
 
-**Official Answer Key**: `19 → b`  
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: Option **(B)**
+  
 $$\mathbf{\text{Verified Answer: (b) Combine online and traditional learning for better results.}}$$
 
 ---

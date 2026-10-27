@@ -1,28 +1,21 @@
 # 🏆 Infosys SE Elite Crack Vault — 01 Number Systems LCM HCF and Divisibility Rules Elite
 > **Target Role:** **Infosys Systems Engineer (SE)** (3.6 – 4.0 LPA Recruitment Drive)  
 > **Curation Standard:** **100% Pure SE Role Specific** (All SP/DSE Upper-Level & Practice Variants Purged)  
-> **Total Curated Questions in Topic:** **19 Questions**  
-> **Question Breakdown:** 🔴 `7 Must-Solve` | 🟡 `12 Core SE Level`  
+> **Total Curated Questions in Topic:** **9 Questions**  
+> **Question Breakdown:** 🔴 `4 Must-Solve` | 🟡 `5 Core SE Level` | ⚪ `0 Practice Variant`  
 > **Verification Score:** 100% Mathematically & Deductively Proven with Zero Hallucination  
 
 ---
 
-### Question 1: Infosys SE Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+---
+
+### Problem 01: Number Systems & Simplification  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P05_Q29` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P05_Q29`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Number Systems & Simplification**
-
-
-### Question 2: Infosys SE Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 1 ÷ 
 3
@@ -54,23 +47,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 5, Problem 29). V
 
 ---
 
+---
 
-### Question 3: Infosys SE Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 02: Number Systems & Simplification  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P07_Q46` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P07_Q46`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Number Systems & Simplification**
-
-
-### Question 4: Infosys SE Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 How many numbers between 400 and 1000 
 can be formed with the digits 0,2,3,4,5,6, if no 
@@ -94,23 +79,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 7, Problem 46). V
 
 ---
 
+---
 
-### Question 5: Infosys SE Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 03: Number Systems & Simplification  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P07_Q47` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P07_Q47`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Number Systems & Simplification**
-
-
-### Question 6: Infosys SE Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 How many numbers between 300 and 3,000 
 can be formed with the digits 0, 1, 2, 3, 4, 5.
@@ -133,23 +110,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 7, Problem 47). V
 
 ---
 
+---
 
-### Question 7: Infosys SE Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 04: Number Systems & Simplification  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P07_Q48` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P07_Q48`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Number Systems & Simplification**
-
-
-### Question 8: Infosys SE Question 8  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 How many 3-digit numbers can be formed 
 from the digits 2, 3, 5, 6, 7 and 9, which are 
@@ -174,23 +143,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 7, Problem 48). V
 
 ---
 
+---
 
-### Question 9: Infosys SE Question 9  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 05: Number Systems & Simplification  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P07_Q49` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P07_Q49`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Number Systems & Simplification**
-
-
-### Question 10: Infosys SE Question 10  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 How many even four-digit numbers can be 
 formed with the digit 0,1,2,3,4,5,6; no digit 
@@ -214,23 +175,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 7, Problem 49). V
 
 ---
 
+---
 
-### Question 11: Infosys SE Question 11  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 06: Number Systems & Simplification  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P08_Q50` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P08_Q50`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Number Systems & Simplification**
-
-
-### Question 12: Infosys SE Question 12  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 MR.X has forgotten his friend's seven-digit 
 telephone number. He remembers the 
@@ -259,23 +212,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 8, Problem 50). V
 
 ---
 
+---
 
-### Question 13: Infosys SE Question 13  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 07: Number Systems & Simplification  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P08_Q51` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P08_Q51`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Number Systems & Simplification**
-
-
-### Question 14: Infosys SE Question 14  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 A Four -digit number is formed using digits 
 1,2,3,4 without repeating any one of them. 
@@ -299,23 +244,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 8, Problem 51). V
 
 ---
 
+---
 
-### Question 15: Infosys SE Question 15  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 08: Number Systems & Simplification  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P14_Q99` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P14_Q99`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Number Systems & Simplification**
-
-
-### Question 16: Infosys SE Question 16  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Two dice are tossed. The probability that the 
 total score is a prime number is:
@@ -338,23 +275,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 14, Problem 99). 
 
 ---
 
+---
 
-### Question 17: Infosys SE Question 17  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 09: Number Systems & Simplification  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P18_Q131` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P18_Q131`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Number Systems & Simplification**
-
-
-### Question 18: Infosys SE Question 18  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 If n=1+x, where x is the product of four 
 consecutive positive integers then which of 
@@ -383,14 +312,4 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 18, Problem 131).
 
 ---
 
-
-### Question 19: Infosys SE Question 19  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- (ID: `SEC02_BOOK_P18_Q132`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Number Systems & Simplification**
-
+---

@@ -1,29 +1,23 @@
 # 🏆 Infosys SE Elite Crack Vault — 04 Data Structures Arrays Trees and Pointers Elite
 > **Target Role:** **Infosys Systems Engineer (SE)** (3.6 – 4.0 LPA Recruitment Drive)  
 > **Curation Standard:** **100% Pure SE Role Specific** (All SP/DSE Upper-Level & Practice Variants Purged)  
-> **Total Curated Questions in Topic:** **79 Questions**  
-> **Question Breakdown:** 🔴 `28 Must-Solve` | 🟡 `51 Core SE Level`  
+> **Total Curated Questions in Topic:** **39 Questions**  
+> **Question Breakdown:** 🔴 `14 Must-Solve` | 🟡 `25 Core SE Level` | ⚪ `0 Practice Variant`  
 > **Verification Score:** 100% Mathematically & Deductively Proven with Zero Hallucination  
 
 ---
 
-### Question 1: Infosys SE Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+---
+
+### Problem 01: Data Structures, Trees & Pointers  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q004` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q004`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Data Structures, Trees & Pointers**
+**Question Statement:**
 
-
-### Question 2: Infosys SE Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Where are placed the list of 
 processes that are prepared to be 
@@ -48,24 +42,17 @@ In operating systems, the processes that are in the ready state, prepared for ex
 
 ---
 
+---
 
-### Question 3: Infosys SE Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 02: Recursion & Function Call Stacks  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q010` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q010`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Recursion & Function Call Stacks**
+**Question Statement:**
 
-
-### Question 4: Infosys SE Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 What does the expression float a = 
 35 / 0 return?
@@ -89,24 +76,17 @@ In Java, floating-point arithmetic follows IEEE 754 standards. Dividing a non-ze
 
 ---
 
+---
 
-### Question 5: Infosys SE Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 03: Data Structures, Trees & Pointers  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q012` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q012`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Data Structures, Trees & Pointers**
+**Question Statement:**
 
-
-### Question 6: Infosys SE Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Construct post order Transversal 
 for the constructed tree with the 
@@ -149,24 +129,17 @@ Given Traversals:
 
 ---
 
+---
 
-### Question 7: Infosys SE Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 04: Recursion & Function Call Stacks  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q015` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q015`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Recursion & Function Call Stacks**
+**Question Statement:**
 
-
-### Question 8: Infosys SE Question 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 What will be the output of this 
 program? 
@@ -199,24 +172,17 @@ return 0;
 
 ---
 
+---
 
-### Question 9: Infosys SE Question 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 05: Recursion & Function Call Stacks  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q017` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q017`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Recursion & Function Call Stacks**
+**Question Statement:**
 
-
-### Question 10: Infosys SE Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 What will be the output of this 
 program? 
@@ -253,24 +219,17 @@ main()
 
 ---
 
+---
 
-### Question 11: Infosys SE Question 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 06: Data Structures, Trees & Pointers  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q021` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q021`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Data Structures, Trees & Pointers**
+**Question Statement:**
 
-
-### Question 12: Infosys SE Question 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 If the sequence of operations are 
 performed on a stack, the sequence 
@@ -300,24 +259,17 @@ Push(2), Pop().
 
 ---
 
+---
 
-### Question 13: Infosys SE Question 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 07: Data Structures, Trees & Pointers  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q023` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q023`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Data Structures, Trees & Pointers**
+**Question Statement:**
 
-
-### Question 14: Infosys SE Question 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 The concatenation of two lists is to 
 be performed in O(1) time. Which of 
@@ -345,24 +297,17 @@ list should be used?
 
 ---
 
+---
 
-### Question 15: Infosys SE Question 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 08: Data Structures, Trees & Pointers  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q024` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q024`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Data Structures, Trees & Pointers**
+**Question Statement:**
 
-
-### Question 16: Infosys SE Question 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Which of the following sequence 
 can be obtained in the output (in 
@@ -395,24 +340,17 @@ sequence 1,2,3,4,5 order?
 
 ---
 
+---
 
-### Question 17: Infosys SE Question 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 09: Recursion & Function Call Stacks  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q026` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q026`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Recursion & Function Call Stacks**
+**Question Statement:**
 
-
-### Question 18: Infosys SE Question 18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 The value of j at the end of the 
 execution of the following pseudo 
@@ -449,24 +387,17 @@ end for
 
 ---
 
+---
 
-### Question 19: Infosys SE Question 19  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 10: Recursion & Function Call Stacks  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q027` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q027`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Recursion & Function Call Stacks**
+**Question Statement:**
 
-
-### Question 20: Infosys SE Question 20  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 What is printed by the print 
 statement in the program P1 
@@ -511,24 +442,17 @@ Z= X+Y+Z
 
 ---
 
+---
 
-### Question 21: Infosys SE Question 21  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 11: Recursion & Function Call Stacks  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q028` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q028`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Recursion & Function Call Stacks**
+**Question Statement:**
 
-
-### Question 22: Infosys SE Question 22  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 The value returned by the following 
 function for f(1) is? 
@@ -563,24 +487,17 @@ return f(n);
 
 ---
 
+---
 
-### Question 23: Infosys SE Question 23  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 12: Data Structures, Trees & Pointers  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q034` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q034`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Data Structures, Trees & Pointers**
+**Question Statement:**
 
-
-### Question 24: Infosys SE Question 24  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Post order traversal of a tree is: V R 
 T S U Q P Which of the following 
@@ -608,24 +525,17 @@ vertices will occupy positions 2 and
 
 ---
 
+---
 
-### Question 25: Infosys SE Question 25  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 13: Data Structures, Trees & Pointers  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q035` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q035`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Data Structures, Trees & Pointers**
+**Question Statement:**
 
-
-### Question 26: Infosys SE Question 26  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Which cannot be the number of 
 vertices in a full binary tree?
@@ -651,24 +561,17 @@ vertices in a full binary tree?
 
 ---
 
+---
 
-### Question 27: Infosys SE Question 27  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 14: Data Structures, Trees & Pointers  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q036` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q036`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Data Structures, Trees & Pointers**
+**Question Statement:**
 
-
-### Question 28: Infosys SE Question 28  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Sam sorts an array by repeatedly 
 swapping the adjacent elements if 
@@ -696,24 +599,17 @@ sorting technique used.
 
 ---
 
+---
 
-### Question 29: Infosys SE Question 29  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 15: Data Structures, Trees & Pointers  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q039` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q039`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Data Structures, Trees & Pointers**
+**Question Statement:**
 
-
-### Question 30: Infosys SE Question 30  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Consider a stack of integers. The 
 stack is allocated 7 memory cells: 
@@ -755,24 +651,17 @@ or underflow situation occurs:
 
 ---
 
+---
 
-### Question 31: Infosys SE Question 31  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 16: Recursion & Function Call Stacks  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q040` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q040`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Recursion & Function Call Stacks**
+**Question Statement:**
 
-
-### Question 32: Infosys SE Question 32  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Find the output of the following 
 pseudo code, if function is called for 
@@ -811,24 +700,17 @@ End function fun()
 
 ---
 
+---
 
-### Question 33: Infosys SE Question 33  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 17: Recursion & Function Call Stacks  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q046` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q046`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Recursion & Function Call Stacks**
+**Question Statement:**
 
-
-### Question 34: Infosys SE Question 34  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 #include<stdio.h> 
 int main() 
@@ -862,24 +744,17 @@ return 0;
 
 ---
 
+---
 
-### Question 35: Infosys SE Question 35  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 18: Data Structures, Trees & Pointers  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q047` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q047`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Data Structures, Trees & Pointers**
+**Question Statement:**
 
-
-### Question 36: Infosys SE Question 36  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 For a B- tree of order 6, to be a 
 multi-way search tree, each non 
@@ -907,24 +782,17 @@ Non empty Children?
 
 ---
 
+---
 
-### Question 37: Infosys SE Question 37  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 19: Data Structures, Trees & Pointers  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q050` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q050`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Data Structures, Trees & Pointers**
+**Question Statement:**
 
-
-### Question 38: Infosys SE Question 38  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Find out the array representation of 
 the given min-heap, if the value 25 
@@ -956,24 +824,17 @@ Resulting array: `10, 15, 25, 40, 50, 100, 30` (Option B).
 
 ---
 
+---
 
-### Question 39: Infosys SE Question 39  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 20: Data Structures, Trees & Pointers  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q051` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q051`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Data Structures, Trees & Pointers**
+**Question Statement:**
 
-
-### Question 40: Infosys SE Question 40  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Which of the following is not an 
 array representation of max heap? 
@@ -1002,24 +863,17 @@ array representation of max heap?
 
 ---
 
+---
 
-### Question 41: Infosys SE Question 41  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 21: Recursion & Function Call Stacks  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q053` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q053`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Recursion & Function Call Stacks**
+**Question Statement:**
 
-
-### Question 42: Infosys SE Question 42  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 What will be the output of following 
 pseudocode? 
@@ -1053,24 +907,17 @@ end-function
 
 ---
 
+---
 
-### Question 43: Infosys SE Question 43  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 22: Data Structures, Trees & Pointers  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q056` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q056`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Data Structures, Trees & Pointers**
+**Question Statement:**
 
-
-### Question 44: Infosys SE Question 44  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 What will be the output of following 
 pseudocode? 
@@ -1099,24 +946,17 @@ display res
 
 ---
 
+---
 
-### Question 45: Infosys SE Question 45  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 23: Recursion & Function Call Stacks  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q068` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q068`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Recursion & Function Call Stacks**
+**Question Statement:**
 
-
-### Question 46: Infosys SE Question 46  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Integer funn(integer a, integer b, 
 integer c)  
@@ -1150,24 +990,17 @@ Print a+b+c
 
 ---
 
+---
 
-### Question 47: Infosys SE Question 47  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 24: Data Structures, Trees & Pointers  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q097` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q097`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Data Structures, Trees & Pointers**
+**Question Statement:**
 
-
-### Question 48: Infosys SE Question 48  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Which of the following data 
 structure is used to convert 
@@ -1195,24 +1028,17 @@ another?
 
 ---
 
+---
 
-### Question 49: Infosys SE Question 49  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 25: Data Structures, Trees & Pointers  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q100` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q100`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Data Structures, Trees & Pointers**
+**Question Statement:**
 
-
-### Question 50: Infosys SE Question 50  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Find the pre order of the 
 given tree. 
@@ -1247,24 +1073,17 @@ Traversal order: `ABDEHCFIG` (Option A).
 
 ---
 
+---
 
-### Question 51: Infosys SE Question 51  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 26: Recursion & Function Call Stacks  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q111` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q111`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Recursion & Function Call Stacks**
+**Question Statement:**
 
-
-### Question 52: Infosys SE Question 52  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Find the output of the code 
 snippet.  
@@ -1299,24 +1118,17 @@ return 0;
 
 ---
 
+---
 
-### Question 53: Infosys SE Question 53  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 27: Recursion & Function Call Stacks  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q112` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q112`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Recursion & Function Call Stacks**
+**Question Statement:**
 
-
-### Question 54: Infosys SE Question 54  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Find the output of the code 
 snippet. 
@@ -1351,24 +1163,17 @@ return 0;
 
 ---
 
+---
 
-### Question 55: Infosys SE Question 55  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 28: Recursion & Function Call Stacks  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q113` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q113`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Recursion & Function Call Stacks**
+**Question Statement:**
 
-
-### Question 56: Infosys SE Question 56  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Find the output of the code 
 snippet.  
@@ -1404,24 +1209,17 @@ return 0;
 
 ---
 
+---
 
-### Question 57: Infosys SE Question 57  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 29: Data Structures, Trees & Pointers  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q116` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q116`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Data Structures, Trees & Pointers**
+**Question Statement:**
 
-
-### Question 58: Infosys SE Question 58  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 If the sequence of 
 operations are performed on a 
@@ -1451,24 +1249,17 @@ Pop().
 
 ---
 
+---
 
-### Question 59: Infosys SE Question 59  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 30: Data Structures, Trees & Pointers  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q117` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q117`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Data Structures, Trees & Pointers**
+**Question Statement:**
 
-
-### Question 60: Infosys SE Question 60  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Consider the following 
 operations performed on a stack of 
@@ -1498,24 +1289,17 @@ following statements is correct?
 
 ---
 
+---
 
-### Question 61: Infosys SE Question 61  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 31: Data Structures, Trees & Pointers  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q118` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q118`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Data Structures, Trees & Pointers**
+**Question Statement:**
 
-
-### Question 62: Infosys SE Question 62  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Consider the tree with 
 given post: ab-cd*+ The labels on 
@@ -1542,24 +1326,17 @@ the nodes 1 to 7 will be?2
 
 ---
 
+---
 
-### Question 63: Infosys SE Question 63  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 32: Data Structures, Trees & Pointers  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q120` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q120`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Data Structures, Trees & Pointers**
+**Question Statement:**
 
-
-### Question 64: Infosys SE Question 64  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Which of the following 
 relation is correct for a binary 
@@ -1586,24 +1363,17 @@ search tree?
 
 ---
 
+---
 
-### Question 65: Infosys SE Question 65  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 33: Recursion & Function Call Stacks  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q125` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q125`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Recursion & Function Call Stacks**
+**Question Statement:**
 
-
-### Question 66: Infosys SE Question 66  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Find the output of the 
 following code. 
@@ -1639,24 +1409,17 @@ End function funn()
 
 ---
 
+---
 
-### Question 67: Infosys SE Question 67  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 34: Recursion & Function Call Stacks  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q129` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q129`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Recursion & Function Call Stacks**
+**Question Statement:**
 
-
-### Question 68: Infosys SE Question 68  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Find the output of the 
 following code. 
@@ -1691,24 +1454,17 @@ return 0;
 
 ---
 
+---
 
-### Question 69: Infosys SE Question 69  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 35: Recursion & Function Call Stacks  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q131` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q131`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Recursion & Function Call Stacks**
+**Question Statement:**
 
-
-### Question 70: Infosys SE Question 70  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Find the output of the 
 following code. 
@@ -1741,24 +1497,17 @@ return 0;
 
 ---
 
+---
 
-### Question 71: Infosys SE Question 71  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 36: Recursion & Function Call Stacks  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q132` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q132`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Recursion & Function Call Stacks**
+**Question Statement:**
 
-
-### Question 72: Infosys SE Question 72  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Find the complete of the 
 following code where the output is 
@@ -1794,24 +1543,17 @@ return 0;
 
 ---
 
+---
 
-### Question 73: Infosys SE Question 73  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 37: Recursion & Function Call Stacks  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q133` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q133`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Recursion & Function Call Stacks**
+**Question Statement:**
 
-
-### Question 74: Infosys SE Question 74  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Find the output of the 
 following code. 
@@ -1856,24 +1598,17 @@ return 0;
 
 ---
 
+---
 
-### Question 75: Infosys SE Question 75  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 38: Recursion & Function Call Stacks  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q135` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q135`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Recursion & Function Call Stacks**
+**Question Statement:**
 
-
-### Question 76: Infosys SE Question 76  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 find the output of the 
 following code. 
@@ -1909,24 +1644,17 @@ return 0;
 
 ---
 
+---
 
-### Question 77: Infosys SE Question 77  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 39: Recursion & Function Call Stacks  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q136` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q136`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Recursion & Function Call Stacks**
+**Question Statement:**
 
-
-### Question 78: Infosys SE Question 78  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 find the output of the 
 following code.  
@@ -1961,14 +1689,4 @@ return 0;
 
 ---
 
-
-### Question 79: Infosys SE Question 79  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- (ID: `SEC03_EBOOK_Q138`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Recursion & Function Call Stacks**
-
+---

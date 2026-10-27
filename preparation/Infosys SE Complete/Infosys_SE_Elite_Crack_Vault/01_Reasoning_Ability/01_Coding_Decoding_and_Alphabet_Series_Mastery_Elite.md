@@ -27,7 +27,10 @@ D, G, J, M, P, T, V, Y, B
 - V
 - Y
 
-**Exact Answer:** `T`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `T`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -66,7 +69,10 @@ If 'JUNE' is coded as '5531', then how will you code 'JULY'?
 - 7331
 - 1335
 
-**Exact Answer:** `7331`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `7331`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -112,7 +118,10 @@ If Z = 2197 and R = 729. How would J be written in that code?
 - 512
 - 125
 
-**Exact Answer:** `125`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `125`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -149,7 +158,10 @@ If G = 7 and KING = 41, then what will be the code of 'QUEEN' in that coding lan
 - 64
 - 68
 
-**Exact Answer:** `62`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `62`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -186,7 +198,10 @@ If OM = 56 and GOT = 126, then what will be the code of 'CARD' in that coding la
 - 120
 - 104
 
-**Exact Answer:** `104`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `104`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -221,7 +236,10 @@ In a certain code language, 'FAMILY * LONG' is coded as '24', 'COUPLE * THE' is 
 - 32
 - 20
 
-**Exact Answer:** `32`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `32`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -256,7 +274,10 @@ In a certain code language, 'BED' is written as '122' and 'CAB' is written as '3
 - 101
 - 82
 
-**Exact Answer:** `65`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `65`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -299,7 +320,10 @@ If the word LEADER is coded as 20-13-9-12-13-26, how would you write LIGHT?
 - (c) 20-17-16-18-23
 - (d) 20-17-15-16-28
 
-**Exact Answer:** `(d) 20-17-15-16-28`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(d) 20-17-15-16-28`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -345,7 +369,10 @@ In a certain code language, 'SAGE' is coded as '-8', 'TABS' is coded as '0'. Wha
 - -4
 - 7
 
-**Exact Answer:** `4`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `4`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -395,7 +422,10 @@ In a certain code language, 'NOSTALGIA' is coded as '81'. How will 'FRICTION' be
 - 85
 - 36
 
-**Exact Answer:** `64`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `64`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -430,7 +460,10 @@ In a certain code language, 'ROUTE' is coded as '7', 'SHARE' is coded as '6'. Wh
 - 7
 - 2
 
-**Exact Answer:** `2`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -471,7 +504,10 @@ In a certain code language, 'DEFECT' is written as '2747118', 'DEVICE' is writte
 - c. 417111912
 - d. 217111912
 
-**Exact Answer:** `d. 217111912`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `d. 217111912`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -521,7 +557,10 @@ D. NSXC
 - C. HMRW
 - D. NSXC
 
-**Exact Answer:** `B. ZEJP`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B. ZEJP`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -558,7 +597,10 @@ If 'branches have leaves' is coded as 673, 'trees have branches' is coded as 746
 - 6
 - 9
 
-**Exact Answer:** `4`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `4`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -598,7 +640,10 @@ MOUSE : KPSTC : : LIGHT : ?
 - (c) JGEFR
 - (d) JJEIR
 
-**Exact Answer:** `(c) JGEFR`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(c) JGEFR`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -631,7 +676,10 @@ In a certain code BEAN is written as ABNE and SALE is written as LSEA. How is NE
 - 4) SNEW
 - 5) None of these
 
-**Exact Answer:** `1) WNES`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `1) WNES`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -664,7 +712,10 @@ In a certain code JEALOUS is written as BFKKTVP. How is HEARTEN written in that 
 - 4) UFOQIBF
 - 5) None of these
 
-**Exact Answer:** `2) BFIQOFU`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2) BFIQOFU`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -697,7 +748,10 @@ In a certain code language the word ATMOSPHERE is written as BSLPROGFQF. How is 
 - 4) ODJFIAPVSR
 - 5) None of these
 
-**Exact Answer:** `3) ODJFIAPVTR`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `3) ODJFIAPVTR`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -729,7 +783,10 @@ If 'BOMBAY' is written as 'MYMYMY', how will 'TAMIL NADU' be written in that cod
 - (c) IATIATIAT
 - (d) ALDALDALD
 
-**Exact Answer:** `(b) MNUMNUMNU`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(b) MNUMNUMNU`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -761,7 +818,10 @@ If 'DELHI' is coded as '73541' and 'CALCUTTA' as '82589662', how will 'CALICUT' 
 - (c) 8251896
 - (d) 8543691
 
-**Exact Answer:** `(c) 8251896`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(c) 8251896`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -794,7 +854,10 @@ In a certain code '253' means 'books are old', '546' means 'man is old' and '378
 - (d) 6
 - (e) 9
 
-**Exact Answer:** `(a) 2`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(a) 2`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -826,7 +889,10 @@ In a certain code language, 'pit nae tom' means 'give me water', 'nae tok pa' me
 - (c) tok
 - (d) pa
 
-**Exact Answer:** `(d) pa`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(d) pa`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -859,7 +925,10 @@ What is the code for 'him' in Chinese coding: 'for profit order now' = 'ho ja ye
 - 4) se
 - 5) Cannot be determined
 
-**Exact Answer:** `4) se`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `4) se`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -892,7 +961,10 @@ What does 'bi' stand for in the above Chinese coding?
 - 4) for
 - 5) now
 
-**Exact Answer:** `3) place`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `3) place`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -925,7 +997,10 @@ What is the code for 'order' in the above code?
 - 4) ja
 - 5) ho
 
-**Exact Answer:** `1) ye`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `1) ye`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -957,7 +1032,10 @@ If F : 343 : : L : ?
 - (c) 1728
 - (d) 1663
 
-**Exact Answer:** `(b) 2197`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(b) 2197`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -989,7 +1067,10 @@ If 264 * 2 = 6, 870 * 3 = 11, then what should 735 * 5 be?
 - (c) 16
 - (d) 03
 
-**Exact Answer:** `(b) 12`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(b) 12`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1021,7 +1102,10 @@ In a certain code 'CAT' is '3120' and 'DOG' is '4157'. What will be the decoded 
 - 3) YND
 - 4) BAD
 
-**Exact Answer:** `2) BEADD`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2) BEADD`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1053,7 +1137,10 @@ If 'CENTRAL' is coded as 'ABCDEFG' and 'PLANETARIUM' is coded as 'HGKLCDFQPI', h
 - (c) GKLCDAC
 - (d) GFECDAC
 
-**Exact Answer:** `(c) GKLCDAC`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(c) GKLCDAC`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1085,7 +1172,10 @@ If in a code language “ORGANISATION” is written as “CBDWLQJWYQCL” and �
 - QCLYWBFXJE
 - JFXWBWYQCL
 
-**Exact Answer:** `JFXWBWYQCL`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `JFXWBWYQCL`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1117,7 +1207,10 @@ In a coding system PEN is written as NZO and BARK as CTSL. How can we write PRAN
 - NSTOL
 - NTSLO
 
-**Exact Answer:** `NSTOL`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `NSTOL`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1149,7 +1242,10 @@ In a certain language, BUTTER is coded as CVUUFS, BREAD is coded as CSFBE, the h
 - GDPGFF
 - FFDPGG
 
-**Exact Answer:** `DPGGFF`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `DPGGFF`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1181,7 +1277,10 @@ If in a code language PARENT is written as BDFGJK and CHILDREN is written as MOX
 - FGBUXJK
 - FGBFXJK
 
-**Exact Answer:** `FGBFXJK`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `FGBFXJK`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1213,7 +1312,10 @@ The word ‘UNITED’ is coded as ‘SLGRCB’. How should the word ‘DISOWN’
 - CGRTLK
 - BGQLUM
 
-**Exact Answer:** `BGQMUL`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `BGQMUL`
+
 
 **Complete Mathematical / Logical Deduction:**
 

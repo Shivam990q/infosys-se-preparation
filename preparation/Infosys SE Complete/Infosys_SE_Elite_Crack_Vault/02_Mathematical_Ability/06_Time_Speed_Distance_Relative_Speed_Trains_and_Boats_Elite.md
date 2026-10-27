@@ -1,28 +1,21 @@
 # 🏆 Infosys SE Elite Crack Vault — 06 Time Speed Distance Relative Speed Trains and Boats Elite
 > **Target Role:** **Infosys Systems Engineer (SE)** (3.6 – 4.0 LPA Recruitment Drive)  
 > **Curation Standard:** **100% Pure SE Role Specific** (All SP/DSE Upper-Level & Practice Variants Purged)  
-> **Total Curated Questions in Topic:** **48 Questions**  
-> **Question Breakdown:** 🔴 `22 Must-Solve` | 🟡 `26 Core SE Level`  
+> **Total Curated Questions in Topic:** **24 Questions**  
+> **Question Breakdown:** 🔴 `11 Must-Solve` | 🟡 `13 Core SE Level` | ⚪ `0 Practice Variant`  
 > **Verification Score:** 100% Mathematically & Deductively Proven with Zero Hallucination  
 
 ---
 
-### Question 1: Infosys SE Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+---
+
+### Problem 01: Boats and Streams  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P02_Q1` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P02_Q1`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Boats and Streams**
-
-
-### Question 2: Infosys SE Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 The speed of the boat in still water is 2 km/hr. 
 If its speed upstream is 1 km/hr. then the 
@@ -46,23 +39,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 2, Problem 1). Ve
 
 ---
 
+---
 
-### Question 3: Infosys SE Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 02: Boats and Streams  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P02_Q2` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P02_Q2`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Boats and Streams**
-
-
-### Question 4: Infosys SE Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 A boat goes 14 km upstream in 56 minutes. 
 The speed of the stream is 2 km/hr. The speed 
@@ -86,23 +71,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 2, Problem 2). Ve
 
 ---
 
+---
 
-### Question 5: Infosys SE Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 03: Boats and Streams  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P02_Q3` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P02_Q3`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Boats and Streams**
-
-
-### Question 6: Infosys SE Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 The speed of a man is 7 km/hr in still water. If 
 the rate of the current is 2 km/hr, find the 
@@ -126,23 +103,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 2, Problem 3). Ve
 
 ---
 
+---
 
-### Question 7: Infosys SE Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 04: Boats and Streams  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P02_Q4` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P02_Q4`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Boats and Streams**
-
-
-### Question 8: Infosys SE Question 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 The speed of a boat in still water is 10 km/hr. 
 If its speed downstream be 13 km/hr. then the 
@@ -166,23 +135,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 2, Problem 4). Ve
 
 ---
 
+---
 
-### Question 9: Infosys SE Question 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 05: Boats and Streams  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P02_Q5` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P02_Q5`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Boats and Streams**
-
-
-### Question 10: Infosys SE Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 The rowing speed of a man in still water is 20 
 km/hr. Going downstream, he moves at a rate 
@@ -206,23 +167,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 2, Problem 5). Ve
 
 ---
 
+---
 
-### Question 11: Infosys SE Question 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 06: Boats and Streams  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P02_Q6` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P02_Q6`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Boats and Streams**
-
-
-### Question 12: Infosys SE Question 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 A man can row downstream at a rate of 14 
 km/hr and upstream at 5 km/hr, find the 
@@ -246,23 +199,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 2, Problem 6). Ve
 
 ---
 
+---
 
-### Question 13: Infosys SE Question 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 07: Boats and Streams  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P02_Q7` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P02_Q7`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Boats and Streams**
-
-
-### Question 14: Infosys SE Question 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 A man can row downstream at a rate of 16 
 km/hr and upstream at a rate of 11 km/hr. 
@@ -286,23 +231,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 2, Problem 7). Ve
 
 ---
 
+---
 
-### Question 15: Infosys SE Question 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 08: Boats and Streams  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P02_Q8` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P02_Q8`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Boats and Streams**
-
-
-### Question 16: Infosys SE Question 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 A man can row 15 km downstream in 3 hours 
 and 5 km upstream in 2(1/2) his speed in still 
@@ -326,23 +263,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 2, Problem 8). Ve
 
 ---
 
+---
 
-### Question 17: Infosys SE Question 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 09: Boats and Streams  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P02_Q9` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P02_Q9`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Boats and Streams**
-
-
-### Question 18: Infosys SE Question 18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 A man can row with the stream at 10 km/hr 
 and against the stream at 5km/hr man's rate 
@@ -366,23 +295,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 2, Problem 9). Ve
 
 ---
 
+---
 
-### Question 19: Infosys SE Question 19  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 10: Boats and Streams  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P03_Q10` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P03_Q10`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Boats and Streams**
-
-
-### Question 20: Infosys SE Question 20  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 A boat goes 40 km upstream in 8 hours and a 
 distance of 36 km downstream in 6 hours. The 
@@ -406,23 +327,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 3, Problem 10). V
 
 ---
 
+---
 
-### Question 21: Infosys SE Question 21  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 11: Boats and Streams  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P03_Q11` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P03_Q11`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Boats and Streams**
-
-
-### Question 22: Infosys SE Question 22  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 A man rows upstream 16 km and downstream 
 at 27 km taking 5 hours each time. What is the 
@@ -446,23 +359,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 3, Problem 11). V
 
 ---
 
+---
 
-### Question 23: Infosys SE Question 23  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 12: Boats and Streams  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P03_Q12` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P03_Q12`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Boats and Streams**
-
-
-### Question 24: Infosys SE Question 24  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 A boat moves downstream at the rate of one 
 km in 7 1 2
@@ -488,23 +393,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 3, Problem 12). V
 
 ---
 
+---
 
-### Question 25: Infosys SE Question 25  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 13: Boats and Streams  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P03_Q13` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P03_Q13`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Boats and Streams**
-
-
-### Question 26: Infosys SE Question 26  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 P, Q and R are three towns on a river which 
 flows uniformly. Q is equidistant from P and R. 
@@ -531,23 +428,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 3, Problem 13). V
 
 ---
 
+---
 
-### Question 27: Infosys SE Question 27  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 14: Boats and Streams  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P03_Q14` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P03_Q14`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Boats and Streams**
-
-
-### Question 28: Infosys SE Question 28  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 A boat's man goes 48 km downstream in 8 
 hours and returns back in 12 hours. Find the 
@@ -572,23 +461,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 3, Problem 14). V
 
 ---
 
+---
 
-### Question 29: Infosys SE Question 29  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 15: Boats and Streams  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P03_Q15` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P03_Q15`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Boats and Streams**
-
-
-### Question 30: Infosys SE Question 30  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 A son and father goes for boating in a river 
 upstream. After rowing for 1 mile son notices 
@@ -617,23 +498,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 3, Problem 15). V
 
 ---
 
+---
 
-### Question 31: Infosys SE Question 31  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 16: Boats and Streams  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P03_Q16` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P03_Q16`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Boats and Streams**
-
-
-### Question 32: Infosys SE Question 32  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 A man can row 4.5 km/hr in still water and he 
 finds that it takes him twice as long to row up 
@@ -658,23 +531,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 3, Problem 16). V
 
 ---
 
+---
 
-### Question 33: Infosys SE Question 33  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 17: Boats and Streams  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P03_Q17` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P03_Q17`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Boats and Streams**
-
-
-### Question 34: Infosys SE Question 34  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 A man can row at a rate of 4km/hr in still 
 water if the time taken to row a certain 
@@ -700,23 +565,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 3, Problem 17). V
 
 ---
 
+---
 
-### Question 35: Infosys SE Question 35  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 18: Boats and Streams  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P04_Q18` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P04_Q18`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Boats and Streams**
-
-
-### Question 36: Infosys SE Question 36  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 A motorboat went the river for 14 km and 
 then up the river for 9 km. If took a total of 5 
@@ -742,23 +599,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 4, Problem 18). V
 
 ---
 
+---
 
-### Question 37: Infosys SE Question 37  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 19: Boats and Streams  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P04_Q19` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P04_Q19`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Boats and Streams**
-
-
-### Question 38: Infosys SE Question 38  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 A boat travels upstream from B to A and 
 downstream from A to B in 3 h. If the speed of 
@@ -784,23 +633,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 4, Problem 19). V
 
 ---
 
+---
 
-### Question 39: Infosys SE Question 39  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 20: Boats and Streams  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P04_Q20` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P04_Q20`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Boats and Streams**
-
-
-### Question 40: Infosys SE Question 40  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 A man row at a speed of 8 km/hr in still water 
 to a certain distance upstream and back to the 
@@ -825,23 +666,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 4, Problem 20). V
 
 ---
 
+---
 
-### Question 41: Infosys SE Question 41  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 21: Time, Speed and Distance  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P19_Q141` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P19_Q141`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Time, Speed and Distance**
-
-
-### Question 42: Infosys SE Question 42  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Two trains start from two stations A and B at 
 the same time and proceed towards each 
@@ -869,23 +702,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 19, Problem 141).
 
 ---
 
+---
 
-### Question 43: Infosys SE Question 43  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 22: Time, Speed and Distance  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P19_Q142` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P19_Q142`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Time, Speed and Distance**
-
-
-### Question 44: Infosys SE Question 44  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Trains A and B start moving at the same time 
 from stations X and Y respectively towards 
@@ -913,23 +738,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 19, Problem 142).
 
 ---
 
+---
 
-### Question 45: Infosys SE Question 45  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 23: Time, Speed and Distance  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P20_Q152` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P20_Q152`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Time, Speed and Distance**
-
-
-### Question 46: Infosys SE Question 46  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 The speed of three cars in the ratio 2:3:4. the 
 ratio between the times taken by these cars to 
@@ -953,23 +770,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 20, Problem 152).
 
 ---
 
+---
 
-### Question 47: Infosys SE Question 47  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 24: Time, Speed and Distance  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P23_Q174` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P23_Q174`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Time, Speed and Distance**
-
-
-### Question 48: Infosys SE Question 48  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 X takes 2
 1
@@ -1001,3 +810,4 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 23, Problem 174).
 
 ---
 
+---

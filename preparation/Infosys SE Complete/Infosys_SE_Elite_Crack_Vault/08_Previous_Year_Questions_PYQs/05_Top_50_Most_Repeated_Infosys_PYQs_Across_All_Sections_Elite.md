@@ -26,8 +26,10 @@ The Sales of different Chocolates in a shop on Sunday is as follows: KitKat - 15
 - **(C)** `Rs. 6`
 - **(D)** `Rs. 7`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(B) `Rs. 5`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B) `Rs. 5`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -62,8 +64,10 @@ In a sequence of alphanumeric observations, identify the terminal missing value 
 - **(C)** `47`
 - **(D)** `52`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(A) `37`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A) `37`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -97,8 +101,10 @@ Evaluation of candidate marks and proportion distribution in assessment test.
 - **(C)** `18`
 - **(D)** `24`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(B) `15`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B) `15`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -131,8 +137,10 @@ Identify the missing sequence value in the reasoning assessment progression.
 - **(C)** `35`
 - **(D)** `40`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(C) `35`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C) `35`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -165,8 +173,10 @@ Calculate the effective percentage yield in the assessment scenario.
 - **(C)** `30%`
 - **(D)** `35%`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(B) `25%`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B) `25%`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -199,8 +209,10 @@ Determine the truth value of the logical condition in the candidate test.
 - **(C)** `Cannot be determined`
 - **(D)** `Inconsistent`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(A) `True`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A) `True`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -233,8 +245,10 @@ Relative speed calculation for two moving bodies in the same direction.
 - **(C)** `60 km/h`
 - **(D)** `70 km/h`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(C) `60 km/h`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C) `60 km/h`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -267,8 +281,10 @@ Letter pattern mapping and substitution cipher calculation.
 - **(C)** `RMO`
 - **(D)** `SNP`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(B) `QLN`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B) `QLN`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -301,8 +317,10 @@ Venn set intersection of subsets in the problem.
 - **(C)** `20`
 - **(D)** `25`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(C) `20`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C) `20`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -335,8 +353,10 @@ Find the highest common factor and remainder under division.
 - **(C)** `8`
 - **(D)** `12`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(B) `6`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B) `6`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -369,8 +389,10 @@ An article marked at a discount is sold for a net gain. Find the profit percenta
 - **(C)** `15%`
 - **(D)** `20%`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(D) `20%`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (D) `20%`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -403,8 +425,10 @@ A person walks 10m North, turns East 15m, then South 10m. Find distance from sta
 - **(C)** `20m`
 - **(D)** `25m`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(B) `15m East`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B) `15m East`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -437,8 +461,10 @@ Statements: Some doctors are scientists. Some scientists are teachers. Conclusio
 - **(C)** `Both I and II follow`
 - **(D)** `Neither follows`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(A) `Only conclusion I follows`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A) `Only conclusion I follows`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -472,8 +498,10 @@ The average of 5 consecutive odd numbers is 25. Find the largest number.
 - **(C)** `29`
 - **(D)** `31`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(C) `29`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C) `29`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -506,8 +534,10 @@ Pointing to a man, a woman says: 'His mother is the only daughter of my mother.'
 - **(C)** `Sister`
 - **(D)** `Grandmother`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(A) `Mother`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A) `Mother`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -540,8 +570,10 @@ A can finish a task in 12 days, B in 24 days. How many days working together?
 - **(C)** `10 days`
 - **(D)** `12 days`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(B) `8 days`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B) `8 days`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -574,8 +606,10 @@ Five friends P, Q, R, S, T sit in a row facing North. S is between T and Q. Q is
 - **(C)** `S`
 - **(D)** `T`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(C) `S`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C) `S`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -610,8 +644,10 @@ Statement II: The interest earned is Rs. 331.
 - **(C)** `Either Statement I alone or II alone is sufficient`
 - **(D)** `Both Statements I and II together are not sufficient`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(C) `Either Statement I alone or Statement II alone is sufficient`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C) `Either Statement I alone or Statement II alone is sufficient`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -646,8 +682,10 @@ A sum doubles itself in 8 years at simple interest. What is the rate of interest
 - **(C)** `15%`
 - **(D)** `16.66%`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(B) `12.5%`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B) `12.5%`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -680,8 +718,10 @@ Find the missing term: 12 : 144 :: 15 : ?
 - **(C)** `240`
 - **(D)** `250`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(B) `225`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B) `225`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -714,8 +754,10 @@ In a certain language, GENERAL is coded as IJSJWFQ. How is ACCOUNT written in th
 - **(C)** `FHHTYRY`
 - **(D)** `FHHTYRZ`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(A) `FHHTZSY`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A) `FHHTZSY`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -749,8 +791,10 @@ Select the option related to the third term on the same basis: 15 : 21 :: ?
 - **(C)** `652971`
 - **(D)** `348941`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(A) `194481`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A) `194481`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -783,8 +827,10 @@ If 'Bells are brown' = '723', 'Rail in sea' = '614', 'Sea is noisy' = '359', 'Br
 - **(C)** `790`
 - **(D)** `90`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(D) `90`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (D) `90`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -822,8 +868,10 @@ Find the next term: 1, 2, 1, 4, 2, 8, 3, 16, 5, 32, 7, 64, ?
 - **(C)** `15`
 - **(D)** `32`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(A) `11`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A) `11`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -857,8 +905,10 @@ Six friends P, Q, R, S, T, U go to college. T is older than P and Q, younger tha
 - **(C)** `U`
 - **(D)** `S`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(C) `U`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C) `U`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -891,8 +941,10 @@ Two numbers are in ratio 3:5. If 8 is added to both, the ratio becomes 2:3. Find
 - **(C)** `60`
 - **(D)** `72`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(A) `40`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A) `40`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -926,8 +978,10 @@ Two pipes P and Q together can fill a cistern in 6 hours. If opened separately, 
 - **(C)** `12 hours`
 - **(D)** `14 hours`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(A) `10 hours`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A) `10 hours`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -961,8 +1015,10 @@ From a well-shuffled pack of 52 cards, two cards are drawn at random. What is th
 - **(C)** `5/28`
 - **(D)** `6/21`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(A) `1/221`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A) `1/221`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -997,8 +1053,10 @@ From a well-shuffled pack of 52 cards, two cards are drawn at random. What is th
 - **(C)** `3:2`
 - **(D)** `4:3`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(B) `2:1`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B) `2:1`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -1031,8 +1089,10 @@ Find the range of the following dataset: 7, 10, 6, 72, 83, 12, 5.
 - **(C)** `83`
 - **(D)** `85`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(B) `78`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B) `78`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -1067,8 +1127,10 @@ Statements: All pens are pencils. All pencils are shoes. Conclusions: I. All pen
 - **(C)** `Both I and II follow`
 - **(D)** `Neither follows`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(C) `Both conclusions I and II follow`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C) `Both conclusions I and II follow`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -1104,8 +1166,10 @@ Statement II: The profit earned is Rs. 50.
 - **(C)** `Both Statements I and II together are necessary`
 - **(D)** `Neither is sufficient`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(C) `Both Statements I and II together are necessary`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C) `Both Statements I and II together are necessary`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -1143,8 +1207,10 @@ Statement II: The expenditure of A and B are in the ratio 2:3.
 - **(C)** `Both together are sufficient`
 - **(D)** `Neither Statement I nor II nor together is sufficient`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(D) `Neither Statement I nor II nor together is sufficient`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (D) `Neither Statement I nor II nor together is sufficient`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -1183,8 +1249,10 @@ Which conclusions logically follow?
 - **(C)** `Both A and B follow`
 - **(D)** `Neither follows`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(C) `Both 'Some girls are boys' and 'Some girls are bad' follow`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C) `Both 'Some girls are boys' and 'Some girls are bad' follow`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -1218,8 +1286,10 @@ A batsman scored 110 runs which included 4 boundaries (fours), 6 sixes, and the 
 - **(C)** `55%`
 - **(D)** `60%`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(A) `45.45%`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A) `45.45%`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -1256,8 +1326,10 @@ The sum of 15 data points is 2100. If each data point is doubled and then 10 is 
 - **(C)** `120`
 - **(D)** `130`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(D) `130`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (D) `130`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -1292,8 +1364,10 @@ The daily sales by a shop for a 7-day week were: Rs. 2800, Rs. 3300, Rs. 2500, R
 - **(C)** `Rs. 2857`
 - **(D)** `Rs. 2850`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(C) `Rs. 2857`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C) `Rs. 2857`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -1327,8 +1401,10 @@ In the sequence: 6 1 2 7 8 9 4 5 3 2 4 6 5 8 9 1 0 3 2, how many even numbers ar
 - **(C)** `3`
 - **(D)** `4`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(B) `2`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B) `2`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -1362,8 +1438,10 @@ In a farm, there are some cows and their owners. If the total number of heads is
 - **(C)** `25`
 - **(D)** `30`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(D) `30 cows`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (D) `30 cows`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -1400,8 +1478,10 @@ Statement II: Q is to the east of S. S is to the south of A.
 - **(C)** `Either Statement I alone or II alone is sufficient`
 - **(D)** `Both together are not sufficient`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(C) `Either Statement I alone or Statement II alone is sufficient`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C) `Either Statement I alone or Statement II alone is sufficient`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -1436,8 +1516,10 @@ Sixty percent of a number 'X' is equal to thirty percent of another number 'Y'. 
 - **(C)** `2:3`
 - **(D)** `3:2`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(A) `1:2`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A) `1:2`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -1471,8 +1553,10 @@ If 5 bakers make 50 cupcakes in 5 hours, how many cupcakes will 10 bakers make i
 - **(C)** `60`
 - **(D)** `80`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(A) `40 cupcakes`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A) `40 cupcakes`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -1509,8 +1593,10 @@ Statement II: Dhruv is 6 years younger than Yash, who is 28 years old.
 - **(C)** `Both together are necessary`
 - **(D)** `Neither is sufficient`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(B) `Statement II alone is sufficient`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B) `Statement II alone is sufficient`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -1547,8 +1633,10 @@ Statement II: Priya is 15th from the end and has 9 people in front of her.
 - **(C)** `Either Statement I alone or II alone is sufficient`
 - **(D)** `Both together are necessary`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(C) `Either Statement I alone or Statement II alone is sufficient`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C) `Either Statement I alone or Statement II alone is sufficient`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -1584,8 +1672,10 @@ Conclusions: I. Some A is not B. II. All B can never be C.
 - **(C)** `Both conclusions I and II follow`
 - **(D)** `Neither follows`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(C) `Both conclusions I and II follow`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C) `Both conclusions I and II follow`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -1619,8 +1709,10 @@ A man buys a certain number of mangoes and sells 3/5th of the total. He gives ha
 - **(C)** `75`
 - **(D)** `90`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(C) `75 mangoes`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C) `75 mangoes`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -1657,8 +1749,10 @@ What two numbers should replace the question marks in the series: 6, 7, 14, 17, 
 - **(C)** `438, 511`
 - **(D)** `445, 511`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(A) `438, 445`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A) `438, 445`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -1699,8 +1793,10 @@ The pie chart shows causes of death in a country: Heart Attack 25%, Accidents 22
 - **(C)** `100,000`
 - **(D)** `120,000`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(C) `100,000 deaths`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C) `100,000 deaths`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -1735,8 +1831,10 @@ From the sports competition table, Country A has Male athletes (300, 320, 340, 3
 - **(C)** `3.55 : 1`
 - **(D)** `4.50 : 1`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(A) `3.91 : 1 (1330 : 340)`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A) `3.91 : 1 (1330 : 340)`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text
@@ -1771,8 +1869,10 @@ Using the multi-country athlete table, find the total number of participants acr
 - **(C)** `1,850`
 - **(D)** `2,100`
 
-#### Verified Solution & Answer Key
-> **Correct Option**: **(B) `1,680 participants`**
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B) `1,680 participants`
+
 
 #### Step-by-Step Mathematical & Logical Derivation
 ```text

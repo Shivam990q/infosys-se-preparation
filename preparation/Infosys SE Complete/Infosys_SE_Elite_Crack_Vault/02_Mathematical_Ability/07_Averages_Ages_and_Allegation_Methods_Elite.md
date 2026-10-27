@@ -1,28 +1,21 @@
 # 🏆 Infosys SE Elite Crack Vault — 07 Averages Ages and Allegation Methods Elite
 > **Target Role:** **Infosys Systems Engineer (SE)** (3.6 – 4.0 LPA Recruitment Drive)  
 > **Curation Standard:** **100% Pure SE Role Specific** (All SP/DSE Upper-Level & Practice Variants Purged)  
-> **Total Curated Questions in Topic:** **102 Questions**  
-> **Question Breakdown:** 🔴 `36 Must-Solve` | 🟡 `66 Core SE Level`  
+> **Total Curated Questions in Topic:** **51 Questions**  
+> **Question Breakdown:** 🔴 `18 Must-Solve` | 🟡 `33 Core SE Level` | ⚪ `0 Practice Variant`  
 > **Verification Score:** 100% Mathematically & Deductively Proven with Zero Hallucination  
 
 ---
 
-### Question 1: Infosys SE Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+---
+
+### Problem 01: Comparative Percentage in Pie Chart  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_DI_PIE_Q03` | **Source File:** `Data Interpretation Pie chart.pdf`
 
- (ID: `SEC02_DI_PIE_Q03`)
-- **Source Module**: `1. Most Most Imp - Data Interpretation`
-- **Source File**: `Data Interpretation Pie chart.pdf`
-- **Topic Domain**: **Comparative Percentage in Pie Chart**
-
-
-### Question 2: Infosys SE Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Paper cost is approximately what percent of the Printing cost?
 
@@ -48,23 +41,15 @@ Therefore, Paper cost is 125% of Printing cost.
 
 ---
 
+---
 
-### Question 3: Infosys SE Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 02: Percentages  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P09_Q63` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P09_Q63`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 4: Infosys SE Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 The price of an article rose by 25% every odd 
 year and fell by 20% every even year, what 
@@ -89,23 +74,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 9, Problem 63). V
 
 ---
 
+---
 
-### Question 5: Infosys SE Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 03: Percentages  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P09_Q65` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P09_Q65`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 6: Infosys SE Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 The population of a town is 18000. It increases 
 by 10% during first year and by 20% during the 
@@ -130,23 +107,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 9, Problem 65). V
 
 ---
 
+---
 
-### Question 7: Infosys SE Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 04: Percentages  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P10_Q66` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P10_Q66`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 8: Infosys SE Question 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 The length of a rectangle increased by 40% 
 and its breadth increased by 20%. What will be 
@@ -171,23 +140,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 66). 
 
 ---
 
+---
 
-### Question 9: Infosys SE Question 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 05: Percentages  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P10_Q67` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P10_Q67`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 10: Infosys SE Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 A student has to secure 40% marks to pass an 
 examination. He secured 75 marks and was 
@@ -212,23 +173,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 67). 
 
 ---
 
+---
 
-### Question 11: Infosys SE Question 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 06: Percentages  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P10_Q68` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P10_Q68`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 12: Infosys SE Question 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 In an examination, the cut off mark is 40% and 
 a student is declared to be failed by 4 marks 
@@ -253,23 +206,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 68). 
 
 ---
 
+---
 
-### Question 13: Infosys SE Question 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 07: Percentages  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P10_Q69` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P10_Q69`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 14: Infosys SE Question 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 A student has to secure 30% marks to get 
 through. If he gets 40 marks and fails by 20 
@@ -294,23 +239,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 69). 
 
 ---
 
+---
 
-### Question 15: Infosys SE Question 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 08: Percentages  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P10_Q70` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P10_Q70`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 16: Infosys SE Question 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 In an examination, P scored 30 % marks and 
 failed by 15 marks. Q scored 40 % marks and 
@@ -335,23 +272,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 70). 
 
 ---
 
+---
 
-### Question 17: Infosys SE Question 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 09: Percentages  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P10_Q71` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P10_Q71`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 18: Infosys SE Question 18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 A candidate scoring 25% in an examination 
 fails by 30 marks, while another candidate 
@@ -378,23 +307,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 71). 
 
 ---
 
+---
 
-### Question 19: Infosys SE Question 19  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 10: Percentages  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P10_Q72` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P10_Q72`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 20: Infosys SE Question 20  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 In a test consisting of 300 questions, Deepika 
 answered 40% of the first 100 questions 
@@ -420,23 +341,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 72). 
 
 ---
 
+---
 
-### Question 21: Infosys SE Question 21  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 11: Percentages  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P10_Q73` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P10_Q73`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 22: Infosys SE Question 22  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 There were only two candidates in an election. 
 A candidate got 62% votes and he won by 144 
@@ -460,23 +373,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 73). 
 
 ---
 
+---
 
-### Question 23: Infosys SE Question 23  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 12: Percentages  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P11_Q74` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P11_Q74`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 24: Infosys SE Question 24  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 In an election between two candidates, the 
 winner secured 58% of the total votes cast and 
@@ -501,23 +406,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 11, Problem 74). 
 
 ---
 
+---
 
-### Question 25: Infosys SE Question 25  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 13: Percentages  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P11_Q75` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P11_Q75`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 26: Infosys SE Question 26  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 In an election between two candidates, one 
 gets 72% of the total votes. If the total votes 
@@ -542,23 +439,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 11, Problem 75). 
 
 ---
 
+---
 
-### Question 27: Infosys SE Question 27  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 14: Percentages  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P11_Q76` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P11_Q76`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 28: Infosys SE Question 28  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 In a college election between two students, 
 10% of the votes cast are invalid. The winner 
@@ -584,23 +473,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 11, Problem 76). 
 
 ---
 
+---
 
-### Question 29: Infosys SE Question 29  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 15: Ages, Partnership & Averages  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P11_Q78` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P11_Q78`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Ages, Partnership & Averages**
-
-
-### Question 30: Infosys SE Question 30  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 A tub can be filled in 20 minutes but there is a 
 leakage in it which can empty the full tub in 60 
@@ -624,23 +505,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 11, Problem 78). 
 
 ---
 
+---
 
-### Question 31: Infosys SE Question 31  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 16: Percentages  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P16_Q117` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P16_Q117`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 32: Infosys SE Question 32  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 A Sum was put at Sl at a certain rate for 2 
 years. Had it been put at 3% higher rate, it 
@@ -665,23 +538,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 16, Problem 117).
 
 ---
 
+---
 
-### Question 33: Infosys SE Question 33  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 17: Percentages  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P17_Q124` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P17_Q124`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 34: Infosys SE Question 34  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 10% of the voters did not cast their votes in an 
 election between two candidates 10% of the 
@@ -708,23 +573,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 17, Problem 124).
 
 ---
 
+---
 
-### Question 35: Infosys SE Question 35  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 18: Percentages  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P17_Q125` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P17_Q125`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 36: Infosys SE Question 36  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 In a college election between two students, 
 10% of the votes cast are invalid. The winner 
@@ -750,23 +607,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 17, Problem 125).
 
 ---
 
+---
 
-### Question 37: Infosys SE Question 37  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 19: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P17_Q126` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P17_Q126`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 38: Infosys SE Question 38  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 In a election between two candidate 20% did 
 not vote & 12(1/2)% i.e 12.5 %of votes were 
@@ -792,23 +641,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 17, Problem 126).
 
 ---
 
+---
 
-### Question 39: Infosys SE Question 39  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 20: Ages, Partnership & Averages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P18_Q130` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P18_Q130`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Ages, Partnership & Averages**
-
-
-### Question 40: Infosys SE Question 40  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 What is code of "called" ? 
 I. 
@@ -837,23 +678,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 18, Problem 130).
 
 ---
 
+---
 
-### Question 41: Infosys SE Question 41  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 21: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P18_Q134` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P18_Q134`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 42: Infosys SE Question 42  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 If A's salary is 25% less than B's salary, then B's 
 salary is what % more than A's salary?
@@ -876,23 +709,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 18, Problem 134).
 
 ---
 
+---
 
-### Question 43: Infosys SE Question 43  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 22: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P18_Q135` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P18_Q135`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 44: Infosys SE Question 44  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Study the following table and answer the 
 Revenue (in INR lakhs) of a company ABC from 
@@ -990,23 +815,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 18, Problem 135).
 
 ---
 
+---
 
-### Question 45: Infosys SE Question 45  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 23: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P18_Q136` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P18_Q136`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 46: Infosys SE Question 46  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 In a company 58% of the employees are males 
 and rest are females 48% of the employees are 
@@ -1035,23 +852,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 18, Problem 136).
 
 ---
 
+---
 
-### Question 47: Infosys SE Question 47  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 24: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P19_Q137` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P19_Q137`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 48: Infosys SE Question 48  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 The income of A is 70% of the income B and 
 the expenditure of B is 20% less than the 
@@ -1077,23 +886,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 19, Problem 137).
 
 ---
 
+---
 
-### Question 49: Infosys SE Question 49  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 25: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P22_Q169` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P22_Q169`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 50: Infosys SE Question 50  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 A sum of x is divided between A,B,C and D 
 such that the ratio of share of A and B is 9:5, 
@@ -1120,23 +921,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 22, Problem 169).
 
 ---
 
+---
 
-### Question 51: Infosys SE Question 51  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 26: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P24_Q178` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P24_Q178`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 52: Infosys SE Question 52  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 The ratio in which two sugar solutions of the 
 concentration 15% and 40% are to be mixed to 
@@ -1160,23 +953,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 24, Problem 178).
 
 ---
 
+---
 
-### Question 53: Infosys SE Question 53  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 27: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P24_Q182` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P24_Q182`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 54: Infosys SE Question 54  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 300 grams of sugar solution has 40% of sugar 
 in it. How much sugar should be added to 
@@ -1200,23 +985,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 24, Problem 182).
 
 ---
 
+---
 
-### Question 55: Infosys SE Question 55  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 28: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P24_Q183` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P24_Q183`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 56: Infosys SE Question 56  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 In 50 gram of alloy gold and silver. The gold is 
 80% by weight. How much gold should be 
@@ -1241,23 +1018,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 24, Problem 183).
 
 ---
 
+---
 
-### Question 57: Infosys SE Question 57  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 29: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P24_Q184` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P24_Q184`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 58: Infosys SE Question 58  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 A mixture of 40 litres of milk and water 
 contains 10% of water. How much water is to 
@@ -1282,23 +1051,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 24, Problem 184).
 
 ---
 
+---
 
-### Question 59: Infosys SE Question 59  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 30: Ages, Partnership & Averages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P25_Q191` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P25_Q191`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Ages, Partnership & Averages**
-
-
-### Question 60: Infosys SE Question 60  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 A, B, C rent a pasture. A puts 10 oxen for 7 
 months, B puts 12 oxen for 5 months and C 
@@ -1324,23 +1085,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 25, Problem 191).
 
 ---
 
+---
 
-### Question 61: Infosys SE Question 61  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 31: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P27_Q12` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P27_Q12`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 62: Infosys SE Question 62  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 5% 
 b. 
@@ -1369,23 +1122,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 27, Problem 12). 
 
 ---
 
+---
 
-### Question 63: Infosys SE Question 63  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 32: Ages, Partnership & Averages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P28_Q211` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P28_Q211`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Ages, Partnership & Averages**
-
-
-### Question 64: Infosys SE Question 64  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Average of 15 members is calculated as 50. It 
 is discovered later that while calculating the 
@@ -1410,23 +1155,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 28, Problem 211).
 
 ---
 
+---
 
-### Question 65: Infosys SE Question 65  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 33: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P31_Q231` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P31_Q231`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 66: Infosys SE Question 66  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 What will be the central angle for passenger 
 travelling from Patna to Buxar if it is put in the 
@@ -1452,23 +1189,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 31, Problem 231).
 
 ---
 
+---
 
-### Question 67: Infosys SE Question 67  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 34: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P31_Q232` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P31_Q232`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 68: Infosys SE Question 68  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 The number of passengers travelling from 
 Patna to Buxar is what cent more than the 
@@ -1495,23 +1224,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 31, Problem 232).
 
 ---
 
+---
 
-### Question 69: Infosys SE Question 69  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 35: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P31_Q233` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P31_Q233`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 70: Infosys SE Question 70  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 The number of passengers travelling from 
 Patna to Gaya is what per cent of the total 
@@ -1538,23 +1259,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 31, Problem 233).
 
 ---
 
+---
 
-### Question 71: Infosys SE Question 71  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 36: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P32_Q237` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P32_Q237`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 72: Infosys SE Question 72  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 The number of girls appearing for an 
 admission test is twice the number of boys. If 
@@ -1580,23 +1293,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 32, Problem 237).
 
 ---
 
+---
 
-### Question 73: Infosys SE Question 73  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 37: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P32_Q240` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P32_Q240`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 74: Infosys SE Question 74  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 What is the difference between two numbers 
 X and Y? 
@@ -1625,23 +1330,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 32, Problem 240).
 
 ---
 
+---
 
-### Question 75: Infosys SE Question 75  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 38: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P34_Q248` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P34_Q248`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 76: Infosys SE Question 76  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 The number of passengers travelling from 
 Patna to Buxar is what cent more than the 
@@ -1668,23 +1365,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 34, Problem 248).
 
 ---
 
+---
 
-### Question 77: Infosys SE Question 77  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 39: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P34_Q249` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P34_Q249`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 78: Infosys SE Question 78  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 The number of passengers travelling from 
 Patna to Gaya is what per cent of the total 
@@ -1711,23 +1400,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 34, Problem 249).
 
 ---
 
+---
 
-### Question 79: Infosys SE Question 79  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 40: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P34_Q250` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P34_Q250`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 80: Infosys SE Question 80  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Among the passengers who are travelling from 
 Patna to Katihar, 42% are female adults and 
@@ -1755,23 +1436,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 34, Problem 250).
 
 ---
 
+---
 
-### Question 81: Infosys SE Question 81  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 41: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_BOOK_P35_Q256` | **Source File:** `250 + Video Solution Quant Assorted Book.pdf`
 
- (ID: `SEC02_BOOK_P35_Q256`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 82: Infosys SE Question 82  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 What is the difference between two numbers 
 X and Y? 
@@ -1800,23 +1473,15 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 35, Problem 256).
 
 ---
 
+---
 
-### Question 83: Infosys SE Question 83  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 42: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_TEST_PERCEN_Q01` | **Source File:** `Percentage  01- Imp Test_QUESTIONS.json`
 
- (ID: `SEC02_TEST_PERCEN_Q01`)
-- **Source Module**: `2. Numerical ability`
-- **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
-- **Topic Domain**: **Percentages**
-
-
-### Question 84: Infosys SE Question 84  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 A spend 25% of his monthly salary on household and 20% of the remaining salary spend on rent. A spend remaining salary on travelling and food in the ratio of 2:3 respectively. Difference between amounts spend on food and household is Rs.1540, then find the monthly expenditure of A.
 
@@ -1839,23 +1504,15 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
+---
 
-### Question 85: Infosys SE Question 85  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 43: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_TEST_PERCEN_Q02` | **Source File:** `Percentage  01- Imp Test_QUESTIONS.json`
 
- (ID: `SEC02_TEST_PERCEN_Q02`)
-- **Source Module**: `2. Numerical ability`
-- **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
-- **Topic Domain**: **Percentages**
-
-
-### Question 86: Infosys SE Question 86  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 A candidate scoring 25% in an examination fails by 30 marks , while another candidate scores 50 % mark, gets 20 marks more than the minimum pass marks . Find the minimum pass percentage.
 
@@ -1877,23 +1534,15 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
+---
 
-### Question 87: Infosys SE Question 87  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 44: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_TEST_PERCEN_Q03` | **Source File:** `Percentage  01- Imp Test_QUESTIONS.json`
 
- (ID: `SEC02_TEST_PERCEN_Q03`)
-- **Source Module**: `2. Numerical ability`
-- **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
-- **Topic Domain**: **Percentages**
-
-
-### Question 88: Infosys SE Question 88  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 The population of a town is 6000. If males are Increased by 5% and female are increased by 9%. Then population will become 6500 after 1 year. Find the number of males and females?
 
@@ -1915,23 +1564,15 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
+---
 
-### Question 89: Infosys SE Question 89  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 45: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_TEST_PERCEN_Q04` | **Source File:** `Percentage  01- Imp Test_QUESTIONS.json`
 
- (ID: `SEC02_TEST_PERCEN_Q04`)
-- **Source Module**: `2. Numerical ability`
-- **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
-- **Topic Domain**: **Percentages**
-
-
-### Question 90: Infosys SE Question 90  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Journalist Popatlal&rsquo;s income is 37.5% less than Dr. Iyyer&rsquo;s. Then Dr.Iyyer&rsquo;s income is how much % more than Popatlal&rsquo;s income ?
 
@@ -1953,23 +1594,15 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
+---
 
-### Question 91: Infosys SE Question 91  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 46: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_TEST_PERCEN_Q05` | **Source File:** `Percentage  01- Imp Test_QUESTIONS.json`
 
- (ID: `SEC02_TEST_PERCEN_Q05`)
-- **Source Module**: `2. Numerical ability`
-- **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
-- **Topic Domain**: **Percentages**
-
-
-### Question 92: Infosys SE Question 92  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 If A&rsquo;s salary is 25% less than B&rsquo;s salary, then B&rsquo;s salary is what % more than A&rsquo;s salary?
 
@@ -1991,23 +1624,15 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
+---
 
-### Question 93: Infosys SE Question 93  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 47: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_TEST_PERCEN_Q06` | **Source File:** `Percentage  01- Imp Test_QUESTIONS.json`
 
- (ID: `SEC02_TEST_PERCEN_Q06`)
-- **Source Module**: `2. Numerical ability`
-- **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
-- **Topic Domain**: **Percentages**
-
-
-### Question 94: Infosys SE Question 94  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 The value of a washing machine depreciates at the rate of 10% every year. If its present value is Rs. 8748, then what was the price of the washing machine three years ago?
 
@@ -2026,23 +1651,15 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
+---
 
-### Question 95: Infosys SE Question 95  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 48: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_TEST_PERCEN_Q07` | **Source File:** `Percentage  01- Imp Test_QUESTIONS.json`
 
- (ID: `SEC02_TEST_PERCEN_Q07`)
-- **Source Module**: `2. Numerical ability`
-- **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
-- **Topic Domain**: **Percentages**
-
-
-### Question 96: Infosys SE Question 96  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Mr x spends 20% of his monthly income on household expenditure, out of the remaining. 25% he spends on children's education, 15% on transport, 15% on medicine and 10% on entertainment. He is left with Rs.9800 after incurring all these expenditures. what is his monthly income?
 
@@ -2061,23 +1678,15 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
+---
 
-### Question 97: Infosys SE Question 97  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 49: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_TEST_PERCEN_Q08` | **Source File:** `Percentage  01- Imp Test_QUESTIONS.json`
 
- (ID: `SEC02_TEST_PERCEN_Q08`)
-- **Source Module**: `2. Numerical ability`
-- **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
-- **Topic Domain**: **Percentages**
-
-
-### Question 98: Infosys SE Question 98  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Difference between 54% of a number and 69% of the same number is 90. What is 60% of that number?
 
@@ -2096,23 +1705,15 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
+---
 
-### Question 99: Infosys SE Question 99  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 50: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_TEST_PERCEN_Q09` | **Source File:** `Percentage  01- Imp Test_QUESTIONS.json`
 
- (ID: `SEC02_TEST_PERCEN_Q09`)
-- **Source Module**: `2. Numerical ability`
-- **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
-- **Topic Domain**: **Percentages**
-
-
-### Question 100: Infosys SE Question 100  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 The population of a village has a constant growth of 6.25% every year. .present population 4046.W hat was the population two yes ago ?
 
@@ -2131,23 +1732,15 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
+---
 
-### Question 101: Infosys SE Question 101  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 51: Percentages  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC02_TEST_PERCEN_Q10` | **Source File:** `Percentage  01- Imp Test_QUESTIONS.json`
 
- (ID: `SEC02_TEST_PERCEN_Q10`)
-- **Source Module**: `2. Numerical ability`
-- **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
-- **Topic Domain**: **Percentages**
-
-
-### Question 102: Infosys SE Question 102  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 In an election there were two candidates Ram Singh and Sohan Lal. The total no. of voters in the constituency was 80000 and 80% of the total votes were polled. If 60% of the polled votes were cast in favour of Ram Singh, how many votes were received by Sohan Lal?
 
@@ -2166,3 +1759,4 @@ Official solution from Percentage Concept & Application Test. Mathematical verif
 
 ---
 
+---

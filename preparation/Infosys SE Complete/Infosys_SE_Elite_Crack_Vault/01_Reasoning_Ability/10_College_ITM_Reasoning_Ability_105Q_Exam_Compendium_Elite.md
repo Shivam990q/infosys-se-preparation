@@ -86,7 +86,10 @@ Conclusions: I. Some coders are not managers. II. Some engineers are testers. II
 - **(C)** I and III follow
 - **(D)** All follow
 
-**Correct Answer:** Option **(A)** — `Only I follows`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `Only I follows`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Statement I: All engineers are coders, Some coders are testers, No tester is a manager. The subset of coders who are testers cannot be managers; hence 'Some coders are not managers' follows definitively. II (Some engineers are testers) does not necessarily follow as the circle of engineers may not overlap with testers. III (No engineer is a manager) does not necessarily follow. Thus, only conclusion I follows.
@@ -182,7 +185,10 @@ pens.
 - **(C)** II, III and IV only
 - **(D)** All follow
 
-**Correct Answer:** Option **(B)** — `I, II and III only`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `I, II and III only`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Statements: Some pens are books. All books are chairs. No chair is a table.
@@ -215,7 +221,10 @@ I. x² > y². II. x + y > 0.
 - **(D)** Even both 
 together are not sufficient
 
-**Correct Answer:** Option **(C)** — `Both together are sufficient, neither alone`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C)** — `Both together are sufficient, neither alone`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Question: Is x > y for integers x and y?
@@ -247,7 +256,10 @@ II. Five years hence, the sum of the ages of Riya and her sister will be 40.
 - **(D)** Even both 
 together are not sufficient
 
-**Correct Answer:** Option **(C)** — `Both together are sufficient, neither alone`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C)** — `Both together are sufficient, neither alone`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Question: What is Riya's present age?
@@ -276,7 +288,10 @@ In a certain code, MONDAY is written as NNOCBX. How is SUNDAY written in that co
 - **(C)** TTOCBZ
 - **(D)** RTOCBX
 
-**Correct Answer:** Option **(A)** — `TTOCBX`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `TTOCBX`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Coding Pattern: M (+1) -> N, O (-1) -> N, N (+1) -> O, D (-1) -> C, A (+1) -> B, Y (-1) -> X. The alternating shift pattern is [+1, -1, +1, -1, +1, -1].
@@ -311,7 +326,10 @@ What is the code for "rises bird light"?
 - **(C)** ka ra du
 - **(D)** mo ti du
 
-**Correct Answer:** Option **(A)** — `mo ra du`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `mo ra du`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Word-code comparison:
@@ -449,7 +467,10 @@ cubes have exactly two faces painted?
 - **(C)** 36
 - **(D)** 8
 
-**Correct Answer:** Option **(B)** — `24`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `24`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 For an n × n × n painted cube cut into unit cubes (here n = 4 since 4³ = 64):
@@ -526,7 +547,10 @@ the figure in total?
 - **(C)** 16
 - **(D)** 18
 
-**Correct Answer:** Option **(C)** — `16`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C)** — `16`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Standard median geometry counting:
@@ -607,7 +631,10 @@ the man?
 - **(C)** Aunt
 - **(D)** Grandmother
 
-**Correct Answer:** Option **(A)** — `Mother`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `Mother`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Meera said: 'His mother is the only daughter of my mother.'
@@ -637,7 +664,10 @@ of B, which expression shows that P is the maternal uncle of R?
 - **(C)** P × Q − R
 - **(D)** P − Q × R
 
-**Correct Answer:** Option **(B)** — `P − Q + R`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `P − Q + R`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 P must be the maternal uncle of R (brother of R's mother).
@@ -735,7 +765,10 @@ then turns left and walks 4 m. Where is he now relative to the starting point?
 - **(C)** 11 m South-East
 - **(D)** 5 m North
 
-**Correct Answer:** Option **(A)** — `9 m East`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `9 m East`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Step-by-step vector tracking from origin (0, 0):
@@ -840,7 +873,10 @@ direction is he facing now?
 - **(C)** South-West
 - **(D)** East
 
-**Correct Answer:** Option **(B)** — `South`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `South`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Initial direction: North-East (45° clockwise from North).
@@ -870,7 +906,10 @@ Find the next term: 3, 7, 16, 35, 74, ?
 - **(C)** 149
 - **(D)** 158
 
-**Correct Answer:** Option **(B)** — `153`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `153`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Series: 3, 7, 16, 35, 74, ?
@@ -902,7 +941,10 @@ Find the next term: 4, 9, 25, 49, 121, 169, ?
 - **(C)** 361
 - **(D)** 323
 
-**Correct Answer:** Option **(A)** — `289`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `289`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Series: 4, 9, 25, 49, 121, 169, ?
@@ -937,7 +979,10 @@ Find the next letter: B, E, I, N, T, ?
 - **(C)** B
 - **(D)** Y
 
-**Correct Answer:** Option **(A)** — `A`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `A`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Letter positions in alphabet: B(2), E(5), I(9), N(14), T(20), ?
@@ -971,7 +1016,10 @@ Conclusions: I. Some machines are not portable. II. Some servers are laptops. II
 - **(C)** I and II follow
 - **(D)** None follows
 
-**Correct Answer:** Option **(A)** — `Only I follows`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `Only I follows`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Some machines are laptops, and no laptop is portable, so those machines are not portable — I follows. 
@@ -1055,7 +1103,10 @@ Conclusions: I. No circle is a triangle. II. Some rectangles are not squares. II
 - **(C)** I, II and III
 - **(D)** II and III only
 
-**Correct Answer:** Option **(C)** — `I, II and III`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C)** — `I, II and III`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Circles 
@@ -1087,7 +1138,10 @@ I. n is divisible by 4. II. n is divisible by 9.
 - **(D)** Even both 
 together are not sufficient
 
-**Correct Answer:** Option **(C)** — `Both together are sufficient, neither alone`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C)** — `Both together are sufficient, neither alone`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 I alone fails (n = 4 is not divisible by 6). II alone fails (n = 9 is not divisible by 6). Together, a number 
@@ -1116,7 +1170,10 @@ I. It was sold at a profit of 20%. II. If sold at ₹150 more, the profit would 
 - **(D)** Even both 
 together are not sufficient
 
-**Correct Answer:** Option **(B)** — `II alone is sufficient`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `II alone is sufficient`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 II alone: 12% of CP = ₹150, so CP = ₹1,250 — sufficient. I alone gives only a percentage, not an absolute 
@@ -1144,7 +1201,10 @@ as IORZHU. Using the same code, how is GARDEN written?
 - **(C)** JCUGHQ
 - **(D)** JDVGHQ
 
-**Correct Answer:** Option **(A)** — `JDUGHQ`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `JDUGHQ`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Applying the same +3 shift: G→J, A→D, R→U, D→G, E→H, N→Q, giving JDUGHQ.
@@ -1171,7 +1231,10 @@ ta ve". What is the code for "grows secure data"?
 - **(C)** ri ve ka
 - **(D)** ka ve zu
 
-**Correct Answer:** Option **(A)** — `ri ve zu`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `ri ve zu`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 "fast" is common to statements 1 and 2 → ka. "data" is common to 1 and 3 → zu. "network" is 
@@ -1240,7 +1303,10 @@ then cut into 27 identical small cubes. How many small cubes have exactly one fa
 - **(C)** 9
 - **(D)** 12
 
-**Correct Answer:** Option **(A)** — `6`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `6`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 In a 3×3×3 cube, only the centre cube of each face touches just one painted face — 1 per face × 6 faces 
@@ -1268,7 +1334,10 @@ spaced horizontal lines drawn inside it. How many rectangles (of any size) are t
 - **(C)** 27
 - **(D)** 24
 
-**Correct Answer:** Option **(B)** — `36`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `36`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 With 2 interior + 2 boundary lines in each direction, there are 4 vertical and 4 horizontal lines. 
@@ -1348,7 +1417,10 @@ woman in the photograph related to the man?
 - **(C)** Niece
 - **(D)** Mother
 
-**Correct Answer:** Option **(A)** — `Sister`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `Sister`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 The grandfather's only son is the man's father. The daughter of the man's father is his sister.
@@ -1375,7 +1447,10 @@ which expression correctly shows that M is the granddaughter of N?
 - **(C)** M − P ÷ N
 - **(D)** M ÷ P − N
 
-**Correct Answer:** Option **(A)** — `M ÷ P + N`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `M ÷ P + N`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 M ÷ P: M is daughter of P. P + N: P is son of N. So M is P's daughter, and P is N's son — M is N's 
@@ -1467,7 +1542,10 @@ walks 8 m, then turns right and walks 3 m. How far is she from the starting poin
 - **(C)** 2 m East
 - **(D)** 2 m West
 
-**Correct Answer:** Option **(A)** — `8 m East`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `8 m East`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Tracking positions from (0,0): south 8 → (0,−8); left turn faces east, walk 5 → (5,−8); left turn faces 
@@ -1495,7 +1573,10 @@ direction is he facing now?
 - **(C)** South-West
 - **(D)** West
 
-**Correct Answer:** Option **(A)** — `North`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `North`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Using bearings (clockwise from North): South = 180°. −45° (anticlockwise) = 135°; +90° (clockwise) = 
@@ -1522,7 +1603,10 @@ Find the next term: 2, 6, 15, 31, 56, ?
 - **(C)** 90
 - **(D)** 84
 
-**Correct Answer:** Option **(A)** — `92`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `92`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Differences are 4, 9, 16, 25 (perfect squares), so the next difference is 36: 56 + 36 = 92.
@@ -1548,7 +1632,10 @@ Find the next term: 5, 11, 23, 47, 95, ?
 - **(C)** 193
 - **(D)** 190
 
-**Correct Answer:** Option **(B)** — `191`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `191`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Each term = previous × 2 + 1: 95 × 2 + 1 = 191.
@@ -1574,7 +1661,10 @@ Find the next letter-pair: CE, FI, IM, LQ, ?
 - **(C)** NT
 - **(D)** PU
 
-**Correct Answer:** Option **(B)** — `OU`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `OU`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 First letters C, F, I, L rise by 3 each time → next is O. Second letters E, I, M, Q rise by 4 each time → 
@@ -1602,7 +1692,10 @@ Conclusions: I. All P are R. II. Some Q are S. III. No P is T. IV. Some R are no
 - **(C)** I, II and IV follow
 - **(D)** All follow
 
-**Correct Answer:** Option **(B)** — `I and IV follow`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `I and IV follow`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Since P⊆Q⊆R, "All P are R" (I) follows directly. Some R are S, and no S is T, so those particular R-
@@ -1631,7 +1724,10 @@ Conclusions: I. No coin is wood. II. Some furniture is not metal.
 - **(C)** Both I and II follow
 - **(D)** Neither follows
 
-**Correct Answer:** Option **(C)** — `Both I and II follow`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C)** — `Both I and II follow`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Coins⊆metals, and metals∩wood=∅, so coins∩wood=∅ — I follows. Some woods are furniture, and 
@@ -1661,7 +1757,10 @@ II. The number obtained by reversing its digits is 27 less than N.
 - **(D)** Each statement alone is sufficient 
 (e) Even both statements together are not sufficient
 
-**Correct Answer:** Option **(C)** — `Both statements together are sufficient, but neither alone is`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C)** — `Both statements together are sufficient, but neither alone is`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 II alone: N − reversed = 9(tens digit − units digit) = 27, so tens − units = 3 — multiple numbers fit (41, 
@@ -1692,7 +1791,10 @@ II. x² is even.
 - **(D)** Each statement alone is sufficient 
 (e) Even both statements together are not sufficient
 
-**Correct Answer:** Option **(D)** — `Each statement alone is sufficient 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (D)** — `Each statement alone is sufficient
+
 (e) Even both statements together are not sufficient`
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
@@ -1721,7 +1823,10 @@ What is the code for GATE?
 - **(C)** 6182
 - **(D)** 8126
 
-**Correct Answer:** Option **(A)** — `6128`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `6128`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 From TRAIN=23145: T=2,R=3,A=1,I=4,N=5. From GAME=6178: G=6,A=1,M=7,E=8. From MEAT=7812: 
@@ -1749,7 +1854,10 @@ mo lo", "stars through galaxy" = "lo ri zu". What is the code for "night light g
 - **(C)** mo ta zu
 - **(D)** ke lo zu
 
-**Correct Answer:** Option **(A)** — `ke ta zu`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `ke ta zu`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Comparing statement 1 & 2, the common word "shines" gets the common code "pu". Comparing 2 & 
@@ -1815,7 +1923,10 @@ many unit cubes have exactly 2 painted faces?
 - **(C)** 20
 - **(D)** 26
 
-**Correct Answer:** Option **(A)** — `24`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `24`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 For a cuboid a×b×c, the number of unit cubes with exactly 2 painted faces = 4[(a−2)+(b−2)+(c−2)]. With 
@@ -1842,7 +1953,10 @@ How many triangles are there in total in a complete five-pointed star (pentagram
 - **(C)** 35
 - **(D)** 15
 
-**Correct Answer:** Option **(C)** — `35`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C)** — `35`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 A complete five-pointed star (pentagram) figure contains 35 triangles in total (5 small tip triangles, 5 
@@ -1871,7 +1985,10 @@ related to the man's wife?
 - **(C)** Mother
 - **(D)** Aunt
 
-**Correct Answer:** Option **(A)** — `Sister-in-law`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `Sister-in-law`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 The man's wife is the only daughter-in-law of the woman's father, meaning the woman's father has 
@@ -1900,7 +2017,10 @@ C is the paternal grandmother of D?
 - **(C)** E % C * D
 - **(D)** D % E * C
 
-**Correct Answer:** Option **(A)** — `C % E * D`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `C % E * D`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 C % E: C is mother of E. E * D: E is father of D. So C is the mother of D's father, i.e., C is D's paternal 
@@ -1980,7 +2100,10 @@ point, and in which general direction?
 - **(C)** 7 m, North-East
 - **(D)** 5 m, South-East
 
-**Correct Answer:** Option **(A)** — `5 m, North-East`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `5 m, North-East`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Net North-South displacement = 12−8 = 4 m North; net East-West = 9−6 = 3 m East. Distance = 
@@ -2008,7 +2131,10 @@ direction is he facing now?
 - **(C)** South-West
 - **(D)** North-East
 
-**Correct Answer:** Option **(A)** — `North-West`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `North-West`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Using bearings (clockwise from North, East=90°): 90°+135°=225°(SW); 225°−90°=135°(SE); 
@@ -2035,7 +2161,10 @@ Find the next term: 7, 26, 63, 124, 215, ?
 - **(C)** 341
 - **(D)** 343
 
-**Correct Answer:** Option **(A)** — `342`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `342`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Each term is n³−1 for n=2,3,4,5,6: 7,26,63,124,215; next (n=7): 343−1 = 342.
@@ -2061,7 +2190,10 @@ Find the next term: 4, 5, 9, 18, 34, ?
 - **(C)** 63
 - **(D)** 57
 
-**Correct Answer:** Option **(B)** — `59`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `59`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Differences are 1,4,9,16 (perfect squares); next difference is 25: 34+25 = 59.
@@ -2087,7 +2219,10 @@ Find the next term: B, D, G, K, P, ?
 - **(C)** T
 - **(D)** W
 
-**Correct Answer:** Option **(A)** — `V`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `V`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Differences between consecutive letters (by position) increase by 1 each time: +2,+3,+4,+5, next +6: 
@@ -2116,7 +2251,10 @@ some pens are sharpeners or no pens are sharpeners.
 - **(C)** All follow
 - **(D)** Only IV follows
 
-**Correct Answer:** Option **(B)** — `I, II and IV follow`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `I, II and IV follow`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Pencils⊆erasers and erasers∩sharpeners=∅, so pencils∩sharpeners=∅ (I follows). Some pens are 
@@ -2148,7 +2286,10 @@ are trained.
 - **(C)** All follow
 - **(D)** None follows
 
-**Correct Answer:** Option **(A)** — `I and III only`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `I and III only`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 "Only members are allowed entry" means allowed-entry⊆members. Some members are officers, and 
@@ -2179,7 +2320,10 @@ II. x > 2
 - **(C)** Both statements together are sufficient, but neither alone is
 - **(D)** Even both statements together are not sufficient
 
-**Correct Answer:** Option **(C)** — `Both statements together are sufficient, but neither alone is`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C)** — `Both statements together are sufficient, but neither alone is`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 I alone: x²−5x+6=0 factors to (x−2)(x−3)=0, giving x=2 or x=3 — two solutions, insufficient. II alone: x>2 
@@ -2208,7 +2352,10 @@ II. Angle C = 65°.
 - **(C)** Both statements together are sufficient, but neither alone is
 - **(D)** Even both statements together are not sufficient
 
-**Correct Answer:** Option **(A)** — `Statement I alone is sufficient, but II alone is not`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `Statement I alone is sufficient, but II alone is not`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 I alone: AB=AC means the angles opposite them are equal, so angle B = angle C; with angle A=50°, 
@@ -2237,7 +2384,10 @@ and reduced by 1. Using this rule, CAT is coded as 5-1-39. What is the code for 
 - **(C)** 7-30-13
 - **(D)** 7-29-14
 
-**Correct Answer:** Option **(A)** — `7-29-13`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `7-29-13`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 D→4→2(4)−1=7. O→15→2(15)−1=29. G→7→2(7)−1=13. Code: 7-29-13.
@@ -2265,7 +2415,10 @@ beta zeta"?
 - **(C)** zx qr tu
 - **(D)** op mn tu
 
-**Correct Answer:** Option **(A)** — `op qr tu`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `op qr tu`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Comparing statements pairwise for common words and codes: shines=pu, gamma=mn, bright=mo 
@@ -2330,7 +2483,10 @@ cubes have at least 2 painted faces?
 - **(C)** 64
 - **(D)** 60
 
-**Correct Answer:** Option **(A)** — `56`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `56`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 For an n×n×n cube, cubes with exactly 2 painted faces (edges) = 12(n−2); with exactly 3 (corners) = 8. 
@@ -2357,7 +2513,10 @@ How many squares (of all sizes) are there in a 4×4 grid of unit squares?
 - **(C)** 36
 - **(D)** 20
 
-**Correct Answer:** Option **(A)** — `30`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `30`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Squares of size k in an n×n grid = (n−k+1)². For n=4: k=1→16, k=2→9, k=3→4, k=4→1. Total = 16+9+4+1 
@@ -2385,7 +2544,10 @@ T?
 - **(C)** Brother-in-law
 - **(D)** Cannot be determined
 
-**Correct Answer:** Option **(B)** — `P and T are the same person`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `P and T are the same person`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Q and R are siblings (Q is R's brother), so S (R's mother) is also Q's mother. P is Q's father, so P and S 
@@ -2413,7 +2575,10 @@ which expression shows that M is the maternal grandfather of N?
 - **(C)** Q + M − N
 - **(D)** M × Q − N
 
-**Correct Answer:** Option **(A)** — `M + Q − N`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `M + Q − N`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 M+Q: M is father of Q. Q−N: Q is mother of N. So M is father of Q, who is N's mother — M is N's 
@@ -2493,7 +2658,10 @@ starting point, and in which direction?
 - **(C)** 13 m, North-East
 - **(D)** 17 m, North-East
 
-**Correct Answer:** Option **(A)** — `15 m, North-East`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `15 m, North-East`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Net East-West = 14−5 = 9 m East; net North-South = 20−8 = 12 m North. Distance = √(9²+12²) = √225 = 
@@ -2521,7 +2689,10 @@ What is the ship's final position relative to the port?
 - **(C)** 17.3 km, bearing 060°
 - **(D)** 10 km, bearing 120°
 
-**Correct Answer:** Option **(A)** — `10 km due East (bearing 090°)`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `10 km due East (bearing 090°)`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Leg 1 (bearing 030°, 10 km): East = 10 sin30° = 5, North = 10 cos30° = 5√3. Leg 2 (bearing 150°, 10 km): 
@@ -2549,7 +2720,10 @@ Find the next term: 2, 5, 12, 27, 58, ?
 - **(C)** 115
 - **(D)** 118
 
-**Correct Answer:** Option **(A)** — `121`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `121`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Differences are 3, 7, 15, 31 — each is 2ⁿ−1 (n=2,3,4,5); next difference is 2⁶−1=63. 58+63 = 121.
@@ -2575,7 +2749,10 @@ Find the next term: 1, 3, 7, 17, 41, ?
 - **(C)** 101
 - **(D)** 89
 
-**Correct Answer:** Option **(A)** — `99`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `99`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Each term follows a(n) = 2×a(n−1) + a(n−2): 2×17+7=41 ✓; next = 2×41+17 = 99.
@@ -2601,7 +2778,10 @@ Find the next term: Y, V, R, M, ?
 - **(C)** F
 - **(D)** I
 
-**Correct Answer:** Option **(A)** — `G`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `G`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Gaps between letters increase by 1 each time: −3, −4, −5, next −6. M(13)−6 = 7 = G. 
@@ -2629,7 +2809,10 @@ Conclusions: I. All toys are activities. II. Some crafts are not hobbies. III. N
 - **(C)** I, II and III follow
 - **(D)** None follows
 
-**Correct Answer:** Option **(B)** — `I and II follow`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `I and II follow`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Toys⊆games⊆activities, so all toys are activities (I follows). "Some crafts are not activities" confirms 
@@ -2659,7 +2842,10 @@ Conclusions: I. No researcher is lazy. II. Some students are not scholars. III. 
 - **(C)** All follow
 - **(D)** None follows
 
-**Correct Answer:** Option **(C)** — `All follow`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C)** — `All follow`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Researchers⊆scholars, and scholars∩lazy=∅, so researchers∩lazy=∅ (I). Some lazy are students, and 
@@ -2690,7 +2876,10 @@ II. y = 7
 - **(C)** Both statements together are sufficient, but neither alone is
 - **(D)** Even both statements together are not sufficient
 
-**Correct Answer:** Option **(C)** — `Both statements together are sufficient, but neither alone is`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C)** — `Both statements together are sufficient, but neither alone is`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 I alone: x=5y+3 only gives remainder 3 if y>3; for small y (e.g., y=2, x=13, 13÷2 leaves remainder 1, not 
@@ -2720,7 +2909,10 @@ II. A alone can complete the job in 12 days.
 - **(C)** Both statements together are sufficient, but neither alone is
 - **(D)** Even both statements together are not sufficient
 
-**Correct Answer:** Option **(C)** — `Both statements together are sufficient, but neither alone is`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C)** — `Both statements together are sufficient, but neither alone is`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 II alone gives only A's rate (1/12), with B's rate unknown. I alone gives only a ratio (2:1), with no 
@@ -2750,7 +2942,10 @@ for SERVER?
 - **(C)** UGTWGS
 - **(D)** UFUWGS
 
-**Correct Answer:** Option **(A)** — `UFTWGS`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `UFTWGS`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 S(odd,+2)=U. E(even,+1)=F. R(odd,+2)=T. V(even,+1)=W. E(odd,+2)=G. R(even,+1)=S. Code: UFTWGS.
@@ -2778,7 +2973,10 @@ What is the code for "increases affects packet"?
 - **(C)** ou nk rp
 - **(D)** wv xy rp
 
-**Correct Answer:** Option **(A)** — `wv nk rp`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `wv nk rp`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Pairwise comparison of the 5 statements resolves every word: data=zt, packet=rp, loss=qm, causes=xy, 
@@ -2807,7 +3005,10 @@ surface. How many of the resulting small cuboids have exactly 1 painted face?
 - **(C)** 8
 - **(D)** 2
 
-**Correct Answer:** Option **(A)** — `4`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `4`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 With 2 cuts in length (3 pieces), 1 cut in breadth (2 pieces), 3 cuts in height (4 pieces), every piece 
@@ -2837,7 +3038,10 @@ How many rectangles (of all sizes, including squares) are there in a 4×4 grid o
 - **(C)** 81
 - **(D)** 110
 
-**Correct Answer:** Option **(A)** — `100`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `100`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Choosing 2 of the 5 horizontal lines and 2 of the 5 vertical lines of a 4×4 grid gives a rectangle: 
@@ -2865,7 +3069,10 @@ the son of R and T. V is the daughter of S. How is U related to V?
 - **(C)** Nephew and Niece
 - **(D)** Uncle and Niece
 
-**Correct Answer:** Option **(A)** — `Cousins`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `Cousins`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 R and S are siblings (children of P and Q). U is R's son; V is S's daughter. Since their parents (R and S) 
@@ -2893,7 +3100,10 @@ A ÷ B means A is the wife of B, which expression shows that M is the father-in-
 - **(C)** Q + M ÷ N
 - **(D)** M × Q ÷ N
 
-**Correct Answer:** Option **(A)** — `M + Q ÷ N`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `M + Q ÷ N`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 M+Q: M is father of Q. Q÷N: Q is wife of N. So M is father of N's wife — M is N's father-in-law.
@@ -2968,7 +3178,10 @@ How far is he from O, and in which direction?
 - **(C)** 14.14 m, North-West
 - **(D)** 5 m, North-West
 
-**Correct Answer:** Option **(A)** — `10 m, North-West`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `10 m, North-West`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Decomposing each 10 m leg into East/North components (each at 45°, so ±5√2 in each axis): totals 
@@ -2997,7 +3210,10 @@ facing a bearing of 310°. What was the magnitude of each turn?
 - **(C)** 120°
 - **(D)** 150°
 
-**Correct Answer:** Option **(A)** — `135°`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `135°`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Total clockwise rotation needed = 310°−40° = 270°. Split equally over 2 turns: 270/2 = 135° each 
@@ -3024,7 +3240,10 @@ Find the next term: 5, 14, 41, 122, 365, ?
 - **(C)** 1093
 - **(D)** 1096
 
-**Correct Answer:** Option **(A)** — `1094`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `1094`
+
 
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Each term follows a(n) = 3×a(n−1) − 1: 122×3−1=365 ✓; next = 365×3−1 = 1094.

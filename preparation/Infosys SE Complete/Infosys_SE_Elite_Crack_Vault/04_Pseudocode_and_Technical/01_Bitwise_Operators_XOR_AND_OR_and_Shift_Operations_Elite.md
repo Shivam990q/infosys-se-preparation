@@ -1,29 +1,23 @@
 # 🏆 Infosys SE Elite Crack Vault — 01 Bitwise Operators XOR AND OR and Shift Operations Elite
 > **Target Role:** **Infosys Systems Engineer (SE)** (3.6 – 4.0 LPA Recruitment Drive)  
 > **Curation Standard:** **100% Pure SE Role Specific** (All SP/DSE Upper-Level & Practice Variants Purged)  
-> **Total Curated Questions in Topic:** **85 Questions**  
-> **Question Breakdown:** 🔴 `39 Must-Solve` | 🟡 `46 Core SE Level`  
+> **Total Curated Questions in Topic:** **42 Questions**  
+> **Question Breakdown:** 🔴 `20 Must-Solve` | 🟡 `22 Core SE Level` | ⚪ `0 Practice Variant`  
 > **Verification Score:** 100% Mathematically & Deductively Proven with Zero Hallucination  
 
 ---
 
-### Question 1: Infosys SE Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+---
+
+### Problem 01: Bitwise Operators & Logic  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q001` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q001`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 2: Infosys SE Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 #include<iostream> 
 using namespace std; 
@@ -62,24 +56,17 @@ Therefore, the output is `0 5` (Option C).
 
 ---
 
+---
 
-### Question 3: Infosys SE Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 02: Bitwise Operators & Logic  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q002` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q002`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 4: Infosys SE Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 #include<iostream> 
 using namespace std; 
@@ -116,24 +103,17 @@ Therefore, the result is `Compile time error` (Option B).
 
 ---
 
+---
 
-### Question 5: Infosys SE Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 03: Bitwise Operators & Logic  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q003` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q003`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 6: Infosys SE Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 #include<stdio.h> 
 using namespace std; 
@@ -178,24 +158,17 @@ Therefore, the values printed are `7 6 3` (Option A).
 
 ---
 
+---
 
-### Question 7: Infosys SE Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 04: Bitwise Operators & Logic  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q031` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q031`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 8: Infosys SE Question 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Find the output of the following 
 pseudo code. 
@@ -229,24 +202,17 @@ Print x+y+z
 
 ---
 
+---
 
-### Question 9: Infosys SE Question 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 05: Bitwise Operators & Logic  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q032` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q032`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 10: Infosys SE Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Find the output of the following 
 pseudo code. 
@@ -284,24 +250,17 @@ Print p+q+r
 
 ---
 
+---
 
-### Question 11: Infosys SE Question 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 06: Bitwise Operators & Logic  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q033` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q033`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 12: Infosys SE Question 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Find the output of the following 
 pseudo code:  
@@ -339,24 +298,17 @@ Print x + y + z
 
 ---
 
+---
 
-### Question 13: Infosys SE Question 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 07: Bitwise Operators & Logic  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q042` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q042`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 14: Infosys SE Question 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Find the output of the following 
 pseudo code, if function is called for 
@@ -393,24 +345,17 @@ End function fun()
 
 ---
 
+---
 
-### Question 15: Infosys SE Question 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 08: Bitwise Operators & Logic  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q043` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q043`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 16: Infosys SE Question 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Integer a, b, c 
 Set a =4, b=5, c= 3 
@@ -443,24 +388,17 @@ Print a + b + c
 
 ---
 
+---
 
-### Question 17: Infosys SE Question 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 09: Bitwise Operators & Logic  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q044` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q044`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 18: Infosys SE Question 18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 For k= 3 || j=4 
 Integer func(integer k, integer j) 
@@ -495,24 +433,17 @@ End function func
 
 ---
 
+---
 
-### Question 19: Infosys SE Question 19  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 10: Bitwise Operators & Logic  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q064` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q064`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 20: Infosys SE Question 20  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Integer a, b, c  
 Set a=1, b=7, c=6  
@@ -546,24 +477,17 @@ Print a+b+c
 
 ---
 
+---
 
-### Question 21: Infosys SE Question 21  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 11: Bitwise Operators & Logic  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q065` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q065`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 22: Infosys SE Question 22  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Integer funn(integer a, integer b, 
 integer c)  
@@ -599,24 +523,17 @@ Print a+b+c
 
 ---
 
+---
 
-### Question 23: Infosys SE Question 23  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 12: Bitwise Operators & Logic  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q066` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q066`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 24: Infosys SE Question 24  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Integer p, q, r  
 Set p=7, q=3, r=4  
@@ -648,24 +565,17 @@ Print p+q+r
 
 ---
 
+---
 
-### Question 25: Infosys SE Question 25  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 13: Bitwise Operators & Logic  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q067` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q067`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 26: Infosys SE Question 26  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Integer a,b,c  
 Set a=6, b=4, c=7  
@@ -698,24 +608,17 @@ Print a+b+c
 
 ---
 
+---
 
-### Question 27: Infosys SE Question 27  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 14: Bitwise Operators & Logic  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q069` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q069`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 28: Infosys SE Question 28  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Integer p,q,r  
 Set p=9, q=6, r=8  
@@ -751,24 +654,17 @@ Print p+q
 
 ---
 
+---
 
-### Question 29: Infosys SE Question 29  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 15: Bitwise Operators & Logic  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q080` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q080`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 30: Infosys SE Question 30  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 public class Main { 
 public static void main(string[]args){ 
@@ -807,24 +703,17 @@ System.out.printIn(sum);
 
 ---
 
+---
 
-### Question 31: Infosys SE Question 31  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 16: Bitwise Operators & Logic  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q081` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q081`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 32: Infosys SE Question 32  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 public class Main { 
 public static void main(string[]args){ 
@@ -867,24 +756,17 @@ System.out.printIn(sum);
 
 ---
 
+---
 
-### Question 33: Infosys SE Question 33  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 17: Bitwise Operators & Logic  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q084` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q084`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 34: Infosys SE Question 34  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Int a,b,c 
 Set a=1 b=7 c=13 
@@ -916,24 +798,17 @@ Print a+b+c
 
 ---
 
+---
 
-### Question 35: Infosys SE Question 35  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 18: Bitwise Operators & Logic  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q089` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q089`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 36: Infosys SE Question 36  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Int a,b,c 
 Set a=1, c=1 
@@ -964,24 +839,17 @@ Print b+c
 
 ---
 
+---
 
-### Question 37: Infosys SE Question 37  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 19: Bitwise Operators & Logic  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q090` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q090`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 38: Infosys SE Question 38  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Set m=1  
 Int a[3]={1,2,9}  
@@ -1012,24 +880,17 @@ Print m
 
 ---
 
+---
 
-### Question 39: Infosys SE Question 39  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 20: Bitwise Operators & Logic  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q099` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q099`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 40: Infosys SE Question 40  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Find the postfix of the given Infix 
 expression: 
@@ -1058,24 +919,17 @@ expression:
 
 ---
 
+---
 
-### Question 41: Infosys SE Question 41  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 21: Bitwise Operators & Logic  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q105` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q105`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 42: Infosys SE Question 42  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Find the output of the code 
 snippet.  
@@ -1111,24 +965,17 @@ End function fun()
 
 ---
 
+---
 
-### Question 43: Infosys SE Question 43  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 22: Bitwise Operators & Logic  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q107` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q107`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 44: Infosys SE Question 44  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Find the output of the code 
 snippet. 
@@ -1162,24 +1009,17 @@ Print x+y+z
 
 ---
 
+---
 
-### Question 45: Infosys SE Question 45  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 23: Bitwise Operators & Logic  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q115` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q115`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 46: Infosys SE Question 46  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Seven elements 
 A,B,C,D,E,F and G are pushed 
@@ -1215,24 +1055,17 @@ Which is the last popped element?
 
 ---
 
+---
 
-### Question 47: Infosys SE Question 47  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 24: Bitwise Operators & Logic  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q124` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q124`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 48: Infosys SE Question 48  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Find the output. 
 Integer a, b, c, s 
@@ -1267,24 +1100,17 @@ End if
 
 ---
 
+---
 
-### Question 49: Infosys SE Question 49  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 25: Bitwise Operators & Logic  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q130` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q130`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 50: Infosys SE Question 50  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Find the output of the 
 following code. 
@@ -1320,24 +1146,17 @@ return 0;
 
 ---
 
+---
 
-### Question 51: Infosys SE Question 51  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 26: Bitwise Operators & Logic  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q137` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q137`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 52: Infosys SE Question 52  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 find the output of the 
 following code. 
@@ -1371,24 +1190,17 @@ printf(“%d”, a&b);
 
 ---
 
+---
 
-### Question 53: Infosys SE Question 53  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 27: Bitwise Operators & Logic  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q139` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q139`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 54: Infosys SE Question 54  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 find the output of the 
 following code. 
@@ -1424,24 +1236,17 @@ return 0;
 
 ---
 
+---
 
-### Question 55: Infosys SE Question 55  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 28: Bitwise Operators & Logic  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q140` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q140`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 56: Infosys SE Question 56  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 find the output of the 
 following code. 
@@ -1473,24 +1278,17 @@ In the expression `k = (k > 5 && n = 4 ? 100 : 200);`, `n = 4` is an assignment 
 
 ---
 
+---
 
-### Question 57: Infosys SE Question 57  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 29: Bitwise Operators & Logic  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_EBOOK_Q142` | **Source File:** `1. Pseudo Codes Technical ebook.pdf`
 
- (ID: `SEC03_EBOOK_Q142`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 58: Infosys SE Question 58  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 find the output of the 
 following code. 
@@ -1525,24 +1323,17 @@ Output: `22` (Option C).
 
 ---
 
+---
 
-### Question 59: Infosys SE Question 59  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 30: Bitwise Operators & Logic  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_MOCK_Day04_Q01` | **Source File:** `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
 
- (ID: `SEC03_MOCK_Day04_Q01`)
-- **Source Module**: `Infosys Mock Test Series`
-- **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 60: Infosys SE Question 60  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 1.     #include
 using namespace std;
@@ -1576,24 +1367,17 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 
 ---
 
+---
 
-### Question 61: Infosys SE Question 61  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 31: Bitwise Operators & Logic  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_MOCK_Day04_Q02` | **Source File:** `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
 
- (ID: `SEC03_MOCK_Day04_Q02`)
-- **Source Module**: `Infosys Mock Test Series`
-- **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 62: Infosys SE Question 62  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 1.     #include
 using namespace std;
@@ -1625,24 +1409,17 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 
 ---
 
+---
 
-### Question 63: Infosys SE Question 63  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 32: Bitwise Operators & Logic  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_MOCK_Day04_Q03` | **Source File:** `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
 
- (ID: `SEC03_MOCK_Day04_Q03`)
-- **Source Module**: `Infosys Mock Test Series`
-- **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 64: Infosys SE Question 64  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 1.     #include
 using namespace std;
@@ -1675,24 +1452,17 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 
 ---
 
+---
 
-### Question 65: Infosys SE Question 65  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 33: Bitwise Operators & Logic  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_MOCK_Day06_Q01` | **Source File:** `Day 06 - Pseudo Code_QUESTIONS.json`
 
- (ID: `SEC03_MOCK_Day06_Q01`)
-- **Source Module**: `Infosys Mock Test Series`
-- **Source File**: `Day 06 - Pseudo Code_QUESTIONS.json`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 66: Infosys SE Question 66  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Integer a, b, c Set a = 2, b = 4, c = 7 b = 7 + a if (c > b) b = b + b end if b = 6 + a if ((a + b) < (b - a) || c < a) b = (c + 4) + c else a = c + b end if c = (c + 9) ^ a Print a + b + c
 ```
@@ -1715,24 +1485,17 @@ Official Video Solution from Day 06 Full Length Mock I. Full execution trace and
 
 ---
 
+---
 
-### Question 67: Infosys SE Question 67  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 34: Bitwise Operators & Logic  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_MOCK_Day06_Q04` | **Source File:** `Day 06 - Pseudo Code_QUESTIONS.json`
 
- (ID: `SEC03_MOCK_Day06_Q04`)
-- **Source Module**: `Infosys Mock Test Series`
-- **Source File**: `Day 06 - Pseudo Code_QUESTIONS.json`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 68: Infosys SE Question 68  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Int p, q, r Set p = 6, q = 4, r = 7 p = (r + 5) + p If ((q & r & p) < (p & 6)) { r = 3 ^ r q = q & q } Print p + q + r
 ```
@@ -1755,24 +1518,17 @@ Official Video Solution from Day 06 Full Length Mock I. Full execution trace and
 
 ---
 
+---
 
-### Question 69: Infosys SE Question 69  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 35: Bitwise Operators & Logic  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_MOCK_Day06_Q05` | **Source File:** `Day 06 - Pseudo Code_QUESTIONS.json`
 
- (ID: `SEC03_MOCK_Day06_Q05`)
-- **Source Module**: `Infosys Mock Test Series`
-- **Source File**: `Day 06 - Pseudo Code_QUESTIONS.json`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 70: Infosys SE Question 70  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 What is the output of this code? Int p, q, r; Set p = 0, q = 7, r = 9; If ((q + p) < (p + q) && (p < r)) { p = 11 + q; } Print p + q + r;
 ```
@@ -1795,24 +1551,17 @@ Official Video Solution from Day 06 Full Length Mock I. Full execution trace and
 
 ---
 
+---
 
-### Question 71: Infosys SE Question 71  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 36: Bitwise Operators & Logic  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_MOCK_Day06_Q06` | **Source File:** `Day 06 - Pseudo Code_QUESTIONS.json`
 
- (ID: `SEC03_MOCK_Day06_Q06`)
-- **Source Module**: `Infosys Mock Test Series`
-- **Source File**: `Day 06 - Pseudo Code_QUESTIONS.json`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 72: Infosys SE Question 72  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 What will be the output of the following pseudocode? Initial values: a = 4, b = 4, c = 7 Int fun(int a, int b, int c) { For (each c from 3 to 5) { a = (c + c) ^ b; If ((a + c) < (c + a)) { b = (a + 11) + c; } Else { c = b + b; a = 3 + b; continue; } } Return a + b; }
 ```
@@ -1835,24 +1584,17 @@ Official Video Solution from Day 06 Full Length Mock I. Full execution trace and
 
 ---
 
+---
 
-### Question 73: Infosys SE Question 73  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 37: Bitwise Operators & Logic  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_MOCK_Day06_Q07` | **Source File:** `Day 06 - Pseudo Code_QUESTIONS.json`
 
- (ID: `SEC03_MOCK_Day06_Q07`)
-- **Source Module**: `Infosys Mock Test Series`
-- **Source File**: `Day 06 - Pseudo Code_QUESTIONS.json`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 74: Infosys SE Question 74  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 What will be the output of this pseudocode? a = 7, b = 2, c = 8 If ((b ^ a) < a && (2 ^ 7) < c ) a = b + c Else c = (4 + 12) + a b = 11 + a End if Print (a + b + c)
 ```
@@ -1875,24 +1617,17 @@ Official Video Solution from Day 06 Full Length Mock I. Full execution trace and
 
 ---
 
+---
 
-### Question 75: Infosys SE Question 75  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 38: Bitwise Operators & Logic  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_MOCK_Day06_Q08` | **Source File:** `Day 06 - Pseudo Code_QUESTIONS.json`
 
- (ID: `SEC03_MOCK_Day06_Q08`)
-- **Source Module**: `Infosys Mock Test Series`
-- **Source File**: `Day 06 - Pseudo Code_QUESTIONS.json`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 76: Infosys SE Question 76  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Find the output of the code snippet. Integer x, y, z Set x = 1, y = 8, z = 2 If (x ^ y && x ^ y && x ^ y ^ z) x = 1 End if Print x + y + z
 ```
@@ -1915,24 +1650,17 @@ Official Video Solution from Day 06 Full Length Mock I. Full execution trace and
 
 ---
 
+---
 
-### Question 77: Infosys SE Question 77  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 39: Bitwise Operators & Logic  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_MOCK_Day06_Q10` | **Source File:** `Day 06 - Pseudo Code_QUESTIONS.json`
 
- (ID: `SEC03_MOCK_Day06_Q10`)
-- **Source Module**: `Infosys Mock Test Series`
-- **Source File**: `Day 06 - Pseudo Code_QUESTIONS.json`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 78: Infosys SE Question 78  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Find the output of the following code. #include   void main () { int x = 91; x >>= 2; printf ("%d\n", x); }
 ```
@@ -1955,24 +1683,17 @@ Official Video Solution from Day 06 Full Length Mock I. Full execution trace and
 
 ---
 
+---
 
-### Question 79: Infosys SE Question 79  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 40: Bitwise Operators & Logic  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_MOCK_Day07_Q04` | **Source File:** `Day 07 - Section III _ Pseudo Codes Based on PYQ_QUESTIONS.json`
 
- (ID: `SEC03_MOCK_Day07_Q04`)
-- **Source Module**: `Infosys Mock Test Series`
-- **Source File**: `Day 07 - Section III _ Pseudo Codes Based on PYQ_QUESTIONS.json`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 80: Infosys SE Question 80  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 What is the output of the following C code? int f(int x, int *py, int **ppz) { int y, z; **ppz += 1; z = **ppz; *py += 2; y = *py; x += 3; return x + y + z; } void main() { int c, *b, **a; c = 4; b = &c; a = &b; printf("%d ", f(c, b, a)); return 0; }
 ```
@@ -1995,24 +1716,17 @@ Official Video Solution from Day 07 Full Length Mock II. Full execution trace an
 
 ---
 
+---
 
-### Question 81: Infosys SE Question 81  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 41: Bitwise Operators & Logic  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_MOCK_Day07_Q05` | **Source File:** `Day 07 - Section III _ Pseudo Codes Based on PYQ_QUESTIONS.json`
 
- (ID: `SEC03_MOCK_Day07_Q05`)
-- **Source Module**: `Infosys Mock Test Series`
-- **Source File**: `Day 07 - Section III _ Pseudo Codes Based on PYQ_QUESTIONS.json`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 82: Infosys SE Question 82  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 What is the output of the following C code? #include   int main() { int a = 12; void *ptr = (int *)&a; printf("%d", *ptr); getchar(); return 0; }
 ```
@@ -2035,24 +1749,17 @@ Official Video Solution from Day 07 Full Length Mock II. Full execution trace an
 
 ---
 
+---
 
-### Question 83: Infosys SE Question 83  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 42: Bitwise Operators & Logic  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC03_MOCK_Day07_Q06` | **Source File:** `Day 07 - Section III _ Pseudo Codes Based on PYQ_QUESTIONS.json`
 
- (ID: `SEC03_MOCK_Day07_Q06`)
-- **Source Module**: `Infosys Mock Test Series`
-- **Source File**: `Day 07 - Section III _ Pseudo Codes Based on PYQ_QUESTIONS.json`
-- **Topic Domain**: **Bitwise Operators & Logic**
+**Question Statement:**
 
-
-### Question 84: Infosys SE Question 84  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- / Code Snippet
+/ Code Snippet
 ```pseudocode
 Predict the output of the following pseudocode. Integer x, y, z Set x = -2, y = 3, z = 1 if (x + (2 & 2) && y + (3 & 3) && z + (2 ^ 2)) x = x - 2 y = x Else x = z y = y ^ 2 End if Print x + y + z
 ```
@@ -2075,14 +1782,4 @@ Official Video Solution from Day 07 Full Length Mock II. Full execution trace an
 
 ---
 
-
-### Question 85: Infosys SE Question 85  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
- (ID: `SEC03_MOCK_Day08_Q01`)
-- **Source Module**: `Infosys Mock Test Series`
-- **Source File**: `Day 08 - Technical MCQ - Pseudo Codes Based on PYQ 01_QUESTIONS.json`
-- **Topic Domain**: **Bitwise Operators & Logic**
-
+---

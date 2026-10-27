@@ -26,7 +26,10 @@ Which of the following is not a leap year?
 - C. 1200
 - D. 2000
 
-**Exact Answer:** `A. 700`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `A. 700`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -63,7 +66,10 @@ Today is Monday. After 61 days, it will be:
 - C. Tuesday
 - D. Thursday
 
-**Exact Answer:** `B. Saturday`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B. Saturday`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -104,7 +110,10 @@ If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?
 - C. Tuesday
 - D. Friday
 
-**Exact Answer:** `A. Sunday`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `A. Sunday`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -139,7 +148,10 @@ How many days are there in x weeks x days?
 - C. 14x
 - D. 7
 
-**Exact Answer:** `B. 8x`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B. 8x`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -173,7 +185,10 @@ The last day of a century cannot be:
 - C. Tuesday
 - D. Friday
 
-**Exact Answer:** `C. Tuesday`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `C. Tuesday`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -211,7 +226,10 @@ On 8th Feb, 2005 it was Tuesday. What was the day of the week on 8th Feb, 2004?
 - C. Sunday
 - D. Saturday
 
-**Exact Answer:** `C. Sunday`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `C. Sunday`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -246,7 +264,10 @@ On 8th Dec, 2007 Saturday falls. What day of the week was it on 8th Dec, 2006?
 - C. Tuesday
 - D. Friday
 
-**Exact Answer:** `D. Friday`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `D. Friday`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -280,7 +301,10 @@ January 1, 2008, is Tuesday. What day of the week lies on Jan 1, 2009?
 - C. Monday
 - D. Sunday
 
-**Exact Answer:** `B. Thursday`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B. Thursday`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -314,7 +338,10 @@ January 1, 2007 was Monday. What day of the week lies on Jan. 1, 2008?
 - C. Wednesday
 - D. Sunday
 
-**Exact Answer:** `B. Tuesday`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B. Tuesday`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -348,7 +375,10 @@ It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?
 - C. Friday
 - D. Wednesday
 
-**Exact Answer:** `C. Friday`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `C. Friday`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -386,7 +416,10 @@ What was the day of the week on 28th May, 2006?
 - C. Saturday
 - D. Sunday
 
-**Exact Answer:** `D. Sunday`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `D. Sunday`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -430,7 +463,10 @@ What is the angle between the hour hand and the minute hand of a clock at 3:40?
 - 140°
 - 120°
 
-**Exact Answer:** `130°`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `130°`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -465,7 +501,10 @@ What is the reflex angle between the hour hand and the minute hand of a clock at
 - 195°
 - 202.5°
 
-**Exact Answer:** `197.5°`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `197.5°`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -505,7 +544,10 @@ Who is exactly right of R?
 - c. V
 - d. Q
 
-**Exact Answer:** `c. V`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `c. V`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -548,7 +590,10 @@ IV. Second to the left
 - d. Both II & III
 - e. None of these
 
-**Exact Answer:** `d. Both II & III`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `d. Both II & III`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -585,7 +630,10 @@ Which of the following is not a leap year?
 - 1200
 - 2000
 
-**Exact Answer:** `700`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `700`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -617,7 +665,10 @@ Today is Monday. After 61 days, it will be:
 - A. Tuesday
 - A. Thursday
 
-**Exact Answer:** `A. Saturday`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `A. Saturday`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -649,7 +700,10 @@ If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?
 - A. Tuesday
 - A. Wednesday
 
-**Exact Answer:** `A. Sunday`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `A. Sunday`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -681,7 +735,10 @@ How many days are there in x weeks x days?
 - 7
 - None of these
 
-**Exact Answer:** `8x`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `8x`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -713,7 +770,10 @@ The last day of a century cannot be
 - A. Tuesday
 - A. Friday
 
-**Exact Answer:** `A. Tuesday`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `A. Tuesday`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -745,7 +805,10 @@ On 8th Feb, 2005 it was Tuesday. What was the day of the week on 8th Feb, 2004?
 - A. Sunday
 - A. Wednesday
 
-**Exact Answer:** `A. Sunday`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `A. Sunday`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -777,7 +840,10 @@ On 8th Dec, 2007 Saturday falls. What day of the week was it on 8th Dec, 2006?
 - A. Tuesday
 - A. Friday
 
-**Exact Answer:** `A. Friday`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `A. Friday`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -809,7 +875,10 @@ January 1, 2008, is Tuesday. What day of the week lies on Jan 1, 2009?
 - Thursday
 - A. Sunday
 
-**Exact Answer:** `Thursday`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Thursday`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -841,7 +910,10 @@ January 1, 2007 was Monday. What day of the week lies on Jan. 1, 2008?
 - A. Wednesday
 - A. Sunday
 
-**Exact Answer:** `A. Tuesday`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `A. Tuesday`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -873,7 +945,10 @@ It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?
 - A. Friday
 - A. Wednesday
 
-**Exact Answer:** `A. Friday`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `A. Friday`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -905,7 +980,10 @@ What was the day of the week on 28th May, 2006?
 - A. Saturday
 - A. Sunday
 
-**Exact Answer:** `A. Sunday`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `A. Sunday`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -952,7 +1030,10 @@ d. Q
 - c. V
 - d. Q
 
-**Exact Answer:** `C`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `C`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1002,7 +1083,10 @@ e. None of these
 - d. Data inadequate
 - e. None of these
 
-**Exact Answer:** `A`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `A`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1052,7 +1136,10 @@ e. None of these
 - d. Data inadequate
 - e. None of these
 
-**Exact Answer:** `E`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `E`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1098,7 +1185,10 @@ e. None of these
 - d. E
 - e. None of these
 
-**Exact Answer:** `Verified in Scan Book Key`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Verified in Scan Book Key`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1146,7 +1236,10 @@ e. None of these
 - d. Both II & III
 - e. None of these
 
-**Exact Answer:** `D`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `D`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1192,7 +1285,10 @@ e. None of these
 - d. Cannot be determined
 - e. None of these
 
-**Exact Answer:** `C`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `C`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1238,7 +1334,10 @@ e. None of these
 - d. Sudha
 - e. None of these
 
-**Exact Answer:** `E`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `E`
+
 
 **Complete Mathematical / Logical Deduction:**
 

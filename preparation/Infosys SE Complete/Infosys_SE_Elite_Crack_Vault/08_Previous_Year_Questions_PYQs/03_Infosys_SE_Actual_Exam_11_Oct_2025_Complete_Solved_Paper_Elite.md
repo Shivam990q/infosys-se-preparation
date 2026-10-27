@@ -34,6 +34,12 @@ $$15, 30, 23, 46, 39, 78, \dots$$
 - **(D)** 69
 
 
+
+
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: Option **(B)** 71
+
 #### Detailed Solution & Mathematical Proof:
 
 The given sequence follows a two-tier alternating mathematical pattern:
@@ -74,6 +80,12 @@ The sum of the cubes of the first $n$ consecutive natural numbers is 2025. Find 
 - **(C)** 10
 - **(D)** 13
 
+
+
+
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: Option **(B)** 9
 
 #### Detailed Solution & Mathematical Proof:
 
@@ -130,6 +142,12 @@ The pie chart below represents the market share of five mobile phone companies i
 - **(D)** 3:4
 
 
+
+
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: Option **(A)** 4:3
+
 #### Detailed Solution & Mathematical Proof:
 
 To find the ratio of phones sold by Company B to Company D:
@@ -178,6 +196,12 @@ The following table shows the quarterly revenue (in $ million) for five differen
 - **(C)** 60%
 - **(D)** **[CORRECT]** 40%
 
+
+
+
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: Option **(D)** 40%
 
 #### Detailed Solution & Mathematical Proof:
 
@@ -238,6 +262,12 @@ End Function
 - **(D)** result + i
 
 
+
+
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: Option **(B)** ++i
+
 #### Detailed Solution & Mathematical Proof:
 
 **Forensic Semantic Analysis of Options:**
@@ -293,6 +323,12 @@ Display Find(arr, target)
 - **(C)** **[CORRECT]** 4
 - **(D)** 2
 
+
+
+
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: Option **(C)** 4
 
 #### Detailed Solution & Mathematical Proof:
 
@@ -354,6 +390,12 @@ The table below shows the production of cars (in thousands) by five different co
 - **(D)** 20.20%
 
 
+
+
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: Option **(A)** 26.23%
+
 #### Detailed Solution & Mathematical Proof:
 
 **Step 1: Calculate annual totals for all five companies:**
@@ -403,6 +445,12 @@ A train crosses a pole in 12 seconds and a 780-meter-long tunnel in 72 seconds. 
 - **(D)** 154 meters
 - **(E)** 152 meters
 
+
+
+
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: Option **(A)** 156 meters
 
 #### Detailed Solution & Mathematical Proof:
 
@@ -466,6 +514,12 @@ End Function
 - **(C)** (++i) + (i++)
 - **(D)** **[CORRECT]** (++i) + (++i)
 
+
+
+
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: Option **(D)** (++i) + (++i)
 
 #### Detailed Solution & Mathematical Proof:
 
@@ -536,6 +590,12 @@ End Function
 - **(D)** [60, 40, 30, 20]
 
 
+
+
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: Option **(A)** [60, 40, 30, 24]
+
 #### Detailed Solution & Mathematical Proof:
 
 **Trace of Algorithm:**
@@ -589,6 +649,12 @@ The pie chart below represents the monthly expenditure (in percentage) of a hous
 - **(C)** ₹25,000
 - **(D)** ₹28,000
 
+
+
+
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: Option **(B)** ₹27,500
 
 #### Detailed Solution & Mathematical Proof:
 

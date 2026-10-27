@@ -25,7 +25,10 @@ In how many ways can the letters of COMMITTEE be arranged so that no two vowels 
 - **(C)** 10800
 - **(D)** 2700
 
-**Correct Answer:** Option **(A)** — `5400`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `5400`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Word COMMITTEE contains 9 letters: C(1), O(1), M(2), I(1), T(2), E(2).
@@ -62,7 +65,10 @@ many ways can this be done?
 - **(C)** 105
 - **(D)** 120
 
-**Correct Answer:** Option **(B)** — `100`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `100`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Committee of 5 from 5 boys and 4 girls with at least 2 boys and at least 2 girls.
@@ -93,7 +99,10 @@ prime number?
 - **(C)** 5/11
 - **(D)** 4/9
 
-**Correct Answer:** Option **(A)** — `4/11`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `4/11`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Two fair dice thrown. Total outcomes with at least one 4:
@@ -135,7 +144,10 @@ is the probability that all three are of different colours?
 - **(C)** 2/11
 - **(D)** 5/22
 
-**Correct Answer:** Option **(A)** — `3/11`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `3/11`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Total balls = 5 red + 4 blue + 3 green = 12 balls.
@@ -166,7 +178,10 @@ A shopkeeper marks his goods 40% above cost price and allows two successive disc
 - **(C)** 8.6%
 - **(D)** 6.4%
 
-**Correct Answer:** Option **(A)** — `7.1%`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `7.1%`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Let Cost Price (CP) = 100.
@@ -197,7 +212,10 @@ in the order A, B, C, A, B, C, … (one person per day, starting with A). On whi
 - **(C)** 18th
 - **(D)** 19th
 
-**Correct Answer:** Option **(B)** — `17th`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `17th`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Let total work = LCM(12, 18, 24) = 72 units.
@@ -236,7 +254,10 @@ faster train is:
 - **(C)** 120 km/h
 - **(D)** 72 km/h
 
-**Correct Answer:** Option **(B)** — `108 km/h`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `108 km/h`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Total distance to clear = 240 m + 160 m = 400 m.
@@ -268,7 +289,10 @@ winner got 55% of the valid votes. By how many votes did he win?
 - **(C)** 1360
 - **(D)** 1440
 
-**Correct Answer:** Option **(A)** — `1520`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `1520`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Total registered voters = 20,000.
@@ -301,7 +325,10 @@ p.a. is ₹310. Find the sum.
 - **(C)** ₹10,000
 - **(D)** ₹12,000
 
-**Correct Answer:** Option **(C)** — `₹10,000`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C)** — `₹10,000`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Difference between CI and SI for 3 years at rate r%:
@@ -333,7 +360,10 @@ years the total interest is ₹2,270. How much was invested at simple interest?
 - **(C)** ₹6,000
 - **(D)** ₹7,000 
 
-**Correct Answer:** Option **(B)** — `₹5,000`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `₹5,000`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Let sum invested at 8% SI = ₹x.
@@ -369,7 +399,10 @@ together?
 - **(C)** 3780
 - **(D)** 30240
 
-**Correct Answer:** Option **(A)** — `7560`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `7560`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 MANAGEMENT has M2, A2, N2, G1, E2, T1 (10 letters). Vowels A,A,E,E form one block: internal 
@@ -398,7 +431,10 @@ women. In how many ways can this be done?
 - **(C)** 310
 - **(D)** 325
 
-**Correct Answer:** Option **(A)** — `265`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `265`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 0 women: C(6,4)=15. 1 woman: C(6,3)×C(5,1)=100. 2 women: C(6,2)×C(5,2)=150. Total = 15+100+150 
@@ -426,7 +462,10 @@ probability that exactly two heads appeared?
 - **(C)** 3/8
 - **(D)** 2/7
 
-**Correct Answer:** Option **(A)** — `3/7`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `3/7`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Excluding TTT leaves 7 equally likely outcomes. Exactly two heads: HHT, HTH, THH = 3 outcomes. 
@@ -454,7 +493,10 @@ replacement. What is the probability that at least one is defective?
 - **(C)** 33/95
 - **(D)** 29/95
 
-**Correct Answer:** Option **(A)** — `99/190`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `99/190`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 P(no defective) = (14×13)/(20×19) = 91/190. P(at least one defective) = 1 − 91/190 = 99/190.
@@ -482,7 +524,10 @@ percentage.
 - **(C)** 25%
 - **(D)** 18%
 
-**Correct Answer:** Option **(B)** — `22.2%`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `22.2%`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Take CP = 100 per unit weight, so marked price = 125 (25% intended profit). After a 12% discount, SP 
@@ -512,7 +557,10 @@ task?
 - **(C)** 25 days
 - **(D)** 30 days
 
-**Correct Answer:** Option **(D)** — `30 days`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (D)** — `30 days`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 In 5 days together, they finish 5/15 = 1/3. The remaining 2/3 is done by B alone in 20 days, so B's rate 
@@ -541,7 +589,10 @@ starting point, taking a total of 9 hours. Find the speed of the stream.
 - **(C)** 6 km/h
 - **(D)** 3 km/h
 
-**Correct Answer:** Option **(B)** — `5 km/h`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `5 km/h`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 60/(15+s) + 60/(15−s) = 9. Simplifying: 1800 = 9(225 − s²), so s² = 25, s = 5 km/h.
@@ -568,7 +619,10 @@ population at the end of two years is 27,324, what was the population at the sta
 - **(C)** 26,000
 - **(D)** 27,500
 
-**Correct Answer:** Option **(A)** — `27,000`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `27,000`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 P × 1.10 × 0.92 = 27,324, so P × 1.012 = 27,324, giving P = 27,000.
@@ -595,7 +649,10 @@ simple interest. Find the rate of interest per annum.
 - **(C)** 12%
 - **(D)** 9%
 
-**Correct Answer:** Option **(B)** — `10%`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `10%`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Interest for 2 years (year 5 − year 3) = 15,000 − 13,000 = 2,000, so 1 year's interest = 1,000. Principal = 
@@ -624,7 +681,10 @@ interest as ₹18,000 invested for 2 years at 10% simple interest. Find the rate
 - **(C)** 11.5%
 - **(D)** 12.5%
 
-**Correct Answer:** Option **(B)** — `10.5%`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `10.5%`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 SI on ₹18,000 at 10% for 2 years = ₹3,600. Setting CI on ₹16,000 equal: 16,000×((1+r)² − 1) = 3,600 
@@ -651,7 +711,10 @@ books and the other two get 2 books each?
 - **(C)** 630
 - **(D)** 420
 
-**Correct Answer:** Option **(A)** — `1260`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `1260`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Choose which of the 3 students gets 4 books: 3 ways. Choose that student's 4 books: C(8,4)=70. Split 
@@ -679,7 +742,10 @@ than women. In how many ways can this be done?
 - **(C)** 700
 - **(D)** 623
 
-**Correct Answer:** Option **(A)** — `658`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `658`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Valid (men,women) splits with men>women, total=6: (6,0): C(7,6)×C(6,0)=7. (5,1): 
@@ -708,7 +774,10 @@ ball is drawn from it. Given that the ball drawn is red, what is the probability
 - **(C)** 2/5
 - **(D)** 1/2
 
-**Correct Answer:** Option **(A)** — `4/11`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `4/11`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 P(Red|A)=4/10, P(Red|B)=7/10, each bag chosen with probability 1/2. P(Red) = ½×0.4 + ½×0.7 = 0.55. 
@@ -752,7 +821,10 @@ frequently fail for a related reason: once a buffer becomes visible in a schedul
 stakeholders as slack to be reclaimed rather than risk to be reserved, a phenomenon sometimes called the 
 student syndrome, in reference to the tendency to begin a task only as its deadline approaches.
 
-**Correct Answer:** Option **(A)** — `4/33`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `4/33`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Favourable = C(5,2)×C(4,2) = 10×6 = 60. Total ways = C(12,4) = 495. Probability = 60/495 = 4/33.
@@ -780,7 +852,10 @@ for every 1 kg paid for. Find his actual profit percentage.
 - **(C)** 41.7%
 - **(D)** 33.3%
 
-**Correct Answer:** Option **(A)** — `38.9%`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `38.9%`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Marked-up SP for a claimed 1 kg = 48×1.25 = ₹60. True cost of the 900 g actually given = 0.9×48 = 
@@ -809,7 +884,10 @@ together need to fill the remaining tank?
 - **(C)** 5 hours
 - **(D)** 6 hours
 
-**Correct Answer:** Option **(A)** — `4 hours`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `4 hours`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Combined rate (A+B−leak) = 1/12+1/15−1/20 = 5/60+4/60−3/60 = 1/10 per hour. In 4 hours, 4/10 = 
@@ -839,7 +917,10 @@ them?
 - **(C)** 180 m
 - **(D)** 210 m
 
-**Correct Answer:** Option **(A)** — `190 m`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `190 m`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Speed ratio A:B = 1000:900 = 10:9 (A beats B by 100 m in 1000 m). Similarly B:C = 10:9. So A:C = 
@@ -868,7 +949,10 @@ copper to form a new alloy containing 75% copper. Find x.
 - **(C)** 15 kg
 - **(D)** 8 kg
 
-**Correct Answer:** Option **(A)** — `12 kg`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `12 kg`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Copper in original alloy = 0.6×20 = 12 kg; zinc = 8 kg (unchanged after adding pure copper). For 75% 
@@ -897,7 +981,10 @@ period.
 - **(C)** ₹80
 - **(D)** ₹100
 
-**Correct Answer:** Option **(A)** — `₹20`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `₹20`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Half-yearly compounding: 2 periods at 5% each. Amount = 8000×1.05×1.05 = 8,820, so CI = ₹820. SI = 
@@ -925,7 +1012,10 @@ In what time will ₹8,000 amount to ₹9,261 at 5% per annum, compounded annual
 - **(D)** 3.5 years 
  
 
-**Correct Answer:** Option **(B)** — `3 years`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `3 years`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 9,261/8,000 = 1.157625 = 1.05³ (since 1.05²=1.1025, ×1.05=1.157625). So the time is 3 years. 
@@ -951,7 +1041,10 @@ together?
 - **(C)** 21,600
 - **(D)** 14,400
 
-**Correct Answer:** Option **(A)** — `43,200`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `43,200`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Seat 6 men in a circle: (6−1)! = 120 ways. This creates 6 gaps; choose and arrange 4 women in 4 of 
@@ -979,7 +1072,10 @@ odd positions?
 - **(C)** 18
 - **(D)** 144
 
-**Correct Answer:** Option **(A)** — `36`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `36`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 ORANGE has 3 vowels (O,A,E) and 3 consonants (R,N,G), matching the 3 odd and 3 even positions 
@@ -1008,7 +1104,10 @@ from machine C?
 - **(C)** 23/69
 - **(D)** 25/69
 
-**Correct Answer:** Option **(A)** — `16/69`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `16/69`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 P(D) = 0.25×0.05 + 0.35×0.04 + 0.40×0.02 = 0.0125+0.014+0.008 = 0.0345. P(C|D) = 
@@ -1036,7 +1135,10 @@ together?
 - **(C)** 3/56
 - **(D)** 5/28
 
-**Correct Answer:** Option **(A)** — `3/28`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `3/28`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Treating the 3 girls as one block: favourable arrangements = 6!×3! = 720×6 = 4,320. Total 
@@ -1064,7 +1166,10 @@ kg to be 15%. At what price per kg must he sell the remaining 30 kg?
 - **(C)** ₹28
 - **(D)** ₹24
 
-**Correct Answer:** Option **(A)** — `₹26.67`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `₹26.67`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Total CP = 80×25 = ₹2,000; target total SP (15% profit) = ₹2,300. SP from the first 50 kg (cost ₹1,250, 
@@ -1093,7 +1198,10 @@ work completed?
 - **(C)** 16 days
 - **(D)** 13 days
 
-**Correct Answer:** Option **(A)** — `15 days`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `15 days`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Rates (LCM 60): A=3/60, B=2/60, C=1/60 per day. First 4 days (all three): 4×6/60=24/60 done. Next 3 
@@ -1122,7 +1230,10 @@ Two trains, 300 km apart, move towards each other on the same track. Train A dep
 - **(C)** 10:06 AM
 - **(D)** 10:24 AM
 
-**Correct Answer:** Option **(A)** — `10:18 AM`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `10:18 AM`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 From 8:00 to 8:30, only A moves: 60×0.5=30 km, leaving 270 km. From 8:30, combined speed = 150 
@@ -1150,7 +1261,10 @@ registered voters did not vote and there were no invalid votes, how many voters 
 - **(C)** 32,000
 - **(D)** 24,000
 
-**Correct Answer:** Option **(A)** — `30,000`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `30,000`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Winner's margin (60%−40%=20% of votes cast) = 4,800 → votes cast = 4800/0.20 = 24,000. Since this 
@@ -1178,7 +1292,10 @@ Find the compound interest on ₹12,000 for 1.5 years at 10% per annum, compound
 - **(C)** ₹3,960
 - **(D)** ₹3,720
 
-**Correct Answer:** Option **(A)** — `₹3,860`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `₹3,860`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Year 1: 12000×1.10 = 13,200 (CI so far = 1,200). For the next half-year, SI on 13,200 at 10% for 0.5 yr = 
@@ -1207,7 +1324,10 @@ per annum.
 - **(C)** 8%
 - **(D)** 15% 
 
-**Correct Answer:** Option **(A)** — `10%`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `10%`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 3rd-year interest = 1655−1050 = ₹605 — but more directly: CI₂−SI₂ = Pr² = 1050−1000 = 50, and SI₂ = 
@@ -1236,7 +1356,10 @@ can this be done?
 - **(C)** 120
 - **(D)** 115
 
-**Correct Answer:** Option **(A)** — `121`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `121`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 With X fixed in and Y fixed out, the remaining pool is 5 men + 4 women = 9 people, from which 4 
@@ -1265,7 +1388,10 @@ letters between them (in either order)?
 - **(C)** 8400
 - **(D)** 5040
 
-**Correct Answer:** Option **(A)** — `7200`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `7200`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Valid position-pairs with C and T exactly 3 apart: 5 pairs with C before T, plus 5 with T before C = 10 
@@ -1294,7 +1420,10 @@ on the first?
 - **(C)** 11/20
 - **(D)** 2/5
 
-**Correct Answer:** Option **(A)** — `1/2`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `1/2`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 By symmetry, for any two distinct numbers drawn in some order, exactly half the time the second 
@@ -1322,7 +1451,10 @@ probability that at least 2 of them share the same suit?
 - **(C)** 327/455
 - **(D)** 201/455
 
-**Correct Answer:** Option **(A)** — `391/455`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `391/455`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 P(all 4 different suits) = (4×4×4×4)/C(16,4) = 256/1820 = 64/455. P(at least 2 same suit) = 1−64/455 = 
@@ -1351,7 +1483,10 @@ his cost for all 4 items given?
 - **(C)** 30%
 - **(D)** 15%
 
-**Correct Answer:** Option **(A)** — `25%`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `25%`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Cost for 4 items = 4×120 = ₹480. Revenue (customer pays for 3 at ₹200) = ₹600. Profit = ₹120 on a 
@@ -1380,7 +1515,10 @@ paid?
 - **(C)** ₹2,200
 - **(D)** ₹2,500
 
-**Correct Answer:** Option **(A)** — `₹2,000`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `₹2,000`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Rates in the ratio 1/15:1/20:1/30 = 4:3:2 (over LCM 60). C's share = (2/9)×9000 = ₹2,000.
@@ -1408,7 +1546,10 @@ starting point for the first time?
 - **(C)** 150 s
 - **(D)** 600 s
 
-**Correct Answer:** Option **(A)** — `300 s`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `300 s`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 A takes 600/8=75 s/lap; B takes 600/10=60 s/lap. Both are back at the start simultaneously at 
@@ -1436,7 +1577,10 @@ process is repeated once more. How much pure milk remains?
 - **(C)** 40 litres
 - **(D)** 48 litres
 
-**Correct Answer:** Option **(A)** — `45 litres`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `45 litres`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Using the repeated-dilution formula: Final = 80×(1−20/80)² = 80×(3/4)² = 80×9/16 = 45 litres.
@@ -1463,7 +1607,10 @@ become 8 times itself, at the same rate?
 - **(C)** 10 years
 - **(D)** 25 years
 
-**Correct Answer:** Option **(A)** — `15 years`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `15 years`
+
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 (1+r)⁵=2 (doubling). For 8×: (1+r)ⁿ=8=2³=[(1+r)⁵]³=(1+r)¹⁵, so n=15 years.

@@ -70,7 +70,10 @@ square). What is the minimum number of sticks to remove so that no square of any
 - **(C)** 4
 - **(D)** 5
 
-**Correct Answer:** Option **(B)** — `3`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `3`
+
 
 **Detailed Solution & Formula Deduction:**
 In a 2 × 2 matchstick grid (12 sticks total, forming four 1×1 squares and one 2×2 square):
@@ -146,7 +149,10 @@ Wheel 3: T = 4, R = 3, B = 6, L = 9, Centre = ?
 - **(C)** 30
 - **(D)** 33
 
-**Correct Answer:** Option **(C)** — `30`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C)** — `30`
+
 
 **Detailed Solution & Formula Deduction:**
 Determining the circular wheel formula:
@@ -235,7 +241,10 @@ Matrix logic. Find the missing number.
 - **(C)** 196
 - **(D)** 144
 
-**Correct Answer:** Option **(B)** — `100`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `100`
+
 
 **Detailed Solution & Formula Deduction:**
 Matrix logic pattern:
@@ -301,7 +310,10 @@ Formula:     1³+1²    2³+2²    3³+3²    4³+4²    5³+5²       6³+6²
 - **(C)** 240
 - **(D)** 294
 
-**Correct Answer:** Option **(B)** — `252`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `252`
+
 
 **Detailed Solution & Formula Deduction:**
 Sequence: 2, 12, 36, 80, 150, ?
@@ -372,7 +384,10 @@ remain?
 - **(C)** 3
 - **(D)** 4
 
-**Correct Answer:** Option **(A)** — `1`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `1`
+
 
 **Detailed Solution & Formula Deduction:**
 1. The stick shared between the 2nd and 3rd squares is a side of both. Removing that single stick 
@@ -448,7 +463,10 @@ Wheel 3: T = 7, R = 4, B = 3, L = 6, Centre = ?
 - **(C)** 45
 - **(D)** 49
 
-**Correct Answer:** Option **(C)** — `45`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C)** — `45`
+
 
 **Detailed Solution & Formula Deduction:**
 45. Rule: Centre = (T × B) + (R × L). Wheel 1: (6×4)+(2×3) = 24+6 = 30 
@@ -538,7 +556,10 @@ Matrix logic. Find the missing number.
 - **(C)** 31
 - **(D)** 33
 
-**Correct Answer:** Option **(B)** — `29`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `29`
+
 
 **Detailed Solution & Formula Deduction:**
 29. Rule: third column = (a×b) + a + b. Row 1: (2×3)+2+3 = 11 
@@ -601,7 +622,10 @@ Terms:         1        4       10       20       35       [ 56 ]
 - **(C)** 60
 - **(D)** 49
 
-**Correct Answer:** Option **(B)** — `56`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `56`
+
 
 **Detailed Solution & Formula Deduction:**
 56. These are tetrahedral numbers, C(n+2,3): 1, 4, 10, 20, 35, and next is C(8,3) = 56.
@@ -674,7 +698,10 @@ minimum number of sticks to remove so that no complete square remains?
 - **(C)** 3
 - **(D)** 4
 
-**Correct Answer:** Option **(B)** — `2`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `2`
+
 
 **Detailed Solution & Formula Deduction:**
 2. The stick shared between the top-left square and the top-right square is also a side of both. 
@@ -750,7 +777,10 @@ Wheel 3: T = 8, R = 5, B = 6, L = 4, Centre = ?
 - **(C)** 62
 - **(D)** 50
 
-**Correct Answer:** Option **(B)** — `58`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `58`
+
 
 **Detailed Solution & Formula Deduction:**
 58. Rule: Centre = (T+B)×(R+L) − (T×B + R×L). Wheel 1: (5+7)(3+2)−(5×7+3×2) = 60−41 = 19 ✓. Wheel 
@@ -835,7 +865,10 @@ Matrix logic. Find the missing number.
 - **(C)** 144
 - **(D)** 81
 
-**Correct Answer:** Option **(B)** — `121`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `121`
+
 
 **Detailed Solution & Formula Deduction:**
 121. Each entry is the square of a prime, arranged so that reading along each anti-diagonal gives 
@@ -898,7 +931,10 @@ Formula:     1·2·3    2·3·4    3·4·5    4·5·6     5·6·7       6·7·8
 - **(C)** 336
 - **(D)** 342
 
-**Correct Answer:** Option **(C)** — `336`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C)** — `336`
+
 
 **Detailed Solution & Formula Deduction:**
 336. Each term is the product of 3 consecutive integers: 1×2×3, 2×3×4, 3×4×5, 4×5×6, 5×6×7; next is 
@@ -980,7 +1016,10 @@ must be removed so that no complete square of any size remains?
 - **(C)** 6
 - **(D)** 7
 
-**Correct Answer:** Option **(C)** — `6`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C)** — `6`
+
 
 **Detailed Solution & Formula Deduction:**
 6. This was verified by exhaustive computer search over all 24 sticks and all 14 squares (nine 1×1, four 
@@ -1057,7 +1096,10 @@ Wheel 3: T = 6, R = 4, B = 9, L = 2, Centre = ?
 - **(C)** 66
 - **(D)** 54
 
-**Correct Answer:** Option **(B)** — `62`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `62`
+
 
 **Detailed Solution & Formula Deduction:**
 62. Rule: Centre = (T+R)×(B+L) − (T×L + R×B). Wheel 1: (4+5)(6+3)−(4×3+5×6) = 81−42 = 39 ✓. Wheel 
@@ -1141,7 +1183,10 @@ Matrix logic. Find the missing number.
 - **(C)** 20
 - **(D)** 21
 
-**Correct Answer:** Option **(B)** — `18`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `18`
+
 
 **Detailed Solution & Formula Deduction:**
 18. Rule: cell(row r, col c) = r×c + r² (rows and columns numbered from 1). Row 3: (3×1+9, 3×2+9, 
@@ -1204,7 +1249,10 @@ Addends:      +1       +4       +9      +16      +25        +36
 - **(C)** 96
 - **(D)** 90
 
-**Correct Answer:** Option **(A)** — `91`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `91`
+
 
 **Detailed Solution & Formula Deduction:**
 91. Each term is the sum of squares 1²+2²+...+n²: 1, 1+4=5, +9=14, +16=30, +25=55, next +36 = 91. 
@@ -1285,7 +1333,10 @@ must be removed so that no complete square remains?
 - **(C)** 5
 - **(D)** 6
 
-**Correct Answer:** Option **(B)** — `4`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `4`
+
 
 **Detailed Solution & Formula Deduction:**
 4. Each of the 4 outer squares shares exactly one stick with the centre square and no sticks with each 
@@ -1363,7 +1414,10 @@ Wheel 3: T = 12, R = 3, B = 9, L = 5, Centre = ?
 - **(C)** 90
 - **(D)** 78
 
-**Correct Answer:** Option **(A)** — `85`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `85`
+
 
 **Detailed Solution & Formula Deduction:**
 85. Rule: Centre = (T−L)² + (B−R)². Wheel 1: (8−3)²+(6−2)² = 25+16 = 41 ✓. Wheel 2: (10−2)²+(5−4)² = 
@@ -1447,7 +1501,10 @@ Matrix logic. Find the missing number.
 - **(C)** 29
 - **(D)** 24
 
-**Correct Answer:** Option **(B)** — `27`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `27`
+
 
 **Detailed Solution & Formula Deduction:**
 27. Rule: cell(r,c) = r²+c²+r×c (symmetric in r and c, so the matrix itself is symmetric about its diagonal 

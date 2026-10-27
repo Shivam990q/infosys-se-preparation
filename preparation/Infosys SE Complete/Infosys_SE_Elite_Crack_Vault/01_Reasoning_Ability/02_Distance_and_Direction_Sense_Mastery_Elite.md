@@ -42,7 +42,10 @@ Ankush went to the market to visit eight shops – Shop-1 to Shop-8. He starts f
 - D. North, 40 m
 - E. North, 39 m
 
-**Exact Answer:** `B. North, 35 m`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B. North, 35 m`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -80,7 +83,10 @@ Sundar runs 20 m towards East and turns to right and runs 10 m. Then he turns to
 - (c) North
 - (d) South
 
-**Exact Answer:** `(c) North`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(c) North`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -120,7 +126,10 @@ Shiva is facing North, he turns 180° and 45° in clockwise direction and then 2
 - (4) North east
 - (5) None of the above
 
-**Exact Answer:** `(4) North east`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(4) North east`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -160,7 +169,10 @@ A lady runs 12 km towards north. Then 6 km towards south and 8 km towards east. 
 - (4) NE – 10 km
 - (5) None of the above
 
-**Exact Answer:** `(4) NE – 10 km`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(4) NE – 10 km`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -197,7 +209,10 @@ John's house is situated in North direction from his uncle's office at the dista
 - (d) 500m
 - (e) none of these
 
-**Exact Answer:** `(b) 300m`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(b) 300m`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -236,7 +251,10 @@ A school driver drives school bus in north direction for a distance of 2km. Then
 - (d) 6km, West direction
 - (e) 5km, North direction
 
-**Exact Answer:** `(e) 5km, North direction`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(e) 5km, North direction`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -276,7 +294,10 @@ A man travels 2 km to the north and turns east and travels 10 km and again he tu
 - (d) 17km
 - (e) none of these
 
-**Exact Answer:** `(b) 13km`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(b) 13km`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -312,7 +333,10 @@ Rajesh walked 8 km towards south-west direction. He turned to east direction and
 - (d) 6km
 - (e) none of these
 
-**Exact Answer:** `(b) 10km`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(b) 10km`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -354,7 +378,10 @@ Q1. A person starts walking towards point Y which in North direction of starting
 - West
 - None of these
 
-**Exact Answer:** `East`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `East`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -387,7 +414,10 @@ This is the solution
 - 7 m
 - None of these
 
-**Exact Answer:** `None of these`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `None of these`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -425,7 +455,10 @@ Q3. What is the shortest distance between point S and M?
 - 5m
 - None of these
 
-**Exact Answer:** `4m`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `4m`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -458,7 +491,10 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 - East
 - North
 
-**Exact Answer:** `North`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `North`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -494,7 +530,10 @@ Q5. In which direction point T with respect of D?
 - East
 - South-east
 
-**Exact Answer:** `North-east`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `North-east`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -529,7 +568,10 @@ Q6. What is the shortest distance between Point D and Point X?
 - 20m
 - None of these
 
-**Exact Answer:** `√388m`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `√388m`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -566,7 +608,10 @@ Q7. In which direction point N is with respect of Y?
 - South
 - None of these
 
-**Exact Answer:** `South-west`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `South-west`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -604,7 +649,10 @@ Q8. What is the shortest distance between D and A?
 - 14m
 - None of these
 
-**Exact Answer:** `13m`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `13m`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -640,7 +688,10 @@ Q9. Point D is in which direction with respect to G?
 - North
 - South-east
 
-**Exact Answer:** `South-east`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `South-east`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -678,7 +729,10 @@ Q10. If Point Y is 7m south of point G than what is the shortest distance betwee
 - 10m
 - None of these
 
-**Exact Answer:** `14m`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `14m`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -715,7 +769,10 @@ Q11. What is the shortest distance between point T and F?
 - 9m
 - None of these
 
-**Exact Answer:** `9m`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `9m`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -753,7 +810,10 @@ Q12. In which direction point N with respect to T?
 - North-west
 - Can’t be determined
 
-**Exact Answer:** `North-west`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `North-west`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -790,7 +850,10 @@ Q13. If point K is 2m north of point S and the shortest distance between point K
 - 10m
 - None of these
 
-**Exact Answer:** `8m`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `8m`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -827,7 +890,10 @@ Q14. How far (Shortest Distance) and which direction is point X with respect to 
 - √34 km North-West
 - None of these.
 
-**Exact Answer:** `√34 km North-West`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `√34 km North-West`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -863,7 +929,10 @@ Q15. In which direction is point T with respect to point Y?
 - West
 - South-west
 
-**Exact Answer:** `North east`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `North east`
+
 
 **Complete Mathematical / Logical Deduction:**
 

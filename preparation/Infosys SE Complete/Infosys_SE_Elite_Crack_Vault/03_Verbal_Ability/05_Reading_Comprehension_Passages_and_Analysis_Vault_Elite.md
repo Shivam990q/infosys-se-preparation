@@ -1,28 +1,21 @@
 # 🏆 Infosys SE Elite Crack Vault — 05 Reading Comprehension Passages and Analysis Vault Elite
 > **Target Role:** **Infosys Systems Engineer (SE)** (3.6 – 4.0 LPA Recruitment Drive)  
 > **Curation Standard:** **100% Pure SE Role Specific** (All SP/DSE Upper-Level & Practice Variants Purged)  
-> **Total Curated Questions in Topic:** **162 Questions**  
-> **Question Breakdown:** 🔴 `75 Must-Solve` | 🟡 `87 Core SE Level`  
+> **Total Curated Questions in Topic:** **111 Questions**  
+> **Question Breakdown:** 🔴 `38 Must-Solve` | 🟡 `73 Core SE Level` | ⚪ `0 Practice Variant`  
 > **Verification Score:** 100% Mathematically & Deductively Proven with Zero Hallucination  
 
 ---
 
-### Question 1: Infosys SE Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+---
+
+### Problem 01: Reading Comprehension: AI & Workforce Transformation  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC_P1_Q01` | **Source File:** `Reading Comprehension2311.pdf`
 
- (ID: `SEC0405_RC_P1_Q01`)
-- **Source Module**: `Live _ Infosys Previous year / Practice Sets`
-- **Source File**: `Reading Comprehension2311.pdf`
-- **Topic Domain**: **Reading Comprehension: AI & Workforce Transformation**
-
-
-### Question 2: Infosys SE Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Read the passage and answer the question below:
 
@@ -50,23 +43,15 @@ Paragraph Reference: The passage explicitly explores both dimensions: benefits (
 
 ---
 
+---
 
-### Question 3: Infosys SE Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 02: Reading Comprehension: AI & Workforce Transformation  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC_P1_Q02` | **Source File:** `Reading Comprehension2311.pdf`
 
- (ID: `SEC0405_RC_P1_Q02`)
-- **Source Module**: `Live _ Infosys Previous year / Practice Sets`
-- **Source File**: `Reading Comprehension2311.pdf`
-- **Topic Domain**: **Reading Comprehension: AI & Workforce Transformation**
-
-
-### Question 4: Infosys SE Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Read the passage and answer the question below:
 
@@ -94,23 +79,15 @@ Paragraph Reference: 'Proponents, however, contend that AI augments human capabi
 
 ---
 
+---
 
-### Question 5: Infosys SE Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 03: Reading Comprehension: AI & Workforce Transformation  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC_P1_Q03` | **Source File:** `Reading Comprehension2311.pdf`
 
- (ID: `SEC0405_RC_P1_Q03`)
-- **Source Module**: `Live _ Infosys Previous year / Practice Sets`
-- **Source File**: `Reading Comprehension2311.pdf`
-- **Topic Domain**: **Reading Comprehension: AI & Workforce Transformation**
-
-
-### Question 6: Infosys SE Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Read the passage and answer the question below:
 
@@ -138,23 +115,15 @@ Paragraph Reference: 'Critics argue that AI can inadvertently perpetuate biases 
 
 ---
 
+---
 
-### Question 7: Infosys SE Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 04: Reading Comprehension: AI & Workforce Transformation  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC_P1_Q04` | **Source File:** `Reading Comprehension2311.pdf`
 
- (ID: `SEC0405_RC_P1_Q04`)
-- **Source Module**: `Live _ Infosys Previous year / Practice Sets`
-- **Source File**: `Reading Comprehension2311.pdf`
-- **Topic Domain**: **Reading Comprehension: AI & Workforce Transformation**
-
-
-### Question 8: Infosys SE Question 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Read the passage and answer the question below:
 
@@ -182,23 +151,15 @@ Vocabulary in Context: 'render certain job roles obsolete' means that automation
 
 ---
 
+---
 
-### Question 9: Infosys SE Question 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 05: Reading Comprehension: AI & Workforce Transformation  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC_P1_Q05` | **Source File:** `Reading Comprehension2311.pdf`
 
- (ID: `SEC0405_RC_P1_Q05`)
-- **Source Module**: `Live _ Infosys Previous year / Practice Sets`
-- **Source File**: `Reading Comprehension2311.pdf`
-- **Topic Domain**: **Reading Comprehension: AI & Workforce Transformation**
-
-
-### Question 10: Infosys SE Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Read the passage and answer the question below:
 
@@ -226,23 +187,15 @@ Paragraph Reference: 'Organizations that successfully implement AI balance techn
 
 ---
 
+---
 
-### Question 11: Infosys SE Question 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 06: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC01_Q01` | **Source File:** `VERBAL ABILITY_RC 01_QUESTIONS.json`
 
- (ID: `SEC0405_RC01_Q01`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 12: Infosys SE Question 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
@@ -273,23 +226,15 @@ Refer the last few lines of first paragraph "But stifling your imagination is th
 
 ---
 
+---
 
-### Question 13: Infosys SE Question 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 07: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC01_Q02` | **Source File:** `VERBAL ABILITY_RC 01_QUESTIONS.json`
 
- (ID: `SEC0405_RC01_Q02`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 14: Infosys SE Question 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
@@ -317,23 +262,15 @@ Refer second paragraph of the passage " The creative individual does not see the
 
 ---
 
+---
 
-### Question 15: Infosys SE Question 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 08: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC01_Q03` | **Source File:** `VERBAL ABILITY_RC 01_QUESTIONS.json`
 
- (ID: `SEC0405_RC01_Q03`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 16: Infosys SE Question 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
@@ -362,23 +299,15 @@ Refer the third paragraph of the passage "our imagination may leave you in a goo
 
 ---
 
+---
 
-### Question 17: Infosys SE Question 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 09: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC01_Q04` | **Source File:** `VERBAL ABILITY_RC 01_QUESTIONS.json`
 
- (ID: `SEC0405_RC01_Q04`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 18: Infosys SE Question 18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
@@ -405,23 +334,15 @@ Q4. Which of the following is an appropriate title of the passage?
 
 ---
 
+---
 
-### Question 19: Infosys SE Question 19  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 10: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC01_Q05` | **Source File:** `VERBAL ABILITY_RC 01_QUESTIONS.json`
 
- (ID: `SEC0405_RC01_Q05`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 20: Infosys SE Question 20  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
@@ -448,23 +369,15 @@ The passage is about about using imagination for different purposes. All the giv
 
 ---
 
+---
 
-### Question 21: Infosys SE Question 21  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 11: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC01_Q06` | **Source File:** `VERBAL ABILITY_RC 01_QUESTIONS.json`
 
- (ID: `SEC0405_RC01_Q06`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 22: Infosys SE Question 22  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
@@ -492,23 +405,15 @@ Refer the last paragraph of the passage "On the other hand, someone who uses the
 
 ---
 
+---
 
-### Question 23: Infosys SE Question 23  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 12: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC01_Q07` | **Source File:** `VERBAL ABILITY_RC 01_QUESTIONS.json`
 
- (ID: `SEC0405_RC01_Q07`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 24: Infosys SE Question 24  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
@@ -537,23 +442,15 @@ Conjure means implore (someone) to do something. Hence it has same meaning as ad
 
 ---
 
+---
 
-### Question 25: Infosys SE Question 25  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 13: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC01_Q08` | **Source File:** `VERBAL ABILITY_RC 01_QUESTIONS.json`
 
- (ID: `SEC0405_RC01_Q08`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 26: Infosys SE Question 26  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
@@ -582,23 +479,15 @@ Quantified means express or measure the quantity of. Hence it has same meaning a
 
 ---
 
+---
 
-### Question 27: Infosys SE Question 27  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 14: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC01_Q09` | **Source File:** `VERBAL ABILITY_RC 01_QUESTIONS.json`
 
- (ID: `SEC0405_RC01_Q09`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 28: Infosys SE Question 28  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
@@ -627,23 +516,15 @@ Meticulous means in a way that shows great attention to detail, very thoroughly.
 
 ---
 
+---
 
-### Question 29: Infosys SE Question 29  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 15: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC01_Q10` | **Source File:** `VERBAL ABILITY_RC 01_QUESTIONS.json`
 
- (ID: `SEC0405_RC01_Q10`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 30: Infosys SE Question 30  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (01- 10): Read the following passage carefully and answer the questions given below it. Certain words are given in bold to help you locate them while answering some of the questions.
 When we are children growing up, our imagination is the key to untold worlds. And it has been shown that kids with very active imaginations are more likely to dream and strive for greater things as adults. It is a sad fact that all too often, as we grow up, we are told to “get our heads out of the clouds”, to "stop daydreaming", and that living in an imaginary world is not good for us. But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled.
@@ -672,23 +553,15 @@ Envision means imagine as a future possibility, visualize.. Hence it has opposit
 
 ---
 
+---
 
-### Question 31: Infosys SE Question 31  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 16: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC01_Q11` | **Source File:** `VERBAL ABILITY_RC 01_QUESTIONS.json`
 
- (ID: `SEC0405_RC01_Q11`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 32: Infosys SE Question 32  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (11-15): Read each sentence to find out whether there is any grammatical or idiomatic error in it. The error, if any, will be in one part of the sentence. The number of that part is the answer. If there is ‘No error’, the answer is (e). (Ignore errors of punctuation, if any.)
 Q11. As soon as we (A)/enter the hotel the (B)/Manager welcomes us and (C)/took us to the table. (D)/No Error (E)
@@ -712,23 +585,15 @@ Q11. As soon as we (A)/enter the hotel the (B)/Manager welcomes us and (C)/took 
 
 ---
 
+---
 
-### Question 33: Infosys SE Question 33  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 17: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC01_Q12` | **Source File:** `VERBAL ABILITY_RC 01_QUESTIONS.json`
 
- (ID: `SEC0405_RC01_Q12`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 34: Infosys SE Question 34  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 In spite of our several request (A)/ the owner of the house (B)/did not open (C)/the door of his house. (D)/No Error (E)
 
@@ -751,23 +616,15 @@ requests&rsquo; will be used in place of &lsquo;request&rsquo; because &lsquo;se
 
 ---
 
+---
 
-### Question 35: Infosys SE Question 35  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 18: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC01_Q13` | **Source File:** `VERBAL ABILITY_RC 01_QUESTIONS.json`
 
- (ID: `SEC0405_RC01_Q13`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 36: Infosys SE Question 36  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 The manager concluded that(A)/either Mahesh (B)/or Teja were (C)/responsible for the last week’s theft. (D)/No Error (E)
 
@@ -790,23 +647,15 @@ was&rsquo; will be used in place of &lsquo;were&rsquo; as if &lsquo;either&helli
 
 ---
 
+---
 
-### Question 37: Infosys SE Question 37  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 19: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC01_Q14` | **Source File:** `VERBAL ABILITY_RC 01_QUESTIONS.json`
 
- (ID: `SEC0405_RC01_Q14`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 38: Infosys SE Question 38  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 . I have told suresh (A)/that it will not be possible (B)/for me to carry on (C)/this kind of work. (D)/ No error. (E)
 
@@ -829,23 +678,15 @@ This is the solution
 
 ---
 
+---
 
-### Question 39: Infosys SE Question 39  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 20: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC01_Q15` | **Source File:** `VERBAL ABILITY_RC 01_QUESTIONS.json`
 
- (ID: `SEC0405_RC01_Q15`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY_RC 01_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 40: Infosys SE Question 40  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 In today meeting (A)/we must first discuss (B)/and thrash out the problem (C)/one by one. (D)/No error (E)
 
@@ -868,23 +709,15 @@ In today meeting (A)/we must first discuss (B)/and thrash out the problem (C)/on
 
 ---
 
+---
 
-### Question 41: Infosys SE Question 41  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 21: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC02_Q01` | **Source File:** `VERBAL ABILITY _RC 02_QUESTIONS.json`
 
- (ID: `SEC0405_RC02_Q01`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 42: Infosys SE Question 42  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (1-5): Read the given passage and answer the following questions based on the passage.
 For almost two decades, the Central Ground Water Board (CGWB) has been reporting on the increasing number of over-exploited blocks across India, the ‘dark’ category blocks. The recent annual book of CGWB has reported 1,034 units, out of the 6,584 units it monitors, as over-exploited. If this is the ‘crisis’, then we have had it for long. What has this not received enough attention? Is it because these zones are not in cities?
@@ -913,23 +746,15 @@ Refer to the last and second last paragraph of this passage, it states that cris
 
 ---
 
+---
 
-### Question 43: Infosys SE Question 43  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 22: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC02_Q02` | **Source File:** `VERBAL ABILITY _RC 02_QUESTIONS.json`
 
- (ID: `SEC0405_RC02_Q02`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 44: Infosys SE Question 44  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (1-5): Read the given passage and answer the following questions based on the passage.
 For almost two decades, the Central Ground Water Board (CGWB) has been reporting on the increasing number of over-exploited blocks across India, the ‘dark’ category blocks. The recent annual book of CGWB has reported 1,034 units, out of the 6,584 units it monitors, as over-exploited. If this is the ‘crisis’, then we have had it for long. What has this not received enough attention? Is it because these zones are not in cities?
@@ -958,23 +783,15 @@ Refer to the fourth paragraph of the passage, it states that the main challenge 
 
 ---
 
+---
 
-### Question 45: Infosys SE Question 45  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 23: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC02_Q03` | **Source File:** `VERBAL ABILITY _RC 02_QUESTIONS.json`
 
- (ID: `SEC0405_RC02_Q03`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 46: Infosys SE Question 46  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (1-5): Read the given passage and answer the following questions based on the passage.
 For almost two decades, the Central Ground Water Board (CGWB) has been reporting on the increasing number of over-exploited blocks across India, the ‘dark’ category blocks. The recent annual book of CGWB has reported 1,034 units, out of the 6,584 units it monitors, as over-exploited. If this is the ‘crisis’, then we have had it for long. What has this not received enough attention? Is it because these zones are not in cities?
@@ -1003,23 +820,15 @@ Refer to the, third, fourth and fifth paragraph of the above passage, the steps 
 
 ---
 
+---
 
-### Question 47: Infosys SE Question 47  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 24: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC02_Q04` | **Source File:** `VERBAL ABILITY _RC 02_QUESTIONS.json`
 
- (ID: `SEC0405_RC02_Q04`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 48: Infosys SE Question 48  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (1-5): Read the given passage and answer the following questions based on the passage.
 For almost two decades, the Central Ground Water Board (CGWB) has been reporting on the increasing number of over-exploited blocks across India, the ‘dark’ category blocks. The recent annual book of CGWB has reported 1,034 units, out of the 6,584 units it monitors, as over-exploited. If this is the ‘crisis’, then we have had it for long. What has this not received enough attention? Is it because these zones are not in cities?
@@ -1048,23 +857,15 @@ With the given information about water governance strategies, all the options ar
 
 ---
 
+---
 
-### Question 49: Infosys SE Question 49  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 25: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC02_Q05` | **Source File:** `VERBAL ABILITY _RC 02_QUESTIONS.json`
 
- (ID: `SEC0405_RC02_Q05`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 50: Infosys SE Question 50  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (1-5): Read the given passage and answer the following questions based on the passage.
 For almost two decades, the Central Ground Water Board (CGWB) has been reporting on the increasing number of over-exploited blocks across India, the ‘dark’ category blocks. The recent annual book of CGWB has reported 1,034 units, out of the 6,584 units it monitors, as over-exploited. If this is the ‘crisis’, then we have had it for long. What has this not received enough attention? Is it because these zones are not in cities?
@@ -1093,23 +894,15 @@ Option (c) , &lsquo;Strengthen&rsquo; is the most suitable word to fit in the bl
 
 ---
 
+---
 
-### Question 51: Infosys SE Question 51  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 26: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC02_Q06` | **Source File:** `VERBAL ABILITY _RC 02_QUESTIONS.json`
 
- (ID: `SEC0405_RC02_Q06`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 52: Infosys SE Question 52  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (6-10): Read the given passage and answer the following questions based on the passage.
 There has been much development recently with respect to the Protection of Children from Sexual Offences (POCSO) Act, 2012. With an objective of stopping the rampant sexual abuse of children, the Protection of Children from Sexual Offences (Amendment) Bill, 2019 was introduced in the Rajya Sabha in July, and later passed by both Houses of Parliament. It is all set to become the ‘law of the land’. The present bill is welcome in certain respects as it specifically defines what ‘child pornography’ is; ‘using a child for pornographic purposes’ and for ‘possessing or storing pornography involving a child’ is punishable. It has also widened the ambit of ‘Aggravated sexual assault’.
@@ -1141,23 +934,15 @@ Option (a) is the most suitable answer choice. It fits as the title of the passa
 
 ---
 
+---
 
-### Question 53: Infosys SE Question 53  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 27: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC02_Q07` | **Source File:** `VERBAL ABILITY _RC 02_QUESTIONS.json`
 
- (ID: `SEC0405_RC02_Q07`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 54: Infosys SE Question 54  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (6-10): Read the given passage and answer the following questions based on the passage.
 There has been much development recently with respect to the Protection of Children from Sexual Offences (POCSO) Act, 2012. With an objective of stopping the rampant sexual abuse of children, the Protection of Children from Sexual Offences (Amendment) Bill, 2019 was introduced in the Rajya Sabha in July, and later passed by both Houses of Parliament. It is all set to become the ‘law of the land’. The present bill is welcome in certain respects as it specifically defines what ‘child pornography’ is; ‘using a child for pornographic purposes’ and for ‘possessing or storing pornography involving a child’ is punishable. It has also widened the ambit of ‘Aggravated sexual assault’.
@@ -1189,23 +974,15 @@ Refer to the introductory paragraph of this passage. The elements are mentioned 
 
 ---
 
+---
 
-### Question 55: Infosys SE Question 55  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 28: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC02_Q08` | **Source File:** `VERBAL ABILITY _RC 02_QUESTIONS.json`
 
- (ID: `SEC0405_RC02_Q08`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 56: Infosys SE Question 56  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (6-10): Read the given passage and answer the following questions based on the passage.
 There has been much development recently with respect to the Protection of Children from Sexual Offences (POCSO) Act, 2012. With an objective of stopping the rampant sexual abuse of children, the Protection of Children from Sexual Offences (Amendment) Bill, 2019 was introduced in the Rajya Sabha in July, and later passed by both Houses of Parliament. It is all set to become the ‘law of the land’. The present bill is welcome in certain respects as it specifically defines what ‘child pornography’ is; ‘using a child for pornographic purposes’ and for ‘possessing or storing pornography involving a child’ is punishable. It has also widened the ambit of ‘Aggravated sexual assault’.
@@ -1237,23 +1014,15 @@ Refer to the third paragraph of this passage, where it elaborates the statement 
 
 ---
 
+---
 
-### Question 57: Infosys SE Question 57  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 29: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC02_Q09` | **Source File:** `VERBAL ABILITY _RC 02_QUESTIONS.json`
 
- (ID: `SEC0405_RC02_Q09`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 58: Infosys SE Question 58  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (6-10): Read the given passage and answer the following questions based on the passage.
 There has been much development recently with respect to the Protection of Children from Sexual Offences (POCSO) Act, 2012. With an objective of stopping the rampant sexual abuse of children, the Protection of Children from Sexual Offences (Amendment) Bill, 2019 was introduced in the Rajya Sabha in July, and later passed by both Houses of Parliament. It is all set to become the ‘law of the land’. The present bill is welcome in certain respects as it specifically defines what ‘child pornography’ is; ‘using a child for pornographic purposes’ and for ‘possessing or storing pornography involving a child’ is punishable. It has also widened the ambit of ‘Aggravated sexual assault’.
@@ -1285,23 +1054,15 @@ Statement given in option (c) is not true because death penalty it is introduced
 
 ---
 
+---
 
-### Question 59: Infosys SE Question 59  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 30: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC02_Q10` | **Source File:** `VERBAL ABILITY _RC 02_QUESTIONS.json`
 
- (ID: `SEC0405_RC02_Q10`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 60: Infosys SE Question 60  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (6-10): Read the given passage and answer the following questions based on the passage.
 There has been much development recently with respect to the Protection of Children from Sexual Offences (POCSO) Act, 2012. With an objective of stopping the rampant sexual abuse of children, the Protection of Children from Sexual Offences (Amendment) Bill, 2019 was introduced in the Rajya Sabha in July, and later passed by both Houses of Parliament. It is all set to become the ‘law of the land’. The present bill is welcome in certain respects as it specifically defines what ‘child pornography’ is; ‘using a child for pornographic purposes’ and for ‘possessing or storing pornography involving a child’ is punishable. It has also widened the ambit of ‘Aggravated sexual assault’.
@@ -1333,23 +1094,15 @@ Ramification- Complex or unwelcomed consequences of an action of event (a)Acumen
 
 ---
 
+---
 
-### Question 61: Infosys SE Question 61  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 31: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC02_Q11` | **Source File:** `VERBAL ABILITY _RC 02_QUESTIONS.json`
 
- (ID: `SEC0405_RC02_Q11`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 62: Infosys SE Question 62  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (11-15): Read the following passage and answer the following questions based on the given passage.
 As the country celebrates 50 years since bank nationalisation, bank employees will be proud that they have contributed to nation-building. Still there are basic issues close to the bankman’s heart that are yet to find redressal, observes Jyothi KP, Vice-President, All-India Bank Officers’ Confederation, Kerala, and a National Executive Committee member.The Banking Companies (Acquisition and Transfer of Undertakings) Acts of 1970 and 1980 provide that the Central Government, in consultation with the Reserve Bank of India, may make a scheme, inter alia, for amalgamation of any nationalised bank with any other nationalised bank or any other banking institution. Various committees, including Narasimhan Committee (1998) constituted by the RBI, Leeladhar Committee (2008) chaired by the RBI Deputy Governor, and the Nayak Committee (2014) constituted by the RBI, have recommended consolidation of public sector banks (PSBs) given underlying benefits/synergies.
@@ -1383,23 +1136,15 @@ As it is mentioned in paragraph second, due to amalgamation of banks, the job se
 
 ---
 
+---
 
-### Question 63: Infosys SE Question 63  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 32: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC02_Q12` | **Source File:** `VERBAL ABILITY _RC 02_QUESTIONS.json`
 
- (ID: `SEC0405_RC02_Q12`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 64: Infosys SE Question 64  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (11-15): Read the following passage and answer the following questions based on the given passage.
 As the country celebrates 50 years since bank nationalisation, bank employees will be proud that they have contributed to nation-building. Still there are basic issues close to the bankman’s heart that are yet to find redressal, observes Jyothi KP, Vice-President, All-India Bank Officers’ Confederation, Kerala, and a National Executive Committee member.The Banking Companies (Acquisition and Transfer of Undertakings) Acts of 1970 and 1980 provide that the Central Government, in consultation with the Reserve Bank of India, may make a scheme, inter alia, for amalgamation of any nationalised bank with any other nationalised bank or any other banking institution. Various committees, including Narasimhan Committee (1998) constituted by the RBI, Leeladhar Committee (2008) chaired by the RBI Deputy Governor, and the Nayak Committee (2014) constituted by the RBI, have recommended consolidation of public sector banks (PSBs) given underlying benefits/synergies.
@@ -1433,23 +1178,15 @@ Referring to the paragraph fifth, the provisions in the section 5 of banking reg
 
 ---
 
+---
 
-### Question 65: Infosys SE Question 65  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 33: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC02_Q13` | **Source File:** `VERBAL ABILITY _RC 02_QUESTIONS.json`
 
- (ID: `SEC0405_RC02_Q13`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 66: Infosys SE Question 66  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (11-15): Read the following passage and answer the following questions based on the given passage.
 As the country celebrates 50 years since bank nationalisation, bank employees will be proud that they have contributed to nation-building. Still there are basic issues close to the bankman’s heart that are yet to find redressal, observes Jyothi KP, Vice-President, All-India Bank Officers’ Confederation, Kerala, and a National Executive Committee member.The Banking Companies (Acquisition and Transfer of Undertakings) Acts of 1970 and 1980 provide that the Central Government, in consultation with the Reserve Bank of India, may make a scheme, inter alia, for amalgamation of any nationalised bank with any other nationalised bank or any other banking institution. Various committees, including Narasimhan Committee (1998) constituted by the RBI, Leeladhar Committee (2008) chaired by the RBI Deputy Governor, and the Nayak Committee (2014) constituted by the RBI, have recommended consolidation of public sector banks (PSBs) given underlying benefits/synergies.
@@ -1483,23 +1220,15 @@ Paragraph third and fourth of this passage contains the reasons behind the traum
 
 ---
 
+---
 
-### Question 67: Infosys SE Question 67  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 34: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC02_Q14` | **Source File:** `VERBAL ABILITY _RC 02_QUESTIONS.json`
 
- (ID: `SEC0405_RC02_Q14`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 68: Infosys SE Question 68  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (11-15): Read the following passage and answer the following questions based on the given passage.
 As the country celebrates 50 years since bank nationalisation, bank employees will be proud that they have contributed to nation-building. Still there are basic issues close to the bankman’s heart that are yet to find redressal, observes Jyothi KP, Vice-President, All-India Bank Officers’ Confederation, Kerala, and a National Executive Committee member.The Banking Companies (Acquisition and Transfer of Undertakings) Acts of 1970 and 1980 provide that the Central Government, in consultation with the Reserve Bank of India, may make a scheme, inter alia, for amalgamation of any nationalised bank with any other nationalised bank or any other banking institution. Various committees, including Narasimhan Committee (1998) constituted by the RBI, Leeladhar Committee (2008) chaired by the RBI Deputy Governor, and the Nayak Committee (2014) constituted by the RBI, have recommended consolidation of public sector banks (PSBs) given underlying benefits/synergies.
@@ -1533,23 +1262,15 @@ As mentioned in paragraph 5th, we can conclude that all these acts of bankers sh
 
 ---
 
+---
 
-### Question 69: Infosys SE Question 69  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 35: Reading Comprehension: Passage Analysis & Contextual Inference  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_RC02_Q15` | **Source File:** `VERBAL ABILITY _RC 02_QUESTIONS.json`
 
- (ID: `SEC0405_RC02_Q15`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `VERBAL ABILITY _RC 02_QUESTIONS.json`
-- **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
-
-
-### Question 70: Infosys SE Question 70  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (11-15): Read the following passage and answer the following questions based on the given passage.
 As the country celebrates 50 years since bank nationalisation, bank employees will be proud that they have contributed to nation-building. Still there are basic issues close to the bankman’s heart that are yet to find redressal, observes Jyothi KP, Vice-President, All-India Bank Officers’ Confederation, Kerala, and a National Executive Committee member.The Banking Companies (Acquisition and Transfer of Undertakings) Acts of 1970 and 1980 provide that the Central Government, in consultation with the Reserve Bank of India, may make a scheme, inter alia, for amalgamation of any nationalised bank with any other nationalised bank or any other banking institution. Various committees, including Narasimhan Committee (1998) constituted by the RBI, Leeladhar Committee (2008) chaired by the RBI Deputy Governor, and the Nayak Committee (2014) constituted by the RBI, have recommended consolidation of public sector banks (PSBs) given underlying benefits/synergies.
@@ -1583,23 +1304,15 @@ Here, In the third paragraph of the passage, KP Jyothi is stating the measures h
 
 ---
 
+---
 
-### Question 71: Infosys SE Question 71  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 36: English Grammar & Verbal Comprehension Session  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_ENG_SESS_Q01` | **Source File:** `ENGLISH SESSION_QUESTIONS.json`
 
- (ID: `SEC0405_ENG_SESS_Q01`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `ENGLISH SESSION_QUESTIONS.json`
-- **Topic Domain**: **English Grammar & Verbal Comprehension Session**
-
-
-### Question 72: Infosys SE Question 72  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Directions (1-8): Read the following passage and answer the following questions based on the given passage. Some of the words are highlighted which would help you to answer some of the questions given.
 All political parties must be mindful of the core values that invigorate Indian democracyAs the countdown for elections to the 17th Lok Sabha begins, the world’s largest democracy has a chance to re-imagine itself. Over the last 16 general elections and numerous elections at lower levels, the resolute trust that the founding fathers of the Republic put in the parliamentary democratic system has been substantially proven wise. India did make some dangerous turns and show signs of fragility, especially during the Emergency in the 1970s, but in the long term it expanded the scope of its democracy through widening representation, devolution of power and redistribution of resources. This is not to overlook the various maladies that have afflicted the country’s democracy, such as disinformation campaigns, corruption, disenfranchisement of the weaker sections of the society, the corroding influence of money and muscle power in elections, and divisive majoritarian tendencies. (i) The representative character of institutions has in general improved, women and religious minorities are alarmingly underrepresented. The exercise of elections itself is a matter of great pride for all Indians. The Election Commission of India has over the decades evolved itself into a fine institution and plays a critical role in the support of democracy. Its efforts to increase voter participation through a series of small steps over the years, including the use of the Electronic Voting Machines, have been praiseworthy.
@@ -1628,23 +1341,15 @@ To validate the answer, refer to the first paragraph of the passage given above,
 
 ---
 
+---
 
-### Question 73: Infosys SE Question 73  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 37: English Grammar & Verbal Comprehension Session  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_ENG_SESS_Q02` | **Source File:** `ENGLISH SESSION_QUESTIONS.json`
 
- (ID: `SEC0405_ENG_SESS_Q02`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `ENGLISH SESSION_QUESTIONS.json`
-- **Topic Domain**: **English Grammar & Verbal Comprehension Session**
-
-
-### Question 74: Infosys SE Question 74  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 . According to the passage given above, what has been the primary reasonability of the Election Commissions?
 
@@ -1667,23 +1372,15 @@ To validate the answer, refer to the last few lines of the first paragraph of th
 
 ---
 
+---
 
-### Question 75: Infosys SE Question 75  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 38: English Grammar & Verbal Comprehension Session  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_ENG_SESS_Q03` | **Source File:** `ENGLISH SESSION_QUESTIONS.json`
 
- (ID: `SEC0405_ENG_SESS_Q03`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `ENGLISH SESSION_QUESTIONS.json`
-- **Topic Domain**: **English Grammar & Verbal Comprehension Session**
-
-
-### Question 76: Infosys SE Question 76  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 What is the tone used by author in the italicized statement (i) in the passage given above?
 
@@ -1706,23 +1403,15 @@ In the italicized statement indicates contradiction. Hence, option (c) is the mo
 
 ---
 
+---
 
-### Question 77: Infosys SE Question 77  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 39: English Grammar & Verbal Comprehension Session  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_ENG_SESS_Q05` | **Source File:** `ENGLISH SESSION_QUESTIONS.json`
 
- (ID: `SEC0405_ENG_SESS_Q05`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `ENGLISH SESSION_QUESTIONS.json`
-- **Topic Domain**: **English Grammar & Verbal Comprehension Session**
-
-
-### Question 78: Infosys SE Question 78  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Which of the following statements is true in context of the information available in the above passage ?
 
@@ -1745,23 +1434,15 @@ To validate the answer, refer to the first paragraph of the passage given above,
 
 ---
 
+---
 
-### Question 79: Infosys SE Question 79  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 40: English Grammar & Verbal Comprehension Session  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_ENG_SESS_Q06` | **Source File:** `ENGLISH SESSION_QUESTIONS.json`
 
- (ID: `SEC0405_ENG_SESS_Q06`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `ENGLISH SESSION_QUESTIONS.json`
-- **Topic Domain**: **English Grammar & Verbal Comprehension Session**
-
-
-### Question 80: Infosys SE Question 80  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Which of the following can be the most appropriate title for the passage given above?
 
@@ -1784,23 +1465,15 @@ Among the given options, most appropriate choice for the title of the passage is
 
 ---
 
+---
 
-### Question 81: Infosys SE Question 81  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 41: English Grammar & Verbal Comprehension Session  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_ENG_SESS_Q08` | **Source File:** `ENGLISH SESSION_QUESTIONS.json`
 
- (ID: `SEC0405_ENG_SESS_Q08`)
-- **Source Module**: `Module 3_ Reading Comprehension`
-- **Source File**: `ENGLISH SESSION_QUESTIONS.json`
-- **Topic Domain**: **English Grammar & Verbal Comprehension Session**
-
-
-### Question 82: Infosys SE Question 82  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Which of the following word is most similar to ADEQUATE, as highlighted in the above passage?
 
@@ -1823,23 +1496,15 @@ Among the given words, "apposite" is synonymous with "adequate". All other words
 
 ---
 
+---
 
-### Question 83: Infosys SE Question 83  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 42: Reading Comprehension: Central Idea  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_PYQ50_Q01` | **Source File:** `Verbal Ability.pdf`
 
- (ID: `SEC0405_PYQ50_Q01`)
-- **Source Module**: `PYQ Verbal Ability Questions`
-- **Source File**: `Verbal Ability.pdf`
-- **Topic Domain**: **Reading Comprehension: Central Idea**
-
-
-### Question 84: Infosys SE Question 84  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 What is the main idea of the passage?
 
@@ -1860,23 +1525,15 @@ Passage analysis confirms that AI is presented as a 'double-edged sword' bringin
 
 ---
 
+---
 
-### Question 85: Infosys SE Question 85  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 43: Reading Comprehension: Detail Recall  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_PYQ50_Q02` | **Source File:** `Verbal Ability.pdf`
 
- (ID: `SEC0405_PYQ50_Q02`)
-- **Source Module**: `PYQ Verbal Ability Questions`
-- **Source File**: `Verbal Ability.pdf`
-- **Topic Domain**: **Reading Comprehension: Detail Recall**
-
-
-### Question 86: Infosys SE Question 86  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 According to the passage, what is a major concern related to AI in the
 workforce?
@@ -1899,23 +1556,15 @@ Paragraph text highlights job displacement and privacy/algorithmic bias as criti
 
 ---
 
+---
 
-### Question 87: Infosys SE Question 87  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 44: Reading Comprehension: Inference  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_PYQ50_Q03` | **Source File:** `Verbal Ability.pdf`
 
- (ID: `SEC0405_PYQ50_Q03`)
-- **Source Module**: `PYQ Verbal Ability Questions`
-- **Source File**: `Verbal Ability.pdf`
-- **Topic Domain**: **Reading Comprehension: Inference**
-
-
-### Question 88: Infosys SE Question 88  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 What does the passage suggest about algorithmic bias?
 
@@ -1937,23 +1586,15 @@ Passage directly states: 'An AI system trained on biased data will perpetuate an
 
 ---
 
+---
 
-### Question 89: Infosys SE Question 89  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 45: Reading Comprehension: Direct Factual  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_PYQ50_Q04` | **Source File:** `Verbal Ability.pdf`
 
- (ID: `SEC0405_PYQ50_Q04`)
-- **Source Module**: `PYQ Verbal Ability Questions`
-- **Source File**: `Verbal Ability.pdf`
-- **Topic Domain**: **Reading Comprehension: Direct Factual**
-
-
-### Question 90: Infosys SE Question 90  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 The phrase "double-edged sword" is used to indicate that AI is:
 
@@ -1975,23 +1616,15 @@ Direct phrase quote from paragraph 1.
 
 ---
 
+---
 
-### Question 91: Infosys SE Question 91  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 46: Reading Comprehension: Author's Tone  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_PYQ50_Q05` | **Source File:** `Verbal Ability.pdf`
 
- (ID: `SEC0405_PYQ50_Q05`)
-- **Source Module**: `PYQ Verbal Ability Questions`
-- **Source File**: `Verbal Ability.pdf`
-- **Topic Domain**: **Reading Comprehension: Author's Tone**
-
-
-### Question 92: Infosys SE Question 92  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 What does the author propose as a necessary action for the future of
 AI?
@@ -2014,23 +1647,15 @@ Author maintains an objective, balanced tone discussing both pros and cons.
 
 ---
 
+---
 
-### Question 93: Infosys SE Question 93  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 47: Reading Comprehension: Main Theme  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_PYQ50_Q06` | **Source File:** `Verbal Ability.pdf`
 
- (ID: `SEC0405_PYQ50_Q06`)
-- **Source Module**: `PYQ Verbal Ability Questions`
-- **Source File**: `Verbal Ability.pdf`
-- **Topic Domain**: **Reading Comprehension: Main Theme**
-
-
-### Question 94: Infosys SE Question 94  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 What is the primary purpose of this passage?
 
@@ -2052,23 +1677,15 @@ Passage 2 focuses on clean sustainable energy transition.
 
 ---
 
+---
 
-### Question 95: Infosys SE Question 95  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 48: Reading Comprehension: Factual Recall  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_PYQ50_Q07` | **Source File:** `Verbal Ability.pdf`
 
- (ID: `SEC0405_PYQ50_Q07`)
-- **Source Module**: `PYQ Verbal Ability Questions`
-- **Source File**: `Verbal Ability.pdf`
-- **Topic Domain**: **Reading Comprehension: Factual Recall**
-
-
-### Question 96: Infosys SE Question 96  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Which of the following is NOT listed as a pillar of sustainability?
 
@@ -2090,23 +1707,15 @@ Text explicitly cites storage and intermittency as major hurdles.
 
 ---
 
+---
 
-### Question 97: Infosys SE Question 97  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 49: Reading Comprehension: Inference  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_PYQ50_Q08` | **Source File:** `Verbal Ability.pdf`
 
- (ID: `SEC0405_PYQ50_Q08`)
-- **Source Module**: `PYQ Verbal Ability Questions`
-- **Source File**: `Verbal Ability.pdf`
-- **Topic Domain**: **Reading Comprehension: Inference**
-
-
-### Question 98: Infosys SE Question 98  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 The author believes that the common understanding of sustainability
 is often:
@@ -2129,23 +1738,15 @@ Passage states grid modernization is essential for renewable integration.
 
 ---
 
+---
 
-### Question 99: Infosys SE Question 99  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 50: Reading Comprehension: Vocabulary in Context  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_PYQ50_Q09` | **Source File:** `Verbal Ability.pdf`
 
- (ID: `SEC0405_PYQ50_Q09`)
-- **Source Module**: `PYQ Verbal Ability Questions`
-- **Source File**: `Verbal Ability.pdf`
-- **Topic Domain**: **Reading Comprehension: Vocabulary in Context**
-
-
-### Question 100: Infosys SE Question 100  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 According to the passage, what does "social equity" in the context of
 sustainability imply?
@@ -2168,23 +1769,15 @@ Contextual replacement for shift / changeover.
 
 ---
 
+---
 
-### Question 101: Infosys SE Question 101  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 51: Reading Comprehension: Tone Analysis  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_PYQ50_Q10` | **Source File:** `Verbal Ability.pdf`
 
- (ID: `SEC0405_PYQ50_Q10`)
-- **Source Module**: `PYQ Verbal Ability Questions`
-- **Source File**: `Verbal Ability.pdf`
-- **Topic Domain**: **Reading Comprehension: Tone Analysis**
-
-
-### Question 102: Infosys SE Question 102  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 What is the author's vision of a "truly sustainable solution"?
 
@@ -2234,6 +1827,7 @@ Author provides informative factual overview with positive forward-looking stanc
 > **Passage Text:**  
 > *"In the world of science, data serves as the foundation of progress. Researchers collect,  analyze, and interpret data to understand natural phenomena. With the advancements in  technology, large-scale data collection has become more feasible, allowing scientists to  develop models that predict future trends. However, the sheer volume of data can sometimes  overwhelm, leading to challenges in sorting relevant information from irrelevant noise."*
 
+---
 
 ### Question 103: Infosys SE Question 103  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -3739,7 +3333,10 @@ The central idea of the passage is that:
 - **(C)** Managers, not developers, are responsible for technical debt
 - **(D)** Fixed refactoring quotas are the best way to manage debt
 
-**Correct Answer:** Option **(B)** — `Technical debt is not necessarily bad, but its recurring costs must be made visible and repaid selectively`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `Technical debt is not necessarily bad, but its recurring costs must be made visible and repaid selectively`
+
 
 **Detailed Explanation & Grammatical / Textual Justification:**
 The passage argues that technical debt is analogous to financial debt: not inherently evil, but dangerous when its recurring carrying costs ('interest') are unacknowledged. The recommended path is making debt visible and repaying it where interest is demonstrably high, matching option (b).
@@ -3765,7 +3362,10 @@ According to the passage, managers blame developer productivity because they:
 - **(C)** are unaware that software can be refactored
 - **(D)** have reserved too little time for sprints
 
-**Correct Answer:** Option **(B)** — `see only the delivered features and not the hidden extra effort`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `see only the delivered features and not the hidden extra effort`
+
 
 **Detailed Explanation & Grammatical / Textual Justification:**
 The passage states explicitly: 'yet managers, seeing only the delivered functionality, attribute the slowdown to declining developer productivity.' Because the background drag of unrecorded debt is invisible to them, they blame the engineers.
@@ -3791,7 +3391,10 @@ Which statement would critics of fixed repayment quotas most likely agree with?
 - **(C)** Cosmetic rewrites are the most valuable form of repayment
 - **(D)** Sprints should be lengthened
 
-**Correct Answer:** Option **(A)** — `Repayment effort should target genuine risks rather than meet a set proportion`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `Repayment effort should target genuine risks rather than meet a set proportion`
+
 
 **Detailed Explanation & Grammatical / Textual Justification:**
 Critics argue that fixed quotas 'are arbitrary and encourage cosmetic rewrites that leave real risks untouched.' Hence, they would advocate targeting repayment where high, genuine risks exist rather than meeting a rigid percentage.
@@ -3817,7 +3420,10 @@ In the passage, "interest" most nearly refers to:
 - **(C)** the curiosity of developers
 - **(D)** the profit from a market opportunity
 
-**Correct Answer:** Option **(B)** — `the recurring additional effort imposed on future changes`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `the recurring additional effort imposed on future changes`
+
 
 **Detailed Explanation & Grammatical / Textual Justification:**
 The passage defines interest directly: 'the interest, meaning the extra effort every future change demands'.
@@ -3844,7 +3450,10 @@ Which of the following is NOT supported by the passage?
 - **(D)** Debt is often left unrecorded in practice 
 Sentence Correction (Q31–35). Choose the best replacement for the bold part.
 
-**Correct Answer:** Option **(B)** — `A slowdown in delivery always indicates falling developer productivity`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `A slowdown in delivery always indicates falling developer productivity`
+
 
 **Detailed Explanation & Grammatical / Textual Justification:**
 The passage explicitly notes that a delivery slowdown is often caused by accumulated technical debt rather than declining developer productivity, so the claim that slowdown 'always indicates falling developer productivity' is false and NOT supported.
@@ -3870,7 +3479,10 @@ Neither the manager nor the engineers was aware of the revised deadline.
 - **(C)** engineers has been
 - **(D)** engineer were
 
-**Correct Answer:** Option **(B)** — `engineers were`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `engineers were`
+
 
 **Detailed Explanation & Grammatical / Textual Justification:**
 With correlative conjunctions 'neither... nor', the verb agrees in number with the nearer subject. Here, the nearer subject is 'engineers' (plural), which requires the plural past verb 'were'. Correct: 'Neither the manager nor the engineers were aware of the revised deadline.'
@@ -3896,7 +3508,10 @@ Had the team would have tested the patch thoroughly, the outage could have been 
 - **(C)** Has the team tested
 - **(D)** If the team would test
 
-**Correct Answer:** Option **(B)** — `Had the team tested`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `Had the team tested`
+
 
 **Detailed Explanation & Grammatical / Textual Justification:**
 Inverted third conditional structure uses 'Had + subject + past participle'. The conditional clause cannot contain 'would have'. Correct: 'Had the team tested the patch thoroughly, the outage could have been avoided.'
@@ -3923,7 +3538,10 @@ Hardly the server had restarted when the alerts began flooding in.
 - **(D)** the server 
 restarted than
 
-**Correct Answer:** Option **(B)** — `had the server restarted when`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `had the server restarted when`
+
 
 **Detailed Explanation & Grammatical / Textual Justification:**
 Negative adverbial 'Hardly' placed at the beginning of a clause triggers negative inversion: 'Hardly had + subject + past participle... when...'. Correct: 'Hardly had the server restarted when the alerts began flooding in.'
@@ -3949,7 +3567,10 @@ The number of applicants are increasing, but a large number of them lacks the re
 - **(C)** is … lacks
 - **(D)** are … lack
 
-**Correct Answer:** Option **(B)** — `is … lack`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `is … lack`
+
 
 **Detailed Explanation & Grammatical / Textual Justification:**
 'The number of' denotes a singular collective quantity and takes a singular verb ('is increasing'). In contrast, 'a large number of' denotes a plural quantity of individuals and takes a plural verb ('lack the required skills'). Correct: 'is ... lack'.
@@ -3976,7 +3597,10 @@ Each of the interns, along with their mentor, were invited to present.
 - **(D)** have been 
 Para-jumbles (Q36–38). Arrange the sentences in the correct order.
 
-**Correct Answer:** Option **(B)** — `was`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `was`
+
 
 **Detailed Explanation & Grammatical / Textual Justification:**
 The true grammatical subject of the sentence is 'Each' (distributive pronoun, singular). Parenthetical prepositional phrases like 'along with their mentor' do not alter the grammatical number of the subject. Correct: 'was'.

@@ -1024,7 +1024,10 @@ Hence, the minimum number of weight checks required is 2 (Option B).
 - C) 30
 - D) 18
 
-**Correct Answer:** `D`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `D`
+
 
 **Official Solution Proof:**
 Step-by-step matrix deduction:
@@ -1067,7 +1070,10 @@ Conclusion confirms answer D.
 - C) 19
 - D) 43
 
-**Correct Answer:** `B`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B`
+
 
 **Official Solution Proof:**
 Step-by-step matrix deduction:
@@ -1110,7 +1116,10 @@ Conclusion confirms answer B.
 - C) 36
 - D) 18
 
-**Correct Answer:** `B`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B`
+
 
 **Official Solution Proof:**
 Step-by-step matrix deduction:
@@ -1153,7 +1162,10 @@ Conclusion confirms answer B.
 - C) 25
 - D) 48
 
-**Correct Answer:** `B`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B`
+
 
 **Official Solution Proof:**
 Step-by-step matrix deduction:
@@ -1196,7 +1208,10 @@ Conclusion confirms answer B.
 - C) 47
 - D) 45
 
-**Correct Answer:** `A`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `A`
+
 
 **Official Solution Proof:**
 Step-by-step matrix deduction:
@@ -1239,7 +1254,10 @@ Conclusion confirms answer A.
 - C) 13
 - D) 16
 
-**Correct Answer:** `D`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `D`
+
 
 **Official Solution Proof:**
 Step-by-step matrix deduction:
@@ -1282,7 +1300,10 @@ Conclusion confirms answer D.
 - C) 18
 - D) 6
 
-**Correct Answer:** `D`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `D`
+
 
 **Official Solution Proof:**
 Step-by-step matrix deduction:
@@ -1325,7 +1346,10 @@ Conclusion confirms answer D.
 - C) 11
 - D) 17
 
-**Correct Answer:** `D`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `D`
+
 
 **Official Solution Proof:**
 Step-by-step matrix deduction:
@@ -1368,7 +1392,10 @@ Conclusion confirms answer D.
 - C) 30
 - D) 15
 
-**Correct Answer:** `D`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `D`
+
 
 **Official Solution Proof:**
 Step-by-step matrix deduction:
@@ -1411,7 +1438,10 @@ Conclusion confirms answer D.
 - C) 19
 - D) 11
 
-**Correct Answer:** `D`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `D`
+
 
 **Official Solution Proof:**
 Step-by-step matrix deduction:
@@ -1454,7 +1484,10 @@ Conclusion confirms answer D.
 - C) 56
 - D) 52
 
-**Correct Answer:** `C`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `C`
+
 
 **Official Solution Proof:**
 Step-by-step matrix deduction:
@@ -1497,7 +1530,10 @@ Conclusion confirms answer C.
 - C) 17
 - D) 16
 
-**Correct Answer:** `A`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `A`
+
 
 **Official Solution Proof:**
 Step-by-step matrix deduction:
@@ -1540,7 +1576,10 @@ Conclusion confirms answer A.
 - C) 27
 - D) 32
 
-**Correct Answer:** `D`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `D`
+
 
 **Official Solution Proof:**
 Step-by-step matrix deduction:
@@ -1583,7 +1622,10 @@ Conclusion confirms answer D.
 - C) 33
 - D) 40
 
-**Correct Answer:** `B`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B`
+
 
 **Official Solution Proof:**
 Step-by-step matrix deduction:

@@ -1,28 +1,21 @@
 # 🏆 Infosys SE Elite Crack Vault — 02 Spotting Errors and Sentence Correction Master Compendium Elite
 > **Target Role:** **Infosys Systems Engineer (SE)** (3.6 – 4.0 LPA Recruitment Drive)  
 > **Curation Standard:** **100% Pure SE Role Specific** (All SP/DSE Upper-Level & Practice Variants Purged)  
-> **Total Curated Questions in Topic:** **558 Questions**  
-> **Question Breakdown:** 🔴 `260 Must-Solve` | 🟡 `298 Core SE Level`  
+> **Total Curated Questions in Topic:** **279 Questions**  
+> **Question Breakdown:** 🔴 `130 Must-Solve` | 🟡 `149 Core SE Level` | ⚪ `0 Practice Variant`  
 > **Verification Score:** 100% Mathematically & Deductively Proven with Zero Hallucination  
 
 ---
 
-### Question 1: Infosys SE Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+---
+
+### Problem 01: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q01` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q01`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
-
-
-### Question 2: Infosys SE Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -40,23 +33,15 @@ Rule: 'Many a' is followed by a singular countable noun ('student') and strictly
 
 ---
 
+---
 
-### Question 3: Infosys SE Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 02: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q02` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q02`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
-
-
-### Question 4: Infosys SE Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -74,23 +59,15 @@ Rule: When 'statistics' refers to numerical data, facts, or figures collected, i
 
 ---
 
+---
 
-### Question 5: Infosys SE Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 03: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q03` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q03`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
-
-
-### Question 6: Infosys SE Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -108,23 +85,15 @@ Rule: When two subjects are joined by parenthetical expressions like 'as well as
 
 ---
 
+---
 
-### Question 7: Infosys SE Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 04: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q04` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q04`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
-
-
-### Question 8: Infosys SE Question 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -142,23 +111,15 @@ Rule: Collective noun phrase 'A body of volunteers' acts as a single unified col
 
 ---
 
+---
 
-### Question 9: Infosys SE Question 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 05: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q05` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q05`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
-
-
-### Question 10: Infosys SE Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -176,23 +137,15 @@ Rule: 'News' is an uncountable noun that is always treated as grammatically sing
 
 ---
 
+---
 
-### Question 11: Infosys SE Question 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 06: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q06` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q06`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
-
-
-### Question 12: Infosys SE Question 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -210,23 +163,15 @@ Rule: In 'Not only... but also' correlative constructions, the verb agrees in nu
 
 ---
 
+---
 
-### Question 13: Infosys SE Question 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 07: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q07` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q07`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
-
-
-### Question 14: Infosys SE Question 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -244,23 +189,15 @@ Rule: 'United Nations' is a single sovereign international organization/entity, 
 
 ---
 
+---
 
-### Question 15: Infosys SE Question 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 08: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q08` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q08`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
-
-
-### Question 16: Infosys SE Question 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -278,23 +215,15 @@ Rule: When two nouns are joined by 'and' but preceded by only one definite artic
 
 ---
 
+---
 
-### Question 17: Infosys SE Question 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 09: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q09` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q09`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
-
-
-### Question 18: Infosys SE Question 18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -312,23 +241,15 @@ Rule: With 'Neither... nor', the verb agrees with the subject closest to it ('th
 
 ---
 
+---
 
-### Question 19: Infosys SE Question 19  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 10: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q10` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q10`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
-
-
-### Question 20: Infosys SE Question 20  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -346,23 +267,15 @@ Rule: 'A number of' is an idiomatic quantifier meaning 'several/many' and takes 
 
 ---
 
+---
 
-### Question 21: Infosys SE Question 21  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 11: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q11` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q11`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
-
-
-### Question 22: Infosys SE Question 22  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -380,23 +293,15 @@ Rule: 'The number of' denotes a specific count/figure and always takes a singula
 
 ---
 
+---
 
-### Question 23: Infosys SE Question 23  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 12: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q12` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q12`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
-
-
-### Question 24: Infosys SE Question 24  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -414,23 +319,15 @@ Rule: When two items joined by 'and' express a single compound idea or essential
 
 ---
 
+---
 
-### Question 25: Infosys SE Question 25  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 13: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q13` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q13`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
-
-
-### Question 26: Infosys SE Question 26  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -448,23 +345,15 @@ Rule: Expressions of distance, time, weight, and monetary amounts are considered
 
 ---
 
+---
 
-### Question 27: Infosys SE Question 27  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 14: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q14` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q14`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
-
-
-### Question 28: Infosys SE Question 28  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -482,23 +371,15 @@ Rule: Indefinite pronoun 'Each' is grammatically singular and takes a singular v
 
 ---
 
+---
 
-### Question 29: Infosys SE Question 29  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 15: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q15` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q15`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
-
-
-### Question 30: Infosys SE Question 30  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -516,23 +397,15 @@ Rule: Names of academic subjects ending in -s (Physics, Mathematics, Economics) 
 
 ---
 
+---
 
-### Question 31: Infosys SE Question 31  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 16: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q16` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q16`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
-
-
-### Question 32: Infosys SE Question 32  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -550,23 +423,15 @@ Rule: 'Either' of two alternatives is singular and requires a singular verb ('is
 
 ---
 
+---
 
-### Question 33: Infosys SE Question 33  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 17: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q17` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q17`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
-
-
-### Question 34: Infosys SE Question 34  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -584,23 +449,15 @@ Rule: The true head subject of the sentence is 'The quality' (singular), not the
 
 ---
 
+---
 
-### Question 35: Infosys SE Question 35  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 18: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q18` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q18`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
-
-
-### Question 36: Infosys SE Question 36  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -618,23 +475,15 @@ Rule: 'Slow and steady' represents a singular philosophical maxim / unified trai
 
 ---
 
+---
 
-### Question 37: Infosys SE Question 37  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 19: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q19` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q19`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
-
-
-### Question 38: Infosys SE Question 38  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -652,23 +501,15 @@ Rule: The title of a single book, movie, or literary work is singular even if th
 
 ---
 
+---
 
-### Question 39: Infosys SE Question 39  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 20: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q20` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q20`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
-
-
-### Question 40: Infosys SE Question 40  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -686,23 +527,15 @@ Rule: 'Information' is an uncountable noun. When 'None of' refers to an uncounta
 
 ---
 
+---
 
-### Question 41: Infosys SE Question 41  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 21: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q21` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q21`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_03.png`
-
-
-### Question 42: Infosys SE Question 42  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -720,23 +553,15 @@ Rule: When subjects are preceded by 'Every' or 'Each', the verb is strictly sing
 
 ---
 
+---
 
-### Question 43: Infosys SE Question 43  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 22: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q22` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q22`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_03.png`
-
-
-### Question 44: Infosys SE Question 44  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -754,23 +579,15 @@ Rule: 'Neither' used as a pronoun is singular and takes a singular verb ('is').
 
 ---
 
+---
 
-### Question 45: Infosys SE Question 45  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 23: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q23` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q23`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_03.png`
-
-
-### Question 46: Infosys SE Question 46  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -788,23 +605,15 @@ Rule: In 'One of + plural noun', the subject is 'One' (singular), requiring a si
 
 ---
 
+---
 
-### Question 47: Infosys SE Question 47  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 24: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q24` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q24`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_03.png`
-
-
-### Question 48: Infosys SE Question 48  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -822,23 +631,15 @@ Rule: When members of a collective noun ('The committee') act individually or ho
 
 ---
 
+---
 
-### Question 49: Infosys SE Question 49  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 25: Subject-Verb Agreement: Fundamental Rules  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA1_Q25` | **Source File:** `CampusMonk (SVA LEVEL 1.pdf)`
 
- (ID: `SEC0405_SVA1_Q25`)
-- **Source**: CampusMonk (SVA LEVEL 1.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Fundamental Rules
-- **Visual Reference Plate**: `images/eng_sva_level_1_page_03.png`
-
-
-### Question 50: Infosys SE Question 50  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Fill in the blank with the grammatically correct verb:
 
@@ -856,23 +657,15 @@ Rule: 'Riches' (meaning wealth/possessions) is an inherently plural noun that ta
 
 ---
 
+---
 
-### Question 51: Infosys SE Question 51  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 26: Subject-Verb Agreement: Error Spotting & Syntax  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA2_Q01` | **Source File:** `CampusMonk (SVA LEVEL 2.pdf)`
 
- (ID: `SEC0405_SVA2_Q01`)
-- **Source**: CampusMonk (SVA LEVEL 2.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Error Spotting & Syntax
-- **Visual Reference Plate**: `images/eng_sva_level_2_page_01.png`
-
-
-### Question 52: Infosys SE Question 52  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Identify the part containing a grammatical error:
 
@@ -892,23 +685,15 @@ Error in Part (b): When singular subjects are preceded by distributive 'Every', 
 
 ---
 
+---
 
-### Question 53: Infosys SE Question 53  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 27: Subject-Verb Agreement: Error Spotting & Syntax  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA2_Q02` | **Source File:** `CampusMonk (SVA LEVEL 2.pdf)`
 
- (ID: `SEC0405_SVA2_Q02`)
-- **Source**: CampusMonk (SVA LEVEL 2.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Error Spotting & Syntax
-- **Visual Reference Plate**: `images/eng_sva_level_2_page_01.png`
-
-
-### Question 54: Infosys SE Question 54  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Identify the part containing a grammatical error:
 
@@ -928,23 +713,15 @@ Error in Part (b): Intervening phrase 'along with Tisha' does not affect the num
 
 ---
 
+---
 
-### Question 55: Infosys SE Question 55  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 28: Subject-Verb Agreement: Error Spotting & Syntax  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA2_Q03` | **Source File:** `CampusMonk (SVA LEVEL 2.pdf)`
 
- (ID: `SEC0405_SVA2_Q03`)
-- **Source**: CampusMonk (SVA LEVEL 2.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Error Spotting & Syntax
-- **Visual Reference Plate**: `images/eng_sva_level_2_page_01.png`
-
-
-### Question 56: Infosys SE Question 56  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Identify the part containing a grammatical error:
 
@@ -964,23 +741,15 @@ Error in Part (b): In 'subject1 and not subject2', the verb agrees with subject1
 
 ---
 
+---
 
-### Question 57: Infosys SE Question 57  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 29: Subject-Verb Agreement: Error Spotting & Syntax  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA2_Q04` | **Source File:** `CampusMonk (SVA LEVEL 2.pdf)`
 
- (ID: `SEC0405_SVA2_Q04`)
-- **Source**: CampusMonk (SVA LEVEL 2.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Error Spotting & Syntax
-- **Visual Reference Plate**: `images/eng_sva_level_2_page_01.png`
-
-
-### Question 58: Infosys SE Question 58  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Identify the part containing a grammatical error:
 
@@ -1000,23 +769,15 @@ Error in Part (c): Corporate names and brand entities ('General Motors') are sin
 
 ---
 
+---
 
-### Question 59: Infosys SE Question 59  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 30: Subject-Verb Agreement: Error Spotting & Syntax  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA2_Q05` | **Source File:** `CampusMonk (SVA LEVEL 2.pdf)`
 
- (ID: `SEC0405_SVA2_Q05`)
-- **Source**: CampusMonk (SVA LEVEL 2.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Error Spotting & Syntax
-- **Visual Reference Plate**: `images/eng_sva_level_2_page_01.png`
-
-
-### Question 60: Infosys SE Question 60  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Identify the part containing a grammatical error:
 
@@ -1036,23 +797,15 @@ Error in Part (b): Parenthetical phrase 'together with Buster the cat' is ignore
 
 ---
 
+---
 
-### Question 61: Infosys SE Question 61  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 31: Subject-Verb Agreement: Error Spotting & Syntax  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA2_Q06` | **Source File:** `CampusMonk (SVA LEVEL 2.pdf)`
 
- (ID: `SEC0405_SVA2_Q06`)
-- **Source**: CampusMonk (SVA LEVEL 2.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Error Spotting & Syntax
-- **Visual Reference Plate**: `images/eng_sva_level_2_page_01.png`
-
-
-### Question 62: Infosys SE Question 62  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Identify the part containing a grammatical error:
 
@@ -1072,23 +825,15 @@ No error (d): An amount of money ('fourteen dollars') functioning as a total sum
 
 ---
 
+---
 
-### Question 63: Infosys SE Question 63  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 32: Subject-Verb Agreement: Error Spotting & Syntax  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA2_Q07` | **Source File:** `CampusMonk (SVA LEVEL 2.pdf)`
 
- (ID: `SEC0405_SVA2_Q07`)
-- **Source**: CampusMonk (SVA LEVEL 2.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Error Spotting & Syntax
-- **Visual Reference Plate**: `images/eng_sva_level_2_page_02.png`
-
-
-### Question 64: Infosys SE Question 64  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Identify the part containing a grammatical error:
 
@@ -1108,23 +853,15 @@ Error in Part (a): 'Johnson and Johnson' is a single business enterprise (singul
 
 ---
 
+---
 
-### Question 65: Infosys SE Question 65  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 33: Subject-Verb Agreement: Error Spotting & Syntax  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA2_Q08` | **Source File:** `CampusMonk (SVA LEVEL 2.pdf)`
 
- (ID: `SEC0405_SVA2_Q08`)
-- **Source**: CampusMonk (SVA LEVEL 2.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Error Spotting & Syntax
-- **Visual Reference Plate**: `images/eng_sva_level_2_page_02.png`
-
-
-### Question 66: Infosys SE Question 66  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Identify the part containing a grammatical error:
 
@@ -1144,23 +881,15 @@ Error in Part (b): The pronoun 'Neither' is singular and requires a singular ver
 
 ---
 
+---
 
-### Question 67: Infosys SE Question 67  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 34: Subject-Verb Agreement: Error Spotting & Syntax  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA2_Q09` | **Source File:** `CampusMonk (SVA LEVEL 2.pdf)`
 
- (ID: `SEC0405_SVA2_Q09`)
-- **Source**: CampusMonk (SVA LEVEL 2.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Error Spotting & Syntax
-- **Visual Reference Plate**: `images/eng_sva_level_2_page_02.png`
-
-
-### Question 68: Infosys SE Question 68  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Identify the part containing a grammatical error:
 
@@ -1180,23 +909,15 @@ Error in Part (b): The true subject is the singular head noun 'The bouquet', not
 
 ---
 
+---
 
-### Question 69: Infosys SE Question 69  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 35: Subject-Verb Agreement: Error Spotting & Syntax  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SVA2_Q10` | **Source File:** `CampusMonk (SVA LEVEL 2.pdf)`
 
- (ID: `SEC0405_SVA2_Q10`)
-- **Source**: CampusMonk (SVA LEVEL 2.pdf)
-- **Sub-Domain Focus**: Subject-Verb Agreement: Error Spotting & Syntax
-- **Visual Reference Plate**: `images/eng_sva_level_2_page_02.png`
-
-
-### Question 70: Infosys SE Question 70  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Identify the part containing a grammatical error:
 
@@ -1216,23 +937,15 @@ Error in Part (b): The standard rule dictates that 'More than one + singular nou
 
 ---
 
+---
 
-### Question 71: Infosys SE Question 71  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 36: Sentence Correction: Parallelism / Series Consistency  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC1_Q01` | **Source File:** `CampusMonk (1 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC1_Q01`)
-- **Source**: CampusMonk (1 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Parallelism / Series Consistency
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_01.png`
-
-
-### Question 72: Infosys SE Question 72  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically effective:
 
@@ -1252,23 +965,15 @@ Rule: Parallel structure requires that elements in a series share the same gramm
 
 ---
 
+---
 
-### Question 73: Infosys SE Question 73  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 37: Sentence Correction: Redundancy & Conciseness  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC1_Q02` | **Source File:** `CampusMonk (1 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC1_Q02`)
-- **Source**: CampusMonk (1 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Redundancy & Conciseness
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_01.png`
-
-
-### Question 74: Infosys SE Question 74  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically effective:
 
@@ -1288,23 +993,15 @@ Rule: 'The fact of the matter' and 'The truth of the matter' are verbose, clich�
 
 ---
 
+---
 
-### Question 75: Infosys SE Question 75  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 38: Sentence Correction: Modifier Placement & Misplaced Modifiers  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC1_Q03` | **Source File:** `CampusMonk (1 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC1_Q03`)
-- **Source**: CampusMonk (1 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Modifier Placement & Misplaced Modifiers
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_02.png`
-
-
-### Question 76: Infosys SE Question 76  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically effective:
 
@@ -1324,23 +1021,15 @@ Rule: In Option 1, the introductory participial phrase 'Covered in melted cheese
 
 ---
 
+---
 
-### Question 77: Infosys SE Question 77  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 39: Sentence Correction: Comparison & Ambiguity  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC1_Q04` | **Source File:** `CampusMonk (1 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC1_Q04`)
-- **Source**: CampusMonk (1 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Comparison & Ambiguity
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_02.png`
-
-
-### Question 78: Infosys SE Question 78  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically effective:
 
@@ -1360,23 +1049,15 @@ Rule: 'He likes chocolate more than his wife' is ambiguous—it could mean he pr
 
 ---
 
+---
 
-### Question 79: Infosys SE Question 79  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 40: Sentence Correction: Correlative Conjunctions (Not only... but also)  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC1_Q05` | **Source File:** `CampusMonk (1 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC1_Q05`)
-- **Source**: CampusMonk (1 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Correlative Conjunctions (Not only... but also)
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_03.png`
-
-
-### Question 80: Infosys SE Question 80  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically effective:
 
@@ -1396,23 +1077,15 @@ Rule: Correlative conjunctions must connect parallel grammatical structures. In 
 
 ---
 
+---
 
-### Question 81: Infosys SE Question 81  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 41: Sentence Correction: Subjunctive Mood & Hypothetical Conditions  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC1_Q06` | **Source File:** `CampusMonk (1 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC1_Q06`)
-- **Source**: CampusMonk (1 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Subjunctive Mood & Hypothetical Conditions
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_03.png`
-
-
-### Question 82: Infosys SE Question 82  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically effective:
 
@@ -1432,23 +1105,15 @@ Rule: In hypothetical, contrary-to-fact conditional clauses (the subjunctive moo
 
 ---
 
+---
 
-### Question 83: Infosys SE Question 83  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 42: Sentence Correction: Tense Consistency & Sequence of Tenses  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC1_Q07` | **Source File:** `CampusMonk (1 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC1_Q07`)
-- **Source**: CampusMonk (1 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Tense Consistency & Sequence of Tenses
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_04.png`
-
-
-### Question 84: Infosys SE Question 84  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically effective:
 
@@ -1468,23 +1133,15 @@ Rule: When two events occurred in the past, the earlier event must be expressed 
 
 ---
 
+---
 
-### Question 85: Infosys SE Question 85  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 43: Sentence Correction: Idiomatic Preposition Usage  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC1_Q08` | **Source File:** `CampusMonk (1 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC1_Q08`)
-- **Source**: CampusMonk (1 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Idiomatic Preposition Usage
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_04.png`
-
-
-### Question 86: Infosys SE Question 86  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically effective:
 
@@ -1504,23 +1161,15 @@ Rule: The adjective 'capable' idiomatically takes the preposition 'of' followed 
 
 ---
 
+---
 
-### Question 87: Infosys SE Question 87  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 44: Sentence Correction: Subject-Verb Concord in Relative Clauses  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC1_Q09` | **Source File:** `CampusMonk (1 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC1_Q09`)
-- **Source**: CampusMonk (1 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Subject-Verb Concord in Relative Clauses
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_05.png`
-
-
-### Question 88: Infosys SE Question 88  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically effective:
 
@@ -1540,23 +1189,15 @@ Rule: In the construction 'one of those [plural noun] who...', the relative pron
 
 ---
 
+---
 
-### Question 89: Infosys SE Question 89  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 45: Sentence Correction: Pronoun Case in Comparisons  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC1_Q10` | **Source File:** `CampusMonk (1 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC1_Q10`)
-- **Source**: CampusMonk (1 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Pronoun Case in Comparisons
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_05.png`
-
-
-### Question 90: Infosys SE Question 90  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically effective:
 
@@ -1576,23 +1217,15 @@ Rule: In formal written English, 'than' functions as a comparative conjunction i
 
 ---
 
+---
 
-### Question 91: Infosys SE Question 91  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 46: Sentence Correction: Double Negatives  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC1_Q11` | **Source File:** `CampusMonk (1 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC1_Q11`)
-- **Source**: CampusMonk (1 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Double Negatives
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_06.png`
-
-
-### Question 92: Infosys SE Question 92  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically effective:
 
@@ -1612,23 +1245,15 @@ Rule: 'Hardly', 'scarcely', and 'barely' are inherently negative adverbs. Combin
 
 ---
 
+---
 
-### Question 93: Infosys SE Question 93  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 47: Sentence Correction: Faulty Predication  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC1_Q12` | **Source File:** `CampusMonk (1 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC1_Q12`)
-- **Source**: CampusMonk (1 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Faulty Predication
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_06.png`
-
-
-### Question 94: Infosys SE Question 94  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically effective:
 
@@ -1648,23 +1273,15 @@ Rule: 'The purpose is because' is a classic error of faulty predication. A purpo
 
 ---
 
+---
 
-### Question 95: Infosys SE Question 95  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 48: Sentence Correction: Dangling Participles  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC1_Q13` | **Source File:** `CampusMonk (1 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC1_Q13`)
-- **Source**: CampusMonk (1 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Dangling Participles
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_07.png`
-
-
-### Question 96: Infosys SE Question 96  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically effective:
 
@@ -1684,23 +1301,15 @@ Rule: In Option 1, 'Walking into the forest' illogically modifies 'the trees'. O
 
 ---
 
+---
 
-### Question 97: Infosys SE Question 97  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 49: Sentence Correction: Split Infinitives & Emphasis  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC1_Q14` | **Source File:** `CampusMonk (1 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC1_Q14`)
-- **Source**: CampusMonk (1 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Split Infinitives & Emphasis
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_07.png`
-
-
-### Question 98: Infosys SE Question 98  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically effective:
 
@@ -1720,23 +1329,15 @@ Rule: While traditional prescriptive grammar discouraged split infinitives, mode
 
 ---
 
+---
 
-### Question 99: Infosys SE Question 99  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 50: Sentence Correction: Subject Complement & Case Agreement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC1_Q15` | **Source File:** `CampusMonk (1 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC1_Q15`)
-- **Source**: CampusMonk (1 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Subject Complement & Case Agreement
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_07.png`
-
-
-### Question 100: Infosys SE Question 100  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically effective:
 
@@ -1756,23 +1357,15 @@ Rule: A predicate pronoun following the linking verb 'to be' ('was') takes the s
 
 ---
 
+---
 
-### Question 101: Infosys SE Question 101  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 51: Sentence Correction (Hard Set): Parallelism in Compound Complements  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC2_Q01` | **Source File:** `CampusMonk (2 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC2_Q01`)
-- **Source**: CampusMonk (2 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction (Hard Set): Parallelism in Compound Complements
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_2_page_01.png`
-
-
-### Question 102: Infosys SE Question 102  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically flawless:
 
@@ -1792,23 +1385,15 @@ Rule: 'Committed to' is followed by gerunds (-ing forms). All three coordinate i
 
 ---
 
+---
 
-### Question 103: Infosys SE Question 103  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 52: Sentence Correction (Hard Set): Redundancy in Reason Clauses  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC2_Q02` | **Source File:** `CampusMonk (2 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC2_Q02`)
-- **Source**: CampusMonk (2 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction (Hard Set): Redundancy in Reason Clauses
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_2_page_01.png`
-
-
-### Question 104: Infosys SE Question 104  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically flawless:
 
@@ -1828,23 +1413,15 @@ Rule: 'The reason why... is because' contains redundant repetition of cause. Sta
 
 ---
 
+---
 
-### Question 105: Infosys SE Question 105  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 53: Sentence Correction (Hard Set): Modifier Placement with Temporal Adverbs  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC2_Q03` | **Source File:** `CampusMonk (2 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC2_Q03`)
-- **Source**: CampusMonk (2 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction (Hard Set): Modifier Placement with Temporal Adverbs
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_2_page_02.png`
-
-
-### Question 106: Infosys SE Question 106  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically flawless:
 
@@ -1864,23 +1441,15 @@ Rule: The limiting adverb 'only' must immediately precede the word it modifies. 
 
 ---
 
+---
 
-### Question 107: Infosys SE Question 107  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 54: Sentence Correction (Hard Set): Absolute Phrases vs Dangling Participles  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC2_Q04` | **Source File:** `CampusMonk (2 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC2_Q04`)
-- **Source**: CampusMonk (2 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction (Hard Set): Absolute Phrases vs Dangling Participles
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_2_page_02.png`
-
-
-### Question 108: Infosys SE Question 108  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically flawless:
 
@@ -1900,23 +1469,15 @@ Rule: Option 1 uses a valid nominative absolute phrase ('The meeting having conc
 
 ---
 
+---
 
-### Question 109: Infosys SE Question 109  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 55: Sentence Correction (Hard Set): Unbalanced Comparisons with 'Like' vs 'As'  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC2_Q05` | **Source File:** `CampusMonk (2 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC2_Q05`)
-- **Source**: CampusMonk (2 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction (Hard Set): Unbalanced Comparisons with 'Like' vs 'As'
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_2_page_03.png`
-
-
-### Question 110: Infosys SE Question 110  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically flawless:
 
@@ -1936,23 +1497,15 @@ Rule: In formal grammar, 'like' is a preposition followed by a noun/pronoun, whi
 
 ---
 
+---
 
-### Question 111: Infosys SE Question 111  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 56: Sentence Correction (Hard Set): Inverted Word Order after Negative Adverbials  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC2_Q06` | **Source File:** `CampusMonk (2 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC2_Q06`)
-- **Source**: CampusMonk (2 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction (Hard Set): Inverted Word Order after Negative Adverbials
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_2_page_03.png`
-
-
-### Question 112: Infosys SE Question 112  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically flawless:
 
@@ -1972,23 +1525,15 @@ Rule: When a negative or restrictive adverbial ('Seldom', 'Rarely', 'Scarcely') 
 
 ---
 
+---
 
-### Question 113: Infosys SE Question 113  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 57: Sentence Correction (Hard Set): Conditional Inversion (Omission of 'If')  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC2_Q07` | **Source File:** `CampusMonk (2 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC2_Q07`)
-- **Source**: CampusMonk (2 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction (Hard Set): Conditional Inversion (Omission of 'If')
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_2_page_04.png`
-
-
-### Question 114: Infosys SE Question 114  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically flawless:
 
@@ -2008,23 +1553,15 @@ Rule: Third conditional with inversion requires 'Had + subject + past participle
 
 ---
 
+---
 
-### Question 115: Infosys SE Question 115  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 58: Sentence Correction (Hard Set): Idiomatic Use of 'Prefer to' vs 'Prefer rather than'  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC2_Q08` | **Source File:** `CampusMonk (2 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC2_Q08`)
-- **Source**: CampusMonk (2 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction (Hard Set): Idiomatic Use of 'Prefer to' vs 'Prefer rather than'
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_2_page_04.png`
-
-
-### Question 116: Infosys SE Question 116  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically flawless:
 
@@ -2044,23 +1581,15 @@ Rule: The verb 'prefer' idiomatically takes the preposition 'to' when comparing 
 
 ---
 
+---
 
-### Question 117: Infosys SE Question 117  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 59: Sentence Correction (Hard Set): Elliptical Clauses & Pronoun Consistency  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC2_Q09` | **Source File:** `CampusMonk (2 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC2_Q09`)
-- **Source**: CampusMonk (2 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction (Hard Set): Elliptical Clauses & Pronoun Consistency
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_2_page_05.png`
-
-
-### Question 118: Infosys SE Question 118  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically flawless:
 
@@ -2080,23 +1609,15 @@ Rule: In Option 1, 'While traveling...' illogically implies that 'his camera' wa
 
 ---
 
+---
 
-### Question 119: Infosys SE Question 119  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 60: Sentence Correction (Hard Set): Noun-Pronoun Number Concord with Collective Antecedents  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_SC2_Q10` | **Source File:** `CampusMonk (2 - Advanced Sentence Correction.pdf)`
 
- (ID: `SEC0405_SC2_Q10`)
-- **Source**: CampusMonk (2 - Advanced Sentence Correction.pdf)
-- **Sub-Domain Focus**: Sentence Correction (Hard Set): Noun-Pronoun Number Concord with Collective Antecedents
-- **Visual Reference Plate**: `images/eng_adv_sentence_correction_2_page_05.png`
-
-
-### Question 120: Infosys SE Question 120  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 Select the sentence that is grammatically correct and stylistically flawless:
 
@@ -2116,23 +1637,15 @@ Rule: When a collective noun acts as a unified single body delivering a single a
 
 ---
 
+---
 
-### Question 121: Infosys SE Question 121  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 61: Sentence Correction: Parallelism  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_PYQ50_Q11` | **Source File:** `CampusMonk (Verbal Ability.pdf)`
 
- (ID: `SEC0405_PYQ50_Q11`)
-- **Source**: CampusMonk (Verbal Ability.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Parallelism
-- **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_06.png`
-
-
-### Question 122: Infosys SE Question 122  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 (A) Each of the employees / (B) were given a bonus / (C) for their hard
 work. / (D) No error.
@@ -2151,23 +1664,15 @@ Parallelism rule: series of activities must be in parallel gerund form (-ing).
 
 ---
 
+---
 
-### Question 123: Infosys SE Question 123  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 62: Sentence Correction: Subject-Verb Agreement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_PYQ50_Q12` | **Source File:** `CampusMonk (Verbal Ability.pdf)`
 
- (ID: `SEC0405_PYQ50_Q12`)
-- **Source**: CampusMonk (Verbal Ability.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Subject-Verb Agreement
-- **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_06.png`
-
-
-### Question 124: Infosys SE Question 124  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 (A) The manager was angry at him / (B) for not finishing the work / (C) on
 time. / (D) No error.
@@ -2186,23 +1691,15 @@ The indefinite pronoun 'Neither' is singular and requires a singular verb 'is'.
 
 ---
 
+---
 
-### Question 125: Infosys SE Question 125  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 63: Sentence Correction: Punctuation & Conjunctions  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_PYQ50_Q13` | **Source File:** `CampusMonk (Verbal Ability.pdf)`
 
- (ID: `SEC0405_PYQ50_Q13`)
-- **Source**: CampusMonk (Verbal Ability.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Punctuation & Conjunctions
-- **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_06.png`
-
-
-### Question 126: Infosys SE Question 126  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 (A) If I was you, / (B) I would not accept / (C) this offer. / (D) No error.
 
@@ -2220,23 +1717,15 @@ Compound sentence correctly punctuated with coordinating conjunction 'but' and a
 
 ---
 
+---
 
-### Question 127: Infosys SE Question 127  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 64: Sentence Correction: Subject-Verb Agreement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_PYQ50_Q14` | **Source File:** `CampusMonk (Verbal Ability.pdf)`
 
- (ID: `SEC0405_PYQ50_Q14`)
-- **Source**: CampusMonk (Verbal Ability.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Subject-Verb Agreement
-- **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_06.png`
-
-
-### Question 128: Infosys SE Question 128  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 (A) The sceneries of Kashmir / (B) are more charming / (C) than that of
 Darjeeling. / (D) No error.
@@ -2255,23 +1744,15 @@ Indefinite pronoun 'Each' takes singular verb 'has'.
 
 ---
 
+---
 
-### Question 129: Infosys SE Question 129  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 65: Sentence Correction: Subjunctive Mood  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_PYQ50_Q15` | **Source File:** `CampusMonk (Verbal Ability.pdf)`
 
- (ID: `SEC0405_PYQ50_Q15`)
-- **Source**: CampusMonk (Verbal Ability.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Subjunctive Mood
-- **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_06.png`
-
-
-### Question 130: Infosys SE Question 130  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 (A) The company has decided / (B) to invest into / (C) the new technology
 sector. / (D) No error.
@@ -2290,23 +1771,15 @@ Subjunctive mood contrary-to-fact condition requires 'were' regardless of subjec
 
 ---
 
+---
 
-### Question 131: Infosys SE Question 131  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 66: Sentence Correction: Degrees of Comparison  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_PYQ50_Q16` | **Source File:** `CampusMonk (Verbal Ability.pdf)`
 
- (ID: `SEC0405_PYQ50_Q16`)
-- **Source**: CampusMonk (Verbal Ability.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Degrees of Comparison
-- **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_06.png`
-
-
-### Question 132: Infosys SE Question 132  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 (A) Neither my colleague nor my boss / (B) are aware of / (C) the
 situation. / (D) No error.
@@ -2325,23 +1798,15 @@ Superlative degree requires 'the most intelligent', not double superlative 'most
 
 ---
 
+---
 
-### Question 133: Infosys SE Question 133  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 67: Sentence Correction: Logical Comparison  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_PYQ50_Q17` | **Source File:** `CampusMonk (Verbal Ability.pdf)`
 
- (ID: `SEC0405_PYQ50_Q17`)
-- **Source**: CampusMonk (Verbal Ability.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Logical Comparison
-- **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_06.png`
-
-
-### Question 134: Infosys SE Question 134  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 (A) He is one of the most intelligent boys / (B) that has ever / (C) studied
 in this school. / (D) No error.
@@ -2360,23 +1825,15 @@ Comparison of an item within its own group requires 'any other' to avoid illogic
 
 ---
 
+---
 
-### Question 135: Infosys SE Question 135  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 68: Sentence Correction: Inverted Syntax  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_PYQ50_Q18` | **Source File:** `CampusMonk (Verbal Ability.pdf)`
 
- (ID: `SEC0405_PYQ50_Q18`)
-- **Source**: CampusMonk (Verbal Ability.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Inverted Syntax
-- **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_06.png`
-
-
-### Question 136: Infosys SE Question 136  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 (A) Despite of his best efforts, / (B) he could not / (C) clear the
 examination. / (D) No error.
@@ -2395,23 +1852,15 @@ examination. / (D) No error.
 
 ---
 
+---
 
-### Question 137: Infosys SE Question 137  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 69: Sentence Correction: Infinitive Placement  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_PYQ50_Q19` | **Source File:** `CampusMonk (Verbal Ability.pdf)`
 
- (ID: `SEC0405_PYQ50_Q19`)
-- **Source**: CampusMonk (Verbal Ability.pdf)
-- **Sub-Domain Focus**: Sentence Correction: Infinitive Placement
-- **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_06.png`
-
-
-### Question 138: Infosys SE Question 138  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 (A) I have been working on this project / (B) since four / (C) hours now. /
 (D) No error.
@@ -2430,23 +1879,15 @@ Clear, idiomatic infinitive placement conveying instruction without ambiguity.
 
 ---
 
+---
 
-### Question 139: Infosys SE Question 139  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 70: Sentence Correction: SVA Partitive  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `SEC0405_PYQ50_Q20` | **Source File:** `CampusMonk (Verbal Ability.pdf)`
 
- (ID: `SEC0405_PYQ50_Q20`)
-- **Source**: CampusMonk (Verbal Ability.pdf)
-- **Sub-Domain Focus**: Sentence Correction: SVA Partitive
-- **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_06.png`
-
-
-### Question 140: Infosys SE Question 140  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 (A) The reason I couldn't attend the meeting / (B) was because I / (C) had
 a prior commitment. / (D) No error.
@@ -2471,22 +1912,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 141: Infosys SE Question 141  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 71: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 142: Infosys SE Question 142  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"She don’t like going to the gym because it is too far."*
 
@@ -2506,22 +1940,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 143: Infosys SE Question 143  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 72: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 144: Infosys SE Question 144  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"Neither the manager nor his assistants were available for the meeting."*
 
@@ -2541,22 +1968,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 145: Infosys SE Question 145  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 73: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 146: Infosys SE Question 146  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"The books on the shelf needs to be reorganized."*
 
@@ -2576,22 +1996,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 147: Infosys SE Question 147  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 74: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 148: Infosys SE Question 148  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"She has been working here since five years."*
 
@@ -2611,22 +2024,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 149: Infosys SE Question 149  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 75: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 150: Infosys SE Question 150  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"The team have completed the project ahead of the deadline."*
 
@@ -2646,22 +2052,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 151: Infosys SE Question 151  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 76: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 152: Infosys SE Question 152  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"The results of the test was not satisfactory."*
 
@@ -2681,22 +2080,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 153: Infosys SE Question 153  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 77: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 154: Infosys SE Question 154  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"Each of the employees are responsible for their own tasks."*
 
@@ -2716,22 +2108,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 155: Infosys SE Question 155  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 78: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 156: Infosys SE Question 156  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"Neither the teacher nor the students was aware of the changes."*
 
@@ -2751,22 +2136,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 157: Infosys SE Question 157  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 79: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 158: Infosys SE Question 158  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"She didn’t went to the party because she was feeling unwell."*
 
@@ -2786,22 +2164,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 159: Infosys SE Question 159  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 80: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 160: Infosys SE Question 160  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"John, along with his friends, were attending the seminar."*
 
@@ -2821,22 +2192,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 161: Infosys SE Question 161  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 81: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 162: Infosys SE Question 162  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"If I would have known about the traffic, I would have left earlier."*
 
@@ -2856,22 +2220,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 163: Infosys SE Question 163  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 82: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 164: Infosys SE Question 164  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"The news were shocking to everyone in the office."*
 
@@ -2891,22 +2248,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 165: Infosys SE Question 165  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 83: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 166: Infosys SE Question 166  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"She made a mistake that affected the whole project negatively."*
 
@@ -2926,22 +2276,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 167: Infosys SE Question 167  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 84: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 168: Infosys SE Question 168  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"The students, as well as the teacher, were excited for the trip."*
 
@@ -2961,22 +2304,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 169: Infosys SE Question 169  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 85: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 170: Infosys SE Question 170  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"By the time he will arrive, we will have already finished dinner."*
 
@@ -2996,22 +2332,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 171: Infosys SE Question 171  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 86: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 172: Infosys SE Question 172  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"Despite of the heavy rain, the match continued as planned."*
 
@@ -3031,22 +2360,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 173: Infosys SE Question 173  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 87: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 174: Infosys SE Question 174  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"There is many reasons for the project's failure."*
 
@@ -3066,22 +2388,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 175: Infosys SE Question 175  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 88: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 176: Infosys SE Question 176  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"I could hardly wait for the meeting to be finished so I can leave."*
 
@@ -3101,22 +2416,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 177: Infosys SE Question 177  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 89: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 178: Infosys SE Question 178  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"The car needs to be repair immediately."*
 
@@ -3136,22 +2444,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 179: Infosys SE Question 179  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 90: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 180: Infosys SE Question 180  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"They has been working on this project for several months now."*
 
@@ -3171,22 +2472,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 181: Infosys SE Question 181  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 91: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 182: Infosys SE Question 182  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"She prefers coffee ___ tea in the morning."*
 
@@ -3206,22 +2500,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 183: Infosys SE Question 183  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 92: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 184: Infosys SE Question 184  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"If I would have known about the event, I would have attended it."*
 
@@ -3241,22 +2528,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 185: Infosys SE Question 185  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 93: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 186: Infosys SE Question 186  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"They discussed about the problem and found a solution."*
 
@@ -3276,22 +2556,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 187: Infosys SE Question 187  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 94: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 188: Infosys SE Question 188  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"Neither of the students have completed their assignments."*
 
@@ -3311,22 +2584,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 189: Infosys SE Question 189  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 95: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 190: Infosys SE Question 190  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"He is good in mathematics but weak in chemistry."*
 
@@ -3346,22 +2612,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 191: Infosys SE Question 191  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 96: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 192: Infosys SE Question 192  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"He is too intelligent to make this mistake."*
 
@@ -3381,22 +2640,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 193: Infosys SE Question 193  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 97: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 194: Infosys SE Question 194  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"He has been working in this project since two years."*
 
@@ -3416,22 +2668,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 195: Infosys SE Question 195  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 98: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 196: Infosys SE Question 196  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"Everyone should do their part in the group assignment."*
 
@@ -3451,22 +2696,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 197: Infosys SE Question 197  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 99: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 198: Infosys SE Question 198  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"Despite of the rain, the match was played."*
 
@@ -3486,22 +2724,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 199: Infosys SE Question 199  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 100: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 200: Infosys SE Question 200  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"I don’t think so he is coming to the party."*
 
@@ -3521,22 +2752,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 201: Infosys SE Question 201  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 101: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 202: Infosys SE Question 202  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"I will let you know when will he arrive."*
 
@@ -3556,22 +2780,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 203: Infosys SE Question 203  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 102: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 204: Infosys SE Question 204  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"He does not have any friends which live nearby."*
 
@@ -3591,22 +2808,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 205: Infosys SE Question 205  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 103: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 206: Infosys SE Question 206  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"Each of the girls are bringing their own lunch."*
 
@@ -3626,22 +2836,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 207: Infosys SE Question 207  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 104: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 208: Infosys SE Question 208  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"She is more smarter than her sister."*
 
@@ -3661,22 +2864,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 209: Infosys SE Question 209  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 105: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 210: Infosys SE Question 210  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"The company is one of the best in its field, if not the best."*
 
@@ -3696,22 +2892,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 211: Infosys SE Question 211  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 106: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 212: Infosys SE Question 212  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"I am thinking to move to a new city next year."*
 
@@ -3731,22 +2920,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 213: Infosys SE Question 213  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 107: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 214: Infosys SE Question 214  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"We reached to the station just in time to catch the train."*
 
@@ -3766,22 +2948,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 215: Infosys SE Question 215  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 108: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 216: Infosys SE Question 216  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"My friend is very good at both football as well as basketball."*
 
@@ -3801,22 +2976,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 217: Infosys SE Question 217  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 109: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 218: Infosys SE Question 218  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"I can’t cope up with this much work."*
 
@@ -3836,22 +3004,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 219: Infosys SE Question 219  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 110: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 220: Infosys SE Question 220  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"I prefer reading books than watching television."*
 
@@ -3871,22 +3032,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 221: Infosys SE Question 221  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 111: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 222: Infosys SE Question 222  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"Hardly had the meeting begun than it started to rain."*
 
@@ -3906,22 +3060,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 223: Infosys SE Question 223  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 112: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 224: Infosys SE Question 224  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"No sooner did he finish his work when the bell rang."*
 
@@ -3941,22 +3088,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 225: Infosys SE Question 225  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 113: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 226: Infosys SE Question 226  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"We were listening to music during the car stopped."*
 
@@ -3976,22 +3116,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 227: Infosys SE Question 227  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 114: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 228: Infosys SE Question 228  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"Neither the teacher nor the students was happy with the arrangements."*
 
@@ -4011,22 +3144,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 229: Infosys SE Question 229  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 115: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 230: Infosys SE Question 230  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"Each of them are responsible for their own work."*
 
@@ -4046,22 +3172,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 231: Infosys SE Question 231  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 116: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 232: Infosys SE Question 232  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"Many people believes that climate change is a hoax."*
 
@@ -4081,22 +3200,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 233: Infosys SE Question 233  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 117: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 234: Infosys SE Question 234  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"He is not only intelligent, but also a hard worker."*
 
@@ -4116,22 +3228,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 235: Infosys SE Question 235  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 118: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 236: Infosys SE Question 236  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"The book comprises of five chapters."*
 
@@ -4151,22 +3256,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 237: Infosys SE Question 237  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 119: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 238: Infosys SE Question 238  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"The committee are divided in their opinion on the issue."*
 
@@ -4186,22 +3284,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 239: Infosys SE Question 239  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 120: Spotting Errors  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 04_0` | **Source File:** `OnlineStudy4U (Spotting Errors)`
 
- (ID: `OS4U_Topic 04_0`)
-- **Source**: OnlineStudy4U (Spotting Errors)
-- **Sub-Domain Focus**: Spotting Errors
-
-
-### Question 240: Infosys SE Question 240  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"She enjoys to swim in the ocean."*
 
@@ -4221,22 +3312,15 @@ alternative to the underlined part to improve the sentence.
 
 ---
 
+---
 
-### Question 241: Infosys SE Question 241  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 121: Sentence Correction 100 Advanced MCQs  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 242: Infosys SE Question 242  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"Had the committee ______ the proposal earlier, the implementation would not have been delayed."*
 
@@ -4254,22 +3338,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 243: Infosys SE Question 243  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 122: Sentence Correction 100 Advanced MCQs  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 244: Infosys SE Question 244  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"No sooner ______ the announcement than the candidates began submitting objections."*
 
@@ -4287,22 +3364,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 245: Infosys SE Question 245  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 123: Sentence Correction 100 Advanced MCQs  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 246: Infosys SE Question 246  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"Scarcely ______ the negotiations when the minister withdrew his offer."*
 
@@ -4320,22 +3390,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 247: Infosys SE Question 247  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 124: Sentence Correction 100 Advanced MCQs  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 248: Infosys SE Question 248  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"The CEO demanded that every employee ______ the revised compliance policy by Friday."*
 
@@ -4353,22 +3416,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 249: Infosys SE Question 249  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 125: Sentence Correction 100 Advanced MCQs  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 250: Infosys SE Question 250  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"It is imperative that the report ______ before the auditors arrive."*
 
@@ -4386,22 +3442,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 251: Infosys SE Question 251  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 126: Sentence Correction 100 Advanced MCQs  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 252: Infosys SE Question 252  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"The principal objection was not that the plan was expensive, but that it ______ impractical."*
 
@@ -4419,22 +3468,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 253: Infosys SE Question 253  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 127: Sentence Correction 100 Advanced MCQs  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 254: Infosys SE Question 254  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"Neither the revised guidelines nor the accompanying circular ______ sufficient clarification."*
 
@@ -4452,22 +3494,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 255: Infosys SE Question 255  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 128: Sentence Correction 100 Advanced MCQs  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 256: Infosys SE Question 256  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"A series of unexpected outages ______ the company to reconsider its backup strategy."*
 
@@ -4485,22 +3520,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 257: Infosys SE Question 257  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 129: Sentence Correction 100 Advanced MCQs  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 258: Infosys SE Question 258  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"The number of applicants who have cleared the first round ______ risen sharply."*
 
@@ -4518,22 +3546,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 259: Infosys SE Question 259  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
+### Problem 130: Sentence Correction 100 Advanced MCQs  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 260: Infosys SE Question 260  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
-> **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
-> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
-
+**Question Statement:**
 
 > *"A number of applicants who ______ shortlisted are awaiting the interview schedule."*
 
@@ -4551,22 +3572,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 261: Infosys SE Question 261  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 131: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 262: Infosys SE Question 262  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The researcher is one of those scientists who ______ reluctant to publish preliminary findings."*
 
@@ -4584,22 +3598,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 263: Infosys SE Question 263  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 132: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 264: Infosys SE Question 264  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"He is the only one of the researchers who ______ the anomaly before publication."*
 
@@ -4617,22 +3624,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 265: Infosys SE Question 265  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 133: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 266: Infosys SE Question 266  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The report, together with its appendices, ______ to be circulated before the meeting."*
 
@@ -4650,22 +3650,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 267: Infosys SE Question 267  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 134: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 268: Infosys SE Question 268  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"What the investigators discovered ______ more disturbing than anyone had anticipated."*
 
@@ -4683,22 +3676,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 269: Infosys SE Question 269  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 135: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 270: Infosys SE Question 270  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"What appear to be minor discrepancies ______ actually evidence of a larger accounting problem."*
 
@@ -4716,22 +3702,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 271: Infosys SE Question 271  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 136: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 272: Infosys SE Question 272  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The committee recommended that the contract ______ renegotiated before renewal."*
 
@@ -4749,22 +3728,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 273: Infosys SE Question 273  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 137: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 274: Infosys SE Question 274  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"She would rather the issue ______ discussed privately than debated in public."*
 
@@ -4782,22 +3754,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 275: Infosys SE Question 275  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 138: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 276: Infosys SE Question 276  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"I would sooner you ______ the matter with the legal team before responding."*
 
@@ -4815,22 +3780,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 277: Infosys SE Question 277  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 139: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 278: Infosys SE Question 278  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"If the data ______ independently verified, the conclusion would have been different."*
 
@@ -4848,22 +3806,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 279: Infosys SE Question 279  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 140: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 280: Infosys SE Question 280  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"If I ______ about the change earlier, I would not be asking you now."*
 
@@ -4881,22 +3832,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 281: Infosys SE Question 281  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 141: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 282: Infosys SE Question 282  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"Were the company ______ its current policy, several compliance issues could arise."*
 
@@ -4914,22 +3858,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 283: Infosys SE Question 283  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 142: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 284: Infosys SE Question 284  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"Had it not been ______ your intervention, the agreement would have collapsed."*
 
@@ -4947,22 +3884,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 285: Infosys SE Question 285  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 143: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 286: Infosys SE Question 286  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The manager denied ______ the confidential figures to the press."*
 
@@ -4980,22 +3910,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 287: Infosys SE Question 287  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 144: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 288: Infosys SE Question 288  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The witness claimed ______ the suspect at the station earlier that evening."*
 
@@ -5013,22 +3936,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 289: Infosys SE Question 289  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 145: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 290: Infosys SE Question 290  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The proposal is believed ______ substantial financial implications."*
 
@@ -5046,22 +3962,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 291: Infosys SE Question 291  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 146: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 292: Infosys SE Question 292  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The new regulation is expected ______ into force next quarter."*
 
@@ -5079,22 +3988,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 293: Infosys SE Question 293  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 147: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 294: Infosys SE Question 294  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"Having ______ the contract carefully, the lawyer identified three ambiguous clauses."*
 
@@ -5112,22 +4014,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 295: Infosys SE Question 295  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 148: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 296: Infosys SE Question 296  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The documents ______ by the auditor yesterday have already been archived."*
 
@@ -5145,22 +4040,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 297: Infosys SE Question 297  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 149: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 298: Infosys SE Question 298  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The minister, ______ by several senior officials, entered the conference hall."*
 
@@ -5178,22 +4066,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 299: Infosys SE Question 299  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 150: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 300: Infosys SE Question 300  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The evidence was too ambiguous ______ a definitive conclusion."*
 
@@ -5211,22 +4092,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 301: Infosys SE Question 301  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 151: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 302: Infosys SE Question 302  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The instructions were so confusing ______ several participants interpreted them differently."*
 
@@ -5244,22 +4118,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 303: Infosys SE Question 303  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 152: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 304: Infosys SE Question 304  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"It was such a complex issue ______ even experienced analysts disagreed."*
 
@@ -5277,22 +4144,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 305: Infosys SE Question 305  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 153: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 306: Infosys SE Question 306  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The project was completed in half the time ______ had originally been estimated."*
 
@@ -5310,22 +4170,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 307: Infosys SE Question 307  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 154: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 308: Infosys SE Question 308  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The salary package is considerably higher than ______ offered by competing firms."*
 
@@ -5343,22 +4196,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 309: Infosys SE Question 309  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 155: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 310: Infosys SE Question 310  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The two proposals differ considerably from ______ submitted last year."*
 
@@ -5376,22 +4222,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 311: Infosys SE Question 311  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 156: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 312: Infosys SE Question 312  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"She is senior ______ all the other members of the team."*
 
@@ -5409,22 +4248,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 313: Infosys SE Question 313  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 157: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 314: Infosys SE Question 314  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The new system is superior ______ the legacy platform in terms of scalability."*
 
@@ -5442,22 +4274,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 315: Infosys SE Question 315  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 158: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 316: Infosys SE Question 316  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"He has little interest ______ taking responsibility for the failed rollout."*
 
@@ -5475,22 +4300,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 317: Infosys SE Question 317  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 159: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 318: Infosys SE Question 318  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The committee is committed ______ maintaining strict confidentiality."*
 
@@ -5508,22 +4326,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 319: Infosys SE Question 319  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 160: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 320: Infosys SE Question 320  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The consultant objected ______ the assumption that the existing process was adequate."*
 
@@ -5541,22 +4352,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 321: Infosys SE Question 321  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 161: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 322: Infosys SE Question 322  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"They insisted ______ seeing the original documents before signing."*
 
@@ -5574,22 +4378,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 323: Infosys SE Question 323  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 162: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 324: Infosys SE Question 324  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The candidate succeeded ______ convincing the panel despite limited experience."*
 
@@ -5607,22 +4404,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 325: Infosys SE Question 325  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 163: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 326: Infosys SE Question 326  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The report consists ______ five sections and two appendices."*
 
@@ -5640,22 +4430,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 327: Infosys SE Question 327  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 164: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 328: Infosys SE Question 328  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The manager was accused ______ manipulating the figures."*
 
@@ -5673,22 +4456,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 329: Infosys SE Question 329  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 165: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 330: Infosys SE Question 330  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The new policy is aimed ______ reducing unnecessary expenditure."*
 
@@ -5706,22 +4482,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 331: Infosys SE Question 331  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 166: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 332: Infosys SE Question 332  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"There is little point ______ reopening a matter that has already been settled."*
 
@@ -5739,22 +4508,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 333: Infosys SE Question 333  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 167: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 334: Infosys SE Question 334  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"It is no use ______ with someone who has already made up his mind."*
 
@@ -5772,22 +4534,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 335: Infosys SE Question 335  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 168: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 336: Infosys SE Question 336  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The CEO is responsible ______ ensuring that all statutory requirements are met."*
 
@@ -5805,22 +4560,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 337: Infosys SE Question 337  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 169: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 338: Infosys SE Question 338  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The issue is worth ______ further before a final decision is made."*
 
@@ -5838,22 +4586,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 339: Infosys SE Question 339  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 170: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 340: Infosys SE Question 340  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The board agreed to postpone the launch, ______ the concerns raised by the safety team."*
 
@@ -5871,22 +4612,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 341: Infosys SE Question 341  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 171: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 342: Infosys SE Question 342  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"______ the severe weather, the flight operated as scheduled."*
 
@@ -5904,22 +4638,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 343: Infosys SE Question 343  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 172: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 344: Infosys SE Question 344  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"______ he had little experience, he managed the negotiation effectively."*
 
@@ -5937,22 +4664,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 345: Infosys SE Question 345  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 173: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 346: Infosys SE Question 346  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The company will proceed with the acquisition ______ the regulators impose additional conditions."*
 
@@ -5970,22 +4690,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 347: Infosys SE Question 347  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 174: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 348: Infosys SE Question 348  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"You may access the system ______ you comply with the security requirements."*
 
@@ -6003,22 +4716,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 349: Infosys SE Question 349  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 175: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 350: Infosys SE Question 350  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The contract cannot be terminated ______ both parties agree in writing."*
 
@@ -6036,22 +4742,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 351: Infosys SE Question 351  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 176: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 352: Infosys SE Question 352  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"He spoke as though he ______ the entire incident himself."*
 
@@ -6069,22 +4768,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 353: Infosys SE Question 353  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 177: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 354: Infosys SE Question 354  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"She behaves as if she ______ the authority to approve such expenditures."*
 
@@ -6102,22 +4794,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 355: Infosys SE Question 355  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 178: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 356: Infosys SE Question 356  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"By the time the auditors arrive, we ______ the reconciliation."*
 
@@ -6135,22 +4820,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 357: Infosys SE Question 357  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 179: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 358: Infosys SE Question 358  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"By next June, she ______ at the company for ten years."*
 
@@ -6168,22 +4846,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 359: Infosys SE Question 359  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 180: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 360: Infosys SE Question 360  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The company ______ the issue for months before the regulator intervened."*
 
@@ -6201,22 +4872,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 361: Infosys SE Question 361  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 181: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 362: Infosys SE Question 362  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"I ______ him three times this week, but he has not responded."*
 
@@ -6234,22 +4898,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 363: Infosys SE Question 363  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 182: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 364: Infosys SE Question 364  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"When I reached the station, the train ______ already ______."*
 
@@ -6267,22 +4924,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 365: Infosys SE Question 365  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 183: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 366: Infosys SE Question 366  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"He said that he ______ the report the following day."*
 
@@ -6300,22 +4950,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 367: Infosys SE Question 367  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 184: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 368: Infosys SE Question 368  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"She asked me whether I ______ the revised draft."*
 
@@ -6333,22 +4976,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 369: Infosys SE Question 369  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 185: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 370: Infosys SE Question 370  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The manager said that the figures ______ inaccurate and needed verification."*
 
@@ -6366,22 +5002,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 371: Infosys SE Question 371  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 186: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 372: Infosys SE Question 372  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The consultant suggested that the company ______ a second opinion."*
 
@@ -6399,22 +5028,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 373: Infosys SE Question 373  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 187: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 374: Infosys SE Question 374  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The director insisted that no employee ______ the premises without authorization."*
 
@@ -6432,22 +5054,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 375: Infosys SE Question 375  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 188: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 376: Infosys SE Question 376  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The report needs ______ before it is circulated to clients."*
 
@@ -6465,22 +5080,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 377: Infosys SE Question 377  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 189: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 378: Infosys SE Question 378  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The equipment requires ______ before it can be used safely."*
 
@@ -6498,22 +5106,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 379: Infosys SE Question 379  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 190: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 380: Infosys SE Question 380  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"He had his assistant ______ the documents before the meeting."*
 
@@ -6531,22 +5132,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 381: Infosys SE Question 381  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 191: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 382: Infosys SE Question 382  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"She got the technician ______ the network configuration."*
 
@@ -6564,22 +5158,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 383: Infosys SE Question 383  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 192: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 384: Infosys SE Question 384  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The supervisor made the interns ______ the procedure again."*
 
@@ -6597,22 +5184,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 385: Infosys SE Question 385  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 193: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 386: Infosys SE Question 386  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The interns were made ______ the procedure again."*
 
@@ -6630,22 +5210,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 387: Infosys SE Question 387  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 194: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 388: Infosys SE Question 388  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The more carefully you analyse the data, ______ the likelihood of error."*
 
@@ -6663,22 +5236,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 389: Infosys SE Question 389  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 195: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 390: Infosys SE Question 390  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The harder he worked, ______ his chances of promotion became."*
 
@@ -6696,22 +5262,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 391: Infosys SE Question 391  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 196: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 392: Infosys SE Question 392  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"It was ______ that the entire audience remained silent."*
 
@@ -6729,22 +5288,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 393: Infosys SE Question 393  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 197: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 394: Infosys SE Question 394  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"It was ______ that several reviewers questioned its authenticity."*
 
@@ -6762,22 +5314,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 395: Infosys SE Question 395  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 198: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 396: Infosys SE Question 396  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"Not only ______ the deadline, but he also failed to inform the client."*
 
@@ -6795,22 +5340,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 397: Infosys SE Question 397  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 199: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 398: Infosys SE Question 398  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"Rarely ______ such a comprehensive audit report."*
 
@@ -6828,22 +5366,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 399: Infosys SE Question 399  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 200: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 400: Infosys SE Question 400  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"Only after the investigation ______ the extent of the irregularities."*
 
@@ -6861,22 +5392,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 401: Infosys SE Question 401  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 201: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 402: Infosys SE Question 402  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"Under no circumstances ______ confidential data to external parties."*
 
@@ -6894,22 +5418,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 403: Infosys SE Question 403  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 202: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 404: Infosys SE Question 404  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The proposal is likely ______ rejected unless substantial changes are made."*
 
@@ -6927,22 +5444,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 405: Infosys SE Question 405  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 203: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 406: Infosys SE Question 406  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The witness was the last person ______ the building."*
 
@@ -6960,22 +5470,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 407: Infosys SE Question 407  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 204: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 408: Infosys SE Question 408  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"There is no reason ______ the deadline at this stage."*
 
@@ -6993,22 +5496,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 409: Infosys SE Question 409  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 205: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 410: Infosys SE Question 410  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The report contains several recommendations, many of ______ have already been implemented."*
 
@@ -7026,22 +5522,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 411: Infosys SE Question 411  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 206: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 412: Infosys SE Question 412  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The candidates, none of ______ had prior experience, performed well."*
 
@@ -7059,22 +5548,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 413: Infosys SE Question 413  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 207: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 414: Infosys SE Question 414  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The manager asked the employee ______ laptop had been left in the conference room."*
 
@@ -7092,22 +5574,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 415: Infosys SE Question 415  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 208: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 416: Infosys SE Question 416  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"This is the most comprehensive report ______ has been published on the issue."*
 
@@ -7125,22 +5600,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 417: Infosys SE Question 417  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 209: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 418: Infosys SE Question 418  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The strategy ______ we adopted last quarter has significantly reduced costs."*
 
@@ -7158,22 +5626,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 419: Infosys SE Question 419  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 210: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 420: Infosys SE Question 420  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The city in ______ the headquarters is located has introduced new tax incentives."*
 
@@ -7191,22 +5652,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 421: Infosys SE Question 421  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 211: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 422: Infosys SE Question 422  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The reason ______ the project was delayed remains unclear."*
 
@@ -7224,22 +5678,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 423: Infosys SE Question 423  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 212: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 424: Infosys SE Question 424  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The extent to ______ the findings can be generalized remains uncertain."*
 
@@ -7257,22 +5704,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 425: Infosys SE Question 425  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 213: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 426: Infosys SE Question 426  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"He is one of the few candidates who ______ both technical and managerial experience."*
 
@@ -7290,22 +5730,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 427: Infosys SE Question 427  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 214: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 428: Infosys SE Question 428  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"She is the only candidate who ______ all the required certifications."*
 
@@ -7323,22 +5756,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 429: Infosys SE Question 429  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 215: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 430: Infosys SE Question 430  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"Neither the evidence nor the witness statements ______ sufficient to establish liability."*
 
@@ -7356,22 +5782,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 431: Infosys SE Question 431  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 216: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 432: Infosys SE Question 432  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"Either the finance team or the external auditors ______ responsible for verifying the figures."*
 
@@ -7389,22 +5808,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 433: Infosys SE Question 433  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 217: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 434: Infosys SE Question 434  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The principal, as well as the vice-principals, ______ expected to attend the hearing."*
 
@@ -7422,22 +5834,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 435: Infosys SE Question 435  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 218: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 436: Infosys SE Question 436  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"Not until the final audit ______ the discrepancy become apparent."*
 
@@ -7455,22 +5860,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 437: Infosys SE Question 437  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 219: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 438: Infosys SE Question 438  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"So complicated ______ that even specialists disagreed about its interpretation."*
 
@@ -7488,22 +5886,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 439: Infosys SE Question 439  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 220: Sentence Correction 100 Advanced MCQs  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 10_0` | **Source File:** `OnlineStudy4U (Sentence Correction 100 Advanced MCQs)`
 
- (ID: `OS4U_Topic 10_0`)
-- **Source**: OnlineStudy4U (Sentence Correction 100 Advanced MCQs)
-- **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
-
-
-### Question 440: Infosys SE Question 440  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"Had the warning been heeded, the accident ______."*
 
@@ -7521,22 +5912,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 441: Infosys SE Question 441  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 221: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 442: Infosys SE Question 442  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"Each of the employees ___ required to submit the form."*
 
@@ -7555,22 +5939,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 443: Infosys SE Question 443  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 222: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 444: Infosys SE Question 444  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"She did not ___ the email yesterday."*
 
@@ -7589,22 +5966,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 445: Infosys SE Question 445  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 223: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 446: Infosys SE Question 446  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The manager, along with his assistants, ___ attending the meeting."*
 
@@ -7623,22 +5993,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 447: Infosys SE Question 447  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 224: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 448: Infosys SE Question 448  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"I have lived here ___ 2020."*
 
@@ -7657,22 +6020,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 449: Infosys SE Question 449  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 225: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 450: Infosys SE Question 450  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"He is good ___ mathematics."*
 
@@ -7691,22 +6047,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 451: Infosys SE Question 451  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 226: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 452: Infosys SE Question 452  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"If you study hard, you ___ the exam."*
 
@@ -7725,22 +6074,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 453: Infosys SE Question 453  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 227: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 454: Infosys SE Question 454  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"She suggested ___ a break."*
 
@@ -7759,22 +6101,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 455: Infosys SE Question 455  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 228: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 456: Infosys SE Question 456  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"Neither the teacher nor the students ___ ready."*
 
@@ -7793,22 +6128,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 457: Infosys SE Question 457  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 229: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 458: Infosys SE Question 458  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The work ___ by the team yesterday."*
 
@@ -7827,22 +6155,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 459: Infosys SE Question 459  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 230: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 460: Infosys SE Question 460  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"He asked me where I ___."*
 
@@ -7861,22 +6182,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 461: Infosys SE Question 461  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 231: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 462: Infosys SE Question 462  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"This is ___ best solution."*
 
@@ -7895,22 +6209,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 463: Infosys SE Question 463  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 232: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 464: Infosys SE Question 464  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"There ___ many reasons for the delay."*
 
@@ -7929,22 +6236,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 465: Infosys SE Question 465  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 233: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 466: Infosys SE Question 466  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"She is senior ___ me."*
 
@@ -7963,22 +6263,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 467: Infosys SE Question 467  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 234: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 468: Infosys SE Question 468  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"I am used to ___ early."*
 
@@ -7997,22 +6290,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 469: Infosys SE Question 469  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 235: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 470: Infosys SE Question 470  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"No sooner had he arrived ___ the meeting began."*
 
@@ -8031,22 +6317,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 471: Infosys SE Question 471  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 236: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 472: Infosys SE Question 472  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"A number of students ___ absent today."*
 
@@ -8065,22 +6344,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 473: Infosys SE Question 473  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 237: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 474: Infosys SE Question 474  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"The number of applicants ___ increasing."*
 
@@ -8099,22 +6371,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 475: Infosys SE Question 475  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 238: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 476: Infosys SE Question 476  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"She sings very ___."*
 
@@ -8133,22 +6398,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 477: Infosys SE Question 477  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 239: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 478: Infosys SE Question 478  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"If I had known, I ___ helped you."*
 
@@ -8167,22 +6425,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 479: Infosys SE Question 479  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 240: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 480: Infosys SE Question 480  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"Between you and ___, this plan needs improvement."*
 
@@ -8201,22 +6452,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 481: Infosys SE Question 481  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 241: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 482: Infosys SE Question 482  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"Choose the synonym of Diligent."*
 
@@ -8235,22 +6479,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 483: Infosys SE Question 483  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 242: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 484: Infosys SE Question 484  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"Choose the antonym of Scarce."*
 
@@ -8269,22 +6506,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 485: Infosys SE Question 485  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 243: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 486: Infosys SE Question 486  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"'Break the ice' means:"*
 
@@ -8303,22 +6533,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 487: Infosys SE Question 487  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 244: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 488: Infosys SE Question 488  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"A person who loves books is called a:"*
 
@@ -8337,22 +6560,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 489: Infosys SE Question 489  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 245: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 490: Infosys SE Question 490  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"Choose the synonym of Feasible."*
 
@@ -8371,22 +6587,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 491: Infosys SE Question 491  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 246: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 492: Infosys SE Question 492  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"Choose the antonym of Rigid."*
 
@@ -8405,22 +6614,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 493: Infosys SE Question 493  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 247: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 494: Infosys SE Question 494  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"'At the eleventh hour' means:"*
 
@@ -8439,22 +6641,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 495: Infosys SE Question 495  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 248: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 496: Infosys SE Question 496  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"Choose the synonym of Vigilant."*
 
@@ -8473,22 +6668,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 497: Infosys SE Question 497  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 249: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 498: Infosys SE Question 498  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"A person who speaks many languages is a:"*
 
@@ -8507,22 +6695,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 499: Infosys SE Question 499  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 250: Master Grammar Rules & Practice Tests  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `OS4U_Topic 13_0` | **Source File:** `OnlineStudy4U (Master Grammar Rules & Practice Tests)`
 
- (ID: `OS4U_Topic 13_0`)
-- **Source**: OnlineStudy4U (Master Grammar Rules & Practice Tests)
-- **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
-
-
-### Question 500: Infosys SE Question 500  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 > *"'Spill the beans' means:"*
 
@@ -8541,23 +6722,15 @@ Verified grammatical solution.
 
 ---
 
+---
 
-### Question 501: Infosys SE Question 501  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 251: SECTION 6 — ENGLISH GRAMMAR TEST  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_SLOT1_SECTION_6_Q03` | **Source File:** `Topmate Paid Content (2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf)`
 
- (ID: `TOPMATE_SLOT1_SECTION_6_Q03`)
-- **Source**: Topmate Paid Content (2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf)
-- **Sub-Domain Focus**: SECTION 6 — ENGLISH GRAMMAR TEST
-- **Visual Reference Plate**: `images/slot1_page_009.png`
-
-
-### Question 502: Infosys SE Question 502  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 I want him ____ to the party.
 
@@ -8575,23 +6748,15 @@ The verb 'want' followed by an object takes a full infinitive: 'want [someone] t
 
 ---
 
+---
 
-### Question 503: Infosys SE Question 503  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 252: SECTION 6 — ENGLISH GRAMMAR TEST  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_SLOT2_SECTION_6_Q01` | **Source File:** `Topmate Paid Content (2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf)`
 
- (ID: `TOPMATE_SLOT2_SECTION_6_Q01`)
-- **Source**: Topmate Paid Content (2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf)
-- **Sub-Domain Focus**: SECTION 6 — ENGLISH GRAMMAR TEST
-- **Visual Reference Plate**: `images/slot2_page_009.png`
-
-
-### Question 504: Infosys SE Question 504  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Neither of the answers ____ correct.
 
@@ -8609,23 +6774,15 @@ Official Exam Key: `C) is`. Systematic step-by-step verification confirms this r
 
 ---
 
+---
 
-### Question 505: Infosys SE Question 505  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 253: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q01` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q01`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_001.png`
-
-
-### Question 506: Infosys SE Question 506  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Identify the grammatical error in the sentence below: He, who was selected for the prestigious award, have been called for an interview tomorrow.
 
@@ -8643,23 +6800,15 @@ The correct phrase is "has been called" instead of "have been called."
 
 ---
 
+---
 
-### Question 507: Infosys SE Question 507  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 254: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q02` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q02`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_001.png`
-
-
-### Question 508: Infosys SE Question 508  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Choose the correct sentence:
 
@@ -8677,23 +6826,15 @@ Choose the correct sentence:
 
 ---
 
+---
 
-### Question 509: Infosys SE Question 509  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 255: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q03` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q03`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_001.png`
-
-
-### Question 510: Infosys SE Question 510  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Fill in the blank with the correct preposition: The solution was found accident.
 
@@ -8711,23 +6852,15 @@ The correct phrase is "by accident."
 
 ---
 
+---
 
-### Question 511: Infosys SE Question 511  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 256: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q04` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q04`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_002.png`
-
-
-### Question 512: Infosys SE Question 512  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Choose the correct transformation of the sentence: Direct Speech: He said, "I will finish the project tomorrow."
 
@@ -8745,23 +6878,15 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 
 ---
 
+---
 
-### Question 513: Infosys SE Question 513  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 257: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q05` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q05`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_002.png`
-
-
-### Question 514: Infosys SE Question 514  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Find the synonym for the underlined word: His explanation was too ambiguous to be understood.
 
@@ -8779,23 +6904,15 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 
 ---
 
+---
 
-### Question 515: Infosys SE Question 515  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 258: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q06` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q06`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_002.png`
-
-
-### Question 516: Infosys SE Question 516  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Correct the sentence: No sooner they reached the station when the train departed.
 
@@ -8813,23 +6930,15 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 
 ---
 
+---
 
-### Question 517: Infosys SE Question 517  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 259: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q07` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q07`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_002.png`
-
-
-### Question 518: Infosys SE Question 518  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Choose the best replacement for the underlined part: Hardly had he opened the door, when the dog ran inside.
 
@@ -8847,23 +6956,15 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 
 ---
 
+---
 
-### Question 519: Infosys SE Question 519  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 260: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q08` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q08`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_003.png`
-
-
-### Question 520: Infosys SE Question 520  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Fill in the blanks with the correct tense: If you (leave) now, you (reach) on time.
 
@@ -8881,23 +6982,15 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 
 ---
 
+---
 
-### Question 521: Infosys SE Question 521  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 261: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q09` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q09`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_003.png`
-
-
-### Question 522: Infosys SE Question 522  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Identify the error in the sentence: The committee was divided in their opinion regarding the new policy.
 
@@ -8915,23 +7008,15 @@ Identify the error in the sentence: The committee was divided in their opinion r
 
 ---
 
+---
 
-### Question 523: Infosys SE Question 523  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 262: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q10` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q10`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_003.png`
-
-
-### Question 524: Infosys SE Question 524  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Select the most appropriate sentence:
 
@@ -8949,23 +7034,15 @@ Grammar rule application confirms `C` is the strictly standard and syntactically
 
 ---
 
+---
 
-### Question 525: Infosys SE Question 525  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 263: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q11` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q11`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_004.png`
-
-
-### Question 526: Infosys SE Question 526  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Find the antonym for the underlined word: The decision was arbitrary and lacked logic.
 
@@ -8983,23 +7060,15 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 
 ---
 
+---
 
-### Question 527: Infosys SE Question 527  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 264: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q12` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q12`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_004.png`
-
-
-### Question 528: Infosys SE Question 528  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Replace the underlined part if needed: Despite of the rain, they went to the match.
 
@@ -9017,23 +7086,15 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 
 ---
 
+---
 
-### Question 529: Infosys SE Question 529  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 265: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q13` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q13`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_004.png`
-
-
-### Question 530: Infosys SE Question 530  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Rearrange the words to form a meaningful sentence: Has / the / train / already / left?
 
@@ -9051,23 +7112,15 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 
 ---
 
+---
 
-### Question 531: Infosys SE Question 531  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 266: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q14` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q14`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_005.png`
-
-
-### Question 532: Infosys SE Question 532  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Fill in the blank: Scarcely had he entered the room the lights went off.
 
@@ -9085,23 +7138,15 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 
 ---
 
+---
 
-### Question 533: Infosys SE Question 533  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 267: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q15` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q15`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_005.png`
-
-
-### Question 534: Infosys SE Question 534  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Identify the sentence type: The sun sets in the west.
 
@@ -9119,23 +7164,15 @@ Grammar rule application confirms `C` is the strictly standard and syntactically
 
 ---
 
+---
 
-### Question 535: Infosys SE Question 535  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 268: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q16` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q16`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_005.png`
-
-
-### Question 536: Infosys SE Question 536  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Choose the sentence with proper punctuation:
 
@@ -9153,23 +7190,15 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 
 ---
 
+---
 
-### Question 537: Infosys SE Question 537  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 269: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q17` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q17`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_005.png`
-
-
-### Question 538: Infosys SE Question 538  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Replace the underlined word with the correct option: The committee comprises of five members.
 
@@ -9187,23 +7216,15 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 
 ---
 
+---
 
-### Question 539: Infosys SE Question 539  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 270: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q18` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q18`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_006.png`
-
-
-### Question 540: Infosys SE Question 540  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Fill in the blank with the correct conjunction: The book was interesting lengthy.
 
@@ -9221,23 +7242,15 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 
 ---
 
+---
 
-### Question 541: Infosys SE Question 541  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 271: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q19` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q19`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_006.png`
-
-
-### Question 542: Infosys SE Question 542  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Find the error in the sentence: She has returned back to her hometown.
 
@@ -9255,23 +7268,15 @@ Find the error in the sentence: She has returned back to her hometown.
 
 ---
 
+---
 
-### Question 543: Infosys SE Question 543  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 272: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q20` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q20`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_006.png`
-
-
-### Question 544: Infosys SE Question 544  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Correct the sentence: One of the boy are absent today.
 
@@ -9289,23 +7294,15 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 
 ---
 
+---
 
-### Question 545: Infosys SE Question 545  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 273: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q21` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q21`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_007.png`
-
-
-### Question 546: Infosys SE Question 546  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 The following sentence has an error. Identify the part that contains the error: The team members, along with the project manager, was present at the conference room for the client meeting.
 
@@ -9323,23 +7320,15 @@ The following sentence has an error. Identify the part that contains the error: 
 
 ---
 
+---
 
-### Question 547: Infosys SE Question 547  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 274: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q22` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q22`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_007.png`
-
-
-### Question 548: Infosys SE Question 548  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Fill in the blanks with the most appropriate option: The research findings were not only insightful but also for further studies in the field of artificial intelligence.
 
@@ -9357,23 +7346,15 @@ Fill in the blanks with the most appropriate option: The research findings were 
 
 ---
 
+---
 
-### Question 549: Infosys SE Question 549  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 275: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q23` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q23`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_007.png`
-
-
-### Question 550: Infosys SE Question 550  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Identify the correct sentence from the options below:
 
@@ -9391,23 +7372,15 @@ The correct form of the verb is "has taken."
 
 ---
 
+---
 
-### Question 551: Infosys SE Question 551  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 276: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q24` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q24`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_008.png`
-
-
-### Question 552: Infosys SE Question 552  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Rearrange the following words to form a meaningful sentence: innovations / of / the / core / are / technological / progress / to
 
@@ -9425,23 +7398,15 @@ Grammar rule application confirms `D` is the strictly standard and syntactically
 
 ---
 
+---
 
-### Question 553: Infosys SE Question 553  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 277: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q25` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q25`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_008.png`
-
-
-### Question 554: Infosys SE Question 554  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Choose the option that best completes the sentence: If I had known about the deadline earlier, I the report on time.
 
@@ -9459,23 +7424,15 @@ The sentence uses the third conditional structure.
 
 ---
 
+---
 
-### Question 555: Infosys SE Question 555  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 278: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q26` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q26`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_009.png`
-
-
-### Question 556: Infosys SE Question 556  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 In the following passage, one sentence is grammatically incorrect. Identify the sentence: 1. The consultant provided valuable insights. 2. He suggested some changes to the existing model. 3. The recommendations was implemented successfully. 4. The team appreciated his contribution.
 
@@ -9493,23 +7450,15 @@ In the following passage, one sentence is grammatically incorrect. Identify the 
 
 ---
 
+---
 
-### Question 557: Infosys SE Question 557  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
+### Problem 279: English Grammar & Error Correction  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`**  
+> **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
+> **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)  
+> **Question ID:** `TOPMATE_GRAMMAR_Q27` | **Source File:** `Topmate Paid Content (Infosys English Grammar.pdf)`
 
- (ID: `TOPMATE_GRAMMAR_Q27`)
-- **Source**: Topmate Paid Content (Infosys English Grammar.pdf)
-- **Sub-Domain Focus**: English Grammar & Error Correction
-- **Visual Reference Plate**: `images/grammar_page_009.png`
-
-
-### Question 558: Infosys SE Question 558  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
-> **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
-> **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
-> **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
-
+**Question Statement:**
 
 Choose the correct option to fill in the blank: The new policies aim to reduce inefficiencies in the system and enhance overall productivity.
 
@@ -9527,3 +7476,4 @@ Both verbs should be in their base forms to match the parallel structure.
 
 ---
 
+---

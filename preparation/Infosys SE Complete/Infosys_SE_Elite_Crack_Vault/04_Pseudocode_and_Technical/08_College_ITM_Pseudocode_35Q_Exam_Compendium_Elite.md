@@ -32,7 +32,10 @@ print(f(6))
 - **(C)** 27
 - **(D)** 31
 
-**Correct Answer:** Option **(B)** — `21`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `21`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 Recursive function trace:
@@ -73,7 +76,10 @@ print(count ^ (45 >> 2))
 - **(C)** 15
 - **(D)** 7
 
-**Correct Answer:** Option **(C)** — `15`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C)** — `15`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 Brian Kernighan's bit-counting loop clears the lowest set bit in each iteration.
@@ -114,7 +120,10 @@ print(s)
 - **(C)** 46
 - **(D)** 50
 
-**Correct Answer:** Option **(C)** — `46`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C)** — `46`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 Nested loops simulation:
@@ -153,7 +162,10 @@ print(pop() - pop())
 - **(C)** 19
 - **(D)** 22
 
-**Correct Answer:** Option **(B)** — `16`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `16`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 Stack execution trace (LIFO):
@@ -192,7 +204,10 @@ end for
 - **(C)** [8, 5, 5, 7]
 - **(D)** [5, 2, 5, 7]
 
-**Correct Answer:** Option **(A)** — `[8, 2, 5, 7]`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `[8, 2, 5, 7]`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 In-place array update with arr = [4, 1, 3, 2]:
@@ -231,7 +246,10 @@ print(f(5))
 - **(C)** 32
 - **(D)** 34
 
-**Correct Answer:** Option **(C)** — `32`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C)** — `32`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 32. f(0)=1, f(1)=2, f(2)=2+2=4, f(3)=4+4=8, f(4)=8+8=16, f(5)=16+16=32.
@@ -265,7 +283,10 @@ print(y)
 - **(C)** 37
 - **(D)** 41
 
-**Correct Answer:** Option **(A)** — `23`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `23`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 23. The loop peels off bits of x from the LSB and rebuilds y by shifting left each time, which reverses 
@@ -304,7 +325,10 @@ print(s)
 - **(C)** 46
 - **(D)** 48
 
-**Correct Answer:** Option **(C)** — `46`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (C)** — `46`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 46. i=1: skips j=1 (i==j); adds 1×2+1×3+1×4 = 9. i=2: skips j=2; adds 2×1+2×3+2×4 = 16 (running 25; 
@@ -340,7 +364,10 @@ print(b + c)
 - **(C)** 18
 - **(D)** 22
 
-**Correct Answer:** Option **(A)** — `10`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `10`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 10. Queue [2,4,6] → dequeue 2 (a) → [4,6] → enqueue 12 → [4,6,12] → dequeue 4 (b) → dequeue 6 
@@ -375,7 +402,10 @@ arr[1] = temp
 - **(C)** [5, 2, 1, 4, 3]
 - **(D)** [5, 1, 2, 4, 2]
 
-**Correct Answer:** Option **(A)** — `[5, 1, 2, 4, 3]`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `[5, 1, 2, 4, 3]`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 temp=1. arr[0]=arr[4]=5 → [5,2,3,4,5]. arr[4]=arr[2]=3 → [5,2,3,4,3]. arr[2]=arr[1]=2 → [5,2,2,4,3]. 
@@ -453,7 +483,10 @@ j = j - 2
 end while 
 print(arr)
 
-**Correct Answer:** Option **(B)** — `46`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `46`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 46. f(0)=0, f(1)=1, f(2)=1+0+2=3, f(3)=3+1+3=7, f(4)=7+3+4=14, f(5)=14+7+5=26, f(6)=26+14+6=46.
@@ -481,7 +514,10 @@ What is printed?
 - **(C)** 45
 - **(D)** 39
 
-**Correct Answer:** Option **(B)** — `41`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (B)** — `41`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 41. 37 = 100101₂ (bits: bit0=1,bit2=1,bit5=1, rest 0). The loop places bit i of x into position (5−i) of 
@@ -510,7 +546,10 @@ What is printed?
 - **(C)** 136
 - **(D)** 118
 
-**Correct Answer:** Option **(A)** — `130`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `130`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 130. Tracing directly (j increments before each continue, so the loop always terminates correctly): 
@@ -540,7 +579,10 @@ A stack is used (LIFO). What is printed?
 - **(C)** 42
 - **(D)** 30
 
-**Correct Answer:** Option **(A)** — `39`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `39`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 39. Stack: push 4,7 → [4,7]. a=pop=7, b=pop=4 → push(7−4=3) → [3]. push(10) → [3,10]. c=pop=10, 
@@ -569,7 +611,10 @@ What is the final content of arr? (0-indexed; each statement uses the array's st
 - **(C)** [10, 40, 30, 20, 50, 60]
 - **(D)** [60, 40, 50, 20, 30, 10]
 
-**Correct Answer:** Option **(A)** — `[60, 40, 30, 20, 50, 10]`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `[60, 40, 30, 20, 50, 10]`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 i=0,j=5: swap arr[0],arr[5] → [60,20,30,40,50,10]; i=1,j=3. i<j (1<3): swap arr[1],arr[3] → 
@@ -603,7 +648,10 @@ print(gcd(252, 105))
 - **(C)** 7
 - **(D)** 14
 
-**Correct Answer:** Option **(A)** — `21`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `21`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 21. gcd(252,105): 252%105=42 → gcd(105,42): 105%42=21 → gcd(42,21): 42%21=0 → gcd(21,0)=21.
@@ -635,7 +683,10 @@ print(c + d)
 - **(C)** 20
 - **(D)** 33
 
-**Correct Answer:** Option **(A)** — `25`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `25`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 25. 13=01101, 25=11001. a^b = 10100 = 20. a|b = 11101 = 29. c = 20 & 29 = 10100 = 20. d = 20>>2 = 
@@ -677,7 +728,10 @@ print(swaps)
 - **(C)** 6
 - **(D)** 9
 
-**Correct Answer:** Option **(A)** — `7`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `7`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 7. Full bubble-sort trace: pass i=0 gives 3 swaps (array becomes [2,5,1,8,3,9]); pass i=1 gives 2 more 
@@ -720,7 +774,10 @@ print(queue)
 - **(C)** [5, 4, 3, 2, 1]
 - **(D)** [3, 2, 1, 5, 4]
 
-**Correct Answer:** Option **(A)** — `[3, 2, 1, 4, 5]`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `[3, 2, 1, 4, 5]`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 This is the standard "reverse first k of a queue" algorithm. After moving the first 3 elements through 
@@ -764,7 +821,10 @@ print(arr)
 - **(C)** [3, 4, 5, 2, 0, 0, 2]
 - **(D)** [0, 0, 0, 3, 4, 5, 2]
 
-**Correct Answer:** Option **(A)** — `[3, 4, 5, 2, 0, 0, 0]`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `[3, 4, 5, 2, 0, 0, 0]`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 Non-zero elements (3,4,5,2) are copied to the front in order, giving positions 0–3; the while loop then 
@@ -799,7 +859,10 @@ print(f(3, 2))
 - **(C)** 12
 - **(D)** 9
 
-**Correct Answer:** Option **(A)** — `10`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `10`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 10. This recursion counts grid paths and equals C(n+m,n). Tracing directly: f(1,1)=2, f(2,1)=3, f(1,2)=3, 
@@ -836,7 +899,10 @@ print(y)
 - **(C)** 135
 - **(D)** 171
 
-**Correct Answer:** Option **(A)** — `153`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `153`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 153. 45 = 00101101 in 8 bits. The loop reverses these 8 bits into x, giving x=180 (10110100). y = x^45 
@@ -880,7 +946,10 @@ print(comparisons)
 - **(C)** 5
 - **(D)** 6
 
-**Correct Answer:** Option **(A)** — `4`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `4`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 4. Tracing the search for target=50 (not present): mid=5(23)→low=6; mid=8(56)→high=7; 
@@ -917,7 +986,10 @@ print(pop())
 - **(C)** 14
 - **(D)** 4
 
-**Correct Answer:** Option **(A)** — `7`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: (A)** — `7`
+
 
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 7. This performs the postfix evaluation of "6 2 3 + − 3 8 2 / + ×": (2+3)=5, (6−5)=1, (8/2)=4, (3+4)=7, 

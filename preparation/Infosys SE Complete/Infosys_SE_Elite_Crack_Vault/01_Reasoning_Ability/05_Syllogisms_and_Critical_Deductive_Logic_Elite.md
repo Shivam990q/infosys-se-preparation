@@ -28,7 +28,10 @@ Which of the following, if true, most seriously weakens the argument?
 - D. Not all of the additives used by Munchon Foods improve flavor.
 - E. Consumer surveys show that shoppers prefer natural foods over synthetic foods.
 
-**Exact Answer:** `B. Many natural substances are as harmful to health as any synthetic additive.`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B. Many natural substances are as harmful to health as any synthetic additive.`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -66,7 +69,10 @@ Barbie counters Anton's advice by:
 - D. Arguing that real estate agents have an incentive structure aligned with the seller's goal.
 - E. Proving that houses sold on internet sites take longer to sell.
 
-**Exact Answer:** `D. Arguing that real estate agents have an incentive structure aligned with the seller's goal.`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `D. Arguing that real estate agents have an incentive structure aligned with the seller's goal.`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -108,7 +114,10 @@ II. No railway is a station.
 - D) If neither conclusion I nor II follows.
 - E) If both conclusions I and II follow.
 
-**Exact Answer:** `E) If both conclusions I and II follow.`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `E) If both conclusions I and II follow.`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -151,7 +160,10 @@ II. All boards being papers is a possibility.
 - D) If neither conclusion I nor II follows.
 - E) If both conclusions I and II follow.
 
-**Exact Answer:** `E) If both conclusions I and II follow.`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `E) If both conclusions I and II follow.`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -196,7 +208,10 @@ II. No local is a mock.
 - D) If neither conclusion I nor II follows.
 - E) If both conclusions I and II follow.
 
-**Exact Answer:** `C) If either conclusion I or II follows.`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `C) If either conclusion I or II follows.`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -247,7 +262,10 @@ III. All Plant being flower is a possibility.
 - All follow
 - None of these
 
-**Exact Answer:** `Only II follows`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Only II follows`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -289,7 +307,10 @@ III. All milk being coffee is a possibility.
 - only I follows
 - only either I or II follow
 
-**Exact Answer:** `only either I or II follow`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `only either I or II follow`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -331,7 +352,10 @@ III. Some College is not School
 - None follows
 - None of these
 
-**Exact Answer:** `None follows`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `None follows`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -373,7 +397,10 @@ III. All good is comedy is a possibility
 - Only I and III follow
 - None of these
 
-**Exact Answer:** `Only I and III follow`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Only I and III follow`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -415,7 +442,10 @@ III. All book is paper is a possibility
 - All follow
 - None of these
 
-**Exact Answer:** `Only II and III follows`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Only II and III follows`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -459,7 +489,10 @@ II. All day being cloud is a possibility.
 - If neither conclusion I nor II follows
 - If both conclusions I and II follow.
 
-**Exact Answer:** `If only conclusion II follows.`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `If only conclusion II follows.`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -500,7 +533,10 @@ II. No solution is a mixture.
 - If neither conclusion I nor II follows.
 - If both conclusions I and II follow
 
-**Exact Answer:** `If both conclusions I and II follow`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `If both conclusions I and II follow`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -541,7 +577,10 @@ II. All blue being pink is a possibility.
 - If neither conclusion I nor II follows
 - If both conclusions I and II follow
 
-**Exact Answer:** `If both conclusions I and II follow`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `If both conclusions I and II follow`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -582,7 +621,10 @@ II. No horror is brave.
 - If neither conclusion I nor II follows.
 - If both conclusions I and II follow
 
-**Exact Answer:** `If only conclusion I follow`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `If only conclusion I follow`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -623,7 +665,10 @@ II. Some mango are not orange.
 - If neither conclusion I nor II follows
 - If both conclusions I and II follow
 
-**Exact Answer:** `If neither conclusion I nor II follows`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `If neither conclusion I nor II follows`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -667,7 +712,10 @@ III. All Indian are tradition is a possibility.
 - Only III follows
 - None follows
 
-**Exact Answer:** `Only I and III follow`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Only I and III follow`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -709,7 +757,10 @@ III. Some America is Africa is a possibility.
 - Only I and II follow
 - None of these
 
-**Exact Answer:** `Only II and III follow`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Only II and III follow`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -751,7 +802,10 @@ III. Some Assistant are Executive
 - Only II and III follow
 - None of these
 
-**Exact Answer:** `Only II follows`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Only II follows`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -793,7 +847,10 @@ III. All price are sale is a possibility.
 - Only I and II follow
 - None of these
 
-**Exact Answer:** `None of these`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `None of these`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -835,7 +892,10 @@ III. All red are grey.
 - Only III follows
 - None of these
 
-**Exact Answer:** `None of these`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `None of these`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -874,7 +934,10 @@ Conclusions: I. All cards being papers is a possibility. II. All boards being pa
 - If neither Conclusion I nor II follows
 - If both Conclusions I and II follows
 
-**Exact Answer:** `If both Conclusions I and II follows`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `If both Conclusions I and II follows`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -909,7 +972,10 @@ Conclusions: I. All rectangles being squares is a possibility. II. Can all circl
 - neither follow
 - Both Follow
 
-**Exact Answer:** `Both Follow`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Both Follow`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -944,7 +1010,10 @@ Conclusions: I. Some tigers are goats. II. No tiger is goat. III. Some lions are
 - Only I and III follow
 - None of these
 
-**Exact Answer:** `Only either I or II, and either  III or IV follow`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Only either I or II, and either  III or IV follow`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -981,7 +1050,10 @@ II. No machine is round.
 - Neither Follow
 - Both Follow
 
-**Exact Answer:** `either`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `either`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1014,7 +1086,10 @@ Statements:All railways are trains. No train is a station. Some stations are p
 - Neither Follow
 - Both Follow
 
-**Exact Answer:** `Both Follow`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Both Follow`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1047,7 +1122,10 @@ All erasers are sharpeners. All sharpeners are pencils. Some pencils are pens.
 - Neither
 - Both Follow
 
-**Exact Answer:** `Either`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Either`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1080,7 +1158,10 @@ Statements: No carom is a corner. Some corridors are caroms. All classes are 
 - Neither follow
 - Both Follow
 
-**Exact Answer:** `Neither follow`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Neither follow`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1113,7 +1194,10 @@ Statements:No carom is a corner.Some corridors are caroms.All classes are corner
 - neither
 - Both follow
 
-**Exact Answer:** `Only 2`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Only 2`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1148,7 +1232,10 @@ All machines are crowns. All crowns are tablets. Some tablets are bottles.
 - Only II and III follows
 - None of these
 
-**Exact Answer:** `Only II follows`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Only II follows`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1181,7 +1268,10 @@ This is the solution
 - Neither
 - Both Follow
 
-**Exact Answer:** `Only 1 follow`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Only 1 follow`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1216,7 +1306,10 @@ Conclusions: I. All energies being power is a possibility. II. All powers being 
 - Neither
 - Both Follow
 
-**Exact Answer:** `Only 1st follow`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Only 1st follow`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1251,7 +1344,10 @@ Conclusions: I. Some plates are cups. II. Some plates are bottles. III. Some cup
 - Neither
 - Both Follow
 
-**Exact Answer:** `Only 1st follow`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Only 1st follow`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1284,7 +1380,10 @@ All new are modern.Some modern are old.All old are gold.Conclusions:I.Some new a
 - Neither Follow
 - Both Follow
 
-**Exact Answer:** `Only 1st follow`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Only 1st follow`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1319,7 +1418,10 @@ Conclusions: I. Some buses are rivers. II. Some taxis are rivers. III. No bus is
 - Only II follows
 - Only either I or III follows.
 
-**Exact Answer:** `Only either I or III follows.`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Only either I or III follows.`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1354,7 +1456,10 @@ Conclusions: I. Some rivers are roads. II. Some jungles are roads. III. Some car
 - Only III and IV follow
 - Only either II or IV and I and III follow
 
-**Exact Answer:** `Only either II or IV and III follow`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Only either II or IV and III follow`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1397,7 +1502,10 @@ I. Some zip are not jaw.
 - If neither I nor II follows
 - If both I and II follow
 
-**Exact Answer:** `If both I and II follow`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `If both I and II follow`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1438,7 +1546,10 @@ II. All jug are cup is a possibility.
 - If neither I nor II follows
 - If both I and II follow
 
-**Exact Answer:** `If only conclusion II follows`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `If only conclusion II follows`
+
 
 **Complete Mathematical / Logical Deduction:**
 

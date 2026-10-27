@@ -39,7 +39,10 @@ Ques 1: Aditya is Bhavi's brother, Bharat is Jayant's father. Ella is Bhavi's mo
    Legend: (+) Male, (-) Female, (══) Marriage, (──) Sibling/Parentage
 ```
 
-**Exact Answer:**** `(d) Wife`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `**`
+(d) Wife`
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -75,7 +78,10 @@ Ques 2: A man introduced the boy coming with him as 'He is son of the father of 
 - (d) Father
 - (e) None of these
 
-**Exact Answer:** `(b) Son`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(b) Son`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -112,7 +118,10 @@ Ques 3: A and B are two brothers. C is sister of B. D is sister of E. E is son o
 - (d) C
 - (e) None of these
 
-**Exact Answer:** `(c) B`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(c) B`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -148,7 +157,10 @@ Ques 4: Vidya is the wife of Gopi and Gopi is the brother of Akhil. Akhil is the
 - (d) Brother
 - (e) None of these
 
-**Exact Answer:** `(a) Son`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(a) Son`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -188,7 +200,10 @@ Which of the following is true for the given expression: 'J + K – L + N ÷ M',
 - D. J is father of N
 - E. None of these
 
-**Exact Answer:** `A. K is aunt of N and M`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `A. K is aunt of N and M`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -230,7 +245,10 @@ Q1. If K is wife of J, then what could be the relation of J with respect to N?
 - Cannot be determined
 - None of these
 
-**Exact Answer:** `Brother in law`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Brother in law`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -266,7 +284,10 @@ P is father of M who is brother in law of K. N is daughter in law of Z who is gr
 - Daughter
 - Cannot be determined
 
-**Exact Answer:** `Cannot be determined`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Cannot be determined`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -303,7 +324,10 @@ P is father of M who is brother in law of K. N is daughter in law of Z who is gr
 - Cannot be determined
 - None of these
 
-**Exact Answer:** `Grand father`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Grand father`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -336,7 +360,10 @@ A man says to a lady, “Your father is the father in law of my father’s only 
 - Daughter
 - Aunt
 
-**Exact Answer:** `Wife`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Wife`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -369,7 +396,10 @@ Showing a man on the stage, Rita said, ” He is the brother of the daughter of 
 - Nephew
 - Niece
 
-**Exact Answer:** `Son`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Son`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -405,7 +435,10 @@ Q6. How C is related to D?
 - Son in law
 - Brother
 
-**Exact Answer:** `Father`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Father`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -441,7 +474,10 @@ Q7. Who among the following is son in law of E?
 - G
 - None of these
 
-**Exact Answer:** `G`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `G`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -477,7 +513,10 @@ Q8. Who among the following is niece of D?
 - F
 - G
 
-**Exact Answer:** `F`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `F`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -516,7 +555,10 @@ Q9. In the expression S $ R % Q @ Y * M, how is M related to S?
 - Sister in law
 - None of these
 
-**Exact Answer:** `Sister in law`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Sister in law`
+
 
 **Complete Mathematical / Logical Deduction:**
 

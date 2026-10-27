@@ -26,7 +26,10 @@ Let u_{n+1} = 2u_n + 1, (n = 0, 1, 2, ...) and u_0 = 0. Then u_{10} would be nea
 - 1024
 - 512
 
-**Exact Answer:** `1023`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `1023`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -69,7 +72,10 @@ Select the missing number from the given responses:
 - 76
 - 86
 
-**Exact Answer:** `81`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `81`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -110,7 +116,10 @@ Select the missing number from the given responses:
 - 9240
 - 9280
 
-**Exact Answer:** `9264`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `9264`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -153,7 +162,10 @@ Find the missing number in the series:
 - c. 921
 - d. 954
 
-**Exact Answer:** `b. 969`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b. 969`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -198,7 +210,10 @@ SET 01: There are six people A, B, C, D, E and F. All of them have different hei
 - (d) F
 - (e) Data Inadequate
 
-**Exact Answer:** `(c) E`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(c) E`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -242,7 +257,10 @@ Statement II: G sits to the immediate right of B. D is second to the right of F.
 - (d) Neither Statement I nor Statement II is sufficient
 - (e) Both Statements I and II together are necessary
 
-**Exact Answer:** `(e) Both Statements I and II together are necessary`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(e) Both Statements I and II together are necessary`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -281,7 +299,10 @@ Statement II: P is the daughter of N, whose brother-in-law is M.
 - (d) Neither Statement I nor Statement II is sufficient
 - (e) Both Statements I and II together are necessary
 
-**Exact Answer:** `(c) Either Statement I alone or Statement II alone is sufficient`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(c) Either Statement I alone or Statement II alone is sufficient`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -332,7 +353,10 @@ Q2. Who among the following is the 3rs shortest?
 - (d) Neither Statement I nor Statement II is sufficient
 - (e) Both Statements I and II together are necessary
 
-**Exact Answer:** `(e) Both Statements together or as analyzed in slide`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(e) Both Statements together or as analyzed in slide`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -373,7 +397,10 @@ their height?
 - (d) Neither Statement I nor Statement II is sufficient
 - (e) Both Statements I and II together are necessary
 
-**Exact Answer:** `(e) Both Statements together or as analyzed in slide`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(e) Both Statements together or as analyzed in slide`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -421,7 +448,10 @@ question
 - (d) Neither Statement I nor Statement II is sufficient
 - (e) Both Statements I and II together are necessary
 
-**Exact Answer:** `(e) Both Statements together or as analyzed in slide`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(e) Both Statements together or as analyzed in slide`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -470,7 +500,10 @@ question
 - (d) Neither Statement I nor Statement II is sufficient
 - (e) Both Statements I and II together are necessary
 
-**Exact Answer:** `(e) Both Statements together or as analyzed in slide`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(e) Both Statements together or as analyzed in slide`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -522,7 +555,10 @@ answer the question
 - (d) Neither Statement I nor Statement II is sufficient
 - (e) Both Statements I and II together are necessary
 
-**Exact Answer:** `(e) Both Statements together or as analyzed in slide`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(e) Both Statements together or as analyzed in slide`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -566,7 +602,10 @@ the question.
 - (d) Neither Statement I nor Statement II is sufficient
 - (e) Both Statements I and II together are necessary
 
-**Exact Answer:** `(e) Both Statements together or as analyzed in slide`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(e) Both Statements together or as analyzed in slide`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -614,7 +653,10 @@ question
 - (d) Neither Statement I nor Statement II is sufficient
 - (e) Both Statements I and II together are necessary
 
-**Exact Answer:** `(e) Both Statements together or as analyzed in slide`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(e) Both Statements together or as analyzed in slide`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -665,7 +707,10 @@ question
 - (d) Neither Statement I nor Statement II is sufficient
 - (e) Both Statements I and II together are necessary
 
-**Exact Answer:** `(e) Both Statements together or as analyzed in slide`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(e) Both Statements together or as analyzed in slide`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -708,7 +753,10 @@ Town Z.
 - (d) Neither Statement I nor Statement II is sufficient
 - (e) Both Statements I and II together are necessary
 
-**Exact Answer:** `(e) Both Statements together or as analyzed in slide`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(e) Both Statements together or as analyzed in slide`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -753,7 +801,10 @@ If the data in statement I and II together are necessary to answer the question
 - (d) Neither Statement I nor Statement II is sufficient
 - (e) Both Statements I and II together are necessary
 
-**Exact Answer:** `(e) Both Statements together or as analyzed in slide`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(e) Both Statements together or as analyzed in slide`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -801,7 +852,10 @@ question
 - (d) Neither Statement I nor Statement II is sufficient
 - (e) Both Statements I and II together are necessary
 
-**Exact Answer:** `(e) Both Statements together or as analyzed in slide`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(e) Both Statements together or as analyzed in slide`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -849,7 +903,10 @@ question
 - (d) Neither Statement I nor Statement II is sufficient
 - (e) Both Statements I and II together are necessary
 
-**Exact Answer:** `(e) Both Statements together or as analyzed in slide`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(e) Both Statements together or as analyzed in slide`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -901,7 +958,10 @@ the data in statement II alone are not sufficient to answer the question
 - (d) Neither Statement I nor Statement II is sufficient
 - (e) Both Statements I and II together are necessary
 
-**Exact Answer:** `(e) Both Statements together or as analyzed in slide`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(e) Both Statements together or as analyzed in slide`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -951,7 +1011,10 @@ necessary to answer the question
 - (d) Neither Statement I nor Statement II is sufficient
 - (e) Both Statements I and II together are necessary
 
-**Exact Answer:** `(e) Both Statements together or as analyzed in slide`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(e) Both Statements together or as analyzed in slide`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -993,7 +1056,10 @@ III. P has three children in which only one is son.
 - (d) Neither Statement I nor Statement II is sufficient
 - (e) Both Statements I and II together are necessary
 
-**Exact Answer:** `(e) Both Statements together or as analyzed in slide`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(e) Both Statements together or as analyzed in slide`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1038,7 +1104,10 @@ that code language.
 - (d) Neither Statement I nor Statement II is sufficient
 - (e) Both Statements I and II together are necessary
 
-**Exact Answer:** `(e) Both Statements together or as analyzed in slide`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(e) Both Statements together or as analyzed in slide`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1088,7 +1157,10 @@ necessary to answer the question
 - (d) Neither Statement I nor Statement II is sufficient
 - (e) Both Statements I and II together are necessary
 
-**Exact Answer:** `(e) Both Statements together or as analyzed in slide`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(e) Both Statements together or as analyzed in slide`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1123,7 +1195,10 @@ be nearest to:
 - C. Option 3
 - D. Option 4
 
-**Exact Answer:** `Solved in Series Compendium`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Solved in Series Compendium`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1160,7 +1235,10 @@ given responses
 - C. Option 3
 - D. Option 4
 
-**Exact Answer:** `Solved in Series Compendium`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Solved in Series Compendium`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1197,7 +1275,10 @@ Find the missing series :
 - C. Option 3
 - D. Option 4
 
-**Exact Answer:** `Solved in Series Compendium`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Solved in Series Compendium`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1229,7 +1310,10 @@ Type 1:
 - C. Option 3
 - D. Option 4
 
-**Exact Answer:** `Solved in Series Compendium`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Solved in Series Compendium`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1262,7 +1346,10 @@ Q1. Select the missing number from given responses
 - C. Option 3
 - D. Option 4
 
-**Exact Answer:** `Solved in Series Compendium`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Solved in Series Compendium`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1295,7 +1382,10 @@ Q2. Select the missing number from given responses
 - C. Option 3
 - D. Option 4
 
-**Exact Answer:** `Solved in Series Compendium`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Solved in Series Compendium`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1333,7 +1423,10 @@ d. 487
 - C. Option 3
 - D. Option 4
 
-**Exact Answer:** `Solved in Series Compendium`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Solved in Series Compendium`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1374,7 +1467,10 @@ d. 301
 - C. Option 3
 - D. Option 4
 
-**Exact Answer:** `Solved in Series Compendium`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Solved in Series Compendium`
+
 
 **Complete Mathematical / Logical Deduction:**
 

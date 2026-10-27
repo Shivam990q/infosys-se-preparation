@@ -26,7 +26,10 @@ Looking into a mirror, the clock shows 9 : 30 as the time. The actual time is __
 - 4:30
 - 5:30
 
-**Exact Answer:** `2:30`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2:30`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -58,7 +61,10 @@ When seen through a mirror, a clock shows 8 : 30. The correct time is ________
 - 4:30
 - 5:30
 
-**Exact Answer:** `3:30`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `3:30`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -90,7 +96,10 @@ By looking in a mirror, it appears that it is 6 : 30 in the clock. What is the r
 - 4:30
 - 3:30
 
-**Exact Answer:** `5:30`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `5:30`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -122,7 +131,10 @@ When seen through a mirror, a watch shows 12 : 15. The correct time is
 - 12 : 45
 - 11 : 45
 
-**Exact Answer:** `11 : 45`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `11 : 45`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -154,7 +166,10 @@ Which of the answer figure is exactly the mirror image of the given figure, when
 - 3
 - 4
 
-**Exact Answer:** `1`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `1`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -186,7 +201,10 @@ Which of the answer figure is exactly the mirror image of the given figure, when
 - 3
 - 4
 
-**Exact Answer:** `3`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `3`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -218,7 +236,10 @@ Which of the answer figure is exactly the mirror image of the given figure, when
 - 3
 - 4
 
-**Exact Answer:** `2`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -250,7 +271,10 @@ Which of the answer figure is exactly the mirror image of the given figure, when
 - 3
 - 4
 
-**Exact Answer:** `4`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `4`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -282,7 +306,10 @@ Which of the answer figure is exactly the mirror image of the given figure, when
 - 3
 - 4
 
-**Exact Answer:** `3`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `3`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -314,7 +341,10 @@ Which of the answer figures is exactly the mirror image of the given question fi
 - 3
 - 1
 
-**Exact Answer:** `4`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `4`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -346,7 +376,10 @@ Choose the alternative which is closely resembles the mirror image of the given 
 - 3
 - 4
 
-**Exact Answer:** `3`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `3`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -378,7 +411,10 @@ Choose the alternative which is closely resembles the mirror image of the given 
 - 3
 - 4
 
-**Exact Answer:** `1`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `1`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -410,7 +446,10 @@ Choose the alternative which is closely resembles the mirror image of the given 
 - 3
 - 4
 
-**Exact Answer:** `4`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `4`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -442,7 +481,10 @@ Choose the alternative which is closely resembles the mirror image of the given 
 - 3
 - 4
 
-**Exact Answer:** `4`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `4`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -474,7 +516,10 @@ Choose the alternative which is closely resembles the mirror image of the given 
 - 3
 - 4
 
-**Exact Answer:** `2`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -506,7 +551,10 @@ Choose the correct water image of the question figure, from the given answer fig
 - 4
 - 4
 
-**Exact Answer:** `1`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `1`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -538,7 +586,10 @@ Choose the correct water image of the question figure, from the given answer fig
 - 3
 - 4
 
-**Exact Answer:** `3`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `3`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -570,7 +621,10 @@ Choose the correct water image of the question figure, from the given answer fig
 - 3
 - 4
 
-**Exact Answer:** `1`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `1`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -602,7 +656,10 @@ Choose the correct water image of the question figure, from the given answer fig
 - 3
 - 4
 
-**Exact Answer:** `2`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -634,7 +691,10 @@ Choose the correct water image of the question figure, from the given answer fig
 - 3
 - 4
 
-**Exact Answer:** `3`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `3`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -666,7 +726,10 @@ Choose the correct water image of the question figure, from the given answer fig
 - 3
 - 4
 
-**Exact Answer:** `2`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -698,7 +761,10 @@ Choose the correct water image of the question figure, from the given answer fig
 - 3
 - 4
 
-**Exact Answer:** `2`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -730,7 +796,10 @@ Choose the correct water image of the question figure, from the given answer fig
 - 3
 - 4
 
-**Exact Answer:** `1`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `1`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -762,7 +831,10 @@ Choose the correct water image of the fig. (x) from the given four figures.
 - c
 - d
 
-**Exact Answer:** `d`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `d`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -794,7 +866,10 @@ Choose the correct water image of the question figure, from the given answer fig
 - 3
 - 4
 
-**Exact Answer:** `2`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -826,7 +901,10 @@ Choose the correct water image of the question figure, from the given answer fig
 - 3
 - 4
 
-**Exact Answer:** `2`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -858,7 +936,10 @@ Choose the correct water image of the question figure, from the given answer fig
 - 3
 - 4
 
-**Exact Answer:** `2`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -890,7 +971,10 @@ Choose the correct water image of the question figure, from the given answer fig
 - 3
 - 4
 
-**Exact Answer:** `4`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `4`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -922,7 +1006,10 @@ Choose the correct water image of the question figure, from the given answer fig
 - 3
 - 4
 
-**Exact Answer:** `1`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `1`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -954,7 +1041,10 @@ Choose the correct water image of the question figure, from the given answer fig
 - 3
 - 4
 
-**Exact Answer:** `2`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -999,7 +1089,10 @@ Find the missing number (?) in the third triangle:
 - 9
 - 11
 
-**Exact Answer:** `9`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `9`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1031,7 +1124,10 @@ Visual reasoning problem 2 from Number Puzzles Test.
 - 3
 - 4
 
-**Exact Answer:** `3`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `3`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1063,7 +1159,10 @@ Visual reasoning problem 3 from Number Puzzles Test.
 - 9
 - 12
 
-**Exact Answer:** `6`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `6`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1095,7 +1194,10 @@ Visual reasoning problem 4 from Number Puzzles Test.
 - 24
 - 28
 
-**Exact Answer:** `16`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `16`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1127,7 +1229,10 @@ Visual reasoning problem 5 from Number Puzzles Test.
 - 30
 - 39
 
-**Exact Answer:** `39`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `39`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1174,7 +1279,10 @@ Find the missing number (?) in the 3×3 column-sum grid:
 - 3
 - 4
 
-**Exact Answer:** `4`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `4`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1220,7 +1328,10 @@ Find the missing number (?) in the 3×3 row-and-column sum matrix:
 - 18
 - 24
 
-**Exact Answer:** `6`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `6`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1252,7 +1363,10 @@ Visual reasoning problem 8 from Number Puzzles Test.
 - 45
 - 50
 
-**Exact Answer:** `40`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `40`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1295,7 +1409,10 @@ Find the missing number (?) in the quadrant square segment:
 - 9
 - 12
 
-**Exact Answer:** `9`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `9`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1327,7 +1444,10 @@ Visual reasoning problem 10 from Number Puzzles Test.
 - 26
 - 29
 
-**Exact Answer:** `16`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `16`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1359,7 +1479,10 @@ Visual reasoning problem 11 from Number Puzzles Test.
 - 6
 - 7
 
-**Exact Answer:** `7`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `7`
+
 
 **Complete Mathematical / Logical Deduction:**
 
@@ -1391,7 +1514,10 @@ Visual reasoning problem 12 from Number Puzzles Test.
 - 16
 - 19
 
-**Exact Answer:** `13`
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `13`
+
 
 **Complete Mathematical / Logical Deduction:**
 
