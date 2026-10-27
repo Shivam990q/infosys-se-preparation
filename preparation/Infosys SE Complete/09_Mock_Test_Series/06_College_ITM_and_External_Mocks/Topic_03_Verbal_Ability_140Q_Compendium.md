@@ -169,7 +169,7 @@ The central idea of the passage is that:
 
 **Correct Answer:** Option **(B)** — `Technical debt is not necessarily bad, but its recurring costs must be made visible and repaid selectively`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 The passage argues that technical debt is analogous to financial debt: not inherently evil, but dangerous when its recurring carrying costs ('interest') are unacknowledged. The recommended path is making debt visible and repaying it where interest is demonstrably high, matching option (b).
 
 ---
@@ -189,7 +189,7 @@ According to the passage, managers blame developer productivity because they:
 
 **Correct Answer:** Option **(B)** — `see only the delivered features and not the hidden extra effort`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 The passage states explicitly: 'yet managers, seeing only the delivered functionality, attribute the slowdown to declining developer productivity.' Because the background drag of unrecorded debt is invisible to them, they blame the engineers.
 
 ---
@@ -209,7 +209,7 @@ Which statement would critics of fixed repayment quotas most likely agree with?
 
 **Correct Answer:** Option **(A)** — `Repayment effort should target genuine risks rather than meet a set proportion`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Critics argue that fixed quotas 'are arbitrary and encourage cosmetic rewrites that leave real risks untouched.' Hence, they would advocate targeting repayment where high, genuine risks exist rather than meeting a rigid percentage.
 
 ---
@@ -229,7 +229,7 @@ In the passage, "interest" most nearly refers to:
 
 **Correct Answer:** Option **(B)** — `the recurring additional effort imposed on future changes`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 The passage defines interest directly: 'the interest, meaning the extra effort every future change demands'.
 
 ---
@@ -250,7 +250,7 @@ Sentence Correction (Q31–35). Choose the best replacement for the bold part.
 
 **Correct Answer:** Option **(B)** — `A slowdown in delivery always indicates falling developer productivity`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 The passage explicitly notes that a delivery slowdown is often caused by accumulated technical debt rather than declining developer productivity, so the claim that slowdown 'always indicates falling developer productivity' is false and NOT supported.
 
 ---
@@ -270,7 +270,7 @@ Neither the manager nor the engineers was aware of the revised deadline.
 
 **Correct Answer:** Option **(B)** — `engineers were`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 With correlative conjunctions 'neither... nor', the verb agrees in number with the nearer subject. Here, the nearer subject is 'engineers' (plural), which requires the plural past verb 'were'. Correct: 'Neither the manager nor the engineers were aware of the revised deadline.'
 
 ---
@@ -290,7 +290,7 @@ Had the team would have tested the patch thoroughly, the outage could have been 
 
 **Correct Answer:** Option **(B)** — `Had the team tested`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Inverted third conditional structure uses 'Had + subject + past participle'. The conditional clause cannot contain 'would have'. Correct: 'Had the team tested the patch thoroughly, the outage could have been avoided.'
 
 ---
@@ -311,7 +311,7 @@ restarted than
 
 **Correct Answer:** Option **(B)** — `had the server restarted when`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Negative adverbial 'Hardly' placed at the beginning of a clause triggers negative inversion: 'Hardly had + subject + past participle... when...'. Correct: 'Hardly had the server restarted when the alerts began flooding in.'
 
 ---
@@ -331,7 +331,7 @@ The number of applicants are increasing, but a large number of them lacks the re
 
 **Correct Answer:** Option **(B)** — `is … lack`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 'The number of' denotes a singular collective quantity and takes a singular verb ('is increasing'). In contrast, 'a large number of' denotes a plural quantity of individuals and takes a plural verb ('lack the required skills'). Correct: 'is ... lack'.
 
 ---
@@ -352,7 +352,7 @@ Para-jumbles (Q36–38). Arrange the sentences in the correct order.
 
 **Correct Answer:** Option **(B)** — `was`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 The true grammatical subject of the sentence is 'Each' (distributive pronoun, singular). Parenthetical prepositional phrases like 'along with their mentor' do not alter the grammatical number of the subject. Correct: 'was'.
 
 ---
@@ -375,7 +375,7 @@ S: Consequently, the launch was postponed by three months.
 
 **Correct Answer:** Option **(A)** — `QPRS`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Coherent narrative flow: Q introduces initial state ('The engineers were confident...'), P introduces the contrast ('However, the prototype failed...'), R explains the underlying cause ('Post-mortem analysis revealed...'), and S delivers the project outcome ('Consequently, the launch was postponed...'). Order: QPRS.
 
 ---
@@ -398,7 +398,7 @@ S: Such speculation, when disciplined, can illuminate the forces that shaped rea
 
 **Correct Answer:** Option **(A)** — `QRPS`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Logical progression: Q introduces the subject ('Counterfactual questions... are popular with historians'), R defines their negative boundary ('They do not aim to predict...'), P introduces the positive counterpart ('Rather, they encourage people to think...'), and S summarizes their scholarly value ('Such speculation... can illuminate real events'). Order: QRPS.
 
 ---
@@ -422,7 +422,7 @@ Vocabulary, Synonyms and Antonyms (Q39–45).
 
 **Correct Answer:** Option **(A)** — `PRSQ`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Chronological progression: P establishes historical origin in the 1960s ('The first industrial robots were deployed...'), R describes their initial physical limitations ('These early machines were caged off...'), S explains how modern technology overcame the limit ('Advances in sensors... have since removed this limitation'), and Q describes the present state ('Today, collaborative robots work safely...'). Order: PRSQ.
 
 ---
@@ -442,7 +442,7 @@ The auditor's meticulous approach uncovered discrepancies others had missed. "Me
 
 **Correct Answer:** Option **(B)** — `painstakingly careful`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 'Meticulous' means showing great attention to detail; very careful and precise. Hence, 'painstakingly careful'.
 
 ---
@@ -462,7 +462,7 @@ The contract was deliberately worded to obfuscate the penalty clauses. "Obfuscat
 
 **Correct Answer:** Option **(C)** — `make obscure`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 'Obfuscate' means to make obscure, unclear, or unintelligible.
 
 ---
@@ -482,7 +482,7 @@ Fill in the blank: The startup's success proved ______; within a year it had van
 
 **Correct Answer:** Option **(B)** — `ephemeral`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 'Ephemeral' means lasting for a very short time; transitory. Since the startup vanished within a year, its success was ephemeral.
 
 ---
@@ -502,7 +502,7 @@ Synonym of UBIQUITOUS:
 
 **Correct Answer:** Option **(B)** — `omnipresent`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 'Ubiquitous' means present, appearing, or found everywhere; omnipresent.
 
 ---
@@ -522,7 +522,7 @@ Synonym of RECALCITRANT:
 
 **Correct Answer:** Option **(B)** — `obstinate`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 'Recalcitrant' means having an obstinately uncooperative attitude towards authority or discipline; obstinate.
 
 ---
@@ -542,7 +542,7 @@ Antonym of LOQUACIOUS:
 
 **Correct Answer:** Option **(B)** — `taciturn`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 'Loquacious' means tending to talk a great deal; talkative. The antonym is 'taciturn' (reserved or uncommunicative in speech).
 
 ---
@@ -562,7 +562,7 @@ Antonym of MAGNANIMOUS:
 
 **Correct Answer:** Option **(C)** — `petty`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 'Magnanimous' means generous or forgiving, especially towards a rival or someone less powerful. The antonym is 'petty' (narrow-minded, spiteful, or mean).
 
 ---
@@ -584,7 +584,7 @@ failure
 **Correct Answer:** Option **(B)** — `Automation shifts the location of errors rather than eliminating them, so monitoring must assume silent 
 failure`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 2, option (B) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -604,7 +604,7 @@ According to the passage, complacency arises because:
 
 **Correct Answer:** Option **(B)** — `the automation is rarely wrong, so vigilance declines`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 2, option (B) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -624,7 +624,7 @@ The phrase "fail silently" in the passage most nearly means:
 
 **Correct Answer:** Option **(B)** — `the system errs without producing any visible warning`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 2, option (B) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -644,7 +644,7 @@ Which of these would the author most likely recommend?
 
 **Correct Answer:** Option **(B)** — `Designing escalation processes that do not rely solely on human vigilance`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 2, option (B) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -665,7 +665,7 @@ Sentence Correction (Q31–35).
 
 **Correct Answer:** Option **(C)** — `The passage argues automation should never be trusted`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 2, option (C) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -685,7 +685,7 @@ Each of the servers in the cluster have its own dedicated backup.
 
 **Correct Answer:** Option **(B)** — `has`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 "Each" is singular, so the verb must be "has".
 
 ---
@@ -706,7 +706,7 @@ than
 
 **Correct Answer:** Option **(B)** — `Scarcely had the deployment finished when`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 "Scarcely...when" is the correct pairing, not "than".
 
 ---
@@ -726,7 +726,7 @@ The report, along with its supporting data sheets, were submitted before the dea
 
 **Correct Answer:** Option **(B)** — `was submitted`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 "The report" is the true (singular) subject; "along with..." does not pluralize it, so "was submitted".
 
 ---
@@ -746,7 +746,7 @@ If I was you, I would escalate this incident immediately.
 
 **Correct Answer:** Option **(B)** — `If I were you`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Hypothetical conditions use the subjunctive "were" after "if", regardless of subject.
 
 ---
@@ -767,7 +767,7 @@ Para-jumbles (Q36–38).
 
 **Correct Answer:** Option **(B)** — `were responsible`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 With "not only...but also" joining two subjects, the verb agrees with the nearer one (testers, plural), 
 so "were responsible".
 
@@ -791,7 +791,7 @@ S: The team subsequently rewrote the load-testing suite to include concurrent wr
 
 **Correct Answer:** Option **(A)** — `QPRS`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Sentence sequence: Q→P→R→S.. Coherent narrative progression establishes logical flow from premise to supporting detail and conclusion.
 
 ---
@@ -814,7 +814,7 @@ S: Critics forget that the models were never meant to be literal descriptions of
 
 **Correct Answer:** Option **(A)** — `QSPR`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Sentence sequence: Q→S→P→R.. Coherent narrative progression establishes logical flow from premise to supporting detail and conclusion.
 
 ---
@@ -838,7 +838,7 @@ Vocabulary, Synonyms and Antonyms (Q39–45).
 
 **Correct Answer:** Option **(A)** — `QRSP`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Sentence sequence: Q→R→S→P.. Coherent narrative progression establishes logical flow from premise to supporting detail and conclusion.
 
 ---
@@ -858,7 +858,7 @@ The consultant's cursory review missed several critical vulnerabilities. "Cursor
 
 **Correct Answer:** Option **(B)** — `hasty and superficial`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -878,7 +878,7 @@ The new policy was met with tacit approval from the board. "Tacit" means:
 
 **Correct Answer:** Option **(B)** — `implied without being stated`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -899,7 +899,7 @@ incident.
 
 **Correct Answer:** Option **(B)** — `unflappable`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -919,7 +919,7 @@ Synonym of PRAGMATIC:
 
 **Correct Answer:** Option **(B)** — `practical`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -939,7 +939,7 @@ Synonym of VOLATILE:
 
 **Correct Answer:** Option **(B)** — `unpredictable`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -959,7 +959,7 @@ Antonym of CONCISE:
 
 **Correct Answer:** Option **(B)** — `verbose`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -979,7 +979,7 @@ Antonym of DILIGENT:
 
 **Correct Answer:** Option **(C)** — `lazy`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 
 ---
 
@@ -998,7 +998,7 @@ The passage's central claim is that inaccurate software estimates stem primarily
 
 **Correct Answer:** Option **(B)** — `An organisational incentive structure that rewards optimistic estimates over accurate ones`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 3, option (B) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -1018,7 +1018,7 @@ According to the passage, the "student syndrome" refers to:
 
 **Correct Answer:** Option **(B)** — `Visible schedule buffers being treated as reclaimable slack rather than reserved risk`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 3, option (B) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -1038,7 +1038,7 @@ Which of the following best captures the "structural asymmetry" the author descr
 
 **Correct Answer:** Option **(A)** — `Overestimation carries immediate, visible costs, while underestimation's costs are delayed and diffuse`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 3, option (A) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -1058,7 +1058,7 @@ The author implies that adding explicit contingency buffers to schedules:
 
 **Correct Answer:** Option **(B)** — `Can be counterproductive once stakeholders perceive the buffer as available slack`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 3, option (B) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -1079,7 +1079,7 @@ Sentence Correction (Q31–35).
 
 **Correct Answer:** Option **(A)** — `Estimation techniques themselves are the primary obstacle to accurate forecasting`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 3, option (A) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -1100,7 +1100,7 @@ rollback of the previous release.
 
 **Correct Answer:** Option **(B)** — `but it also required`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 "Not only...but" needs "but" to complete the correlative pair; "but it also required" is the standard, 
 grammatical form.
 
@@ -1123,7 +1123,7 @@ confident
 **Correct Answer:** Option **(C)** — `in which the researchers were 
 confident`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 The redundant pronoun "it" must be dropped, and the preposition placed before the relative 
 pronoun: "in which the researchers were confident".
 
@@ -1145,7 +1145,7 @@ made
 
 **Correct Answer:** Option **(B)** — `the team decided`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 "Having reviewed..." is a dangling modifier — it must describe the people who did the reviewing, so 
 the sentence needs an explicit human subject: "the team decided".
 
@@ -1166,7 +1166,7 @@ The new algorithm is more efficient as compared to the previous version.
 
 **Correct Answer:** Option **(B)** — `more efficient than`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 The correct comparative form is simply "more efficient than", not "as compared to".
 
 ---
@@ -1188,7 +1188,7 @@ Para-jumbles (Q36–38).
 
 **Correct Answer:** Option **(B)** — `the on-call engineer took immediate action`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Another dangling modifier — "Having been informed..." must attach to "the on-call engineer", who 
 was informed and then acted.
 
@@ -1212,7 +1212,7 @@ S: Unlike XML, it dispensed with the rigid schema definitions many developers fo
 
 **Correct Answer:** Option **(A)** — `QSPR`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Sentence sequence: Q→S→P→R.. Coherent narrative progression establishes logical flow from premise to supporting detail and conclusion.
 
 ---
@@ -1236,7 +1236,7 @@ each other.
 
 **Correct Answer:** Option **(A)** — `QSPR`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Sentence sequence: Q→S→P→R.. Coherent narrative progression establishes logical flow from premise to supporting detail and conclusion.
 
 ---
@@ -1261,7 +1261,7 @@ Vocabulary, Synonyms and Antonyms (Q39–45).
 
 **Correct Answer:** Option **(A)** — `QSPR`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Sentence sequence: Q→S→P→R.. Coherent narrative progression establishes logical flow from premise to supporting detail and conclusion.
 
 ---
@@ -1282,7 +1282,7 @@ courageous. "Obstinate" means:
 
 **Correct Answer:** Option **(B)** — `stubbornly unwilling to change`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -1302,7 +1302,7 @@ His perfunctory apology did little to repair the damaged trust. "Perfunctory" me
 
 **Correct Answer:** Option **(B)** — `done as a mere formality, without real effort`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -1324,7 +1324,7 @@ instead of concrete recommendations.
 
 **Correct Answer:** Option **(B)** — `vague`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -1344,7 +1344,7 @@ Synonym of INSCRUTABLE:
 
 **Correct Answer:** Option **(B)** — `unfathomable`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -1364,7 +1364,7 @@ Synonym of PROFLIGATE:
 
 **Correct Answer:** Option **(B)** — `wasteful`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -1384,7 +1384,7 @@ Antonym of ASSIDUOUS:
 
 **Correct Answer:** Option **(C)** — `negligent`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (C) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -1404,7 +1404,7 @@ Antonym of EPHEMERAL:
 
 **Correct Answer:** Option **(B)** — `permanent`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 
 ---
 
@@ -1423,7 +1423,7 @@ According to the passage, the CAP theorem is frequently misapplied because:
 
 **Correct Answer:** Option **(A)** — `Partition tolerance is wrongly treated as an optional design choice when it is effectively mandatory`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 4, option (A) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -1445,7 +1445,7 @@ system
 **Correct Answer:** Option **(B)** — `The consistency-availability trade-off can be made differently for different parts of the same overall 
 system`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 4, option (B) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -1465,7 +1465,7 @@ The phrase "a common and consequential misreading" refers to:
 
 **Correct Answer:** Option **(B)** — `Treating the CAP choice as one uniform, system-wide decision rather than one that can vary per service`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 4, option (B) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -1487,7 +1487,7 @@ another
 **Correct Answer:** Option **(A)** — `A single distributed system can legitimately favour consistency for one function and availability for 
 another`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 4, option (A) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -1510,7 +1510,7 @@ Sentence Correction (Q31–35).
 **Correct Answer:** Option **(B)** — `Because any system communicating over an unreliable network cannot realistically avoid the possibility 
 of partitions`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 4, option (B) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -1530,7 +1530,7 @@ It is imperative that every deployment is tested thoroughly before being pushed 
 
 **Correct Answer:** Option **(B)** — `be tested`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 "Imperative that" triggers the subjunctive mood, which uses the base form: "be tested".
 
 ---
@@ -1551,7 +1551,7 @@ architect
 
 **Correct Answer:** Option **(B)** — `does a system architect get`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 "Rarely" at the start of a sentence triggers subject-auxiliary inversion: "does a system architect get".
 
 ---
@@ -1572,7 +1572,7 @@ questioned which
 
 **Correct Answer:** Option **(B)** — `which many have questioned`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 The redundant "it" must be dropped, and "which" (not "that") is used after a comma for a non-
 restrictive clause.
 
@@ -1594,7 +1594,7 @@ factors.
 
 **Correct Answer:** Option **(B)** — `to poor estimation practices`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 "The fact of" is redundant and unidiomatic; "attributed to poor estimation practices" is correct and 
 concise.
 
@@ -1616,7 +1616,7 @@ Para-jumbles (Q36–38).
 
 **Correct Answer:** Option **(B)** — `Given that the deadline was moved up`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 "Being that" is non-standard; the correct formal causal connector is "Given that".
 
 ---
@@ -1640,7 +1640,7 @@ values.
 
 **Correct Answer:** Option **(A)** — `QPSR`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Sentence sequence: Q→P→S→R.. Coherent narrative progression establishes logical flow from premise to supporting detail and conclusion.
 
 ---
@@ -1665,7 +1665,7 @@ S: Neither approach is objectively superior, and the choice is not a matter of e
 
 **Correct Answer:** Option **(A)** — `QRSP`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Sentence sequence: Q→R→S→P.. Coherent narrative progression establishes logical flow from premise to supporting detail and conclusion.
 
 ---
@@ -1689,7 +1689,7 @@ Vocabulary, Synonyms and Antonyms (Q39–45).
 
 **Correct Answer:** Option **(A)** — `QSPR`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Sentence sequence: Q→S→P→R.. Coherent narrative progression establishes logical flow from premise to supporting detail and conclusion.
 
 ---
@@ -1710,7 +1710,7 @@ means:
 
 **Correct Answer:** Option **(B)** — `leaving no doubt; completely clear`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -1731,7 +1731,7 @@ Critics dismissed the proposal as specious — appealing on the surface but fund
 
 **Correct Answer:** Option **(B)** — `superficially plausible but actually wrong`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -1752,7 +1752,7 @@ unable to find common ground.
 
 **Correct Answer:** Option **(B)** — `intransigent`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -1772,7 +1772,7 @@ Synonym of CIRCUMSPECT:
 
 **Correct Answer:** Option **(B)** — `cautious and careful`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -1792,7 +1792,7 @@ Synonym of OBFUSCATORY:
 
 **Correct Answer:** Option **(B)** — `deliberately confusing`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -1812,7 +1812,7 @@ Antonym of PARSIMONIOUS:
 
 **Correct Answer:** Option **(C)** — `lavish`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (C) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -1832,7 +1832,7 @@ Antonym of GARRULOUS:
 
 **Correct Answer:** Option **(C)** — `taciturn`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 
 ---
 
@@ -1851,7 +1851,7 @@ The passage's central argument is that rate limits should be understood primaril
 
 **Correct Answer:** Option **(B)** — `An explicit, measured capacity contract that client code can plan around, not just a defensive wall`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 5, option (B) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -1871,7 +1871,7 @@ According to the passage, limits set reactively during an incident risk becoming
 
 **Correct Answer:** Option **(B)** — `An invisible ceiling that quietly caps legitimate growth after the emergency has passed`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 5, option (B) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -1891,7 +1891,7 @@ The phrase "living documentation of measured capacity" implies that rate limits 
 
 **Correct Answer:** Option **(B)** — `Periodically revisited as the service's performance characteristics evolve`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 5, option (B) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -1913,7 +1913,7 @@ excess traffic
 **Correct Answer:** Option **(A)** — `A well-chosen rate limit communicates useful information to the systems that call it, beyond just blocking 
 excess traffic`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 5, option (A) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -1934,7 +1934,7 @@ Sentence Correction (Q31–35).
 
 **Correct Answer:** Option **(B)** — `The limit may stay more conservative than necessary and suppress legitimate growth`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 5, option (B) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -1955,7 +1955,7 @@ now.
 
 **Correct Answer:** Option **(B)** — `had been, would not be`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 A mixed conditional (past condition, present result) needs "had been" (past perfect) in the if-clause 
 and "would not be" (present conditional) in the main clause.
 
@@ -1977,7 +1977,7 @@ yet been completed at that time.
 
 **Correct Answer:** Option **(A)** — `No improvement`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Reported speech backshifts "will"→"would" and "has not been completed"→"had not been 
 completed".
 
@@ -1999,7 +1999,7 @@ introduced by mistake during the last deployment.
 
 **Correct Answer:** Option **(A)** — `No improvement`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 "account for", "traced to", and "by mistake" are the correct idiomatic combinations.
 
 ---
@@ -2020,7 +2020,7 @@ joining, failing which their system access will be automatically suspended.
 
 **Correct Answer:** Option **(C)** — `to attend`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 "requires...to attend" needs the infinitive, not the gerund ("to attending" is ungrammatical).
 
 ---
@@ -2042,7 +2042,7 @@ Para-jumbles (Q36–38).
 
 **Correct Answer:** Option **(B)** — `was caused by`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 "caused by" is correct; "caused due to" is a common but non-standard (redundant) construction.
 
 ---
@@ -2066,7 +2066,7 @@ S: Without explicit synchronisation, two threads could see updates to the same v
 
 **Correct Answer:** Option **(A)** — `QSPR`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Sentence sequence: Q→S→P→R.. Coherent narrative progression establishes logical flow from premise to supporting detail and conclusion.
 
 ---
@@ -2090,7 +2090,7 @@ answer.
 
 **Correct Answer:** Option **(A)** — `QPRS`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Sentence sequence: Q→P→R→S.. Coherent narrative progression establishes logical flow from premise to supporting detail and conclusion.
 
 ---
@@ -2115,7 +2115,7 @@ Vocabulary, Synonyms and Antonyms (Q39–45).
 
 **Correct Answer:** Option **(A)** — `QSPR`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Sentence sequence: Q→S→P→R.. Coherent narrative progression establishes logical flow from premise to supporting detail and conclusion.
 
 ---
@@ -2136,7 +2136,7 @@ The consultant's recommendations were anodyne, offering nothing that would upset
 
 **Correct Answer:** Option **(B)** — `inoffensive and bland`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -2156,7 +2156,7 @@ The engineer's terse response left no room for follow-up questions. "Terse" mean
 
 **Correct Answer:** Option **(B)** — `brief and to the point, almost curt`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -2177,7 +2177,7 @@ systemic causes instead of individual blame.
 
 **Correct Answer:** Option **(B)** — `blameless`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -2197,7 +2197,7 @@ Synonym of INTRACTABLE:
 
 **Correct Answer:** Option **(B)** — `difficult to control or solve`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -2217,7 +2217,7 @@ Synonym of PRECARIOUS:
 
 **Correct Answer:** Option **(B)** — `unstable or risky`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -2237,7 +2237,7 @@ Antonym of MERITORIOUS:
 
 **Correct Answer:** Option **(C)** — `blameworthy`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (C) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -2257,7 +2257,7 @@ Antonym of VINDICATE:
 
 **Correct Answer:** Option **(C)** — `incriminate`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 
 ---
 
@@ -2278,7 +2278,7 @@ dropped
 **Correct Answer:** Option **(B)** — `Metrics that become targets get gamed, so they should be paired with counter-metrics and revisited, not 
 dropped`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 6, option (B) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -2298,7 +2298,7 @@ The author's view of the gaming behaviour described is that it is:
 
 **Correct Answer:** Option **(B)** — `Not necessarily cynical, but a rational response to perceived incentives`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 6, option (B) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -2318,7 +2318,7 @@ Treating a metric "as a symptom rather than a verdict" most nearly means:
 
 **Correct Answer:** Option **(B)** — `Using the metric as a signal that prompts investigation rather than a final judgement of performance`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 6, option (B) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -2338,7 +2338,7 @@ According to the passage, why would abandoning measurement be undesirable?
 
 **Correct Answer:** Option **(C)** — `Managers would be left relying on anecdote`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 6, option (C) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -2359,7 +2359,7 @@ Sentence Correction (Q31–35).
 
 **Correct Answer:** Option **(A)** — `Even a counter-metric can eventually be gamed, so the arrangement needs periodic review`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 6, option (A) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -2379,7 +2379,7 @@ Neither the project manager nor the developers was informed about the change.
 
 **Correct Answer:** Option **(B)** — `were informed`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 With "neither…nor", the verb agrees with the nearer subject (developers → were).
 
 ---
@@ -2400,7 +2400,7 @@ the technician unusually high
 
 **Correct Answer:** Option **(B)** — `the technician found the temperature unusually high`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 The opening participle must modify a person; "the technician found the temperature…" fixes the 
 dangling modifier.
 
@@ -2422,7 +2422,7 @@ easy
 
 **Correct Answer:** Option **(B)** — `and easier to maintain`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 The adjectives must stay parallel: faster, more secure, and easier to maintain.
 
 ---
@@ -2442,7 +2442,7 @@ By the time the patch was released, the attackers already exploited the vulnerab
 
 **Correct Answer:** Option **(B)** — `had already exploited`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 An action completed before another past action needs the past perfect: "had already exploited".
 
 ---
@@ -2466,7 +2466,7 @@ Para-jumbles (Q36–38).
 **Correct Answer:** Option **(C)** — `The build 
 failed because a dependency was missing`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 "The reason… is because" is redundant; "The build failed because a dependency was missing" is the 
 clean form.
 
@@ -2490,7 +2490,7 @@ S: Real regressions then slip through unnoticed.
 
 **Correct Answer:** Option **(A)** — `QRSP`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Sentence sequence: Q→R→S→P.. Coherent narrative progression establishes logical flow from premise to supporting detail and conclusion.
 
 ---
@@ -2513,7 +2513,7 @@ S: A staged rollout, exposing a small and growing share of users, is the usual c
 
 **Correct Answer:** Option **(A)** — `QPRS`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Sentence sequence: Q→P→R→S.. Coherent narrative progression establishes logical flow from premise to supporting detail and conclusion.
 
 ---
@@ -2537,7 +2537,7 @@ Vocabulary, Synonyms and Antonyms (Q39–45).
 
 **Correct Answer:** Option **(B)** — `QPSR`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Sentence sequence: Q→P→S→R.. Coherent narrative progression establishes logical flow from premise to supporting detail and conclusion.
 
 ---
@@ -2557,7 +2557,7 @@ The documentation was admirably pellucid, leaving no step open to misreading. "P
 
 **Correct Answer:** Option **(B)** — `transparently clear`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -2577,7 +2577,7 @@ The client's mercurial moods made planning difficult. "Mercurial" means:
 
 **Correct Answer:** Option **(B)** — `unpredictably changeable`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -2597,7 +2597,7 @@ Fill in the blank: The startup's growth was ______; revenue tripled in a single 
 
 **Correct Answer:** Option **(A)** — `meteoric`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (A) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -2617,7 +2617,7 @@ Synonym of EQUIVOCATE:
 
 **Correct Answer:** Option **(A)** — `speak ambiguously to avoid commitment`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (A) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -2637,7 +2637,7 @@ Synonym of PERNICIOUS:
 
 **Correct Answer:** Option **(B)** — `subtly or gravely harmful`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -2657,7 +2657,7 @@ Antonym of BENEVOLENT:
 
 **Correct Answer:** Option **(B)** — `malevolent`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -2677,7 +2677,7 @@ Antonym of EXACERBATE:
 
 **Correct Answer:** Option **(C)** — `alleviate`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 
 ---
 
@@ -2696,7 +2696,7 @@ The passage mainly argues that:
 
 **Correct Answer:** Option **(B)** — `Safe retries need idempotency, which has its own costs and is best designed in from the start`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 7, option (B) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -2716,7 +2716,7 @@ According to the reading comprehension passage for Paper 7, option (B) is direct
 
 **Correct Answer:** Option **(C)** — `the caller cannot tell whether the request was executed`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 7, option (C) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -2736,7 +2736,7 @@ The author says the identifier approach "shifts the burden rather than removing 
 
 **Correct Answer:** Option **(B)** — `the server must store identifiers and decide how long to keep them`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 7, option (B) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -2756,7 +2756,7 @@ According to the passage, what is the risk of discarding identifiers too early?
 
 **Correct Answer:** Option **(A)** — `A duplicate request may be executed a second time`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 7, option (A) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -2778,7 +2778,7 @@ Critical Reasoning (Q31–33).
 
 **Correct Answer:** Option **(C)** — `Teams that include idempotency in an operation's contract are less likely to meet it first as an outage`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 According to the reading comprehension passage for Paper 7, option (C) is directly supported and established by the author's primary thesis and supporting textual arguments.
 
 ---
@@ -2800,7 +2800,7 @@ assumption on which this conclusion depends?
 
 **Correct Answer:** Option **(B)** — `No other factor that affects retention changed significantly over the same period`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 The conclusion that the CDN caused the retention rise only holds if nothing else that affects retention 
 changed over the same period.
 
@@ -2822,7 +2822,7 @@ concludes that code reviews reduce defects. Which of the following, if true, mos
 
 **Correct Answer:** Option **(B)** — `In the same period the company halved its release frequency and cut new-feature work sharply`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Halving releases and cutting feature work gives an alternative explanation for fewer defects, so it 
 weakens the claim that reviews were the cause.
 
@@ -2847,7 +2847,7 @@ Sentence Correction (Q34–36).
 **Correct Answer:** Option **(A)** — `In a pilot, 85% of requests were served from the cache, and every cache hit avoids a billable database 
 query`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 A high cache-hit rate, with each hit avoiding a billable query, directly links the cache to lower 
 database costs.
 
@@ -2870,7 +2870,7 @@ adopting
 
 **Correct Answer:** Option **(B)** — `fewer people have adopted`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 "Fewer" is used with countable nouns (people), and the plural subject "people" takes "have".
 
 ---
@@ -2890,7 +2890,7 @@ The throughput of the new cluster is much higher than the old one.
 
 **Correct Answer:** Option **(B)** — `than that of the old one`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Compare like with like: the throughput of the new cluster with that of the old one.
 
 ---
@@ -2911,7 +2911,7 @@ Para-jumbles (Q37–39).
 
 **Correct Answer:** Option **(B)** — `were`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 After "wish", a present unreal condition takes the subjunctive "were".
 
 ---
@@ -2934,7 +2934,7 @@ S: During propagation, different nodes hold different versions of the same recor
 
 **Correct Answer:** Option **(B)** — `QSRP`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Sentence sequence: Q→S→R→P.. Coherent narrative progression establishes logical flow from premise to supporting detail and conclusion.
 
 ---
@@ -2957,7 +2957,7 @@ S: If many keys land in the same bucket, performance degrades towards linear tim
 
 **Correct Answer:** Option **(B)** — `PQSR`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Sentence sequence: P→Q→S→R.. Coherent narrative progression establishes logical flow from premise to supporting detail and conclusion.
 
 ---
@@ -2981,7 +2981,7 @@ Sentence Completion (Q40–41).
 
 **Correct Answer:** Option **(A)** — `QRSP`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (A) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -3001,7 +3001,7 @@ Although the prototype looked impressive in the demo, its performance under real
 
 **Correct Answer:** Option **(B)** — `underwhelming`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -3023,7 +3023,7 @@ Vocabulary, Synonyms and Antonyms (Q42–45).
 
 **Correct Answer:** Option **(B)** — `lucid`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -3043,7 +3043,7 @@ Synonym of ABSTRUSE:
 
 **Correct Answer:** Option **(B)** — `difficult to understand`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (B) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -3063,7 +3063,7 @@ Synonym of SALIENT:
 
 **Correct Answer:** Option **(C)** — `most noticeable or important`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (C) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -3083,7 +3083,7 @@ Antonym of ARDUOUS:
 
 **Correct Answer:** Option **(C)** — `effortless`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 Standard vocabulary / grammatical definition establishes that option (C) is the exact synonym/antonym/definition required in this context.
 
 ---
@@ -3103,7 +3103,7 @@ Antonym of OBSEQUIOUS:
 
 **Correct Answer:** Option **(C)** — `assertive`
 
-**Detailed Explanation & Grammatical / Textual Justification:**
+#### Detailed Derivation & Solution (Grammatical & Textual Justification):
 
 ---
 

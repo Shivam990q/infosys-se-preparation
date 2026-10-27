@@ -5258,3 +5258,14 @@ According to the reading comprehension passage for Paper 4, option (A) is direct
 Based on the passage, why is partition tolerance called a "structural necessity"?
 
 **Options:**
+- **(A)** Because regulations require it
+- **(B)** Because any system communicating over an unreliable network cannot realistically avoid the possibility of partitions
+- **(C)** Because consistency is always more important
+- **(D)** Because availability is always more important
+
+**Correct Answer:** Option **(B)** — `Because any system communicating over an unreliable network cannot realistically avoid the possibility of partitions`
+
+**Forensic Explanation & Textual Evidence:**
+According to the reading comprehension passage for Paper 4, network partitions are an inherent physical reality of distributed infrastructure. Thus, any distributed architecture communicating across unreliable networks must tolerate partitions by structural necessity, matching Option (B).
+
+---

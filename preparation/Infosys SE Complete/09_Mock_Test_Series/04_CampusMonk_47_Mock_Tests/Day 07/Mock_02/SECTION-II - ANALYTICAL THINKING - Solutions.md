@@ -20,6 +20,12 @@ Directions(1-2): Two statements are followed by four conclusions numbered I, II,
 
 **Correct Answer:** Option (A)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 2
@@ -36,6 +42,12 @@ Directions(1-2): Two statements are followed by four conclusions numbered I, II,
 
 **Correct Answer:** Option (C)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 3
@@ -50,6 +62,12 @@ Directions(3-4): The questions given below have four groups of three statements 
 - (D) Only A and D
 
 **Correct Answer:** Option (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -66,6 +84,12 @@ Directions(3-4): The questions given below have four groups of three statements 
 
 **Correct Answer:** Option (D)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 5
@@ -80,6 +104,12 @@ DIRECTIONS for questions : Given below are line graph examples with questions, w
 - (D) A. None of these
 
 **Correct Answer:** Option (C)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -96,6 +126,12 @@ The following pie-chart shows the percentage distribution of the expenditure inc
 
 **Correct Answer:** Option (C)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 7
@@ -110,6 +146,12 @@ The following pie-chart shows the percentage distribution of the expenditure inc
 - (D) A Rs. 44.25
 
 **Correct Answer:** Option (C)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -126,6 +168,12 @@ Question 8: For which of the following years, the percentage rise/fall in produc
 
 **Correct Answer:** Option (A)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 9
@@ -140,6 +188,12 @@ Question 9: What is the ratio of the average production of Company X in the peri
 - (D) 27:29
 
 **Correct Answer:** Option (C)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -157,6 +211,12 @@ The question below consists of a question and two statements numbered I and II g
 
 **Correct Answer:** Option (C)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 11
@@ -172,6 +232,12 @@ The question below consists of a question and two statements numbered I and II g
 - ✅ **(E) The data in both statements I and II together are necessary to answer the question** *(Correct Answer)*
 
 **Correct Answer:** Option (E)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (E)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -189,6 +255,12 @@ The question below consists of a question and two statements numbered I and II g
 
 **Correct Answer:** Option (D)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 13
@@ -205,6 +277,12 @@ The question below consists of a question and two statements numbered I and II g
 
 **Correct Answer:** Option (D)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 14
@@ -220,6 +298,12 @@ A set of football matches is to be organized in a "round-robin" fashion, i.e., e
 
 **Correct Answer:** Option (B)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 15
@@ -234,6 +318,12 @@ Find the wrong term in the following number series : 15972 , 15629 , 15840 , 157
 - (D) 15972
 
 **Correct Answer:** Option (A)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 

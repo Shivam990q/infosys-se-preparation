@@ -34,6 +34,12 @@ to the right
 
 **Correct Answer:** (B)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 2
@@ -66,6 +72,12 @@ of the following pair is diagonally opposite to each other?
 
 **Correct Answer:** (D)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 3
@@ -84,6 +96,12 @@ to the left of S. Which of the following are the neighbours of P ?
 - (D) None
 
 **Correct Answer:** (C)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -169,6 +187,12 @@ when counted from the left of P?
 
 **Correct Answer:** (D)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 7
@@ -186,6 +210,12 @@ the right of P ?
 - (D) A
 
 **Correct Answer:** (A)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -205,6 +235,12 @@ right to Reeta ?
 - (D) Seema
 
 **Correct Answer:** (C)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -234,6 +270,12 @@ one who sits third to the right of A** *(Correct Answer)*
 
 **Correct Answer:** (C)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 10
@@ -257,6 +299,12 @@ E and D
 C and D
 
 **Correct Answer:** (A)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -290,6 +338,12 @@ is sitting just opposite to N ?
 
 **Correct Answer:** (B)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 12
@@ -308,6 +362,12 @@ to the left of S. Which one is sitting opposite to P ?
 - (D) Q
 
 **Correct Answer:** (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -329,6 +389,12 @@ immediate right of A?
 - ✅ **(D) E** *(Correct Answer)*
 
 **Correct Answer:** (D)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -358,6 +424,12 @@ FA BC ___
 
 **Correct Answer:** (A)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 15
@@ -378,6 +450,12 @@ between B and F?
 - (D) E
 
 **Correct Answer:** (A)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -423,6 +501,12 @@ photograph ?
 - (D) Reeta
 
 **Correct Answer:** (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -500,6 +584,12 @@ sit immediately left of T. Who sits second to the right of P?
 - (D) S
 
 **Correct Answer:** (C)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 

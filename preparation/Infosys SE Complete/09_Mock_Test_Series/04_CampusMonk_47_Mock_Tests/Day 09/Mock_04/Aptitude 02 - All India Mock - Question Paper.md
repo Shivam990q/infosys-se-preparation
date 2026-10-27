@@ -18,6 +18,12 @@ Percentage of Marks obtained by various students in various subjects in an Exami
 - **(D)** 60
 - **(E)** None of these
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 50**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 2 [Marks: +1, -0]
@@ -32,6 +38,12 @@ Percentage of Marks obtained by various students in various subjects in an Exami
 - **(D)** 121
 - **(E)** None of these
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(E) None of these**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 3 [Marks: +1, -0]
@@ -44,6 +56,12 @@ Q. In a survey conducted among 120 houses, it was found that 50 read Times of In
 - **(B)** 62
 - **(C)** 63
 - **(D)** 64
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 64**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -58,6 +76,12 @@ Directions for questions: Consider the Venn diagram TCS NQT given below. Q. The 
 - **(C)** 4800
 - **(D)** 4960
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 4320**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 5 [Marks: +1, -0]
@@ -70,6 +94,12 @@ The ratio of the age of Ram and Rahim 10 years ago was 1 : 3. The ratio of their
 - **(B)** 3 : 5
 - **(C)** 3 : 4
 - **(D)** 2 : 5
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 3 : 5**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -85,6 +115,12 @@ Find the missing number in the given seriese. 12, 12, 18, 45, 180, 1170, ?
 - **(D)** 12870
 - **(E)** 9945
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 12285**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 7 [Marks: +2, -0]
@@ -95,6 +131,12 @@ A contractor agreed to construct a 6 km road in 200 days. He employed 140 person
 
 - **(A)** 40
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** Option ()
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 8 [Marks: +2, -0]
@@ -104,6 +146,12 @@ Note : Ans in days
 **Options:**
 
 - **(A)** 6
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** Option ()
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -118,6 +166,12 @@ Note : Ans in days
 - **(C)** 3,6,9
 - **(D)** 4,7,7
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 4,5,9**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 10 [Marks: +1, -0]
@@ -130,6 +184,12 @@ A shopkeeper earns a profit of 20% by selling an article by giving 25% discount 
 - **(B)** 16.5%
 - **(C)** 18%
 - **(D)** 15%
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 17.5%**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -144,6 +204,12 @@ If A =x% of y and B =y%of x, then which of the following is true?
 - **(C)** A relationship between A and B cannot be determined.
 - **(D)** If x is greater than y, then A is less than B.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) A is equal to B**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 12 [Marks: +1, -0.25]
@@ -156,6 +222,12 @@ A vendor bought mangoes at 6 for a rupee. How many for a rupee must he sell to g
 - **(B)** 6
 - **(C)** 4
 - **(D)** 5
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 5**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -170,6 +242,12 @@ How many 3-letter words with or without meaning, can be formed out of the letter
 - **(C)** 5040
 - **(D)** None of these
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 720**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 14 [Marks: +1, -0.25]
@@ -182,6 +260,12 @@ Seats for Mathematics, Physics and Biology in a school are in the ratio 5 :7 :8.
 - **(B)** 6 : 7 : 8
 - **(C)** 6 : 8 : 9
 - **(D)** 7 : 6 : 9
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 2 : 3 : 4**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -198,6 +282,12 @@ Pointing to a woman in a photograph a man says, "She is the only daughter of my 
 - **(C)** Sister
 - **(D)** Sister-in-law
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Sister**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 16 [Marks: +1, -0]
@@ -210,6 +300,12 @@ In a certain code language 'ROAD' is written as '152' and 'MAP' is written as '9
 - **(B)** 140
 - **(C)** 180
 - **(D)** 160
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 160**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -224,6 +320,12 @@ If A + B means A is the sister of B; A x B means A is the wife of B, A % B means
 - **(C)** P x Q % R + T – S
 - **(D)** P x Q % R + S + T
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) P x Q % R - T + S**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 18 [Marks: +1, -0]
@@ -236,6 +338,12 @@ Viraj is eleventh from the left end in a row of children. Pankaj is twelfth from
 - **(B)** 18
 - **(C)** 17
 - **(D)** None of these
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 17**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -250,6 +358,12 @@ Statement: The Government has made an appeal to all the citizens to honestly pay
 - **(C)** Both I and II are implicit
 - **(D)** Neither I nor II are implicit
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Both I and II are implicit**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 20 [Marks: +1, -0]
@@ -262,6 +376,12 @@ Each of the six friends - A, B. C. D, E and F - scored different marks in an exa
 - **(B)** 94
 - **(C)** 86
 - **(D)** 61
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 70**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -276,6 +396,12 @@ Select the letter/letters that can replace the question mark (?) in the followin
 - **(C)** K
 - **(D)** I
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) N**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 22 [Marks: +1, -0]
@@ -288,6 +414,12 @@ Statement : In a one day cricket match, the total runs made by a team were 200. 
 - **(B)** Only II is implicit
 - **(C)** Both I and II are implicit
 - **(D)** Neither I nor II are implicit
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) Neither I nor II are implicit**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -302,6 +434,12 @@ Statement: A major retail store announced thirty percent reduction on all food i
 - **(C)** Both I and II are implicit
 - **(D)** Neither I nor II are implicit
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Only II is implicit**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 24 [Marks: +1, -0]
@@ -314,6 +452,12 @@ In a certain code, '786' means 'study very hard', '958' means 'hard work pays' a
 - **(B)** 6
 - **(C)** 7
 - **(D)** Cannot be determined
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 7**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -328,6 +472,12 @@ In the following question, select the number which can be placed at the sign of 
 - **(C)** 30
 - **(D)** 36
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 30**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 26 [Marks: +1, -0]
@@ -340,6 +490,12 @@ Statements: Some books are tables. Some tables are mirrors. Conclusions: I. Some
 - **(B)** If only conclusion II follows
 - **(C)** If either conclusion I or II follows
 - **(D)** If neither conclusion I nor II follows
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) If either conclusion I or II follows**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -354,6 +510,12 @@ Directions: In the following question, select the related letters from the given
 - **(C)** PQNO
 - **(D)** ORMO
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) OQMO**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 28 [Marks: +1, -0]
@@ -366,6 +528,12 @@ Statements: All fruits are lions. All lions are foxes. Some foxes are elephants.
 - **(B)** If only conclusion II follows
 - **(C)** If either conclusion I or II follows
 - **(D)** If neither conclusion I nor II follows
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) If only conclusion I follows**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -380,6 +548,12 @@ Directions: In the following question, select the related word from the given al
 - **(C)** Diameter
 - **(D)** Area
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Sphere**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 30 [Marks: +1, -0]
@@ -392,6 +566,12 @@ A, B, C, D, E, F & G are sitting in line facing the East. C is immediate right o
 - **(B)** A & B
 - **(C)** F & B
 - **(D)** C & D
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) A & B**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -406,6 +586,12 @@ Statements: Some flats are apartments. No apartment is a hall Some halls are roo
 - **(C)** If either conclusion I or II follows
 - **(D)** If neither conclusion I nor II follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) If neither conclusion I nor II follows**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 32 [Marks: +1, -0]
@@ -418,6 +604,12 @@ Statement: The sale of a particular product has gone down considerably causing g
 - **(B)** Only II is implicit
 - **(C)** Both I and II are implicit
 - **(D)** Neither I nor II are implicit
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Only I is implicit**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -434,6 +626,12 @@ They don’t have any _______ to spend on luxuries
 - **(C)** Money
 - **(D)** Ideas
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Money**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 34 [Marks: +1, -0]
@@ -446,6 +644,12 @@ They all laughed as they realized that although they had gone off in different d
 - **(B)** Remorseful
 - **(C)** Similar
 - **(D)** Strange
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Jubilant**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -460,6 +664,12 @@ DIRECTIONS: Identify the part which contains an error. Mark that part as your an
 - **(C)** Part c
 - **(D)** Part d
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) Part d**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 36 [Marks: +1, -0]
@@ -472,6 +682,12 @@ To my horror, (a)/ my wedding dress looked (b)/ strain, torn (c)/ and wrinkled (
 - **(B)** Part b
 - **(C)** Part c
 - **(D)** Part d
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Part c**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -486,6 +702,12 @@ Ram had (a)/ invited few (b)/ friends in the (c)/ party at his lawn (d)/
 - **(C)** Part c
 - **(D)** Part d
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Part b**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 38 [Marks: +1, -0]
@@ -498,6 +720,12 @@ The population density of (a)/ china is (b)/ greater (c)/ than America (d)/
 - **(B)** Part b
 - **(C)** Part c
 - **(D)** Part d
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) Part d**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -513,6 +741,12 @@ In each of the questions given below four words are given in bold. These words m
 - **(D)** CADB
 - **(E)** No interchange required
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) ADCB**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 40 [Marks: +1, -0]
@@ -526,6 +760,12 @@ In each of the questions given below four words are given in bold. These words m
 - **(C)** DBCA
 - **(D)** BDAC
 - **(E)** No interchange required
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) DBCA**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -541,6 +781,12 @@ Directions (11-15): Read each sentence to find out whether there is any grammati
 - **(D)** D
 - **(E)** E
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) A**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 42 [Marks: +1, -0]
@@ -555,6 +801,12 @@ Directions : In each of the question given below a/an idiom/phrase is given in b
 - **(D)** to be disrespectful
 - **(E)** to be happy
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) to be impressive and important**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 43 [Marks: +1, -0]
@@ -567,6 +819,12 @@ He was very tired as he is working since 6 O' clock in the morning.
 - **(B)** he had been working
 - **(C)** he has been working
 - **(D)** he will be working
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) he has been working**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -581,6 +839,12 @@ Directions : out of the four alternatives, choose the one which best expresses t
 - **(C)** offsprings
 - **(D)** followers
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) successors**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 45 [Marks: +1, -0]
@@ -593,6 +857,12 @@ Directions : ,out of the four alternatives, choose the one which best expresses 
 - **(B)** challenged
 - **(C)** affected
 - **(D)** diluted
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) diluted**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -607,6 +877,12 @@ Direction: In Question a sentence/ a part of the sentence is italicised in bold.
 - **(C)** a unique
 - **(D)** No improvement
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) a unique**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 47 [Marks: +1, -0]
@@ -619,6 +895,12 @@ Direction : In these question you have two brief passages with six questions fol
 - **(B)** guidance material to develop education in the country
 - **(C)** a comprehensive plan for the development of education in the country
 - **(D)** comprehensive development of education in the country
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) a comprehensive plan for the development of education in the country**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -633,6 +915,12 @@ Direction In these question you have two brief passages with six questions follo
 - **(C)** non-fulfilment of NPE leads to the education of girls.
 - **(D)** one of the objectives of NPE has not been fulfilled.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) one of the objectives of NPE has not been fulfilled.**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 49 [Marks: +1, -0]
@@ -646,6 +934,12 @@ Direction In these question you have two brief passages with six questions follo
 - **(C)** a strong focus on gender bias
 - **(D)** a focus on male-female ratio
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) a strong focus on gender bias**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 50 [Marks: +1, -0]
@@ -658,6 +952,12 @@ Direction In these question you have two brief passages with six questions follo
 - **(B)** universal education
 - **(C)** the education of men
 - **(D)** the education of women
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) the education of women**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 

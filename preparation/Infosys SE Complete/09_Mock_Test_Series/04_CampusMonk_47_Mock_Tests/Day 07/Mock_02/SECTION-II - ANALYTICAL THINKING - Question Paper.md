@@ -18,6 +18,12 @@ Directions(1-2): Two statements are followed by four conclusions numbered I, II,
 - **(D)** d) Only I and IV follow
 - **(E)** None of these
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) a) Only I and II follow**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 2 [Marks: +1, -0]
@@ -32,6 +38,12 @@ Directions(1-2): Two statements are followed by four conclusions numbered I, II,
 - **(D)** Only II and IV follow
 - **(E)** None of these
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Either I or III ,and II and IV follow**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 3 [Marks: +1, -0]
@@ -44,6 +56,12 @@ Directions(3-4): The questions given below have four groups of three statements 
 - **(B)** Only A
 - **(C)** Only B & C
 - **(D)** Only A and D
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Only A**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -58,6 +76,12 @@ Directions(3-4): The questions given below have four groups of three statements 
 - **(C)** A. Only C
 - **(D)** A. Only D
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) A. Only D**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 5 [Marks: +1, -0]
@@ -70,6 +94,12 @@ DIRECTIONS for questions : Given below are line graph examples with questions, w
 - **(B)** 37.5%
 - **(C)** A. 9.09%
 - **(D)** A. None of these
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) A. 9.09%**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -84,6 +114,12 @@ The following pie-chart shows the percentage distribution of the expenditure inc
 - **(C)** A Rs. 22,950
 - **(D)** Rs. 26,150
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) A Rs. 22,950**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 7 [Marks: +1, -0]
@@ -96,6 +132,12 @@ The following pie-chart shows the percentage distribution of the expenditure inc
 - **(B)** A Rs. 42
 - **(C)** A. Rs. 37.50
 - **(D)** A Rs. 44.25
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) A. Rs. 37.50**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -110,6 +152,12 @@ Question 8: For which of the following years, the percentage rise/fall in produc
 - **(C)** 1999
 - **(D)** 2000
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 1997**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 9 [Marks: +1, -0]
@@ -122,6 +170,12 @@ Question 9: What is the ratio of the average production of Company X in the peri
 - **(B)** 15:17
 - **(C)** 23:25
 - **(D)** 27:29
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 23:25**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -137,6 +191,12 @@ The question below consists of a question and two statements numbered I and II g
 - **(D)** The data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question
 - **(E)** The data in both statements I and II together are necessary to answer the question
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) The data either in statement I alone or in statement II alone are sufficient to answer the question**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 11 [Marks: +1, -0]
@@ -150,6 +210,12 @@ The question below consists of a question and two statements numbered I and II g
 - **(C)** The data either in statement I alone or in statement II alone are sufficient to answer the question
 - **(D)** The data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question
 - **(E)** The data in both statements I and II together are necessary to answer the question
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(E) The data in both statements I and II together are necessary to answer the question**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -165,6 +231,12 @@ The question below consists of a question and two statements numbered I and II g
 - **(D)** The data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question
 - **(E)** The data in both statements I and II together are necessary to answer the question
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) The data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 13 [Marks: +1, -0]
@@ -179,6 +251,12 @@ The question below consists of a question and two statements numbered I and II g
 - **(D)** The data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question
 - **(E)** The data in both statements I and II together are necessary to answer the question
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) The data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 14 [Marks: +1, -0]
@@ -192,6 +270,12 @@ A set of football matches is to be organized in a "round-robin" fashion, i.e., e
 - **(C)** 9
 - **(D)** None of these
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 7**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 15 [Marks: +1, -0]
@@ -204,6 +288,12 @@ Find the wrong term in the following number series : 15972 , 15629 , 15840 , 157
 - **(B)** 15757
 - **(C)** 15720
 - **(D)** 15972
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 15840**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 

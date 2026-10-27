@@ -20,6 +20,12 @@ which direction of C is D located?
 - **(C)** North and West
 - **(D)** South and West
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) South and East**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 2 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -43,6 +49,17 @@ min
 min
 - **(D)** 120
 min
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+In
+such a case, the minimum distance between Siya and Point E is 18
+km, so SIya will take 2 hours or 120 minutes to reach point E.
+
+---
 
 ---
 
@@ -69,6 +86,17 @@ to the House
 the Temple
 - **(D)** North-East
 direction
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (B)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+From
+the final figure we can deduce the fact that Virendra must be
+facing his house.
+
+---
 
 ---
 
@@ -99,6 +127,16 @@ is in which direction with respect to E?
 - **(C)** Northwest
 - **(D)** Southeast
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) Southeast**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+We
+can see from the figure that F is in South East of E.
+
+---
+
 ---
 
 ### Question 5 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -125,6 +163,16 @@ West
 - **(D)** 24m,
 East
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (C)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Chair
+C is 34m to the west of Chair F.
+
+---
+
 ---
 
 ### Question 6 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -145,6 +193,17 @@ initial position of car X?
 - **(C)** Southeast
 - **(D)** South
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Southeast**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Following
+the final solution, we can say that Car Y is southeast direction
+with respect to initial position of car X.
+
+---
+
 ---
 
 ### Question 7 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -161,6 +220,16 @@ m after that took a turn of 90° towards his right and walked
 - **(B)** Northeast
 - **(C)** Southwest
 - **(D)** East
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Northeast**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Here
+we can say that ram is facing in Northeast direction.
+
+---
 
 ---
 
@@ -184,6 +253,12 @@ m
 - **(D)** 10
 m
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (B)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 9 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -200,6 +275,17 @@ respect to point T?
 - **(B)** Southwest
 - **(C)** North
 - **(D)** Southeast
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Northeast**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+After
+observing the above figure, we can say that point C is in
+northeast direction with respect to point T.
+
+---
 
 ---
 
@@ -218,6 +304,17 @@ F and Box G. Find Box A is in which direction from Box D?
 - **(C)** South
 - **(D)** Can’t
 determine
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+We
+cannot determine whether A is in north or north-east or north-west
+of D.
+
+---
 
 ---
 
@@ -240,6 +337,31 @@ m
 - **(D)** 20
 m
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+From
+Formula
+NP2
+= NQ + PQ2
+∴
+NP
+= NP2
+– NQ2
+=
+√
+(50)2 – (30)2
+=
+√2500
+– 900
+=
+√1600
+= 40m
+
+---
+
 ---
 
 ### Question 12 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -258,6 +380,17 @@ directions does B stand in at the end with respect to his house?
 - **(B)** South
 - **(C)** West
 - **(D)** East
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) West**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+We
+can clearly observe from the figure that at the end point B stand
+in the west direction with respect to starting point.
+
+---
 
 ---
 
@@ -281,6 +414,17 @@ the odd one out?
 - **(C)** D-L
 - **(D)** H-C
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) F-B**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+F-B
+is the odd one out because the common thing among rest chairs is
+that the second chair is in the North of the first chair.
+
+---
+
 ---
 
 ### Question 14 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -298,6 +442,30 @@ all of them. Vihaan is in which direction with respect to Mitul?
 - **(C)** South-West
 - **(D)** South-East
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) North-West**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Hiran
+is standing 15m to the west of Mitul.
+Sahil
+is 15m to the north of Mitul and forms a straight horizontal line
+with Falyaz.
+Falyaz
+is standing to the north of Hiran.
+Vihaan
+is equidistant from all of them.
+Note:
+As per statement, Vihaan is exactly in the mid-point of all 4 of
+them. To make exact midpoint, then the distance between Falyaz and
+Hiran should be 15m and also the distance between Falyaz and Sahil
+is 15m as shown in diagram.
+Vihaan
+is in North-West direction with respect to Mitul.
+
+---
+
 ---
 
 ### Question 15 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -313,6 +481,19 @@ further. How far is he from his original position?
 - **(B)** 25km
 - **(C)** 10km
 - **(D)** 15km
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 10km**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+∵
+AD
+= BC = 10 Km
+Therefore
+he is 10 km away from the original position.
+
+---
 
 ---
 
@@ -334,6 +515,16 @@ km
 km
 - **(D)** 25
 km
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (B)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+AB
+= AP + PB = 12 + 8 = 20 km
+
+---
 
 ---
 
@@ -357,6 +548,19 @@ m, West
 - **(D)** 34
 m, East
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (C)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+distance between Point A and Point E = 14 + 14 = 28 m
+Following
+the image we can say that Point E is in west direction with
+respect to A
+
+---
+
 ---
 
 ### Question 18 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -378,6 +582,17 @@ m, North
 m, South
 - **(D)** 10
 m, South
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Following
+the common explanation we can say point D is 10 m away and towards
+south of point X.
+
+---
 
 ---
 
@@ -402,6 +617,19 @@ m
 - **(D)** 15
 m
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (C)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Shortest
+distance between Lihaan's office and Traffic signal =
+√82
++ 152
+= √64+225 = √289 =17m
+
+---
+
 ---
 
 ### Question 20 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -424,6 +652,16 @@ m
 m
 - **(D)** 20
 m
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+shortest distance between D and G is 13m.
+
+---
 
 ---
 

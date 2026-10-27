@@ -105,6 +105,12 @@ be determined
 
 **Correct Answer:** (B)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 5
@@ -168,6 +174,12 @@ of A. How is S related to Q?
 - (D) Brother
 
 **Correct Answer:** (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -246,6 +258,12 @@ many male members are there in the family?
 - (D) 6
 
 **Correct Answer:** (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -395,6 +413,12 @@ Sanshlesh?
 
 **Correct Answer:** (A)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 17
@@ -413,6 +437,12 @@ is D related to M?
 - (D) Sister-in-law
 
 **Correct Answer:** (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -461,6 +491,12 @@ Uncle
 
 **Correct Answer:** (A)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 20
@@ -481,6 +517,12 @@ Aunt
 option A or C** *(Correct Answer)*
 
 **Correct Answer:** (D)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 

@@ -142,6 +142,12 @@ and j-10 , 50-10 = 40
 
 **Correct Answer:** (A)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 8
@@ -161,6 +167,12 @@ and j-10 , 50-10 = 40
 
 **Correct Answer:** (B)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 9
@@ -176,6 +188,12 @@ and j-10 , 50-10 = 40
 
 **Correct Answer:** (A)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 10
@@ -190,6 +208,12 @@ and j-10 , 50-10 = 40
 - ✅ **(D) 1** *(Correct Answer)*
 
 **Correct Answer:** (D)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 

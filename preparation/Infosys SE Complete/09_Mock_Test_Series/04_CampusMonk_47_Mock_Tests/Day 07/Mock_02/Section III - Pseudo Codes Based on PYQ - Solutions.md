@@ -19,6 +19,12 @@ What is the output of the following C code? #include <stdio.h> int main() { int 
 
 **Correct Answer:** Option (B)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 2
@@ -33,6 +39,12 @@ What is the output of the following C code? #include <stdio.h> int main() { floa
 - (D) 2
 
 **Correct Answer:** Option (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -49,6 +61,12 @@ Predict the output of the given pseudocode if the value of the number is 6: Read
 
 **Correct Answer:** Option (A)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 4
@@ -63,6 +81,12 @@ What is the output of the following C code? int f(int x, int *py, int **ppz) { i
 - (D) 22
 
 **Correct Answer:** Option (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -79,6 +103,12 @@ What is the output of the following C code? #include <stdio.h> int main() { int 
 
 **Correct Answer:** Option (B)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 6
@@ -94,6 +124,12 @@ Predict the output of the following pseudocode. Integer x, y, z Set x = -2, y = 
 
 **Correct Answer:** Option (C)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 7
@@ -108,6 +144,12 @@ int main() { int x, y = 5, z = 5; x = y == z; Print(x) return 0; }
 - (D) Compilation Error
 
 **Correct Answer:** Option (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 

@@ -28,6 +28,12 @@ Many a student------- made the same mistake.
 - a. has
 - b. have
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a. has`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: 'Many a' is followed by a singular countable noun ('student') and strictly requires a singular...
 
 ### Question 02  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -44,6 +50,12 @@ The available statistics -------that the green house degradation on earth will b
 - a. show
 - b. shows
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a. show`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: When 'statistics' refers to numerical data, facts, or figures collected, it takes a plural ver...
 
 ### Question 03  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -60,6 +72,12 @@ The boss, as well as his colleagues,------------ been robbed by the robber .
 - a. has
 - b. have
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a. has`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: When two subjects are joined by parenthetical expressions like 'as well as', 'along with', 'to...
 
 ### Question 04  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -76,6 +94,12 @@ A body of volunteers --------been organized to help the faculty members in their
 - a. have
 - b. has
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b. has`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: Collective noun phrase 'A body of volunteers' acts as a single unified collective subject, req...
 
 ### Question 05  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -92,6 +116,12 @@ Most of the News pertaining to the sudden demise of the spiritual guru --------b
 - a. have
 - b. has
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b. has`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: 'News' is an uncountable noun that is always treated as grammatically singular, so 'Most of th...
 
 ### Question 06  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -108,6 +138,12 @@ Not only the doctor but also the nurses of this nursing home ------very kind to 
 - a. are
 - b. is
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a. are`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: In 'Not only... but also' correlative constructions, the verb agrees in number and person with...
 
 ### Question 07  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -124,6 +160,12 @@ If any proof was needed to show that the United Nations ---------lately become a
 - a. has
 - b. have
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a. has`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: 'United Nations' is a single sovereign international organization/entity, taking a singular ve...
 
 ### Question 08  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -140,6 +182,12 @@ The famous singer and composer -------------arrived.
 - a. has
 - b. have
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a. has`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: When two nouns are joined by 'and' but preceded by only one definite article ('The famous sing...
 
 ### Question 09  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -156,6 +204,12 @@ Neither the teacher nor the students -----------------present in the seminar.
 - a. was
 - b. were
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b. were`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: With 'Neither... nor', the verb agrees with the subject closest to it ('the students', plural ...
 
 ### Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -172,6 +226,12 @@ A number of students ---------------participated in the cultural fest.
 - a. has
 - b. have
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b. have`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: 'A number of' is an idiomatic quantifier meaning 'several/many' and takes a plural noun and a ...
 
 ### Question 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -188,6 +248,12 @@ The number of applicants ----------------increasing day by day.
 - a. is
 - b. are
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a. is`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: 'The number of' denotes a specific count/figure and always takes a singular verb ('is')....
 
 ### Question 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -204,6 +270,12 @@ Bread and butter -----------------his staple breakfast every morning.
 - a. is
 - b. are
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a. is`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: When two items joined by 'and' express a single compound idea or essential unit (like 'bread a...
 
 ### Question 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -220,6 +292,12 @@ Ten miles -----------------a long distance to walk on foot.
 - a. is
 - b. are
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a. is`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: Expressions of distance, time, weight, and monetary amounts are considered as a single unit of...
 
 ### Question 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -236,6 +314,12 @@ Each of the candidates ----------------given a separate interview slot.
 - a. was
 - b. were
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a. was`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: Indefinite pronoun 'Each' is grammatically singular and takes a singular verb ('was'), regardl...
 
 ### Question 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -252,6 +336,12 @@ Physics -----------------always been my favorite subject in high school.
 - a. has
 - b. have
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a. has`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: Names of academic subjects ending in -s (Physics, Mathematics, Economics) are singular and tak...
 
 ### Question 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -268,6 +358,12 @@ Either of the two routes ----------------safe for night travel.
 - a. is
 - b. are
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a. is`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: 'Either' of two alternatives is singular and requires a singular verb ('is')....
 
 ### Question 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -284,6 +380,12 @@ The quality of these mangoes ----------------not up to the mark.
 - a. was
 - b. were
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a. was`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: The true head subject of the sentence is 'The quality' (singular), not the intervening plural ...
 
 ### Question 18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -300,6 +402,12 @@ Slow and steady ----------------the race.
 - a. win
 - b. wins
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b. wins`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: 'Slow and steady' represents a singular philosophical maxim / unified trait, taking a singular...
 
 ### Question 19  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -316,6 +424,12 @@ Gulliver's Travels ----------------written by Jonathan Swift.
 - a. was
 - b. were
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a. was`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: The title of a single book, movie, or literary work is singular even if the title is in plural...
 
 ### Question 20  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -332,6 +446,12 @@ None of the information ----------------verified by the official authorities.
 - a. was
 - b. were
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a. was`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: 'Information' is an uncountable noun. When 'None of' refers to an uncountable noun, the verb i...
 
 ### Question 21  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -348,6 +468,12 @@ Every man, woman, and child ----------------given a relief package.
 - a. was
 - b. were
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a. was`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: When subjects are preceded by 'Every' or 'Each', the verb is strictly singular ('was'), regard...
 
 ### Question 22  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -364,6 +490,12 @@ Neither of them ----------------eligible for the senior scholarship.
 - a. is
 - b. are
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a. is`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: 'Neither' used as a pronoun is singular and takes a singular verb ('is')....
 
 ### Question 23  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -380,6 +512,12 @@ One of my friends ----------------going to Canada for higher studies.
 - a. is
 - b. are
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a. is`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: In 'One of + plural noun', the subject is 'One' (singular), requiring a singular verb ('is')....
 
 ### Question 24  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -396,6 +534,12 @@ The committee ----------------divided in their opinions regarding the new policy
 - a. was
 - b. were
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b. were`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: When members of a collective noun ('The committee') act individually or hold conflicting/divid...
 
 ### Question 25  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -412,6 +556,12 @@ Riches ----------------wings and fly away.
 - a. has
 - b. have
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b. have`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: 'Riches' (meaning wealth/possessions) is an inherently plural noun that takes a plural verb ('...
 
 ### Question 26  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -430,6 +580,12 @@ Every pale tomato slice,(a)/ wilted pickle, and brown lettuce leaf cost(b)/ an e
 - (c) an extra 25 cents at Bernie's Burger Emporium.
 - (d) No error
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(b) wilted pickle, and brown lettuce leaf cost`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Error in Part (b): When singular subjects are preceded by distributive 'Every', the verb must be sin...
 
 ### Question 27  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -448,6 +604,12 @@ The Smiths, along with Tisha,(a)/ has to avoid indigestion(b)/ after eating thes
 - (c) after eating these weird muffins.
 - (d) No error
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(b) has to avoid indigestion`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Error in Part (b): Intervening phrase 'along with Tisha' does not affect the number of the subject. ...
 
 ### Question 28  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -466,6 +628,12 @@ The department members and not the chair(a)/ has decided not to teach (b)/on Tea
 - (c) on Teachers' Day.
 - (d) No error
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(b) has decided not to teach`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Error in Part (b): In 'subject1 and not subject2', the verb agrees with subject1. 'The department me...
 
 ### Question 29  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -484,6 +652,12 @@ Even though Antonio has many friends(a)/ who love their Chevrolets and Buicks,(b
 - (c) he has always believed that General Motors make lemons.
 - (d) No error
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(c) he has always believed that General Motors make lemons.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Error in Part (c): Corporate names and brand entities ('General Motors') are singular proper nouns, ...
 
 ### Question 30  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -502,6 +676,12 @@ My dog Floyd, together with Buster the cat(a)/,like to play with money;(b)/ the 
 - (c) the cat swats crumpled bills onto the floor...
 - (d) No error
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(b) like to play with money;`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Error in Part (b): Parenthetical phrase 'together with Buster the cat' is ignored. The subject 'My d...
 
 ### Question 31  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -520,6 +700,12 @@ Latoya isn't going to Daytona Beach(a)/ for spring break because fourteen dollar
 - (c) all that she has in her vacation fund.
 - (d) No error
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(d) No error`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: No error (d): An amount of money ('fourteen dollars') functioning as a total sum or unified amount t...
 
 ### Question 32  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -538,6 +724,12 @@ Even though Johnson and Johnson warn(a)/ consumers that Q-tips are for external 
 - (c) most people use them to clean ear canals.
 - (d) No error
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(a) Even though Johnson and Johnson warn`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Error in Part (a): 'Johnson and Johnson' is a single business enterprise (singular entity), requirin...
 
 ### Question 33  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -556,6 +748,12 @@ Neither of those two suitcases(a)/ have enough room for all the winter clothes(b
 - (c) that we plan to take to Shimla.
 - (d) No error
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(b) have enough room for all the winter clothes`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Error in Part (b): The pronoun 'Neither' is singular and requires a singular verb: replace 'have' wi...
 
 ### Question 34  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -574,6 +772,12 @@ The bouquet of yellow roses(a)/ lend color and fragrance(b)/ to the dimly lit li
 - (c) to the dimly lit living room.
 - (d) No error
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(b) lend color and fragrance`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Error in Part (b): The true subject is the singular head noun 'The bouquet', not 'roses'. Replace pl...
 
 ### Question 35  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -592,6 +796,12 @@ More than one person(a)/ were involved in the conspiracy(b)/ to destabilize the 
 - (c) to destabilize the newly elected student council.
 - (d) No error
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(b) were involved in the conspiracy`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Error in Part (b): The standard rule dictates that 'More than one + singular noun' takes a singular ...
 
 ### Question 36  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -610,6 +820,12 @@ Topic Focus: Parallelism / Series Consistency
 - 3. She likes to read books, swimming, and jogging.
 - 4. She likes to read books, swim, and to jog.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2. She likes reading books, swimming, and jogging.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: Parallel structure requires that elements in a series share the same grammatical form. In Opti...
 
 ### Question 37  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -628,6 +844,12 @@ Topic Focus: Redundancy & Conciseness
 - 3. The matter of fact is that he is not attending the meeting.
 - 4. The truth of the matter is that he is not attending the meeting.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2. The fact is that he is not attending the meeting.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: 'The fact of the matter' and 'The truth of the matter' are verbose, clichéd redundancies. Opti...
 
 ### Question 38  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -646,6 +868,12 @@ Topic Focus: Modifier Placement & Misplaced Modifiers
 - 3. Maria eagerly ate the pizza, which was covered in melted cheese.
 - 4. Covered in melted cheese, the pizza was eaten by Maria eagerly.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `3. Maria eagerly ate the pizza, which was covered in melted cheese.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: In Option 1, the introductory participial phrase 'Covered in melted cheese' erroneously modifi...
 
 ### Question 39  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -664,6 +892,12 @@ Topic Focus: Comparison & Ambiguity
 - 3. He likes chocolate more than he likes his wife.
 - 4. Both 2 and 3 resolve the ambiguity.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `4. Both 2 and 3 resolve the ambiguity.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: 'He likes chocolate more than his wife' is ambiguous—it could mean he prefers chocolate over h...
 
 ### Question 40  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -682,6 +916,12 @@ Topic Focus: Correlative Conjunctions (Not only... but also)
 - 3. Not only did he lose his wallet, but his keys too.
 - 4. He lost his wallet not only, but also his keys.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2. He lost not only his wallet but also his keys.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: Correlative conjunctions must connect parallel grammatical structures. In Option 2, 'not only'...
 
 ### Simulation 01 Complete Answer Key & Forensic Solutions
 
@@ -750,6 +990,12 @@ Topic Focus: Subjunctive Mood & Hypothetical Conditions
 - 3. If I am the CEO, I would implement flexible work hours.
 - 4. If I would be the CEO, I will implement flexible work hours.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2. If I were the CEO, I would implement flexible work hours.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: In hypothetical, contrary-to-fact conditional clauses (the subjunctive mood), 'were' is strict...
 
 ### Question 02  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -768,6 +1014,12 @@ Topic Focus: Tense Consistency & Sequence of Tenses
 - 3. By the time the fire brigade had arrived, the building collapsed.
 - 4. By the time the fire brigade arrives, the building had collapsed.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2. By the time the fire brigade arrived, the building had collapsed.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: When two events occurred in the past, the earlier event must be expressed in the past perfect ...
 
 ### Question 03  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -786,6 +1038,12 @@ Topic Focus: Idiomatic Preposition Usage
 - 3. She is capable for doing the work efficiently.
 - 4. She is capable in doing the work efficiently.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2. She is capable of doing the work efficiently.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: The adjective 'capable' idiomatically takes the preposition 'of' followed by a gerund ('capabl...
 
 ### Question 04  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -804,6 +1062,12 @@ Topic Focus: Subject-Verb Concord in Relative Clauses
 - 3. She is one of those woman who are always ready to help.
 - 4. She is one of those woman who is always ready to help.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2. She is one of those women who are always ready to help.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: In the construction 'one of those [plural noun] who...', the relative pronoun 'who' refers to ...
 
 ### Question 05  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -822,6 +1086,12 @@ Topic Focus: Pronoun Case in Comparisons
 - 3. John is much faster than myself at solving aptitude puzzles.
 - 4. John is much more fast than I at solving aptitude puzzles.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2. John is much faster than I at solving aptitude puzzles.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: In formal written English, 'than' functions as a comparative conjunction introducing an ellipt...
 
 ### Question 06  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -840,6 +1110,12 @@ Topic Focus: Double Negatives
 - 3. I could not scarcely hear what the speaker was saying.
 - 4. I could not barely hear what the speaker was saying.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2. I could hardly hear what the speaker was saying.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: 'Hardly', 'scarcely', and 'barely' are inherently negative adverbs. Combining them with 'not' ...
 
 ### Question 07  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -858,6 +1134,12 @@ Topic Focus: Faulty Predication
 - 3. The purpose of the seminar is to train employees.
 - 4. The purpose of the seminar is on account of employee training.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `3. The purpose of the seminar is to train employees.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: 'The purpose is because' is a classic error of faulty predication. A purpose is not a 'because...
 
 ### Question 08  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -876,6 +1158,12 @@ Topic Focus: Dangling Participles
 - 3. Walking into the forest, the gigantic trees amazed us.
 - 4. As the trees were walked into the forest, they seemed gigantic.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2. Walking into the forest, we thought the trees seemed gigantic.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: In Option 1, 'Walking into the forest' illogically modifies 'the trees'. Option 2 supplies the...
 
 ### Question 09  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -894,6 +1182,12 @@ Topic Focus: Split Infinitives & Emphasis
 - 3. He decided to go boldly where no one had gone before.
 - 4. Both 1 and 3 are acceptable in modern standard usage.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `4. Both 1 and 3 are acceptable in modern standard usage.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: While traditional prescriptive grammar discouraged split infinitives, modern corporate and aca...
 
 ### Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
@@ -912,6 +1206,12 @@ Topic Focus: Subject Complement & Case Agreement
 - 3. It was himself who called you yesterday evening.
 - 4. It was his who called you yesterday evening.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2. It was he who called you yesterday evening.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: A predicate pronoun following the linking verb 'to be' ('was') takes the subjective/nominative...
 
 ### Question 11  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -930,6 +1230,12 @@ Domain: Parallelism in Compound Complements
 - 3. The new manager is committed to increasing efficiency, reducing costs, and improving morale.
 - 4. The new manager is committed to the increase of efficiency, reducing costs, and the improvement of morale.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `3. The new manager is committed to increasing efficiency, reducing costs, and improving morale.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: 'Committed to' is followed by gerunds (-ing forms). All three coordinate items must be paralle...
 
 ### Question 12  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -948,6 +1254,12 @@ Domain: Redundancy in Reason Clauses
 - 3. The reason she left the company was because she had better opportunities abroad.
 - 4. The reason for her leaving the company is because of better opportunities abroad.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2. She left the company because she had better opportunities abroad.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: 'The reason why... is because' contains redundant repetition of cause. Stating directly 'She l...
 
 ### Question 13  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -966,6 +1278,12 @@ Domain: Modifier Placement with Temporal Adverbs
 - 3. Only yesterday did she tell him about the promotion.
 - 4. She told him about the promotion only yesterday.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `4. She told him about the promotion only yesterday.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: The limiting adverb 'only' must immediately precede the word it modifies. To modify the time o...
 
 ### Question 14  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -984,6 +1302,12 @@ Domain: Absolute Phrases vs Dangling Participles
 - 3. Concluding the meeting, the delegates were dispersed for lunch.
 - 4. Both 1 and 2 are grammatically sound constructions.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `4. Both 1 and 2 are grammatically sound constructions.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: Option 1 uses a valid nominative absolute phrase ('The meeting having concluded'), and Option ...
 
 ### Question 15  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1002,6 +1326,12 @@ Domain: Unbalanced Comparisons with 'Like' vs 'As'
 - 3. The algorithm processes transactions fast as like a dedicated neural processor.
 - 4. The algorithm processes transactions fast similar to how a dedicated neural processor does.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2. The algorithm processes transactions fast as a dedicated neural processor does.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: In formal grammar, 'like' is a preposition followed by a noun/pronoun, while 'as' functions as...
 
 ### Question 16  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1020,6 +1350,12 @@ Domain: Inverted Word Order after Negative Adverbials
 - 3. Seldom we had witnessed such an extraordinary market rally.
 - 4. Seldom did we witnessed such an extraordinary market rally.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2. Seldom have we witnessed such an extraordinary market rally.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: When a negative or restrictive adverbial ('Seldom', 'Rarely', 'Scarcely') begins a sentence, s...
 
 ### Question 17  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1038,6 +1374,12 @@ Domain: Conditional Inversion (Omission of 'If')
 - 3. If the system administrator had patched the server in time, the breach will not occur.
 - 4. Should the system administrator patch the server in time, the breach would not have occurred.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2. Had the system administrator patched the server in time, the breach would not have occurred.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: Third conditional with inversion requires 'Had + subject + past participle' in the condition, ...
 
 ### Question 18  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1056,6 +1398,12 @@ Domain: Idiomatic Use of 'Prefer to' vs 'Prefer rather than'
 - 3. Most young engineers prefer to work remotely than to commute daily.
 - 4. Most young engineers prefer working remotely rather to commuting daily.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2. Most young engineers prefer working remotely to commuting daily.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: The verb 'prefer' idiomatically takes the preposition 'to' when comparing two gerunds: 'prefer...
 
 ### Question 19  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1074,6 +1422,12 @@ Domain: Elliptical Clauses & Pronoun Consistency
 - 3. While traveling through Europe, someone stole his camera.
 - 4. Both 2 and 3 resolve the dangling modifier.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `4. Both 2 and 3 resolve the dangling modifier.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: In Option 1, 'While traveling...' illogically implies that 'his camera' was traveling. Both ex...
 
 ### Question 20  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1092,6 +1446,12 @@ Domain: Noun-Pronoun Number Concord with Collective Antecedents
 - 3. The jury has reached their verdict after six hours of deliberation.
 - 4. The jury have reached its verdict after six hours of deliberation.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `2. The jury reached its verdict after six hours of deliberation.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Rule: When a collective noun acts as a unified single body delivering a single agreed outcome ('verd...
 
 ### Question 21  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1114,6 +1474,12 @@ The primary purpose of the passage is to:
 - C. Critique machine learning algorithms for inherent statistical biases.
 - D. Recommend that companies halt technological automation immediately.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B. Discuss both the advantages and ethical/workforce challenges of AI integration.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Paragraph Reference: The passage explicitly explores both dimensions: benefits ('automate routine ta...
 
 ### Question 22  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1136,6 +1502,12 @@ According to the passage, proponents of AI argue that technology:
 - C. Augments human capabilities rather than replacing them entirely.
 - D. Forces workers to take lower-paying roles.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `C. Augments human capabilities rather than replacing them entirely.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Paragraph Reference: 'Proponents, however, contend that AI augments human capabilities rather than r...
 
 ### Question 23  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1158,6 +1530,12 @@ Which of the following is cited as a major risk of AI in the workplace?
 - C. Inability of computers to store vast historical datasets.
 - D. Immediate bankruptcy of manufacturing industries.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B. Perpetuation and amplification of biases present in training data.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Paragraph Reference: 'Critics argue that AI can inadvertently perpetuate biases present in training ...
 
 ### Question 24  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1180,6 +1558,12 @@ What does the word 'obsolete' most nearly mean as used in the passage?
 - C. Technologically superior.
 - D. Inherently expensive.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B. No longer produced or used; out of date.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Vocabulary in Context: 'render certain job roles obsolete' means that automation makes those routine...
 
 ### Question 25  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1202,6 +1586,12 @@ The author suggests that successful AI implementation depends on:
 - C. Maximizing workforce reduction at any cost.
 - D. Relying exclusively on proprietary vendor software.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B. Balancing technological innovation with employee empowerment.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Paragraph Reference: 'Organizations that successfully implement AI balance technological innovation ...
 
 ### Question 26  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1227,6 +1617,12 @@ Q1. What, according to the passage, is/are the disadvantage(s) of constraining t
 - Both (II) and (III)
 - All
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Both (I) and (II)`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Refer the last few lines of first paragraph "But stifling your imagination is the worst thing you ca...
 
 ### Question 27  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1249,6 +1645,12 @@ Q2. “Imagination unleashes Creativity”. Justify.
 - It protects us from day dreaming
 - All are correct
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `They (imaginative people) set their own limit.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Refer second paragraph of the passage " The creative individual does not see the sky as the limit, i...
 
 ### Question 28  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1272,6 +1674,12 @@ Q3. According to the passage, how can a person express empathy?
 - Both (a) and (b)
 - All are correct
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `by visualising or imagining the same suffering as others.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Refer the third paragraph of the passage "our imagination may leave you in a good position to offer ...
 
 ### Question 29  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1293,6 +1701,12 @@ Q4. Which of the following is an appropriate title of the passage?
 - Imagination and creativity
 - Imagining beyond the limit of the sky.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `The power of using your imagination`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: " The power of using your imagination" is an appropriate title of the passage as the passage revolve...
 
 ### Question 30  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1314,6 +1728,12 @@ Q5. According to the passage, Imaginative power helps in
 - Fulfill their potential
 - All
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `All`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: The passage is about about using imagination for different purposes. All the given options are menti...
 
 ### Question 31  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1336,6 +1756,12 @@ Q6. How imagination can be a useful tool in strengthening the brain connections?
 - Both (a) and (c)
 - All are correct
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `As it becomes easier to recollect`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Refer the last paragraph of the passage "On the other hand, someone who uses their imagination may k...
 
 ### Question 32  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1359,6 +1785,12 @@ Conjure
 - dogmatic
 - abject
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `adjure`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Conjure means implore (someone) to do something. Hence it has same meaning as adjure. Abject means o...
 
 ### Question 33  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1382,6 +1814,12 @@ Quantified
 - Inchoate
 - Expiate
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `appraise`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Quantified means express or measure the quantity of. Hence it has same meaning as appraise. Extraneo...
 
 ### Question 34  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1405,6 +1843,12 @@ Meticulously
 - imprecise
 - negligent
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `imprecise`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Meticulous means in a way that shows great attention to detail, very thoroughly. Hence it has opposi...
 
 ### Question 35  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1428,6 +1872,12 @@ Envision
 - pernicious
 - disregard
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `disregard`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Envision means imagine as a future possibility, visualize.. Hence it has opposite meaning as disrega...
 
 ### Question 36  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1446,6 +1896,12 @@ Q11. As soon as we (A)/enter the hotel the (B)/Manager welcomes us and (C)/took 
 - D
 - E
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `D`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: &lsquo;takes&rsquo; will be used in place of &lsquo;took&rsquo; as the sentence is in present tense....
 
 ### Question 37  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1463,6 +1919,12 @@ In spite of our several request (A)/ the owner of the house (B)/did not open (C)
 - D
 - E
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `A`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: requests&rsquo; will be used in place of &lsquo;request&rsquo; because &lsquo;several, many, various...
 
 ### Question 38  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1480,6 +1942,12 @@ The manager concluded that(A)/either Mahesh (B)/or Teja were (C)/responsible for
 - D
 - E
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `C`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: was&rsquo; will be used in place of &lsquo;were&rsquo; as if &lsquo;either&hellip;or, neither&hellip...
 
 ### Question 39  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1497,6 +1965,12 @@ The manager concluded that(A)/either Mahesh (B)/or Teja were (C)/responsible for
 - D
 - E
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `E`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: This is the solution...
 
 ### Question 40  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1514,6 +1988,12 @@ In today meeting (A)/we must first discuss (B)/and thrash out the problem (C)/on
 - D
 - E
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `A`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: &lsquo;In today&rsquo;s meeting&rsquo; will be used in place of &lsquo;In today meeting&rsquo;....
 
 ### Simulation 02 Complete Answer Key & Forensic Solutions
 
@@ -1587,6 +2067,12 @@ Q1. What could be the appropriate title of this passage?
 - Water governance strategies
 - None of These
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Water governance strategies`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Refer to the last and second last paragraph of this passage, it states that crisis of water is not d...
 
 ### Question 02  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1610,6 +2096,12 @@ Finally, we need to reconsider our approaches to water governance. We must recog
 - Without denying the fact that water crisis is in process, necessary steps must be taken ensuring productive discourse and effective dealing with water governance challenges.
 - All of the above
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `It is not about water scarcity but water availability. Water is not scarce but there is a lack of strategies to get it properly delivered`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Refer to the fourth paragraph of the passage, it states that the main challenge is to deliver qualit...
 
 ### Question 03  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1633,6 +2125,12 @@ Q3. As per the passage, what are the steps taken to ensure maximum fulfilment of
 - All of the above
 - None of these
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `All of the above`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Refer to the, third, fourth and fifth paragraph of the above passage, the steps necessary to reach m...
 
 ### Question 04  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1656,6 +2154,12 @@ Q4. Which of the following statements are not true according to the above passag
 - In urban areas, providing access to sufficient quality water is a challenge due to acute time and space.
 - None of these
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Conventional methods of supply escalation have been acquired by water resource departments in States.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: With the given information about water governance strategies, all the options are correct. Therefore...
 
 ### Question 05  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1679,6 +2183,12 @@ Q5. Which of the following is the most suitable word to fill the blank (A) as gi
 - Uncertain
 - Tinker
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Strengthen`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Option (c) , &lsquo;Strengthen&rsquo; is the most suitable word to fit in the blank (A). It makes th...
 
 ### Question 06  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1705,6 +2215,12 @@ Q6. What could be the most appropriate title of this passage?
 - All of the above
 - None of These
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Pondering over POSCO Bill`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Option (a) is the most suitable answer choice. It fits as the title of the passage because it states...
 
 ### Question 07  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1731,6 +2247,12 @@ Q7.In what aspects, the present Protection of Children from Sexual Offence (amen
 - All of the above
 - None of these
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `All of the above`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Refer to the introductory paragraph of this passage. The elements are mentioned due o which POSCO Bi...
 
 ### Question 08  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1757,6 +2279,12 @@ Q8. Why it is said in the italicized sentence, ‘Today, the death penalty has b
 - All of the above
 - None of these
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `All of the above`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Refer to the third paragraph of this passage, where it elaborates the statement that death penalty i...
 
 ### Question 09  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1783,6 +2311,12 @@ Q9. Which one of the following statements is not true about POSCO Bill according
 - It intends to have a zero tolerance policy towards child rape cases
 - None of the above
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `The court has held the death penalty for rarest of rare cases.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Statement given in option (c) is not true because death penalty it is introduced in minor rape cases...
 
 ### Question 10  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1809,6 +2343,12 @@ Q10. Choose among the following most suitable word to fill the blank given in (A
 - Exacerbate
 - Phlegmatic
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Ramifications`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Ramification- Complex or unwelcomed consequences of an action of event (a)Acumen-Ability to make goo...
 
 ### Question 11  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1837,6 +2377,12 @@ Q11. Why amalgamation of Public sector banks has become a stress lately for the 
 - During the year 2018-2019, banking was insolvent with a loss of 20,817 Crore Rs.
 - All of the above
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Because such amalgamations have been done after nationalisation and still followed by more such mergers.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: As it is mentioned in paragraph second, due to amalgamation of banks, the job security and existence...
 
 ### Question 12  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1865,6 +2411,12 @@ Q12. According to Section 5 of the Banking Regulation Act, what the term ‘bank
 - Both (b) and (c)
 - None of these
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Both (b) and (c)`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Referring to the paragraph fifth, the provisions in the section 5 of banking regulation act are ment...
 
 ### Question 13  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1893,6 +2445,12 @@ Q13. What causes traumatisation of bank employees according to the passage given
 - All of the above
 - None of these
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `All of the above`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Paragraph third and fourth of this passage contains the reasons behind the traumatisation of bank em...
 
 ### Question 14  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1921,6 +2479,12 @@ Q14. According to the above passage, what could be the other factors apart from 
 - Their retirement benefits are withdrawn in many cases and many of them get arrested without having awareness of the reason behind the arrest even resulting into suicides
 - All of the above
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `All of the above`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: As mentioned in paragraph 5th, we can conclude that all these acts of bankers should be considered f...
 
 ### Question 15  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1949,6 +2513,12 @@ Q15. According to Jyothi KP, how government should help banks in realizing the p
 - Both (b) and (c)
 - None of these
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Both (b) and (c)`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Here, In the third paragraph of the passage, KP Jyothi is stating the measures how government should...
 
 ### Question 16  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1967,6 +2537,12 @@ Q1. ABDICATE
 - Waive: Aver
 - None of the Above
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Disown: Spurn`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: S1. Ans.(b) Sol. Abdicate: fail to fulfill or undertake (a responsibility or duty). Disown and Spurn...
 
 ### Question 17  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -1985,6 +2561,12 @@ Q2. BABBLE
 - Prattle: Ramble
 - None of the Above
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Prattle: Ramble`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: S2. Ans.(d) Sol. Babble: talk rapidly and continuously in a foolish, excited, or incomprehensible wa...
 
 ### Question 18  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2003,6 +2585,12 @@ Q3. CAJOLE
 - Deplete: Devious
 - None of the Above
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Lure: Bully`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: S3. Ans.(a) Sol. Cajole: persuade (someone) to do something by sustained coaxing or flattery. Lure i...
 
 ### Question 19  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2021,6 +2609,12 @@ Q4. DEFILE
 - Degrade: Purify
 - None of the Above
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Degrade: Purify`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: S4. Ans.(d) Sol. Defile: damage the purity or appearance of; mar or spoil. Degrade is the synonym an...
 
 ### Question 20  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2039,6 +2633,12 @@ Q5. ENTREAT
 - Command: Demand
 - None of the Above
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Command: Demand`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: S5. Ans.(d) Sol. Entreat: to make a request to (someone) in an earnest or urgent manner. Command and...
 
 ### Question 21  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2057,6 +2657,12 @@ Q6. FUTILE
 - Both (b) and (c)
 - None of the Above
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Vain: Fruitful`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: S6. Ans.(c) Sol. Futile: incapable of producing any useful result; pointless. Vain is the synonym an...
 
 ### Question 22  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2075,6 +2681,12 @@ Q7. GAMUT
 - Both (a) and (c)
 - None of the Above
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Both (a) and (c)`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: S7. Ans.(d) Sol. Gamut: the complete range or scope of something. The options in both (a) and (c) ar...
 
 ### Question 23  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2093,6 +2705,12 @@ Q8. HERESY
 - Outlandish: Myriad
 - None of the Above
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Dissension: Blasphemy`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: S8. Ans.(a) Sol. Heresy: belief or opinion contrary to orthodox religious (especially Christian) doc...
 
 ### Question 24  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2111,6 +2729,12 @@ Q9. INEPT
 - Absurd: Proper
 - None of the Above
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Absurd: Proper`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: S9. Ans.(d) Sol. Inept: having or showing no skill; clumsy. Absurd is the synonym and Proper is the ...
 
 ### Question 25  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2129,6 +2753,12 @@ Q10. JADED
 - Activated: Tacit
 - None of the Above
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `Weary: Mellow`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: S10. Ans.(c) Sol. Jaded: physically tired; exhausted. Weary and Mellow are synonyms of Jaded....
 
 ### Question 26  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2152,6 +2782,12 @@ Q71. As per the passage given above, how has India managed to amplify its democr
 - All (i), (ii), (iii)
 - None of (i), (ii), (iii)
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `All (i), (ii), (iii)`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: To validate the answer, refer to the first paragraph of the passage given above, which mentions, "In...
 
 ### Question 27  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2169,6 +2805,12 @@ Q71. As per the passage given above, how has India managed to amplify its democr
 - sustenance of democracy through widening the voter engagement base
 - none of these
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `sustenance of democracy through widening the voter engagement base`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: To validate the answer, refer to the last few lines of the first paragraph of the passage given abov...
 
 ### Question 28  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2186,6 +2828,12 @@ What is the tone used by author in the italicized statement (i) in the passage g
 - bellicose
 - grandiose
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `irony`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: In the italicized statement indicates contradiction. Hence, option (c) is the most suitable answer c...
 
 ### Question 29  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2203,6 +2851,12 @@ How can the upcoming general elections be “more than an exercise to elect new 
 - both (b) & (c)
 - both (a) & (c)
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `both (b) & (c)`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: To validate the answer, refer to the second paragraph of the passage given above, which mentions, "T...
 
 ### Question 30  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2220,6 +2874,12 @@ Which of the following statements is true in context of the information availabl
 - emergency imposed in 1970s posed a threat to Indian democracy.
 - All are incorrect
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `emergency imposed in 1970s posed a threat to Indian democracy.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: To validate the answer, refer to the first paragraph of the passage given above, which mentions, "In...
 
 ### Question 31  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2237,6 +2897,12 @@ Which of the following can be the most appropriate title for the passage given a
 - A promise to live by: on Indian democracy
 - All are correct
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `A promise to live by: on Indian democracy`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Among the given options, most appropriate choice for the title of the passage is "A promise to live ...
 
 ### Question 32  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2254,6 +2920,12 @@ How are the opponents of Modi government trying to create possibilities of their
 - making a diverse representation, involving all the sections of the society
 - none of these
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `trying to win over and mobilize those who felt neglected and subjugated under the first term of Modi government`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: To validate the answer, refer to the second paragraph which mentions, "His opponents sense an existe...
 
 ### Question 33  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2271,6 +2943,12 @@ Which of the following word is most similar to ADEQUATE, as highlighted in the a
 - scant
 - meagre
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `apposite`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Among the given words, "apposite" is synonymous with "adequate". All other words are opposite to ade...
 
 ### Question 34  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2289,6 +2967,12 @@ Q9. The Indian economy has been (A)/ in doldrums, exhibiting (B)/ slackened grow
 - B
 - No Error
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Here, the error lies in part (B) of the sentence where there is an idiomatic error. &lsquo;In doldru...
 
 ### Question 35  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2306,6 +2990,12 @@ In the world of climate science, (A)/models come under particularly (B)/ intense
 - C
 - No Error
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Here, the error lies in part (B) of the statement where we will replace &lsquo;come&rsquo; by &lsquo...
 
 ### Question 36  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2323,6 +3013,12 @@ District Collector Divya (A)/ Devarajan urged Adivasis(B)/ to excel with academi
 - D
 - No Error
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `C`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Here, the error lies in part (C) of the sentence where we will replace &lsquo;excel with&rsquo; by &...
 
 ### Question 37  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2340,6 +3036,12 @@ White might show scuffs very easily (A)/ than a darker color, so white says (B)/
 - C
 - No Error
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `A`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Here, the error lies in part (A) of the sentence where we will replace &lsquo;very&rsquo; with &lsqu...
 
 ### Question 38  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2357,6 +3059,12 @@ One of the world’s most (A)/legendary band U2 is (B)/bringing its Joshua (C)/ 
 - D
 - No Error
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Here the error lies in part (B) of the sentence where we will replace &lsquo;band&rsquo; with &lsquo...
 
 ### Question 39  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2374,6 +3082,12 @@ In her compositions, Siobhan(A)/ also attempts to free herself with the(B)/ cons
 - B
 - No Error
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Here, the error lies in part (B) of the statement where &lsquo;with&rsquo; will be replaced by &lsqu...
 
 ### Question 40  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2391,6 +3105,12 @@ Workers in the services sector (A)/ comprised of 57.8 percent of the (B)/ total 
 - C
 - No Error
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Among the given options, the error lies in part (B) of the statement, where &lsquo;comprised&rsquo; ...
 
 ### Simulation 03 Complete Answer Key & Forensic Solutions
 
@@ -2459,6 +3179,12 @@ Q16. The boat tilted and _____________ within minutes and only those wearing lif
 - profiteered
 - imposed
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `capsized`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: From the given sentence we can infer that the boat tilted due to which only those who had life jacke...
 
 ### Question 02  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2476,6 +3202,12 @@ The government believes that the present slowdown, marked by five ____________ q
 - consecutive
 - spacious
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `consecutive`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: The statement mentions the point of view of the government regarding the economic slowdown. Here, th...
 
 ### Question 03  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2493,6 +3225,12 @@ Mr. Trump’s decision to call off the strike and the new red line he set for Ir
 - exaggeration
 - desalination
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `recalibration`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Here, we will eliminate options (a) and (d) because they will not fit in grammatically as the articl...
 
 ### Question 04  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2510,6 +3248,12 @@ Ending the culture of __________ that allows government vehicles and VIPs to ign
 - capacity
 - efficiency
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `impunity`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Here, we can infer that government vehicles enjoyed certain privileges which have now ended. Here, &...
 
 ### Question 05  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2527,6 +3271,12 @@ In the past year alone, India has ______________ defence deals worth about $14.5
 - contracted
 - globalised
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `contracted`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Here, we can clearly infer that India has taken certain actions regarding defence deals with Russia....
 
 ### Question 06  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2551,6 +3301,12 @@ Q21. Which of the following should be the first sentence after rearrangement?
 - F
 - C
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `B`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Among the given statements, statement (B) is the most appropriate choice for the introduction of the...
 
 ### Question 07  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2568,6 +3324,12 @@ Which of the following should be the third sentence after rearrangement?
 - E
 - C
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `F`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Among the given statements, statement (B) is the most appropriate choice for the introduction of the...
 
 ### Question 08  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2585,6 +3347,12 @@ Which one of the following is formed with two consecutive statements after the r
 - E-C
 - A-B
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `E-C`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Among the given statements, statement (B) is the most appropriate choice for the introduction of the...
 
 ### Question 09  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2602,6 +3370,12 @@ Which of the following should be the last sentence after rearrangement?
 - D
 - E
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `C`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Among the given statements, statement (B) is the most appropriate choice for the introduction of the...
 
 ### Question 10  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2619,6 +3393,12 @@ Which of the following should be the second sentence after rearrangement?
 - D
 - E
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `D`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Among the given statements, statement (B) is the most appropriate choice for the introduction of the...
 
 ### Question 11  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2637,6 +3417,12 @@ Q26. Mr. Bolsonaro’s critics say that his economic and environmental policies 
 - degradation
 - all are correct
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `intensifing`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Among the given words, &lsquo;intensifying&rsquo; has been misspelt as &lsquo;intensifing&rsquo;. He...
 
 ### Question 12  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2654,6 +3440,12 @@ The yuan’s devaluation is itself a part of the complex trade war that Beijing 
 - manipulator
 - all are correct
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `wagging`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Here, the usage of wagging is incorrect. &lsquo;wagging&rsquo; which means "move (an upwards-pointin...
 
 ### Question 13  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2671,6 +3463,12 @@ The investment in the Far East, which is often neglected given that Russia is se
 - forage
 - all are correct
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `forage`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Among the given words, &lsquo;forage&rsquo; which means &lsquo;(of a person or animal) search widely...
 
 ### Question 14  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2688,6 +3486,12 @@ The threat from vaccine hesitancy, which is defined as the “reluctance or refu
 - dangerous
 - all are correct
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `available`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Among the given options, &lsquo;available&rsquo; [adjective] must be replaced with &lsquo;availabili...
 
 ### Question 15  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2705,6 +3509,12 @@ The immediate impact of last week’s drone attacks on the Abqaiq oil processing
 - contribution
 - all are correct
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `all are correct`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Among the given highlighted words, all are grammatically and contextually correct. Hence, option (e)...
 
 ### Question 16  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2723,6 +3533,12 @@ The waiter hasn't brought the chocolate shake___I've been here an hour already.
 - (c) still
 - (d) till
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(b) yet`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Explanation: In negative present perfect constructions ('hasn't brought'), 'yet' is idiomatically us...
 
 ### Question 17  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2741,6 +3557,12 @@ She was so exhausted that she could ___keep her eyes open during the lecture.
 - (c) surely
 - (d) almost
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(a) barely`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Explanation: 'Barely' means 'only just; scarcely'. In the context of extreme exhaustion, she could o...
 
 ### Question 18  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2759,6 +3581,12 @@ The committee decided to ___the proposal until further market research could be 
 - (c) hasten
 - (d) execute
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(a) table`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Explanation: To 'table' a proposal means to postpone or delay consideration of it until a later time...
 
 ### Question 19  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2777,6 +3605,12 @@ Despite the severe financial crisis, the startup managed to ___and achieve profi
 - (c) break down
 - (d) give in
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(b) pull through`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Explanation: The phrasal verb 'pull through' means to survive or overcome a dangerous, difficult, or...
 
 ### Question 20  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
@@ -2795,6 +3629,12 @@ His arguments were so ___that even his fiercest critics had to concede the point
 - (c) ambiguous
 - (d) redundant
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(b) cogent`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Explanation: 'Cogent' means clear, logical, and convincing. A cogent argument compels opponents to a...
 
 ### Question 21  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -2813,6 +3653,12 @@ The CEO praised the engineering team for their ___efforts in delivering the ente
 - (c) superficial
 - (d) sporadic
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(b) laudable`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Explanation: 'Laudable' means deserving praise and commendation; highly praiseworthy....
 
 ### Question 22  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -2831,6 +3677,12 @@ She has an uncanny ability to ___complex algorithmic concepts into easily unders
 - (c) complicate
 - (d) convolute
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(b) elucidate`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Explanation: 'Elucidate' means to make something clear, explain, or clarify thoroughly....
 
 ### Question 23  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -2849,6 +3701,12 @@ The board members expressed deep ___regarding the proposed merger, citing potent
 - (c) indifference
 - (d) approval
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `(b) reservations`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Explanation: In corporate governance, having 'reservations' means having doubts, hesitations, or con...
 
 ### Question 24  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -2864,6 +3722,12 @@ What is the main idea of the passage?
 - b) The development of AI should be stopped due to its risks.
 - c) AI offers significant benefits but also presents serious challenges. d) AI's
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) It has both significant benefits and notable drawbacks.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Passage analysis confirms that AI is presented as a 'double-edged sword' bringing technological adva...
 
 ### Question 25  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -2881,6 +3745,12 @@ workforce?
 - c) A decline in the quality of work
 - d) Workers becoming too reliant on AI
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `c) Job displacement and privacy issues.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Paragraph text highlights job displacement and privacy/algorithmic bias as critical challenges....
 
 ### Question 26  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -2897,6 +3767,12 @@ What does the passage suggest about algorithmic bias?
 - c) It is an issue that has already been solved.
 - d) It only affects the finance industry.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) Perpetuate and amplify existing prejudices.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Passage directly states: 'An AI system trained on biased data will perpetuate and even amplify exist...
 
 ### Question 27  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -2913,6 +3789,12 @@ The phrase "double-edged sword" is used to indicate that AI is:
 - c) A new and innovative technology
 - d) Something that has both positive and negative effects
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `c) Double-edged sword`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Direct phrase quote from paragraph 1....
 
 ### Question 28  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -2930,6 +3812,12 @@ AI?
 - c) Ensuring AI is developed and used responsibly
 - d) Limiting AI training to unbiased data only
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `c) Both advantages and challenges.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Author maintains an objective, balanced tone discussing both pros and cons....
 
 ### Question 29  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -2946,6 +3834,12 @@ What is the primary purpose of this passage?
 - c) To provide a comprehensive definition of sustainability
 - d) To discuss the economic challenges of sustainability
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) Renewable energy sources.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Passage 2 focuses on clean sustainable energy transition....
 
 ### Question 30  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -2962,6 +3856,12 @@ Which of the following is NOT listed as a pillar of sustainability?
 - c) Environmental Protection
 - d) Economic Viability
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `c) Intermittency of solar and wind power.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Text explicitly cites storage and intermittency as major hurdles....
 
 ### Question 31  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -2979,6 +3879,12 @@ is often:
 - c) Overly complex for the general public
 - d) Narrowly focused on the environment
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) Modernizing the electrical grid.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Passage states grid modernization is essential for renewable integration....
 
 ### Question 32  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -2996,6 +3902,12 @@ sustainability imply?
 - c) All individuals have fair access to opportunities.
 - d) Societies prioritize social events.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `c) Transition`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Contextual replacement for shift / changeover....
 
 ### Question 33  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3012,6 +3924,12 @@ What is the author's vision of a "truly sustainable solution"?
 - c) A model that relies entirely on renewable energy.
 - d) An approach that stops all forms of resource consumption.
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) Informative and optimistic.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Author provides informative factual overview with positive forward-looking stance....
 
 ### Question 34  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3029,6 +3947,12 @@ work. / (D) No error.
 - c) Option C
 - d) Option D
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) She likes reading books, swimming, and jogging.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Parallelism rule: series of activities must be in parallel gerund form (-ing)....
 
 ### Question 35  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3046,6 +3970,12 @@ time. / (D) No error.
 - c) Option C
 - d) Option D
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) Neither of the options is correct.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: The indefinite pronoun 'Neither' is singular and requires a singular verb 'is'....
 
 ### Question 36  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3062,6 +3992,12 @@ time. / (D) No error.
 - c) Option C
 - d) Option D
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `c) The team played exceptionally well, but they lost the game.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Compound sentence correctly punctuated with coordinating conjunction 'but' and appropriate comma....
 
 ### Question 37  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3079,6 +4015,12 @@ Darjeeling. / (D) No error.
 - c) Option C
 - d) Option D
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) Each of the students has submitted their assignment.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Indefinite pronoun 'Each' takes singular verb 'has'....
 
 ### Question 38  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3096,6 +4038,12 @@ sector. / (D) No error.
 - c) Option C
 - d) Option D
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) If I were you, I would accept the job offer.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Subjunctive mood contrary-to-fact condition requires 'were' regardless of subject....
 
 ### Question 39  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3113,6 +4061,12 @@ situation. / (D) No error.
 - c) Option C
 - d) Option D
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `c) She is the most intelligent girl in the class.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Superlative degree requires 'the most intelligent', not double superlative 'most more'....
 
 ### Question 40  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3130,6 +4084,12 @@ in this school. / (D) No error.
 - c) Option C
 - d) Option D
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) The car is faster than any other car on the track.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Comparison of an item within its own group requires 'any other' to avoid illogical self-comparison....
 
 ### Simulation 04 Complete Answer Key & Forensic Solutions
 
@@ -3197,6 +4157,12 @@ examination. / (D) No error.
 - c) Option C
 - d) Option D
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) Hardly had I arrived at the station when the train left.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: 'Hardly... when' correlative inversion pair correctly used....
 
 ### Question 02  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3214,6 +4180,12 @@ examination. / (D) No error.
 - c) Option C
 - d) Option D
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) The teacher asked the students to not make noise.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Clear, idiomatic infinitive placement conveying instruction without ambiguity....
 
 ### Question 03  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3237,6 +4209,12 @@ alternative to the underlined part to improve the sentence.
 - c) Option C
 - d) Option D
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) One of the books was missing from the library shelf.`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: 'One of + plural noun' takes a singular verb 'was' agreeing with 'One'....
 
 ### Question 04  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3253,6 +4231,12 @@ The data collected from the survey are not reliable.
 - c) were not being reliable
 - d) No correction required
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) of`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: 'Capable' takes the preposition 'of' followed by gerund....
 
 ### Question 05  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3269,6 +4253,12 @@ Had I known about the traffic, I would have left earlier.
 - c) would had left
 - d) No correction required
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) by`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Means of transport idiomatically uses 'by train'....
 
 ### Question 06  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3285,6 +4275,12 @@ He is not only a great speaker but also a talented writer.
 - c) and also a
 - d) No correction required
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) in`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: 'Interested' idiomatically takes the preposition 'in'....
 
 ### Question 07  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3301,6 +4297,12 @@ Being a rainy day, we decided to stay indoors.
 - c) Due to a rainy day
 - d) No correction required
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `c) looking forward to`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Standard professional closing idiom followed by gerund....
 
 ### Question 08  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3317,6 +4319,12 @@ I am looking forward to meet you next week.
 - c) to be meeting
 - d) No correction required
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) despite`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Concessive preposition 'despite' introduces noun phrase contrast....
 
 ### Question 09  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3333,6 +4341,12 @@ The two brothers often quarrel between themselves.
 - c) with each other
 - d) No correction required
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) although`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Concessive conjunction 'although' introduces full subordinate clause....
 
 ### Question 10  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3349,6 +4363,12 @@ If you would have practiced more, you would have won the match.
 - c) could have practiced
 - d) No correction required
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `c) so that`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Adverbial clause of purpose takes 'so that' followed by modal 'could'....
 
 ### Question 11  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3365,6 +4385,12 @@ No sooner did the bell ring when the students rushed out.
 - c) the bell rang than
 - d) No correction required
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) between`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: 'Between' is used for distinct items; 'among' for non-distinct groups....
 
 ### Question 12  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3381,6 +4407,12 @@ She is more taller than her sister.
 - c) taller than
 - d) No correction required
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) because of`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: 'Because of' is a compound preposition followed by noun phrase 'the heavy traffic'....
 
 ### Question 13  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3396,6 +4428,12 @@ The committee have submitted its report.
 - c) has submitted their
 - d) No correction required
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `c) either`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: 'Either... or' correlative coordinator....
 
 ### Question 14  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3413,6 +4451,12 @@ harder.
 - c) ambiguous
 - d) mundane
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) Generous`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Synonym: Altruistic / Magnanimous means generous and unselfish....
 
 ### Question 15  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3429,6 +4473,12 @@ Despite his initial _______, he grew to love the city's vibrant culture.
 - c) eagerness
 - d) contentment
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) Hostile`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Antonym: Amicable means friendly; its direct antonym is hostile....
 
 ### Question 16  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3446,6 +4496,12 @@ repetitive tasks.
 - c) streamline
 - d) obstruct
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `c) Fleeting`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Synonym: Ephemeral means lasting for a very short time; transient / fleeting....
 
 ### Question 17  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3463,6 +4519,12 @@ to find common ground.
 - c) stubborn
 - d) arrogant
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) Permanent`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Antonym: Transient means temporary; antonym is permanent....
 
 ### Question 18  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3479,6 +4541,12 @@ The evidence was _______; there was no doubt that he was guilty.
 - c) speculative
 - d) debatable
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) Careful`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Synonym: Meticulous means showing great attention to detail; very careful....
 
 ### Question 19  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3496,6 +4564,12 @@ downturn.
 - c) implement
 - d) broadcast
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) Plentiful`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Antonym: Scarcity means shortage; antonym is abundance / plentiful....
 
 ### Question 20  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3512,6 +4586,12 @@ She has a _______ for details, which makes her an excellent editor.
 - c) contempt
 - d) distaste
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) Clear`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Synonym: Lucid means expressed clearly; easy to understand....
 
 ### Question 21  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3529,6 +4609,12 @@ life in the past.
 - c) neglected
 - d) fabricated
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) Timid`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Antonym: Audacious means fearless and bold; antonym is timid / cowardly....
 
 ### Question 22  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3546,6 +4632,12 @@ to be fulfilled.
 - c) vacuous
 - d) concrete
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `c) Practical`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Synonym: Pragmatic means dealing with things sensibly and realistically; practical....
 
 ### Question 23  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3563,6 +4655,12 @@ and unexpected shades.
 - c) conventional
 - d) muted
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `b) Active`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Antonym: Lethargic means sluggish and inactive; antonym is energetic / active....
 
 ### Question 24  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3585,6 +4683,12 @@ information.
 - c) BDAC
 - d) CBDA
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a) BADC`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Sentence B introduces digital age, A introduces contrast with security risk, D details malicious exp...
 
 ### Question 25  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3604,6 +4708,12 @@ D. Even a few minutes of daily practice can have a significant positive impact.
 - c) BCDA
 - d) CDAB
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a) CBAD`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Sentence C introduces meditation, B explains mechanism, A describes mental benefits, D provides conc...
 
 ### Question 26  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3624,6 +4734,12 @@ D. This lack of overhead costs gives them a major financial advantage.
 - c) BADC
 - d) CDAB
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a) BDAC`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Sentence B contrasts storefronts, D details lack of overhead, A gives result of lower prices, C conc...
 
 ### Question 27  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3646,6 +4762,12 @@ glass.
 - c) ACDB
 - d) BADC
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a) CADB`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Sentence C defines recycling, A explains process, D lists materials, B highlights conservation outco...
 
 ### Question 28  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3669,6 +4791,12 @@ and make necessary adjustments.
 - c) ADCB
 - d) BACD
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a) ACBD`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Sentence A introduces goal setting, C elaborates on decisions, B explains task prioritization, D adv...
 
 ### Question 29  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3685,6 +4813,12 @@ Analogy: ODOMETER : DISTANCE
 - c) Thermometer : Temperature
 - d) All of the above
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `d) All of the above`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Analogy: Odometer measures distance; clock measures time, scale measures weight, thermometer measure...
 
 ### Question 30  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3701,6 +4835,12 @@ Analogy: DOCTOR : HOSPITAL
 - c) Chef : Kitchen
 - d) All of the above
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `d) All of the above`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: Analogy: Doctor works in hospital; farmer works in field, teacher in school, chef in kitchen. All ar...
 
 ### Question 31  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3717,6 +4857,12 @@ One-Word Substitution: A person who is new to a profession or activity.
 - c) Novice
 - d) Connoisseur
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `c) Novice`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: One-Word Substitution: A person new to a profession or activity is a novice / tyro / neophyte....
 
 ### Question 32  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3733,6 +4879,12 @@ One-Word Substitution: A place where government records are kept.
 - c) Library
 - d) Hangar
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `a) Archive`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: One-Word Substitution: A collection of historical documents or place where government records are ke...
 
 ### Question 33  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3749,6 +4901,12 @@ One-Word Substitution: Something that is certain to happen.
 - c) Inevitable
 - d) Unlikely
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `c) Inevitable`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: One-Word Substitution: Certain to happen; unavoidable is inevitable....
 
 ### Question 34  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3765,6 +4923,12 @@ What is the foundation of progress in the world of science, according to the pas
 - C
 - D
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `None`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: **Forensic Explanation & Textual Evidence:** - **Direct Passage Reference:** In Passage 1, the autho...
 
 ### Question 35  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3781,6 +4945,12 @@ What has made large-scale data collection more feasible?
 - C
 - D
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `None`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: **Forensic Explanation & Textual Evidence:** - **Direct Passage Reference:** In Passage 1, the autho...
 
 ### Question 36  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3797,6 +4967,12 @@ What challenge arises from the large volume of data collected?
 - C
 - D
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `None`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: **Forensic Explanation & Textual Evidence:** - **Direct Passage Reference:** In Passage 1, the autho...
 
 ### Question 37  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3813,6 +4989,12 @@ What primarily causes global warming?
 - C
 - D
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `None`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: **Forensic Explanation & Textual Evidence:** - **Direct Passage Reference:** In Passage 2, the autho...
 
 ### Question 38  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3829,6 +5011,12 @@ Which human activities have contributed significantly to global warming?
 - C
 - D
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `None`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: **Forensic Explanation & Textual Evidence:** - **Direct Passage Reference:** In Passage 2, the autho...
 
 ### Question 39  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3845,6 +5033,12 @@ Which of the following is an impact of global warming mentioned in the passage?
 - C
 - D
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `None`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: **Forensic Explanation & Textual Evidence:** - **Direct Passage Reference:** In Passage 2, the autho...
 
 ### Question 40  `⚪ [📖 PRACTICE VARIANT | CONCENTRIC DRILL]`
 > **🎯 Exam Priority:** **`⚪ [📖 PRACTICE VARIANT / REDUNDANT]`**  
@@ -3861,6 +5055,12 @@ What is a key factor in effective communication?
 - C
 - D
 
+### Correct Answer
+> [!IMPORTANT]
+> **Verified Answer Key**: `None`
+
+### Grammatical & Lexical Detailed Solution
+**Rationale**: **Forensic Explanation & Textual Evidence:** - **Direct Passage Reference:** In Passage 3, the autho...
 
 ### Simulation 05 Complete Answer Key & Forensic Solutions
 

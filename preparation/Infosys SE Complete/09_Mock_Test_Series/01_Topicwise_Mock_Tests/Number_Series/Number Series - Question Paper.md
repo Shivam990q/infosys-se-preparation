@@ -20,6 +20,12 @@ the missing element in the given series:
 - **(C)** 45
 - **(D)** 24
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 24**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 2 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -35,6 +41,12 @@ the wrong term in the given series:
 - **(B)** 828
 - **(C)** 456
 - **(D)** 768
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 882**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -52,6 +64,12 @@ the missing element in the given series:
 - **(C)** 575
 - **(D)** 525
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 625**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 4 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -67,6 +85,12 @@ the wrong term in the given series:
 - **(B)** 192
 - **(C)** 190
 - **(D)** 193
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 193**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -84,6 +108,12 @@ the wrong term in the given series:
 - **(C)** 31
 - **(D)** 9
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 128**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 6 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -99,6 +129,12 @@ the wrong term in the given series:
 - **(B)** 144
 - **(C)** 13200
 - **(D)** 915
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 915**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -116,6 +152,12 @@ the missing element in the given series:
 - **(C)** 489
 - **(D)** 538
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 489**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 8 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -131,6 +173,12 @@ the wrong term in the given series:
 - **(B)** 220
 - **(C)** 312
 - **(D)** 224
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 220**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -148,6 +196,12 @@ the missing element in the given series:
 - **(C)** 275
 - **(D)** 195
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 275**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 10 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -163,6 +217,12 @@ the missing element in the given series:
 - **(B)** 19.5
 - **(C)** 17.5
 - **(D)** 8
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 17.5**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -180,6 +240,12 @@ the missing element in the given series:
 - **(C)** 7
 - **(D)** 5.5
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 5**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 12 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -195,6 +261,12 @@ the missing element in the given series:
 - **(B)** 272
 - **(C)** 255
 - **(D)** 312
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 210**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -212,6 +284,12 @@ the wrong term in the given series:
 - **(C)** 25
 - **(D)** 68
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 68**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 14 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -227,6 +305,12 @@ the wrong term in the given series:
 - **(B)** 20.5
 - **(C)** 2590
 - **(D)** 19
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 2590**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -244,6 +328,12 @@ the wrong term in the given series:
 - **(C)** 120
 - **(D)** 125
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 120**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 16 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -259,6 +349,12 @@ the missing element in the given series:
 - **(B)** 284
 - **(C)** 296
 - **(D)** 302
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 272**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -276,6 +372,12 @@ the missing element in the given series:
 - **(C)** 194
 - **(D)** 184
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 194**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 18 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -291,6 +393,12 @@ the wrong term in the given series:
 - **(B)** 38652.24
 - **(C)** 32452.24
 - **(D)** 40552.24
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 38652.24**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -308,6 +416,12 @@ the missing element in the given series:
 - **(C)** 90
 - **(D)** 100
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 100**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 20 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -323,6 +437,12 @@ the missing element in the given series:
 - **(B)** 25
 - **(C)** 23
 - **(D)** 29
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 25**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 

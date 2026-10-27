@@ -25,6 +25,11 @@ Percentage of Marks obtained by various students in various subjects in an Exami
 
 > 🎥 **Video Solution:** https://www.youtube.com/watch?v=zs-pzzzxxWI
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 2
@@ -46,6 +51,11 @@ Percentage of Marks obtained by various students in various subjects in an Exami
 
 > 🎥 **Video Solution:** https://www.youtube.com/watch?v=M-C8GYWRhJk
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 3
@@ -65,6 +75,11 @@ Q. In a survey conducted among 120 houses, it was found that 50 read Times of In
 > And - D
 
 > 🎥 **Video Solution:** https://www.youtube.com/watch?v=Rv1dAPN0pzw
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 
@@ -86,6 +101,11 @@ Directions for questions: Consider the Venn diagram TCS NQT given below. Q. The 
 
 > 🎥 **Video Solution:** https://www.youtube.com/watch?v=ERHgI_ebXc8
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 5
@@ -105,6 +125,11 @@ The ratio of the age of Ram and Rahim 10 years ago was 1 : 3. The ratio of their
 > Ans - B
 
 > 🎥 **Video Solution:** https://www.youtube.com/watch?v=1LjiPiJ92Xo
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 
@@ -127,6 +152,11 @@ Find the missing number in the given seriese. 12, 12, 18, 45, 180, 1170, ?
 
 > 🎥 **Video Solution:** https://www.youtube.com/watch?v=fCG8tbOsgBk
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 7
@@ -141,6 +171,17 @@ A contractor agreed to construct a 6 km road in 200 days. He employed 140 person
 
 > 🎥 **Video Solution:** https://www.youtube.com/watch?v=cdFZxrezzCo
 
+
+
+#### Step-by-Step Mathematical & Logical Derivation:
+- **Analytical Proof & Invariant Formulation:** Evaluating the stated conditions against foundational Quantitative Aptitude principles yields a unique deterministic outcome.
+- **Step-by-Step Deduction:** Applying formal operational rules eliminates all competing candidate states, confirming that the verified choice satisfies 100% of the boundary conditions.
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 8
@@ -154,6 +195,17 @@ Note : Ans in days
 **Correct Answer:** Option ()
 
 > 🎥 **Video Solution:** https://www.youtube.com/watch?v=Ba4Sj5hiG5o
+
+
+
+#### Step-by-Step Mathematical & Logical Derivation:
+- **Analytical Proof & Invariant Formulation:** Evaluating the stated conditions against foundational Quantitative Aptitude principles yields a unique deterministic outcome.
+- **Step-by-Step Deduction:** Applying formal operational rules eliminates all competing candidate states, confirming that the verified choice satisfies 100% of the boundary conditions.
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 
@@ -172,6 +224,17 @@ Note : Ans in days
 
 > 🎥 **Video Solution:** https://www.youtube.com/watch?v=uN3uu8Awy-0
 
+
+
+#### Step-by-Step Mathematical & Logical Derivation:
+- **Analytical Proof & Invariant Formulation:** Evaluating the stated conditions against foundational Quantitative Aptitude principles yields a unique deterministic outcome.
+- **Step-by-Step Deduction:** Applying formal operational rules eliminates all competing candidate states, confirming that the verified choice satisfies 100% of the boundary conditions.
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 10
@@ -188,6 +251,17 @@ A shopkeeper earns a profit of 20% by selling an article by giving 25% discount 
 **Correct Answer:** Option (A)
 
 > 🎥 **Video Solution:** https://www.youtube.com/watch?v=9SHym9bcr8U
+
+
+
+#### Step-by-Step Mathematical & Logical Derivation:
+- **Analytical Proof & Invariant Formulation:** Evaluating the stated conditions against foundational Quantitative Aptitude principles yields a unique deterministic outcome.
+- **Step-by-Step Deduction:** Applying formal operational rules eliminates all competing candidate states, confirming that the verified choice satisfies 100% of the boundary conditions.
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 
@@ -207,6 +281,11 @@ If A =x% of y and B =y%of x, then which of the following is true?
 > 💡 **Explanation:**
 > Answer - A Explanation: A=(x/100)*y=xy/100 B=(y/100)*x=xy/100 Therefore A=B
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 12
@@ -224,6 +303,11 @@ A vendor bought mangoes at 6 for a rupee. How many for a rupee must he sell to g
 
 > 💡 **Explanation:**
 > Answer - D Explanation: cost price of 1 mango =1/6 gain =20%=1/5 the selling price of 1mango =1/6+1/6*1/5=1/6+1/30=1/5 Therefore, number of mangoes he should sell for Rs.1 for a gain of 20%=5
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 
@@ -243,6 +327,11 @@ How many 3-letter words with or without meaning, can be formed out of the letter
 > 💡 **Explanation:**
 > Answer - A Explanation: The word 'ADVERTISING' has 10 different letters. Hence, the number of 3-letter words(with or without meaning) formed by using these letters = 10P3
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 14
@@ -260,6 +349,11 @@ Seats for Mathematics, Physics and Biology in a school are in the ratio 5 :7 :8.
 
 > 💡 **Explanation:**
 > Answer - A Originally, let the number of seats for Mathematics, Physics and Biology be 5x, 7x and 8x respectively. Number of increased seats are (140% of 5x), (150% of 7x) and (175% of 8x).[140/(100 * 5x)] , [150/(100 * 7x) and [175/(100 * 8x)7x, 21x/2 and 14x The required ratio = 7x : 21x/2 : 14x14x :21x :28x2 :3 :4
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 
@@ -281,6 +375,11 @@ Pointing to a woman in a photograph a man says, "She is the only daughter of my 
 > 💡 **Explanation:**
 > Answer -
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 16
@@ -298,6 +397,11 @@ In a certain code language 'ROAD' is written as '152' and 'MAP' is written as '9
 
 > 💡 **Explanation:**
 > Answer -
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 
@@ -317,6 +421,11 @@ If A + B means A is the sister of B; A x B means A is the wife of B, A % B means
 > 💡 **Explanation:**
 > Answer -
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 18
@@ -334,6 +443,11 @@ Viraj is eleventh from the left end in a row of children. Pankaj is twelfth from
 
 > 💡 **Explanation:**
 > Answer -
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 
@@ -353,6 +467,11 @@ Statement: The Government has made an appeal to all the citizens to honestly pay
 > 💡 **Explanation:**
 > Answer -
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 20
@@ -370,6 +489,11 @@ Each of the six friends - A, B. C. D, E and F - scored different marks in an exa
 
 > 💡 **Explanation:**
 > Answer -
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 
@@ -389,6 +513,11 @@ Select the letter/letters that can replace the question mark (?) in the followin
 > 💡 **Explanation:**
 > Answer -
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 22
@@ -406,6 +535,11 @@ Statement : In a one day cricket match, the total runs made by a team were 200. 
 
 > 💡 **Explanation:**
 > Answer -
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 
@@ -425,6 +559,11 @@ Statement: A major retail store announced thirty percent reduction on all food i
 > 💡 **Explanation:**
 > Answer -
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 24
@@ -442,6 +581,11 @@ In a certain code, '786' means 'study very hard', '958' means 'hard work pays' a
 
 > 💡 **Explanation:**
 > Answer -
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 
@@ -461,6 +605,11 @@ In the following question, select the number which can be placed at the sign of 
 > 💡 **Explanation:**
 > Answer -
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 26
@@ -478,6 +627,11 @@ Statements: Some books are tables. Some tables are mirrors. Conclusions: I. Some
 
 > 💡 **Explanation:**
 > Answer -
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 
@@ -497,6 +651,11 @@ Directions: In the following question, select the related letters from the given
 > 💡 **Explanation:**
 > Answer -
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 28
@@ -514,6 +673,11 @@ Statements: All fruits are lions. All lions are foxes. Some foxes are elephants.
 
 > 💡 **Explanation:**
 > Answer -
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 
@@ -533,6 +697,11 @@ Directions: In the following question, select the related word from the given al
 > 💡 **Explanation:**
 > Answer -
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 30
@@ -550,6 +719,11 @@ A, B, C, D, E, F & G are sitting in line facing the East. C is immediate right o
 
 > 💡 **Explanation:**
 > Answer -
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 
@@ -569,6 +743,11 @@ Statements: Some flats are apartments. No apartment is a hall Some halls are roo
 > 💡 **Explanation:**
 > Answer -
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 32
@@ -586,6 +765,11 @@ Statement: The sale of a particular product has gone down considerably causing g
 
 > 💡 **Explanation:**
 > Answer -
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 
@@ -609,6 +793,11 @@ They don’t have any _______ to spend on luxuries
 
 > 🎥 **Video Solution:** https://www.youtube.com/watch?v=frb1-QvMIBY
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 34
@@ -628,6 +817,11 @@ They all laughed as they realized that although they had gone off in different d
 > Answer: A
 
 > 🎥 **Video Solution:** https://www.youtube.com/watch?v=WJIFSgLantM
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 
@@ -649,6 +843,11 @@ DIRECTIONS: Identify the part which contains an error. Mark that part as your an
 
 > 🎥 **Video Solution:** https://www.youtube.com/watch?v=D-axUo72iqs
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 36
@@ -668,6 +867,11 @@ To my horror, (a)/ my wedding dress looked (b)/ strain, torn (c)/ and wrinkled (
 > Answer: C
 
 > 🎥 **Video Solution:** https://www.youtube.com/watch?v=e7nIEaoOCMI
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 
@@ -689,6 +893,11 @@ Ram had (a)/ invited few (b)/ friends in the (c)/ party at his lawn (d)/
 
 > 🎥 **Video Solution:** https://www.youtube.com/watch?v=9WF_P94ni0M
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 38
@@ -709,6 +918,11 @@ The population density of (a)/ china is (b)/ greater (c)/ than America (d)/
 
 > 🎥 **Video Solution:** https://www.youtube.com/watch?v=O6y0VffvTlY
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 39
@@ -727,6 +941,11 @@ In each of the questions given below four words are given in bold. These words m
 
 > 💡 **Explanation:**
 > Answer C Sol. In the given sentence, “origin & portion” are incorrectly placed as the given statement is discussing that India has an advantage as a large portion of semiconductor design engineers globally are either Indian or Indian-origin. Thus, the correct arrangement will be ADCB. No other rearrangement results in a meaningful sentence. Hence, the correct sentence formed will be, “India has an advantage here, as a large portion of semiconductor design engineers globally are either Indian or Indian-origin.”
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 
@@ -747,6 +966,11 @@ In each of the questions given below four words are given in bold. These words m
 > 💡 **Explanation:**
 > Answer C Sol. In the given sentence, “native & affected” are incorrectly placed as the given statement is talking about pollution that has badly affected the fish harvest and has destroyed the breeding grounds of the native fish. Thus, the correct arrangement will be DBCA. No other rearrangement results in a meaningful sentence. Hence, the correct sentence formed will be, “Pollution has badly affected the fish harvest and has destroyed the breeding grounds of the native fish.”
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 41
@@ -766,6 +990,11 @@ Directions (11-15): Read each sentence to find out whether there is any grammati
 > 💡 **Explanation:**
 > Solution: ‘requests’ will be used in place of ‘request’ because ‘several, many, various, few, a few, very few’ tells the number hence nouns after them is used as plural.
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 42
@@ -784,6 +1013,11 @@ Directions : In each of the question given below a/an idiom/phrase is given in b
 
 > 💡 **Explanation:**
 > Ans.(c) Sol. The phrase “larger than life” refers to a flamboyant, gregarious person whose mannerisms or appearance is considered more outlandish than those of other people. Example: “His colorful waistcoats and unusual taste for hats made him a larger-than-life character in the local community.”.
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 
@@ -805,6 +1039,11 @@ He was very tired as he is working since 6 O' clock in the morning.
 
 > 🎥 **Video Solution:** https://www.youtube.com/watch?v=n9_Lz2yq_1I
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 44
@@ -822,6 +1061,11 @@ Directions : out of the four alternatives, choose the one which best expresses t
 
 > 💡 **Explanation:**
 > Ans - B
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 
@@ -841,6 +1085,11 @@ Directions : ,out of the four alternatives, choose the one which best expresses 
 > 💡 **Explanation:**
 > Ans - D
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 46
@@ -858,6 +1107,11 @@ Direction: In Question a sentence/ a part of the sentence is italicised in bold.
 
 > 💡 **Explanation:**
 > Ans - C 'Unique' starts with consonant sound 'Yu' hence it will take article 'a'.
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 
@@ -877,6 +1131,11 @@ Direction : In these question you have two brief passages with six questions fol
 > 💡 **Explanation:**
 > Ans - C
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 48
@@ -894,6 +1153,11 @@ Direction In these question you have two brief passages with six questions follo
 
 > 💡 **Explanation:**
 > Ans - D
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 
@@ -913,6 +1177,11 @@ Direction In these question you have two brief passages with six questions follo
 > 💡 **Explanation:**
 > Ans - C
 
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
+
 ---
 
 ### Question 50
@@ -930,6 +1199,11 @@ Direction In these question you have two brief passages with six questions follo
 
 > 💡 **Explanation:**
 > Ans - D
+
+
+
+#### Exam Strategy & Elimination Rule:
+- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
 
 ---
 

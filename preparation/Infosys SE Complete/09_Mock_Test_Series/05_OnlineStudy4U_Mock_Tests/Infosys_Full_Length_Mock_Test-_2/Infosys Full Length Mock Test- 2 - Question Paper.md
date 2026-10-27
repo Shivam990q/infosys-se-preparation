@@ -18,6 +18,16 @@ product had the highest total sales over the three months?
 - **(C)** C
 - **(D)** A and B equal
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) A**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A = 40+45+50 = 135. B = 30+35+30 = 95. C =
+25+20+35 = 80. Product A is highest.
+
+---
+
 ---
 
 ### Question 2 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -31,6 +41,17 @@ If 1 + 2 = 3, 2 + 3 = 8, 3 + 4 = 15 and 4 +
 - **(B)** 33
 - **(C)** 35
 - **(D)** 36
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 35**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The rule is a + b maps to a × b + a,
+which is a(b + 1). Check: 1×2+1=3, 2×3+2=8, 3×4+3=15,
+4×5+4=24. Then 5×6+5 = 35.
+
+---
 
 ---
 
@@ -47,6 +68,18 @@ servers are laptops. II. Some machines are not tablets.
 - **(C)** Both I and II follow
 - **(D)** Neither I nor II follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Only II follows**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Servers sit inside machines, but they need
+not overlap laptops, so I does not follow. Some machines are
+laptops, and no laptop is a tablet, so those machines are not
+tablets. II follows.
+
+---
+
 ---
 
 ### Question 4 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -60,6 +93,18 @@ coded?
 - **(B)** NQAHS
 - **(C)** PSCJT
 - **(D)** PSBJU
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) PSCJU**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each letter moves one step forward: P→Q,
+L→M, A→B, N→O, E→F, T→U. Apply the same
+to ORBIT: O→P, R→S, B→C, I→J, T→U. Code:
+PSCJU.
+
+---
 
 ---
 
@@ -83,6 +128,17 @@ Find the missing number in the figure.
 - **(C)** 8
 - **(D)** 9
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 7**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each column decreases by 1 going down:
+5-4-3, 7-6-5, 9-8-7. The missing number is 7. Rows also increase
+by 2.
+
+---
+
 ---
 
 ### Question 6 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -98,6 +154,16 @@ lines, Step 3 has 3 lines. How many lines does Step 5 contain?
 - **(C)** 5
 - **(D)** 6
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 5**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The count of lines increases by 1 in each
+step. Step 5 therefore has 5 lines.
+
+---
+
 ---
 
 ### Question 7 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -112,6 +178,17 @@ Statement 2 alone is not
 - **(B)** Statement 2 alone is sufficient, but Statement 1 alone is not
 - **(C)** Either statement alone is sufficient
 - **(D)** Both statements together are needed
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Statement 2 alone is sufficient, but Statement 1 alone is not**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+S1 gives only the difference, so x + y
+cannot be found. S2 divides by 2 to give x + y = 10. Statement 2
+alone is enough.
+
+---
 
 ---
 
@@ -135,6 +212,16 @@ Find the missing number in the figure.
 - **(C)** 21
 - **(D)** 24
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 21**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+In each row the middle cell is the product
+of the two side cells: 2×3=6, 4×5=20, 3×7=21.
+
+---
+
 ---
 
 ### Question 9 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -149,6 +236,16 @@ January figure?
 - **(B)** 20%
 - **(C)** 25%
 - **(D)** 30%
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 25%**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Increase = 50 − 40 = 10. Percent = (10
+/ 40) × 100 = 25%.
+
+---
 
 ---
 
@@ -179,6 +276,15 @@ C
 - **(C)** 110
 - **(D)** 115
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 100**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+February column: 45 + 35 + 20 = 100.
+
+---
+
 ---
 
 ### Question 11 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -193,6 +299,17 @@ tickets. II. No bug is closed.
 - **(B)** Only II follows
 - **(C)** Both I and II follow
 - **(D)** Neither I nor II follows
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Both I and II follow**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The codes that are bugs are also tickets, so
+I follows. All bugs are tickets and no ticket is closed, so no bug
+is closed. II follows.
+
+---
 
 ---
 
@@ -212,6 +329,18 @@ Statement 1 alone is not
 - **(C)** Either statement alone is sufficient
 - **(D)** Both statements together are needed
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Either statement alone is sufficient**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+S1: B is 15th from last, so B’s rank =
+40 − 15 + 1 = 26. A is 8 above B, so A is 18th. S2: C is
+10th and A is 5 below C, so A is 15th. Each statement alone gives
+a rank (the two ranks differ, but each is sufficient by itself).
+
+---
+
 ---
 
 ### Question 13 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -228,6 +357,16 @@ Statement 1 alone is not
 - **(C)** Either statement alone is sufficient
 - **(D)** Both statements together are needed
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Either statement alone is sufficient**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+S1: every multiple of 4 is even. S2: if n +
+1 is odd, n itself is even. Either statement answers the question.
+
+---
+
 ---
 
 ### Question 14 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -241,6 +380,16 @@ coded?
 - **(B)** KNFHB
 - **(C)** MPGJD
 - **(D)** NPHJD
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) MPHJD**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each letter moves one step forward: R→S,
+E→F, A→B, C→D, H→I. So LOGIC → M P H J D.
+
+---
 
 ---
 
@@ -256,6 +405,19 @@ I. All interns are employees. II. Some managers are interns.
 - **(B)** Only II follows
 - **(C)** Both I and II follow
 - **(D)** Neither I nor II follows
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Only I follows**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Interns → graduates → employees,
+so every intern is an employee. I follows. Managers overlap
+employees, not necessarily interns. II does not follow.
+
+---
+
+## Section: Aptitude (Technical Ability)
 
 ---
 
@@ -274,6 +436,17 @@ working together?
 - **(C)** 8 days
 - **(D)** 9 days
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 7.2 days**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A’s 1-day work = 1/12. B’s 1-day
+work = 1/18. Together = 1/12 + 1/18 = 3/36 + 2/36 = 5/36. Time =
+36/5 = 7.2 days.
+
+---
+
 ---
 
 ### Question 17 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -288,6 +461,17 @@ cost price of the item?
 - **(B)** ₹750
 - **(C)** ₹800
 - **(D)** ₹850
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) ₹800**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Let CP = x. First SP = 0.92x. Second SP =
+1.04x. Difference = 0.12x = 96, so x = 96 / 0.12 = 800. Cost price
+is ₹800.
+
+---
 
 ---
 
@@ -304,6 +488,17 @@ if it must include at least 1 tester?
 - **(C)** 74
 - **(D)** 84
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 74**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Total ways to choose 3 from 9 = C(9,3) = 84.
+Ways with no tester = C(5,3) = 10. So at least one tester = 84 −
+10 = 74.
+
+---
+
 ---
 
 ### Question 19 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -318,6 +513,17 @@ the word SERVER be arranged?
 - **(C)** 240
 - **(D)** 720
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 180**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+SERVER has 6 letters with R and E repeating
+twice each. Number of distinct arrangements = 6! / (2! × 2!)
+= 720 / 4 = 180.
+
+---
+
 ---
 
 ### Question 20 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -331,6 +537,16 @@ for ₹920. What is the profit percentage?
 - **(B)** 15%
 - **(C)** 18%
 - **(D)** 20%
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 15%**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Profit = 920 − 800 = 120. Profit % =
+(120 / 800) × 100 = 15%.
+
+---
 
 ---
 
@@ -347,6 +563,16 @@ alone do the same work?
 - **(C)** 30 days
 - **(D)** 45 days
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 30 days**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A + B = 1/10 and A = 1/15. B = 1/10 −
+1/15 = 3/30 − 2/30 = 1/30. So B alone takes 30 days.
+
+---
+
 ---
 
 ### Question 22 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -362,6 +588,17 @@ what is the profit percentage?
 - **(C)** 15%
 - **(D)** 20%
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 12.5%**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+SP after 10% discount = 90% of 40,000 =
+₹36,000. Profit = 36,000 − 32,000 = ₹4,000.
+Profit % = (4000 / 32000) × 100 = 12.5%.
+
+---
+
 ---
 
 ### Question 23 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -375,6 +612,17 @@ the letters of the word ORANGE if no letter is repeated?
 - **(B)** 240
 - **(C)** 360
 - **(D)** 720
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 360**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+ORANGE has 6 distinct letters. Number of
+4-letter codes with no repetition is P(6,4) = 6×5×4×3
+= 360.
+
+---
 
 ---
 
@@ -391,6 +639,16 @@ probability that both are red?
 - **(C)** 4/15
 - **(D)** 2/9
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 2/15**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+P = C(4,2) / C(10,2) = 6 / 45 = 2/15.
+Sequentially: (4/10)×(3/9) = 12/90 = 2/15.
+
+---
+
 ---
 
 ### Question 25 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -404,6 +662,18 @@ probability that the sum is 9?
 - **(B)** 1/9
 - **(C)** 1/8
 - **(D)** 1/6
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 1/9**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Favourable pairs: (3,6), (4,5), (5,4), (6,3)
+— 4 outcomes. Total outcomes = 36. Probability = 4/36 = 1/9.
+
+---
+
+## Section: Verbal Ability
 
 ---
 
@@ -419,6 +689,16 @@ Choose the grammatically correct sentence.
 - **(B)** The news is not good this morning.
 - **(C)** The news have not good this morning.
 - **(D)** The new is not good this morning.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) The news is not good this morning.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+"News" is an uncountable singular
+noun and takes "is," not "are."
+
+---
 
 ---
 
@@ -436,6 +716,17 @@ Which of the following is mentioned as a cost of code reviews?
 - **(D)** They force every patch to be rewritten
 twice.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Long queues delay releases and harsh comments discourage early drafts.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The passage states that long review queues
+delay releases and harsh comments discourage people from sharing
+early drafts.
+
+---
+
 ---
 
 ### Question 28 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -449,6 +740,17 @@ until both parties sign it.
 - **(B)** provisional
 - **(C)** permanent
 - **(D)** obsolete
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) provisional**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Provisional means temporary and subject to
+later confirmation. Void would mean invalid; permanent and
+obsolete do not fit a draft waiting for signatures.
+
+---
 
 ---
 
@@ -466,6 +768,17 @@ rang.
 - **(D)** Scarcely had she entered then the fire alarm
 rang.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Scarcely had she entered when the fire alarm rang.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+"Scarcely" at the start needs
+inversion ("had she entered") and is paired with "when,"
+not "than" or "then."
+
+---
+
 ---
 
 ### Question 30 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -481,6 +794,16 @@ launch.
 launch.
 - **(D)** The committee has decide to postpone the
 launch.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) The committee has decided to postpone the launch.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+As a single body, "committee"
+takes a singular verb in exam English: "has decided."
+
+---
 
 ---
 
@@ -500,6 +823,16 @@ late.
 - **(C)** P Q R S
 - **(D)** S Q P R
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Q S P R**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q is the problem. S warns against delay. P
+offers the routine. R is the result. Order: Q S P R.
+
+---
+
 ---
 
 ### Question 32 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -514,6 +847,16 @@ Choose the word most similar in meaning to
 - **(C)** Hasty
 - **(D)** Rough
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Thorough**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+"Meticulous" means extremely
+careful and thorough. Careless, hasty and rough are opposites.
+
+---
+
 ---
 
 ### Question 33 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -527,6 +870,17 @@ Choose the word most opposite in meaning to
 - **(B)** Current
 - **(C)** Abandoned
 - **(D)** Expired
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Current**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+"Obsolete" means no longer in use.
+"Current" is the antonym. The other three sit close to
+obsolete.
+
+---
 
 ---
 
@@ -543,6 +897,17 @@ According to the passage, reviews help junior engineers mainly because they
 - **(C)** are allowed to skip handbooks forever
 - **(D)** receive only automated comments
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) learn the team&rsquo;s style faster by reading real changes**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The passage says a junior who reads a senior
+colleague’s change learns the team’s style faster than
+by studying a handbook.
+
+---
+
 ---
 
 ### Question 35 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -558,6 +923,17 @@ shifts.
 shifts.
 - **(D)** He is one of the engineers who has work
 night shifts.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) He is one of the engineers who work night shifts.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+In "one of the + plural noun + who,"
+the relative pronoun refers to the plural noun, so the verb is
+"work," not "works."
+
+---
 
 ---
 
@@ -577,6 +953,17 @@ grows.
 - **(C)** S P Q R
 - **(D)** R S Q P
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) S Q P R**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+S sets the scene. Q names a typical fault. P
+is the immediate safeguard. R generalises the habit. Order: S Q P
+R.
+
+---
+
 ---
 
 ### Question 37 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -591,6 +978,16 @@ Reviews often catch defects that tests miss, such as
 - **(B)** unclear names, missing edge cases and weak error messages
 - **(C)** payroll errors and invoice totals
 - **(D)** office-seating plans
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) unclear names, missing edge cases and weak error messages**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Those three examples are listed in the
+second sentence of the passage.
+
+---
 
 ---
 
@@ -609,6 +1006,16 @@ The cheaper fix is to stop dumping waste into open gutters.
 - **(C)** Q R P S
 - **(D)** S Q P R
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Q P R S**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q names the cause. P is the effect. R is the
+official response. S is the longer-term fix. Order: Q P R S.
+
+---
+
 ---
 
 ### Question 39 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -621,6 +1028,17 @@ Choose the grammatically correct sentence.
 - **(B)** I lay down for an hour after the interview.
 - **(C)** I lied down for an hour after the interview.
 - **(D)** I lain down for an hour after the interview.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) I lay down for an hour after the interview.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The past tense of the intransitive verb lie
+(recline) is lay. Laid needs an object; lied means told an
+untruth; lain is the past participle.
+
+---
 
 ---
 
@@ -635,6 +1053,16 @@ Choose the correct meaning of the idiom
 - **(B)** Work or study late into the night
 - **(C)** Start a fire after dark
 - **(D)** Leave the office early
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Work or study late into the night**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The idiom means to stay up late working or
+studying.
+
+---
 
 ---
 
@@ -654,6 +1082,17 @@ slips.
 - **(C)** Q P S R
 - **(D)** R Q S P
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Q S P R**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q states the effect of late screens. S
+explains the mechanism. P names the next-day cost. R is the
+workplace response. Order: Q S P R.
+
+---
+
 ---
 
 ### Question 42 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -672,6 +1111,17 @@ cheap insurance.
 - **(C)** P Q R S
 - **(D)** R P Q S
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) R Q P S**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+R states the gap. Q is the practice that
+fills it. P is the later benefit. S comments on the cost. Order: R
+Q P S.
+
+---
+
 ---
 
 ### Question 43 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -685,6 +1135,16 @@ is new to a job or activity.
 - **(B)** Novice
 - **(C)** Expert
 - **(D)** Mentor
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Novice**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A novice is a beginner. Veteran and expert
+are the opposite idea; a mentor guides others.
+
+---
 
 ---
 
@@ -700,6 +1160,16 @@ The author suggests that tools
 - **(B)** are useless in code reviews
 - **(C)** help but cannot replace agreed standards of courtesy and focus
 - **(D)** should be banned from daily reviews
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) help but cannot replace agreed standards of courtesy and focus**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The last sentence says tools help, but they
+cannot replace an agreed standard of courtesy and focus.
+
+---
 
 ---
 
@@ -718,6 +1188,20 @@ unnecessary.
 engineers’ work.
 - **(D)** Review tools can fully replace agreed team
 standards.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Code reviews improve quality and learning if teams manage time and tone.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The passage supports reviews for defects and
+learning, then names the costs, and ends with how short, timely,
+courteous reviews keep quality and speed. That balanced claim is
+the main idea.
+
+---
+
+## Section: Pseudo Code
 
 ---
 
@@ -751,6 +1235,16 @@ count
 - **(C)** 10
 - **(D)** 16
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 10**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The inner loop runs i times for each i from
+1 to 4. Total iterations = 1+2+3+4 = 10. So count prints 10.
+
+---
+
 ---
 
 ### Question 47 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -770,6 +1264,16 @@ a ^ b
 - **(B)** 12
 - **(C)** 13
 - **(D)** 14
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 12**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+9 in binary is 1001 and 5 is 0101. XOR sets
+a bit where the bits differ: 1100, which is 12.
+
+---
 
 ---
 
@@ -796,6 +1300,16 @@ F(6)
 - **(B)** 8
 - **(C)** 13
 - **(D)** 21
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 8**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+F is the Fibonacci sequence: F(0)=0, F(1)=1,
+F(2)=1, F(3)=2, F(4)=3, F(5)=5, F(6)=8. So the printed value is 8.
+
+---
 
 ---
 
@@ -824,6 +1338,17 @@ front(Q)
 - **(C)** 6
 - **(D)** 8
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 4**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+After three enqueues the queue is [2, 4, 6]
+with 2 at the front. dequeue removes 2. enqueue 8 makes [4, 6, 8].
+front returns 4.
+
+---
+
 ---
 
 ### Question 50 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -851,6 +1376,19 @@ peek(S)
 - **(C)** 7
 - **(D)** 8
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 7**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Stack after the three pushes: [5, 8, 3] with
+3 on top. pop removes 3. push 7 makes the stack [5, 8, 7]. peek
+returns the top element, which is 7.
+
+---
+
+## Section: Numerical Puzzles
+
 ---
 
 ## Section: Numerical Puzzles
@@ -875,6 +1413,17 @@ Find the missing number in the 3 &times; 3 matrix.
 - **(C)** 51
 - **(D)** 54
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 49**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each row adds 5, then 8: 16+5 = 21, 21+8 =
+29; 25+5 = 30, 30+8 = 38. So 36+5 = 41 and 41+8 = 49. The first
+column is also consecutive squares: 4², 5², 6².
+
+---
+
 ---
 
 ### Question 52 [Marks: +{'positive': 3, 'negative': 0, 'negativeUnattempted': 0}]
@@ -893,6 +1442,20 @@ Find the next number in the pattern sequence.
 - **(B)** 48
 - **(C)** 49
 - **(D)** 50
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 48**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The gaps are consecutive odd numbers
+starting at 5: 8−3 = 5, 15−8 = 7, 24−15 = 9,
+35−24 = 11. The next gap is 13, so 35 + 13 = 48.
+Equivalently, the terms are n(n+2) for n = 1, 2, 3, 4, 5, 6:
+1×3=3, 2×4=8, 3×5=15, 4×6=24, 5×7=35,
+6×8=48.
+
+---
 
 ---
 
@@ -915,6 +1478,17 @@ Find the missing number in the 3 &times; 3 matrix.
 - **(B)** 30
 - **(C)** 32
 - **(D)** 36
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 32**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+In each row, third = first × (second +
+1). Row 1: 2 × 6 = 12. Row 2: 3 × 7 = 21. Row 3: 4 ×
+8 = 32.
+
+---
 
 ---
 
@@ -941,6 +1515,19 @@ Wheel B
 - **(C)** 20
 - **(D)** 24
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 20**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Opposite rim numbers add up to the centre.
+Wheel A: 6+12 = 18 and 8+10 = 18. Wheel B: 5+15 = 20 and 9+11 =
+20. So the missing centre is 20.
+
+---
+
+## Section: English Grammar
+
 ---
 
 ## Section: English Grammar
@@ -957,6 +1544,17 @@ have two test cases left.
 - **(C)** have been working on
 - **(D)** had worked on
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) have been working on**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+"Since 9 a.m." marks an action
+that started in the past and is still in progress. That requires
+the present perfect continuous: "have been working on."
+
+---
+
 ---
 
 ### Question 56 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -970,6 +1568,17 @@ Everybody in the two project teams have submitted the timesheet.
 - **(B)** the two project teams
 - **(C)** have submitted the timesheet
 - **(D)** No error
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) have submitted the timesheet**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+"Everybody" is singular, even when
+a plural phrase follows. The verb must be "has submitted,"
+not "have submitted."
+
+---
 
 ---
 
@@ -985,6 +1594,18 @@ reception desk every morning.
 - **(C)** is
 - **(D)** have been
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) is**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The true subject is "bouquet"
+(singular), not "roses." A singular subject takes "is."
+Phrases beginning with "of" do not change the number of
+the verb.
+
+---
+
 ---
 
 ### Question 58 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -998,6 +1619,18 @@ She did not knew that the meeting had been postponed.
 - **(B)** that the meeting
 - **(C)** had been postponed
 - **(D)** No error
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) She did not knew**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+After the auxiliary "did," the
+main verb stays in the base form: "did not know," not
+"did not knew." The past participle "had been
+postponed" is already correct.
+
+---
 
 ---
 
@@ -1013,6 +1646,20 @@ The offer letter is valid _____ 30 September
 - **(C)** for
 - **(D)** at
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) until**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+"Until" is used for a point in
+time when something ends. "Since" marks a starting
+point, "for" marks a duration (for three days), and "at"
+marks a clock time or point, not a closing date in this structure.
+
+---
+
+## Section: Essay Writting
+
 ---
 
 ## Section: Essay Writting
@@ -1023,7 +1670,19 @@ Impact of Artificial Intelligence on Students and Education
 
 **Options:**
 
-- **(A)** 
+- **(A)**
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) **
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Artificial Intelligence (AI) is becoming an important part of modern education. It has changed the way students learn, prepare for exams, and develop new skills. AI-powered tools help students understand difficult topics, solve problems, and access learning resources quickly.
+One of the major benefits of AI in education is personalized learning. Students can learn at their own pace and receive explanations based on their needs. AI can also help students improve their grammar, writing, and programming skills. It saves time and makes education more accessible.
+However, excessive dependence on AI can create challenges. Some students may stop thinking independently or rely on AI to complete their assignments. Privacy concerns and inaccurate information are also important issues.
+In conclusion, Artificial Intelligence can improve the quality of education when used responsibly. Students should use AI as a learning assistant rather than a replacement for their own thinking and creativity. A balanced approach to technology and traditional learning can help students achieve better academic and professional growth.
+
+---
 
 ---
 

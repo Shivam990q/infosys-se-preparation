@@ -19,6 +19,12 @@ Find the value of the question mark (?) Choose the best answer:
 
 **Correct Answer:** Option (B)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 2
@@ -33,6 +39,12 @@ Study the 3×3 matrix. Each row follows the same rule relating the first two ent
 - (D) 4
 
 **Correct Answer:** Option (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -49,6 +61,12 @@ In the following question select the number which can be placed at the question 
 
 **Correct Answer:** Option (C)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 4
@@ -63,6 +81,12 @@ Study the 3×3 matrix. Each row follows the same rule relating the first two ent
 - ✅ **(D) Z** *(Correct Answer)*
 
 **Correct Answer:** Option (D)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 

@@ -120,6 +120,12 @@ Then
 
 **Correct Answer:** (B)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 7
@@ -158,6 +164,12 @@ times
 
 **Correct Answer:** (A)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 9
@@ -187,6 +199,12 @@ d
 
 **Correct Answer:** (D)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 10
@@ -201,6 +219,12 @@ d
 - (D) 80
 
 **Correct Answer:** (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 

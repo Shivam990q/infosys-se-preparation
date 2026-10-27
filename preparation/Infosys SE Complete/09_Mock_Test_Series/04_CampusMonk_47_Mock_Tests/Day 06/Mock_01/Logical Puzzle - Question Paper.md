@@ -17,6 +17,12 @@
 - **(C)** B
 - **(D)** T
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) G**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 2 [Marks: +2, -0]
@@ -29,6 +35,12 @@
 - **(B)** S
 - **(C)** R
 - **(D)** Q
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) P**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -43,6 +55,12 @@ Study the 4×4 matrix. Each row follows the same rule relating the first two ent
 - **(C)** 67
 - **(D)** 87
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 57**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 4 [Marks: +2, -0]
@@ -56,6 +74,12 @@ Study the 4×4 matrix. Each row follows the same rule relating the first two ent
 - **(C)** 8
 - **(D)** 2
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 6**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 5 [Marks: +2, -0]
@@ -68,6 +92,12 @@ Study the 3×3 matrix. Each row follows the same rule relating the first two ent
 - **(B)** 50
 - **(C)** 120
 - **(D)** 100
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 100**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 

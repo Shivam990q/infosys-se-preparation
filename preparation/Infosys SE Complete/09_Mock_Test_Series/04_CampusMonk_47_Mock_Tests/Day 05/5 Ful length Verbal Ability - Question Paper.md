@@ -18,6 +18,12 @@ In the housing society where I live there is a nice house (to let out).
 - **(C)** to be let out
 - **(D)** no improvement
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) to let**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 2 [Marks: +1, -0.25]
@@ -30,6 +36,12 @@ Select the synonym of "Stash"
 - **(B)** deficit
 - **(C)** lack
 - **(D)** cache
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) cache**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -44,6 +56,12 @@ A person who applies for a job or is nominated for election.
 - **(B)** Elect
 - **(C)** Volunteer
 - **(D)** Nominator
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Candidate**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -62,6 +80,12 @@ R. benefits has risen sharply
 - **(C)** RPQ
 - **(D)** QPR
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) PQR**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 5 [Marks: +1, -0.25]
@@ -75,6 +99,12 @@ Sunny was driving the car so fast that it slipped at the turn.
 - **(B)** So fast was Sunny driving the car that it slipped at the turn.
 - **(C)** The car was being driven by Sunny so fast that it slipped at the turn
 - **(D)** The car slipped at the turn as Sunny was driving it so fast.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) The car was being driven by Sunny so fast that it slipped at the turn**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -93,6 +123,12 @@ Left has tried to expand social welfare programmes _______ the poor
 - **(C)** that
 - **(D)** of
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) for**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 7 [Marks: +1, -0.25]
@@ -109,6 +145,12 @@ Mother filled dark filtered coffee in the cup.
 - **(C)** The cup was being filled by mother with dark filtered coffee.
 - **(D)** The filtered coffee which was dark was filled into the cup by mother.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) The cup was filled with dark filtered coffee by mother.**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 8 [Marks: +1, -0.25]
@@ -121,6 +163,12 @@ Direction: Select the synonym 'Rip'
 - **(B)** terminate
 - **(C)** gash
 - **(D)** sew
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) gash**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -141,6 +189,12 @@ Points to the growing _______ of politically driven welfare policies
 - **(C)** pain
 - **(D)** burden
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) burden**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 10 [Marks: +1, -0.25]
@@ -153,6 +207,12 @@ Select the word with the correct spelling.
 - **(B)** priestly
 - **(C)** fereted
 - **(D)** ablasion
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) priestly**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -171,6 +231,12 @@ R-have signalled China's
 - **(C)** PRQ
 - **(D)** PQR
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) RQP**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 12 [Marks: +1, -0.25]
@@ -186,6 +252,12 @@ Politicians requested both the warring communities to --- restraint.
 - **(B)** enforce
 - **(C)** show
 - **(D)** exercise
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) exercise**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -206,6 +278,12 @@ The growing _______ between the rich and the poor.
 - **(C)** disparities
 - **(D)** disilusion
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) disparities**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 14 [Marks: +1, -0.25]
@@ -224,6 +302,12 @@ Need for economic growth to _______ poverty and improve the lives of the poor.
 - **(C)** aggravate
 - **(D)** depress
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) alleviate**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 15 [Marks: +1, -0.25]
@@ -240,6 +324,12 @@ Sometimes the grand _______ of the left and the Right
 - **(B)** plots
 - **(C)** versions
 - **(D)** narratives
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) narratives**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 

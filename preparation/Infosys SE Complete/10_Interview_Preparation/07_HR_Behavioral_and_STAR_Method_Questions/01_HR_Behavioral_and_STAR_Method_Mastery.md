@@ -11,9 +11,15 @@
 ## 1. Top Behavioral HR Questions & Model Answers
 
 ### Question 1: "Tell me about yourself."
+> **Verified Answer Key:** Full Score STAR Model Delivery Script (Enterprise Standard)
+
+#### Detailed Solution & Interview Framework:
 - **Formula:** Present (Current degree, technical skills) → Past (Key projects, achievements) → Future (Why Infosys SE role aligns with your career trajectory).
 - **Target Duration:** 90 to 120 seconds.
 
 ### Question 2: "What are your strengths and weaknesses?"
+> **Verified Answer Key:** Strategic Strength-Weakness Response Template (Balanced Professional Standard)
+
+#### Detailed Solution & Interview Framework:
 - **Strength:** Analytical problem solving, perseverance, or quick adaptability to new tech stacks.
 - **Weakness:** Mention a genuine minor weakness coupled with proactive remediation (e.g. *"Earlier I struggled with public speaking, but I actively participated in technical project seminars to overcome it"*).

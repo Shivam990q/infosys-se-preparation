@@ -20,6 +20,17 @@ how many people are between Rohit and Ankit?
 - **(C)** 0
 - **(D)** 9
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 0**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Rohit position from bottom = (30-12)+1 = 19
+Ankit position from bottom = 20
+Number of people between Rohit and Ankit = 0
+
+---
+
 ---
 
 ### Question 2 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -35,6 +46,30 @@ is the third oldest?
 - **(B)** Arjun
 - **(C)** Rahul
 - **(D)** Vikas
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) Vikas**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+From
+the given conditions:
+Arjun
+> Sumit, but Arjun < Rahul.
+→ Rahul
+> Arjun > Sumit.
+Vikas
+is younger than Rahul but older than Arjun.
+→ Rahul
+> Vikas > Arjun > Sumit.
+Ramesh
+is the oldest.
+Final
+order: Ramesh > Rahul > Vikas > Arjun > Sumit.
+The
+third oldest is Vikas.
+
+---
 
 ---
 
@@ -53,6 +88,26 @@ fourth tallest?
 - **(C)** R
 - **(D)** S
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Q**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+From
+the given conditions:
+P
+> S, but P < Q → Q > P > S.
+R
+> Q, but R < U → U > R > Q.
+T
+is the tallest.
+Final
+order: T > U > R > Q > P > S.
+The
+fourth tallest person is Q.
+
+---
+
 ---
 
 ### Question 4 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -69,6 +124,30 @@ is the third tallest?
 - **(C)** Meena
 - **(D)** Kajal
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) Kajal**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+From
+the given conditions:
+Shreya
+> Meena but Shreya < Ritu.
+→ Ritu
+> Shreya > Meena.
+Kajal
+is shorter than Ritu but taller than Meena.
+→ Ritu
+> Kajal > Meena.
+Payal
+is the shortest.
+Arranging
+all: Ritu > Shreya > Kajal > Meena > Payal.
+The
+third tallest person is Kajal.
+
+---
+
 ---
 
 ### Question 5 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -84,6 +163,17 @@ right end. How many students are there in the row?
 - **(C)** 25
 - **(D)** 30
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 26**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Total
+students in the row = (Position from Left) + (Position from Right)
+– 1 = 15 + 12 - 1 = 26
+
+---
+
 ---
 
 ### Question 6 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -98,6 +188,16 @@ in order from both the ends. How many boys are there in the class?
 - **(B)** 40
 - **(C)** 31
 - **(D)** 41
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 41**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Therefore,
+total number of students = 20 + Salman Khan + 20 = 41
+
+---
 
 ---
 
@@ -115,6 +215,21 @@ Priya, how many students are there in the row?
 - **(C)** 50
 - **(D)** 53
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 47**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Total
+students in the row = (Aditi’s rank from the left) +
+(Priya’s rank from the right) + (Students between them)
+=
+18 + 24 + 5
+=
+47
+
+---
+
 ---
 
 ### Question 8 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -130,6 +245,26 @@ except Mohan. Who is the second lightest?
 - **(B)** Kunal
 - **(C)** Suresh
 - **(D)** Mohan
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Kunal**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Rahul
+is heavier than Suresh but lighter than Mohan. → Mohan >
+Rahul > Suresh
+Kunal
+is lighter than Rahul but heavier than Suresh. → Mohan >
+Rahul > Kunal > Suresh
+Deepak
+is heavier than all except Mohan. → Mohan > Deepak >
+Rahul > Kunal > Suresh
+Solution:
+The
+second lightest is Kunal.
+
+---
 
 ---
 
@@ -148,6 +283,18 @@ position from the right?
 - **(C)** 30
 - **(D)** 32
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 20**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Priya&rsquo;s position from the left = 45&minus;15+1=31.
+Rani&rsquo;s position from the left (5 places ahead of Priya) = 31&minus;5=26.
+Check equidistance: ∣26&minus;13∣=13 (same as Neha's position).
+Rani&rsquo;s position from the right = 45&minus;26+1=20.
+
+---
+
 ---
 
 ### Question 10 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -165,6 +312,30 @@ highest. Who got the second highest marks?
 - **(C)** Amit
 - **(D)** Esha
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Dinesh**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+From
+the given conditions:
+Amit
+> Chetan, but Amit < Bhavesh.
+→ Bhavesh
+> Amit > Chetan.
+Dinesh
+> Amit but Dinesh < Esha.
+→ Esha
+> Dinesh > Amit.
+Esha
+scored the highest.
+Final
+order: Esha > Dinesh > Bhavesh > Amit > Chetan.
+The
+second highest scorer is Dinesh.
+
+---
+
 ---
 
 ### Question 11 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -179,6 +350,20 @@ rank from the bottom?
 - **(B)** 37
 - **(C)** 40
 - **(D)** 45
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 37**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Rank
+from the bottom = Total students - Rank from the top + 1
+=
+50 - 14 + 1
+=
+37
+
+---
 
 ---
 
@@ -196,6 +381,22 @@ will be his new rank from bottom?
 - **(C)** 46
 - **(D)** 48
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 46**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Adding
+of candidates just before Rohan will not change his rank from
+bottom. Before addition, the rank of Rohan from bottom is = (50 -
+7) + 1 = 44
+Now
+adding 2 candidates just after Rohan will increase his rank by 2
+positions. Hence; the new rank of Rohan from bottom will be = 44 +
+2 = 46
+
+---
+
 ---
 
 ### Question 13 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -211,6 +412,26 @@ Simran. Who is the third heaviest?
 - **(B)** Simran
 - **(C)** Neha
 - **(D)** Jaya
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Neha**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+From
+the given conditions:
+Neha
+> Rina, but Neha < Simran → Simran > Neha > Rina.
+Aisha
+is lighter than Neha but heavier than Rina → Simran > Neha
+> Aisha > Rina.
+Jaya
+is heavier than all except Simran → Simran > Jaya >
+Neha > Aisha > Rina.
+The
+third heaviest person is Neha.
+
+---
 
 ---
 
@@ -232,6 +453,17 @@ than Parth?
 - **(D)** More
 than 3
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Following
+the final solution we can say that either 4 or 5 persons scored
+more runs than Parth.
+
+---
+
 ---
 
 ### Question 15 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -247,6 +479,18 @@ people are ahead of him and how many are behind him?
 - **(B)** 20,40
 - **(C)** 22,39
 - **(D)** 22,40
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+People
+ahead of Sam = Sam’s rank - 1 = 21 - 1 = 20
+People
+behind Sam = Total - Sam’s rank = 60 - 21 = 39
+
+---
 
 ---
 
@@ -267,6 +511,19 @@ row?
 - **(C)** 32
 - **(D)** 23
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 23**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+As
+the rank of the tree is same from either side, the total number of
+trees will be
+12
++ 12 – 1 = 23
+
+---
+
 ---
 
 ### Question 17 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -284,6 +541,20 @@ are there in the row?
 - **(C)** 32
 - **(D)** 33
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 32**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Adding
+all the persons in the above image, we get:
+8
++ 1(Trisha) + 5 + 1(Tanya) + 5 + 1(Tina) + 11 = 32
+Thus
+there are 32 cadets in the row.
+
+---
+
 ---
 
 ### Question 18 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -300,6 +571,17 @@ them, find the total number of students in the row.
 - **(C)** 50
 - **(D)** 55
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 50**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Total
+students = Ajay’s position from left + Vijay’s
+position from right + students between them = 18 + 22 + 10 = 50
+
+---
+
 ---
 
 ### Question 19 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -314,6 +596,21 @@ is 15th from the back, how many people are in the queue?
 - **(B)** 75
 - **(C)** 50
 - **(D)** 24
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 24**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Total
+people in the queue = (Position from Front) + (Position from Back)
+- 1
+=
+10 + 15 - 1
+=
+24
+
+---
 
 ---
 
@@ -330,6 +627,24 @@ the two. What is Ziya's position from Shahruk?
 - **(B)** 15
 - **(C)** 19
 - **(D)** 21
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 10**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+As
+seen in the figure, Shahruk is between Sofia and Ziya. It's given
+that Ziya is 7th from the bottom and Sofia is 9th from the top.
+Therefore,
+number of persons between Sofia and Ziya = 35-(9+7) = 19
+Sharuk's
+position between Sofia and Ziya = 19-1/2 = 10.
+Hence,
+Shahruk is at the middle ie. at 10th position from both. Ziya,
+therefore, is at the 10th position from Shahruk
+
+---
 
 ---
 

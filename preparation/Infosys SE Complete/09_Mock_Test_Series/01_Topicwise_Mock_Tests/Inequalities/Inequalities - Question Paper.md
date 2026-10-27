@@ -30,6 +30,20 @@ conclusion I nor II is valid.
 - **(E)** Both
 the conclusion I and II are valid.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A
+> B > C < D > E > F
+I.
+Not follow
+II.
+Not follow
+
+---
+
 ---
 
 ### Question 2 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -55,6 +69,20 @@ conclusion I nor II is valid.
 - **(E)** Both
 the conclusion I and II are valid.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Conclusion
+I: M>K (False) → Given W=K and W≤M, we get K≤M, but
+M could be equal to K, not necessarily greater.
+Conclusion
+II: L=K (False) → Given L≤W and W=K, we get L≤K, but L
+could be less than K, not necessarily equal.
+
+---
+
 ---
 
 ### Question 3 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -74,6 +102,19 @@ should be placed in place of question mark in equation B ≤ A ?N
 - **(D)** <,
 <,=
 - **(E)** None
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+B≤A=N>K≥S
+Since
+A=N and N>K, we get A>K, which is definitely true.
+Thus,
+option (a) is correct.
+
+---
 
 ---
 
@@ -99,6 +140,27 @@ conclusion I or II is valid.
 conclusion I nor II is valid.
 - **(E)** Both
 the conclusion I and II are valid.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Checking
+conclusion I: 6 > 9
+From
+the given statement, we get:
+While
+moving from 6 towards 9, the common sign of inequalities is '>'
+and the given conclusions is also '6 > 9'. Clearly, C1 follows.
+Checking
+conclusion II: 9 ≤ 2
+In
+the statement 9 < 7 ≤ 10 = 2, the common sign of
+inequalities between 9 and 2 is '<' whereas the given
+conclusion is '9 ≤ 2'. Therefore, C2 doesn't follow.
+
+---
 
 ---
 
@@ -135,6 +197,28 @@ conclusion I nor II is valid.
 - **(E)** Both
 the conclusion I and II are valid.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+For
+conclusion I:
+We
+can clearly see the opposite sign persisting between M and W ,
+thus no relationship between them can be established.
+Hence
+conclusion I does not follow.
+For
+conclusion II:
+The
+common sign between M and T is '<', thus M < T or T > M
+is the actual relationship.
+Hence
+conclusion II does not follow
+
+---
+
 ---
 
 ### Question 6 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -161,6 +245,19 @@ conclusion I or II is valid.
 - **(E)** Both
 the conclusion I and II are valid.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (E)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Since
+M>N and N≥O, we can conclude M>O, so Conclusion I is
+true.
+Also,
+since N≥O and O>P, we get N>P, so Conclusion II is true.
+
+---
+
 ---
 
 ### Question 7 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -186,6 +283,22 @@ conclusion I nor II is valid.
 conclusion I or II is valid.
 - **(E)** Both
 the conclusion I and II are valid.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (C)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Y
+≥ W = N; N ≥ M
+I.
+Y > M
+II.
+Y = M
+So
+either conclusion I or II is follow
+
+---
 
 ---
 
@@ -214,6 +327,18 @@ among the following is the highest saver?
 - **(C)** O
 - **(D)** P
 - **(E)** None
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) W**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+following equation can be drawn from the given hints.
+P
+≤ T < M ≤ W > S ≥ O
+
+---
 
 ---
 
@@ -244,6 +369,18 @@ savings are less than how many people?
 - **(E)** More
 than 4
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (E)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+following equation can be drawn from the given hints.
+P
+≤ T < M ≤ W > S ≥ O
+
+---
+
 ---
 
 ### Question 10 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -268,6 +405,26 @@ conclusion I or II is valid.
 conclusion I nor II is valid.
 - **(E)** Both
 the conclusion I and II are valid.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+M
+≥ P < H ...... (i)
+V
+> T = M ...... (ii)
+Combining
+all statements, we get
+V
+> T = M ≥ P < H
+Thus,
+V > P is true.
+Again,
+T ≥ H is not true.
+
+---
 
 ---
 
@@ -294,6 +451,18 @@ conclusion I nor II is valid.
 - **(E)** Both
 the conclusion I and II are valid.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (E)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Conclusion
+I: L>T (True) → Given L>T, this is directly true.
+Conclusion
+II: F>S (True) → Given F>Q>S, we get F>S.
+
+---
+
 ---
 
 ### Question 12 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -319,6 +488,20 @@ conclusion I or II is valid.
 conclusion I nor II is valid.
 - **(E)** Both
 the conclusion I and II are valid.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+From
+A>B and B≥C, we get A>C.
+From
+C>D, we get A>D, so Conclusion I is true.
+However,
+we cannot compare C and E directly, so Conclusion II is false.
+
+---
 
 ---
 
@@ -359,6 +542,18 @@ conclusion I nor II is valid.
 - **(E)** All
 conclusions are valid.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (B)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+following equation can be drawn from the given hints.
+P
+≤ T < M ≤ W > S ≥ O
+
+---
+
 ---
 
 ### Question 14 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -393,6 +588,20 @@ conclusion I nor II is valid.
 - **(E)** Both
 the conclusion I and II are valid.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (E)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Conclusion
+I :
+Conclusion
+II :
+Hence,
+both Conclusions I and II are true.
+
+---
+
 ---
 
 ### Question 15 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -414,6 +623,16 @@ conclusion I or II is valid.
 conclusion I nor II is valid.
 - **(E)** Both
 the conclusion I and II are valid.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (B)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Conclusion I: V &ge; W &rarr; True because W&le;Q<T&le;V, so V&ge;W.
+Conclusion II: T ≯ U &rarr; True because T&le;V and V=U, so  T&le;U, meaning T is not greater than U.
+
+---
 
 ---
 
@@ -440,6 +659,21 @@ conclusion I or II is valid.
 conclusion I nor II is valid.
 - **(E)** Both
 the conclusion I and II are valid.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Conclusion
+I: Q>S Given P>S and P<Q, we can infer: Q>P>S So,
+Q>S is true
+Conclusion
+II: Q=T Given R≤Q and R<T, we can infer: Q≥R<T
+This
+does not guarantee Q=T, so Conclusion II is false
+
+---
 
 ---
 
@@ -478,6 +712,20 @@ conclusion I nor II is valid.
 - **(E)** Both
 the conclusion I and II are valid.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (B)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Conclusion
+I:
+Conclusion
+II:
+Hence,
+only Conclusion II is true.
+
+---
+
 ---
 
 ### Question 18 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -503,6 +751,28 @@ conclusion I nor II is valid.
 - **(E)** Both
 the conclusion I and II are valid.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (C)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+For
+conclusion I and II: S > W and W = T
+From
+the given statement, we get:
+S
+= T ≥ U ≥ W
+Here,
+the common sign between S and W is ‘≥’ and the
+given conclusions are S > W and W = S.
+Moreover,
+we are aware that 'S = T' which means we can replace T with S in
+conclusion 2.
+Hence,
+either conclusion I or conclusion II follows.
+
+---
+
 ---
 
 ### Question 19 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -525,6 +795,19 @@ L ≤ V 2) O = E 3) O > S 4) S ≥ L
 - **(D)** Only
 3 and 4
 - **(E)** None
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (C)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+L
+≤ O > V = E ≥ S
+We
+can compare O and S. which shows that the option 3rd is correct
+because the common symbol between O and S is ‘>’.
+
+---
 
 ---
 
@@ -561,6 +844,37 @@ conclusion I or II is valid.
 conclusion I nor II is valid.
 - **(E)** Both
 the conclusion I and II are valid.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (E)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Conclusions:
+I. V > F II. V ≥ N
+For
+conclusion I:
+From
+both the statements we get:
+V
+≥ I = E > B = F
+The
+common sign between V and F is '>', thus V > F is true.
+Hence
+conclusion I follows.
+For
+conclusion II:
+From
+both the statements we get:
+V
+≥ I = E ≥ N
+The
+common sign between V and N is '≥', thus V ≥ N is the actual
+relationship.
+Hence
+conclusion II follows.
+
+---
 
 ---
 

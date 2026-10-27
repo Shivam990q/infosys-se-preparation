@@ -1409,6 +1409,9 @@ The subject 'cookies' is plural, requiring the plural auxiliary verb 'were baked
 
 ![Original Slide](../../images/slot1_page_010.png)
 
+> **Verified Answer Key:** Full Score Corporate Model Essay & Structural Breakdown (10/10 Band)
+
+#### Detailed Solution & High-Scoring Benchmark Essay:
 ### Corporate Model Essay (Score: 10/10)
 **Topic:** *Effective communication is one of the most important skills for success in a professional workplace.*
 

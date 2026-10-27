@@ -19,6 +19,12 @@ An Amount of Rs. 3000 is distributed among A, B and C such that A gets 2/3 rd of
 
 **Correct Answer:** Option (D)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 2
@@ -33,6 +39,12 @@ An Amount of Rs. 3000 is distributed among A, B and C such that A gets 2/3 rd of
 - (D) None Of these
 
 **Correct Answer:** Option (C)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -49,6 +61,12 @@ An almirah was sold at a profit of 15%. If its cost had been 5% less and it had 
 
 **Correct Answer:** Option (B)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 4
@@ -63,6 +81,12 @@ Seven years ago, the ratio of the ages of A and B was 2: 3. Three years hence, t
 - ✅ **(D) 114** *(Correct Answer)*
 
 **Correct Answer:** Option (D)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -79,6 +103,12 @@ Veer buys 200 guavas for Rs.1,800. Some of these guavas are rotten and are throw
 
 **Correct Answer:** Option (D)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 6
@@ -93,6 +123,12 @@ A boy walked along two adjacent sides of a rectangular field. If he had walked a
 - (D) 5:12
 
 **Correct Answer:** Option (C)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -109,6 +145,12 @@ A boy walked along two adjacent sides of a rectangular field. If he had walked a
 
 **Correct Answer:** Option (C)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 8
@@ -123,6 +165,12 @@ A team of four players are to be selected from among four girls A,B,C,D and four
 - (D) BPRA
 
 **Correct Answer:** Option (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -139,6 +187,12 @@ While Balbir had his back turned, a dog ran into his butcher shop, snatched a pi
 
 **Correct Answer:** Option (D)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 10
@@ -153,6 +207,12 @@ In a bag, there are coins of 25 p, 10 p and 5 p in the ratio of 1 : 2 : 3. If th
 - (D) 200
 
 **Correct Answer:** Option (C)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 

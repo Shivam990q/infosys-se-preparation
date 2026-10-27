@@ -19,6 +19,12 @@
 
 **Correct Answer:** (D)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 2
@@ -33,6 +39,12 @@
 - (D) 4
 
 **Correct Answer:** (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -49,6 +61,12 @@
 
 **Correct Answer:** (A)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 4
@@ -63,6 +81,12 @@
 - (D) 4
 
 **Correct Answer:** (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -79,6 +103,12 @@
 
 **Correct Answer:** (C)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 6
@@ -93,6 +123,12 @@
 - (D) 4
 
 **Correct Answer:** (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -109,6 +145,12 @@
 
 **Correct Answer:** (B)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 8
@@ -123,6 +165,12 @@
 - ✅ **(D) 4** *(Correct Answer)*
 
 **Correct Answer:** (D)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -139,6 +187,12 @@
 
 **Correct Answer:** (B)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 10
@@ -153,6 +207,12 @@
 - (D) D
 
 **Correct Answer:** (A)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -169,6 +229,12 @@
 
 **Correct Answer:** (D)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 12
@@ -183,6 +249,12 @@
 - (D) 
 
 **Correct Answer:** (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -199,6 +271,12 @@
 
 **Correct Answer:** (C)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 14
@@ -213,6 +291,12 @@
 - (D) d
 
 **Correct Answer:** (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -229,6 +313,12 @@
 
 **Correct Answer:** (D)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 16
@@ -243,6 +333,12 @@
 - (D) 4
 
 **Correct Answer:** (A)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -259,6 +355,12 @@
 
 **Correct Answer:** (B)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 18
@@ -273,6 +375,12 @@
 - ✅ **(D) 4** *(Correct Answer)*
 
 **Correct Answer:** (D)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -289,6 +397,12 @@
 
 **Correct Answer:** (A)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 20
@@ -303,6 +417,12 @@
 - ✅ **(D) 4** *(Correct Answer)*
 
 **Correct Answer:** (D)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 

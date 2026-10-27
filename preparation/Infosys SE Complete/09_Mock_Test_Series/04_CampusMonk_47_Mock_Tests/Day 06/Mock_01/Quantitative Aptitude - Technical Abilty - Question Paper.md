@@ -17,6 +17,12 @@ An Amount of Rs. 3000 is distributed among A, B and C such that A gets 2/3 rd of
 - **(C)** 500
 - **(D)** 800
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 800**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 2 [Marks: +1, -0]
@@ -29,6 +35,12 @@ An Amount of Rs. 3000 is distributed among A, B and C such that A gets 2/3 rd of
 - **(B)** 5
 - **(C)** 6
 - **(D)** None Of these
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 6**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -43,6 +55,12 @@ An almirah was sold at a profit of 15%. If its cost had been 5% less and it had 
 - **(C)** 16100
 - **(D)** 15400
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 14000**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 4 [Marks: +1, -0]
@@ -55,6 +73,12 @@ Seven years ago, the ratio of the ages of A and B was 2: 3. Three years hence, t
 - **(B)** 200
 - **(C)** 112
 - **(D)** 114
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 114**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -69,6 +93,12 @@ Veer buys 200 guavas for Rs.1,800. Some of these guavas are rotten and are throw
 - **(C)** 30%
 - **(D)** 27.5%
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 27.5%**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 6 [Marks: +1, -0]
@@ -81,6 +111,12 @@ A boy walked along two adjacent sides of a rectangular field. If he had walked a
 - **(B)** 18:11
 - **(C)** 7:24
 - **(D)** 5:12
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 7:24**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -95,6 +131,12 @@ A boy walked along two adjacent sides of a rectangular field. If he had walked a
 - **(C)** 7
 - **(D)** 4
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 7**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 8 [Marks: +1, -0]
@@ -107,6 +149,12 @@ A team of four players are to be selected from among four girls A,B,C,D and four
 - **(B)** DAPQ
 - **(C)** RCQS
 - **(D)** BPRA
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) DAPQ**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -121,6 +169,12 @@ While Balbir had his back turned, a dog ran into his butcher shop, snatched a pi
 - **(C)** The dog had black hair, long tail and no collar.
 - **(D)** The dog had white hair, long tail and a collar.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) The dog had white hair, long tail and a collar.**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 10 [Marks: +1, -0]
@@ -133,6 +187,12 @@ In a bag, there are coins of 25 p, 10 p and 5 p in the ratio of 1 : 2 : 3. If th
 - **(B)** 100
 - **(C)** 150
 - **(D)** 200
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 150**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 

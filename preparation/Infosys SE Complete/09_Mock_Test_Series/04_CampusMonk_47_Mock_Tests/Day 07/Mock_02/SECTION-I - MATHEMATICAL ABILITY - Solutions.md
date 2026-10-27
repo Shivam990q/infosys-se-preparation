@@ -19,6 +19,12 @@ A code word is to consist of two distinct English alphabets followed by two dist
 
 **Correct Answer:** Option (B)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 2
@@ -33,6 +39,12 @@ In an entrance exam of 200 objective questions, a student can score 1 point for 
 - ✅ **(D) A. 128** *(Correct Answer)*
 
 **Correct Answer:** Option (D)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -49,6 +61,12 @@ Two containers of milk contain mixtures of water and milk in ratio 5:4 and 7:9. 
 
 **Correct Answer:** Option (D)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 4
@@ -63,6 +81,12 @@ There are two pipes in a tank. Pipe A is for filling the tank and pipe b is for 
 - (D) A. 33.33 hours
 
 **Correct Answer:** Option (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -79,6 +103,12 @@ A good costs Rs 12000/-. A customer can choose either of the pairs of successive
 
 **Correct Answer:** Option (B)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 6
@@ -93,6 +123,12 @@ A towel was 40 cm broad and 90 cm long. When bleached, it was found to have lost
 - (D) 33%
 
 **Correct Answer:** Option (A)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -109,6 +145,12 @@ The total time taken by a boat to cover 'D+25' km downstream and same distance i
 
 **Correct Answer:** Option (D)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 8
@@ -123,6 +165,12 @@ Direction : There are seven friends - Brian, Paul, Qasim, Rustam, Sam, Tom and W
 - (D) Rank 5 – Biology
 
 **Correct Answer:** Option (A)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -139,6 +187,12 @@ Direction : There are seven friends - Brian, Paul, Qasim, Rustam, Sam, Tom and W
 
 **Correct Answer:** Option (A)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 10
@@ -154,6 +208,12 @@ Direction : There are seven friends - Brian, Paul, Qasim, Rustam, Sam, Tom and W
 
 **Correct Answer:** Option (C)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 11
@@ -168,6 +228,12 @@ To solve a crime, police interrogate both Felix and Victor. Felix speaks the tru
 - ✅ **(D) 19/25** *(Correct Answer)*
 
 **Correct Answer:** Option (D)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 

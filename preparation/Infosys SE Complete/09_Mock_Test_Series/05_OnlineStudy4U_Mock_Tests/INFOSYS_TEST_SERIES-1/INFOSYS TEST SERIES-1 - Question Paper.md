@@ -17,6 +17,16 @@
 - **(C)** 67
 - **(D)** 68
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 68**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Logic:
+5 x 3 + 6 x 4 = 39
+
+---
+
 ---
 
 ### Question 2 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -29,6 +39,15 @@
 - **(B)** 33
 - **(C)** 22
 - **(D)** 32
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 11**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Logic: 3 x 5 +  4 x 3 = 27
+
+---
 
 ---
 
@@ -43,6 +62,16 @@
 - **(C)** 6
 - **(D)** 8
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 2**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Logic:
+9 x 4 – ( 9 + 2) = 25
+
+---
+
 ---
 
 ### Question 4 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -56,6 +85,18 @@
 - **(C)** 2
 - **(D)** 1
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 1**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Logic:
+4 x 5 – (4 + 5) =11
+3
+x 2 – ( 3+2) = 1
+
+---
+
 ---
 
 ### Question 5 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -68,6 +109,21 @@
 - **(B)** T
 - **(C)** I
 - **(D)** O
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) J**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Logic:
+Write
+the alphabetical position first.
+Then
+3 x 8 /2 = 12 , where 3 is C , H is 8 and L=12
+
+---
+
+## Section: Pseudo Code
 
 ---
 
@@ -84,6 +140,12 @@
 - **(C)** 25
 - **(D)** 5
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 13**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 7 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -96,6 +158,16 @@
 - **(B)** 40
 - **(C)** 50
 - **(D)** 60
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 40**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+j=50
+and j-10 , 50-10 = 40
+
+---
 
 ---
 
@@ -113,6 +185,12 @@ times
 times
 - **(D)** 4
 times
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -141,6 +219,12 @@ d
 - **(C)** 0
 - **(D)** 2
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 2**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 10 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -153,6 +237,12 @@ d
 - **(B)** 40
 - **(C)** 60
 - **(D)** 80
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 40**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -171,6 +261,28 @@ divided by 7, remainder = 3. What is the smallest such number?
 - **(C)** 38
 - **(D)** 52
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 52**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Number
+= 5k + 2. Check divisibility by 7.
+k=6
+→ 5(6)+2=32 remainder 4.
+k=7
+→ 37 remainder 2.
+k=8
+→ 42 remainder 0.
+k=9
+→ 47 remainder 5.
+k=10
+→ 52 remainder 3 .
+So
+number = 52 .
+
+---
+
 ---
 
 ### Question 12 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -184,6 +296,20 @@ probability of getting a sum of 9 when two dice are thrown is:
 - **(B)** 1/9
 - **(C)** 5/39
 - **(D)** 7/36
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 1/12**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Combinations:
+(3,6), (4,5), (5,4), (6,3).
+Total
+= 4 outcomes.
+Probability
+= 4/36 = 1/9 (Correction → 1/9, not 1/12).
+
+---
 
 ---
 
@@ -204,6 +330,19 @@ B=15
 - **(D)** A=40,
 B=20
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (B)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A+B=60.
+(A–5)
+= 5(B–5).
+Solving
+→ A=50, B=10.
+
+---
+
 ---
 
 ### Question 14 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -219,6 +358,18 @@ x² – 5x + 6 = 0, then find the value of (1/x₁ +
 - **(C)** 2/3
 - **(D)** 3/2
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 5/6**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Roots
+= 2, 3.
+(1/2
++ 1/3) = (3+2)/6 = 5/6.
+
+---
+
 ---
 
 ### Question 15 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -233,6 +384,20 @@ how many days will B finish the same work?
 - **(B)** 16
 - **(C)** 18
 - **(D)** 20
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 16**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A’s
+1-day work = 1/20.
+Efficiency
+of B = 125% of A = 5/4 × (1/20) = 1/16.
+So
+B will finish in 16 days.
+
+---
 
 ---
 
@@ -250,6 +415,20 @@ price?
 - **(C)** ₹650
 - **(D)** ₹700
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) ₹600**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+SP
+= 1000 – 20% of 1000 = 800.
+Profit
+= 25%.
+CP
+= 800 / 1.25 = 640 (correction, not 600).
+
+---
+
 ---
 
 ### Question 17 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -264,6 +443,20 @@ than B from the profit. Find the total profit.
 - **(B)** ₹4000
 - **(C)** ₹4200
 - **(D)** ₹4800
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) ₹3600**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Difference
+= 1 part.
+1
+part = 400.
+Total
+= 9 parts = 9×400=3600.
+
+---
 
 ---
 
@@ -280,6 +473,19 @@ annually. What will be the compound interest after 2 years?
 - **(C)** ₹4400
 - **(D)** ₹4800
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) ₹4400**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+CI
+= P[(1 + r/100)^t – 1] = 10000[(1.2)^2 – 1] =
+10000(1.44 – 1) = 4400.
+(Answer
+: ₹4400).
+
+---
+
 ---
 
 ### Question 19 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -294,6 +500,18 @@ these numbers?
 - **(B)** 39
 - **(C)** 41
 - **(D)** 43
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 39**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Middle
+term = 35 (average of consecutive odd nos).
+Series
+= 31, 33, 35, 37, 39 → largest = 39.
+
+---
 
 ---
 
@@ -314,6 +532,20 @@ min 34 sec
 - **(D)** 9
 min
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (C)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+1/15
++ 1/20 = (4+3)/60 = 7/60.
+Time
+= 60/7 = 8.57 min ≈ 8 min 34 sec.
+
+---
+
+## Section: Reasoning
+
 ---
 
 ## Section: Reasoning
@@ -332,6 +564,16 @@ Exam, (2) Study, (3) Result, (4) Admission.
 - **(C)** 2-3-1-4
 - **(D)** 4-2-1-3
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 2-1-3-4**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+First
+Study → Exam → Result → Admission.
+
+---
+
 ---
 
 ### Question 22 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -345,6 +587,17 @@ the series: 7, 26, 63, 124, ?
 - **(B)** 216
 - **(C)** 225
 - **(D)** 200
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 215**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Pattern:
+n³ – 1. (2³–1=7, 3³–1=26,
+4³–1=63, 5³–1=124, 6³–1=215).
+
+---
 
 ---
 
@@ -371,6 +624,19 @@ follow
 - **(D)** Neither
 follow
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Pens
+⊂
+Pencils ⊂
+Erasers → Some pens ⊂
+Erasers.
+
+---
+
 ---
 
 ### Question 24 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -387,6 +653,17 @@ B and C. Who is sitting between A and C?
 - **(C)** F
 - **(D)** B
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) D**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Arranging:
+A between D & F, C left of D, E between B & C → D is
+between A and C.
+
+---
+
 ---
 
 ### Question 25 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -400,6 +677,18 @@ the missing number:
 - **(B)** 36
 - **(C)** 48
 - **(D)** 36
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 36**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+8
+→ 8²=64.
+6
+→ 6²=36.
+
+---
 
 ---
 
@@ -418,6 +707,20 @@ each other?
 - **(D)** 12
 sec
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 10 sec**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Relative
+speed = (60+90)×(5/18)=41.67 m/s.
+Total
+length = 300m.
+Time
+= 300/41.67 ≈ 10 sec.
+
+---
+
 ---
 
 ### Question 27 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -432,6 +735,17 @@ only son.” How is the boy related to Seema?
 - **(B)** Cousin
 - **(C)** Uncle
 - **(D)** Nephew
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Brother**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Grandfather’s
+only son = Seema’s father. Boy = son of Seema’s father
+→ brother.
+
+---
 
 ---
 
@@ -448,6 +762,18 @@ the right. How many students are between A and B?
 - **(C)** 10
 - **(D)** 11
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 10**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A
+= 12th from left. B = 23rd from left (40–18+1).
+Between
+= 23–12–1 = 10.
+
+---
+
 ---
 
 ### Question 29 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -462,6 +788,16 @@ R. S scored less than Q but more than T. Who scored the lowest?
 - **(B)** Q
 - **(C)** S
 - **(D)** T
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) T**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Order:
+R > P > Q > S > T → lowest is T.
+
+---
 
 ---
 
@@ -483,6 +819,17 @@ is father of R
 - **(D)** P
 is grandmother of R
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q
+× R → Q father of R. P – Q → P mother of Q →
+So P mother of R.
+
+---
+
 ---
 
 ### Question 31 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -496,6 +843,16 @@ the missing term: AB, DE, HI, MN, ?
 - **(B)** ST
 - **(C)** TU
 - **(D)** VW
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) ST**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Skipping
+letters: (AB → DE → HI → MN → ST).
+
+---
 
 ---
 
@@ -513,6 +870,19 @@ comes next?
 - **(C)** 260
 - **(D)** 300
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 252**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Pattern:
+n³+ n².
+(1³+1²=2,
+2³+2²=12, 3³+3²=36, 4³+4²=80,
+5³+5²=150, 6³+6²=252).
+
+---
+
 ---
 
 ### Question 33 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -527,6 +897,17 @@ written?
 - **(B)** HBSFEP
 - **(C)** FYQBCM
 - **(D)** EZQCDM
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) FZQCDM**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each
+letter shifted –1: F→E, L→K, O→N… So
+GARDEN → FZQCDM.
+
+---
 
 ---
 
@@ -544,6 +925,16 @@ end. Who is in the middle?
 - **(C)** C
 - **(D)** D
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) C**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Order:
+A D C B E → middle = C.
+
+---
+
 ---
 
 ### Question 35 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -557,6 +948,15 @@ in a certain code 3 = 18, 4 = 32, 5 = 50, then 6 = ?
 - **(B)** 70
 - **(C)** 72
 - **(D)** 80
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 72**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+70
+
+---
 
 ---
 

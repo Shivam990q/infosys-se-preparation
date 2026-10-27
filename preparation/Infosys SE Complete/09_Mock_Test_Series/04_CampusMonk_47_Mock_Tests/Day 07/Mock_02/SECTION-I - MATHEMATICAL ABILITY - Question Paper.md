@@ -17,6 +17,12 @@ A code word is to consist of two distinct English alphabets followed by two dist
 - **(C)** 719500
 - **(D)** 410800
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 46800**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 2 [Marks: +1, -0]
@@ -29,6 +35,12 @@ In an entrance exam of 200 objective questions, a student can score 1 point for 
 - **(B)** A. 126
 - **(C)** A. 139
 - **(D)** A. 128
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) A. 128**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -43,6 +55,12 @@ Two containers of milk contain mixtures of water and milk in ratio 5:4 and 7:9. 
 - **(C)** A. 8:9
 - **(D)** A. 9:8
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) A. 9:8**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 4 [Marks: +1, -0]
@@ -55,6 +73,12 @@ There are two pipes in a tank. Pipe A is for filling the tank and pipe b is for 
 - **(B)** A. 15 hours
 - **(C)** A. 20 hours
 - **(D)** A. 33.33 hours
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) A. 15 hours**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -69,6 +93,12 @@ A good costs Rs 12000/-. A customer can choose either of the pairs of successive
 - **(C)** A) Rs 180
 - **(D)** A) Rs 60
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) A) Rs 240**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 6 [Marks: +1, -0]
@@ -81,6 +111,12 @@ A towel was 40 cm broad and 90 cm long. When bleached, it was found to have lost
 - **(B)** 30%
 - **(C)** 32%
 - **(D)** 33%
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 28%**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -95,6 +131,12 @@ The total time taken by a boat to cover 'D+25' km downstream and same distance i
 - **(C)** 62km
 - **(D)** 71 km
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 71 km**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 8 [Marks: +1, -0]
@@ -107,6 +149,12 @@ Direction : There are seven friends - Brian, Paul, Qasim, Rustam, Sam, Tom and W
 - **(B)** Rank 3 – Chemistry
 - **(C)** Rank 4 – Physics
 - **(D)** Rank 5 – Biology
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Rank 2 – History**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -121,6 +169,12 @@ Direction : There are seven friends - Brian, Paul, Qasim, Rustam, Sam, Tom and W
 - **(C)** Chemistry
 - **(D)** Sociology
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Physics**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 10 [Marks: +1, -0]
@@ -134,6 +188,12 @@ Direction : There are seven friends - Brian, Paul, Qasim, Rustam, Sam, Tom and W
 - **(C)** Paul – Sam – Winston – Qasim – Tom
 - **(D)** Paul – Winston – Sam – Qasim – Tom
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Paul – Sam – Winston – Qasim – Tom**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 11 [Marks: +1, -0]
@@ -146,6 +206,12 @@ To solve a crime, police interrogate both Felix and Victor. Felix speaks the tru
 - **(B)** 21/25
 - **(C)** 6/25
 - **(D)** 19/25
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 19/25**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 

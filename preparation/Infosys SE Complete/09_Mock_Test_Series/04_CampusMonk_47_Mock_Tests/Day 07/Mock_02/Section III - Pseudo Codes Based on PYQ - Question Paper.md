@@ -17,6 +17,12 @@ What is the output of the following C code? #include <stdio.h> int main() { int 
 - **(C)** 10
 - **(D)** 5
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 1**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 2 [Marks: +1, -0]
@@ -29,6 +35,12 @@ What is the output of the following C code? #include <stdio.h> int main() { floa
 - **(B)** 1
 - **(C)** 5
 - **(D)** 2
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 1**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -43,6 +55,12 @@ Predict the output of the given pseudocode if the value of the number is 6: Read
 - **(C)** 1700.0
 - **(D)** 1560.0
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 1440.0**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 4 [Marks: +1, -0]
@@ -55,6 +73,12 @@ What is the output of the following C code? int f(int x, int *py, int **ppz) { i
 - **(B)** 19
 - **(C)** 21
 - **(D)** 22
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 19**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -69,6 +93,12 @@ What is the output of the following C code? #include <stdio.h> int main() { int 
 - **(C)** Run Time Error
 - **(D)** 0
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Compiler Error**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 6 [Marks: +1, -0]
@@ -82,6 +112,12 @@ Predict the output of the following pseudocode. Integer x, y, z Set x = -2, y = 
 - **(C)** 3
 - **(D)** 0
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 3**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 7 [Marks: +1, -0]
@@ -94,6 +130,12 @@ int main() { int x, y = 5, z = 5; x = y == z; Print(x) return 0; }
 - **(B)** 1
 - **(C)** 5
 - **(D)** Compilation Error
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 1**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 

@@ -30,6 +30,17 @@ in law
 - **(D)** Daughter
 in law
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+As
+we can observe from the blood relation tree below, S is daughter
+in law of L.
+
+---
+
 ---
 
 ### Question 2 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -44,6 +55,16 @@ only daughter.” How is Sarika related to Reeta?
 - **(B)** Niece
 - **(C)** Cousin
 - **(D)** Mother
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) Mother**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Sarika
+is Reeta’s mother
+
+---
 
 ---
 
@@ -63,6 +84,15 @@ J@K!T*W?X#Z
 - **(B)** Sister
 - **(C)** Son
 - **(D)** Brother
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Daughter**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+J is the son of K. K is the mother of T. T is the brother of W. X is the daughter of W. Z is the father of X.
+
+---
 
 ---
 
@@ -85,6 +115,12 @@ Xoxo related to Sanu?
 - **(D)** Can’t
 be determined
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Mother**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 5 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -103,6 +139,17 @@ children. M is the granddaughter of O. Find the odd one out?
 - **(C)** D
 - **(D)** F
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) O**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+O
+does not belong to the second generation of the family like rest
+of the persons, thus the odd one out.
+
+---
+
 ---
 
 ### Question 6 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -117,6 +164,16 @@ father-In-law of J, K is brother of N. How K is related to Z?
 - **(B)** Grandson
 - **(C)** Nephew
 - **(D)** Uncle
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Grandson**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+K
+is grandson of Z.
+
+---
 
 ---
 
@@ -134,6 +191,12 @@ of A. How is S related to Q?
 - **(C)** Son-in-law
 - **(D)** Brother
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Brother-in-law**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 8 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -148,6 +211,16 @@ is the boy related to the girl?
 - **(B)** Son
 - **(C)** Nephew
 - **(D)** Cousin
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) Cousin**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Brother
+of mother — Uncle; Uncle’s son — Cousin.
+
+---
 
 ---
 
@@ -164,6 +237,26 @@ Ronit?
 - **(B)** Niece
 - **(C)** Father-in-law
 - **(D)** Nephew
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Niece**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+"
+He is the daughter of the daughter of my grandfather's only son"
+My
+grandfather's only Son - It means Ronit's father.
+Daughter
+of my grandfather's only son - Ronit's father's daughter. It means
+Ronit's sister.
+Daughter
+of the daughter of my grandfather - It means Ronit's sister's
+daughter.
+Hence,
+that girl is a niece of Ronit.
+
+---
 
 ---
 
@@ -188,6 +281,12 @@ many male members are there in the family?
 - **(C)** 5
 - **(D)** 6
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 4**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 11 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -205,6 +304,18 @@ Mitthu. How is Mitthu realted to Rohit?
 in law
 - **(D)** Can't
 be determined
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Following
+the blood relation image, we cannot define Mitthu’s realtion
+with Rohit, as we don’t have gender information about
+Mitthu. It can be either granddaughter or grandson of of Rohit.
+
+---
 
 ---
 
@@ -229,6 +340,18 @@ Aunt, Father-in-law
 - **(D)** Maternal
 Aunt, Son-in-law
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (C)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Following
+the common explanation, we get Aash is related to Aarv as his
+“Maternal Aunt and Aaif is related to Aayu as his
+Father-in-law”.
+
+---
+
 ---
 
 ### Question 13 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -242,6 +365,16 @@ In a family of some persons Bhanu says that Reshma is the daughter of my sister 
 - **(C)** Wife
 of Brother-in-law
 - **(D)** Cousin
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (C)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Clearly,
+Krishna is the wife of Bhanu who is brother in law of Sadiq.
+
+---
 
 ---
 
@@ -260,6 +393,17 @@ O and P have?
 - **(C)** 3
 - **(D)** 4
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 3**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Following
+the final family tree, we can say that T, M and Q are children of
+O and P.
+
+---
+
 ---
 
 ### Question 15 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -276,6 +420,17 @@ female members are there in the family?
 - **(B)** 4
 - **(C)** 2
 - **(D)** 1
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 2**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+As
+per the family tree it's evident that there are only 2 female
+members in the family.
+
+---
 
 ---
 
@@ -298,6 +453,12 @@ Sanshlesh?
 - **(C)** Son
 - **(D)** Daughter
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Nephew**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 17 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -315,6 +476,12 @@ is D related to M?
 - **(C)** Mother
 - **(D)** Sister-in-law
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Grandmother**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 18 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -330,6 +497,16 @@ C is daughter of K, who is sister of A. How is J related to C?
 - **(B)** Father
 - **(C)** Sister
 - **(D)** Mother
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Brother**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Hence,
+J is brother of C.
+
+---
 
 ---
 
@@ -354,6 +531,12 @@ Uncle
 - **(C)** Niece
 - **(D)** Nephew
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 20 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -372,6 +555,12 @@ Aunt
 - **(C)** Niece
 - **(D)** Either
 option A or C
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 

@@ -32,6 +32,12 @@ either conclusion I or II follows
 - **(D)** If
 neither conclusion I nor II follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 2 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -62,6 +68,12 @@ conclusion II or III follows
 - **(D)** All
 follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 3 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -87,6 +99,12 @@ only conclusion II follows
 either conclusion I or II follows
 - **(D)** If
 neither conclusion I nor II follows
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -116,6 +134,12 @@ either conclusion I or II follows
 - **(D)** If
 both conclusion I and II follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 5 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -144,6 +168,30 @@ either conclusion I or II follows
 - **(D)** If
 both conclusion I and II follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Only
+a few spoons are bottles (I) + All Bottles are clocks (A)
+I
++ A = I
+Some
+spoons are clocks (I).
+Hence
+conclusion I follows.
+Again,
+some spoons are clock (I) + No clock is a stool (E)
+I
++ E = O
+Some
+spoons are not stools.
+Hence
+conclusion II follows
+
+---
+
 ---
 
 ### Question 6 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -169,6 +217,12 @@ only conclusion II follows
 either conclusion I or II follows
 - **(D)** If
 neither conclusion I nor II follows
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (B)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -196,6 +250,26 @@ either conclusion I or II follows
 - **(D)** If
 both conclusion I and II follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (C)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Checking
+I: This thief is a man.
+Using
+S2 and S1, we get
+This
+thief is a graduate (A) + A graduate is a man (A) ⇒
+This thief is a man. Hence, C1 follows.
+Checking
+II: Some men are thieves.
+Converse
+of the conclusion derived above ⇒
+Some men are thieves. Hence, C2 follows as well.
+
+---
+
 ---
 
 ### Question 8 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -218,6 +292,12 @@ only conclusion II follows
 either conclusion I or II follows
 - **(D)** If
 neither conclusion I nor II follows
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -244,6 +324,12 @@ only conclusion II follows
 either conclusion I or II follows
 - **(D)** If
 neither conclusion I nor II follows
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (C)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -272,6 +358,12 @@ only conclusion II follows
 either conclusion I or II follows
 - **(D)** Both
 conclusion I and II follows
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -305,6 +397,12 @@ either conclusion I or II follows
 - **(D)** All
 conclusion follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 12 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -333,6 +431,12 @@ either conclusion I or II follows
 - **(D)** If
 neither conclusion I nor II follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (C)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 13 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -359,6 +463,12 @@ either conclusion I or II follows
 - **(D)** If
 neither conclusion I nor II follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (B)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 14 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -384,6 +494,12 @@ only conclusion II follows
 either conclusion I or II follows
 - **(D)** If
 neither conclusion I nor II follows
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -413,6 +529,12 @@ either conclusion I or II follows
 - **(D)** Both
 conclusion I and  II follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 16 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -439,6 +561,12 @@ either conclusion I or II follows
 - **(D)** If
 neither conclusion I nor II follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 17 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -462,6 +590,12 @@ only conclusion II follows
 either conclusion I or II follows
 - **(D)** If
 neither conclusion I nor II follows
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -491,6 +625,12 @@ either conclusion I or II follows
 - **(D)** If
 neither conclusion I nor II follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 19 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -518,6 +658,12 @@ only conclusion II follows
 either conclusion I or II follows
 - **(D)** If
 neither conclusion I nor II follows
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -547,6 +693,12 @@ conclusion I and III follows
 - **(C)** If
 conclusion I or II follows
 - **(D)** None follows
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) None follows**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 

@@ -28,6 +28,18 @@ I and II are strong
 - **(D)** Neither
 I nor II is strong
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Argument
+I is strong as it supports discipline and equality. Argument II is
+weak as it focuses only on personal freedom without considering
+the benefits of uniforms.
+
+---
+
 ---
 
 ### Question 2 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -50,6 +62,17 @@ statements are independent causes.
 - **(D)** Both
 statements are effects of a common cause.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (B)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+extreme heat (Statement 2) caused an increase in electricity usage
+(Statement 1), leading to power outages.
+
+---
+
 ---
 
 ### Question 3 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -71,6 +94,18 @@ expected.
 statements are independent causes.
 - **(D)** Both
 statements are effects of a common cause.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (B)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Low
+monsoon rainfall (Statement 2) has led to severe water shortages
+(Statement 1), making Statement 2 the cause and Statement 1 the
+effect.
+
+---
 
 ---
 
@@ -97,6 +132,17 @@ Argument II is strong
 I and II are strong
 - **(D)** Neither
 I nor II is strong
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (C)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Both
+arguments are strong. Social media influences public perception
+(I), but monitoring all content is impractical (II).
+
+---
 
 ---
 
@@ -125,6 +171,19 @@ I and II follow
 - **(D)** Neither
 I nor II follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+I
+follows because the statement makes training mandatory. II does
+not follow since the statement does not confirm that employees
+have failed the training, only that they will be terminated if
+they do.
+
+---
+
 ---
 
 ### Question 6 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -145,6 +204,18 @@ stop or crash.
 - **(D)** Accidents
 can also be caused by reckless driving.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (C)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Seatbelts
+prevent passengers from being thrown forward, which directly
+supports the argument that they reduce the risk of injury in
+accidents.
+
+---
+
 ---
 
 ### Question 7 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -163,6 +234,17 @@ books takes a lot of time.
 - **(D)** Books
 contain information that helps people learn new words and
 concepts.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Books
+provide knowledge and introduce new vocabulary, which directly
+strengthens the argument.
+
+---
 
 ---
 
@@ -190,6 +272,19 @@ I and II follow
 - **(D)** Neither
 I nor II follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Shutting
+down all factories (Course I) is an extreme measure that could
+harm the economy. Simply imposing penalties (Course II) may not be
+enough without proper enforcement. A better solution would be
+stricter monitoring and implementation of waste treatment systems.
+
+---
+
 ---
 
 ### Question 9 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -216,6 +311,18 @@ I and II follow
 - **(D)** Neither
 I nor II follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (C)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Both
+actions are reasonable. Extra coaching will provide immediate
+support, while improving teaching methods will have long-term
+benefits.
+
+---
+
 ---
 
 ### Question 10 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -241,6 +348,18 @@ I and II follow
 - **(D)** Neither
 I nor II follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Conclusion
+I do not follow because the statement does not establish a
+cause-effect relationship. Conclusion II does not follow as it is
+an extreme generalization.
+
+---
+
 ---
 
 ### Question 11 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -265,6 +384,18 @@ Argument II is strong
 I and II are strong
 - **(D)** Neither
 I nor II is strong
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Argument
+I is strong because it presents an environmental concern. Argument
+II is weak because inconvenience alone is not a strong enough
+reason to ignore environmental damage.
+
+---
 
 ---
 
@@ -292,6 +423,20 @@ ocean.
 - **(D)** None
 of the mentioned options.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (C)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+In
+a new study, researchers led by Peak identify a likely cause for
+the missing rocks: the breakup of Earth's ancient supercontinent
+Rodina approximately 700 million years ago. The upheaval was so
+violent it likely washed rocks and sediment into the ocean —
+one billion years’ worth, in the case of the Grand Canyon.
+
+---
+
 ---
 
 ### Question 13 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -318,6 +463,22 @@ I and II follow
 - **(D)** Neither
 I nor II follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (B)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Conclusion
+I: "The imposition of language is unfair" does not
+follow because the statement does not discuss fairness or
+imposition; it simply states a requirement in the job market.
+Conclusion
+II: "English is the language that bridges the gap between
+countries" follows because the statement implies that fluency
+in English is important for firms competing internationally.
+
+---
+
 ---
 
 ### Question 14 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -340,6 +501,18 @@ month.
 statements are independent causes.
 - **(D)** Both
 statements are effects of a common cause.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+launch of a new marketing campaign (Statement 1) likely led to an
+increase in sales (Statement 2), making it a cause-and-effect
+relationship.
+
+---
 
 ---
 
@@ -373,6 +546,20 @@ I and II are implicit
 - **(D)** Neither
 I nor II is implicit
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (D)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+statement does not mention when the boss will arrive (I is not
+implicit).
+The
+reason for rescheduling is unclear, so employee unavailability is
+not necessarily assumed (II is not implicit).
+
+---
+
 ---
 
 ### Question 16 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -397,6 +584,22 @@ Assumption II is implicit
 I and II are implicit
 - **(D)** Neither
 I nor II is implicit
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (B)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Assumption
+I: "All children are naughty" is not implicit because
+the statement talks about one specific child, not all children in
+general.
+Assumption
+II: "With this warning, the child may stop doing mischievous
+acts" is implicit because the mother’s warning suggests
+that she believes it will have an effect on the child's behavior.
+
+---
 
 ---
 
@@ -425,6 +628,18 @@ I and II follow
 - **(D)** Neither
 I nor II follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+As
+per the statement gatherings could turn  in to COVID super spread
+, so only Conclusion I follows, decision on Conclusion II can’t
+be taken as the statement doesn’t discuss about vaccination.
+
+---
+
 ---
 
 ### Question 18 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -448,6 +663,18 @@ Assumption II is implicit
 I and II are implicit
 - **(D)** Neither
 I nor II is implicit
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (C)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Assumption
+I is implicit because the statement claims a direct relationship
+between exercise and health. Assumption II is also implicit as the
+comparison suggests the existence of people who do not exercise.
+
+---
 
 ---
 
@@ -473,6 +700,17 @@ I and II follow
 - **(D)** Neither
 I nor II follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Conclusion
+I logically follows, as some mammals can be domestic. Conclusion
+II is incorrect because all mammals are not necessarily cats.
+
+---
+
 ---
 
 ### Question 20 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -495,6 +733,18 @@ Assumption II is implicit
 I and II are implicit
 - **(D)** Neither
 I nor II is implicit
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (C)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Assumption
+I is implicit because the requirement of the test suggests its
+importance. Assumption II is implicit because if everyone passed,
+there would be no need for a test.
+
+---
 
 ---
 

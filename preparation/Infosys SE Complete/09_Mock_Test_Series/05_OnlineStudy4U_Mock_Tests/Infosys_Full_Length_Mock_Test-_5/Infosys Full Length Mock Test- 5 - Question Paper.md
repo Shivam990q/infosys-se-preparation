@@ -19,6 +19,16 @@ are in step 6?
 - **(C)** 6
 - **(D)** 8
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 6**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The count equals the step number. Step 6 has
+6 filled cells.
+
+---
+
 ---
 
 ### Question 2 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -33,6 +43,17 @@ same time. S2: The total profit is ₹20,000.
 - **(B)** S2 alone is sufficient, S1 is not
 - **(C)** Either alone
 - **(D)** Both needed
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) S1 alone is sufficient, S2 is not**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Same time, so the ratio is the capital ratio
+2 : 3 from S1. The total amount in S2 is not required to find the
+ratio.
+
+---
 
 ---
 
@@ -49,6 +70,18 @@ blobs.
 - **(B)** Only II follows
 - **(C)** Both follow
 - **(D)** Neither follows
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Only II follows**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Kernels sit inside programs but need not
+meet drivers, so I does not follow. Some programs are drivers, and
+no driver is a firmware blob, so those programs are not firmware
+blobs. II follows.
+
+---
 
 ---
 
@@ -72,6 +105,16 @@ Find the missing number.
 - **(C)** 8
 - **(D)** 2
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 4**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each row is a cube, a square, then the root:
+2³, 2², 2; 3³, 3², 3; 4³, 4², 4.
+
+---
+
 ---
 
 ### Question 5 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -85,6 +128,15 @@ If A=1, B=2, … and GAME is coded as
 - **(B)** 38
 - **(C)** 39
 - **(D)** 42
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 39**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+GAME = 7+1+13+5 = 26. TEAM = 20+5+1+13 = 39.
+
+---
 
 ---
 
@@ -108,6 +160,16 @@ Find the missing number.
 - **(C)** 36
 - **(D)** 40
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 36**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Third = first × second. 2×7=14,
+3×8=24, 4×9=36.
+
+---
+
 ---
 
 ### Question 7 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -121,6 +183,16 @@ Z. S2: Z is taller than Y.
 - **(B)** S2 alone
 - **(C)** Either alone
 - **(D)** Both together are needed
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) Both together are needed**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+S1 and S2 together give X > Z > Y, so
+X is taller. Neither statement alone compares X with Y.
+
+---
 
 ---
 
@@ -137,6 +209,17 @@ Some queues are linear. II. No stack is a graph.
 - **(C)** Both I and II
 - **(D)** Neither
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Both I and II**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Queues that are stacks are linear, so I
+follows. Every stack is linear and no linear structure is a graph,
+so no stack is a graph. Both follow.
+
+---
+
 ---
 
 ### Question 9 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -151,6 +234,16 @@ coded?
 - **(C)** CVHGFS
 - **(D)** BWGGFS
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) CVGGFS**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Every letter moves one step forward. BUFFER
+→ C V G G F S.
+
+---
+
 ---
 
 ### Question 10 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -164,6 +257,16 @@ What is the average of x and y? S1: x + y =
 - **(B)** S2 alone is sufficient, S1 is not
 - **(C)** Either alone is sufficient
 - **(D)** Both are needed
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) S1 alone is sufficient, S2 is not**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Average = (x+y)/2. S1 gives the sum, so the
+average is 20. S2 alone does not give the sum.
+
+---
 
 ---
 
@@ -180,6 +283,17 @@ I. All sprints are timeboxes. II. Some buffers are sprints.
 - **(C)** Both follow
 - **(D)** Neither follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Only I follows**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Sprints → iterations → timeboxes,
+so I follows. Buffers overlap timeboxes, not necessarily sprints.
+II does not follow.
+
+---
+
 ---
 
 ### Question 12 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -193,6 +307,19 @@ then 8 * 9 = ?
 - **(B)** 84
 - **(C)** 88
 - **(D)** 90
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 88**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+a * b maps to a×b + a + b? 6+3+1=10.
+Rule a×b + a − 2: 6+2=8 no. a×(b+2)−2:
+2×5−0. 2×3+4=10, 4×5+8=28, 6×7+12=54,
+extras +4+8+12. Next +16: 8×9+16=88. Also a(b+1)+b−2.
+Use a×b + 2a: 6+4=10, 20+8=28, 42+12=54, 72+16=88. Yes 88.
+
+---
 
 ---
 
@@ -216,6 +343,16 @@ Find the missing number.
 - **(C)** 40
 - **(D)** 45
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 36**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Third = first² + second + 2. 9+5+2=16,
+16+7+2=25, 25+9+2=36.
+
+---
+
 ---
 
 ### Question 14 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -231,6 +368,17 @@ disks. II. Some caches are tapes.
 - **(C)** Both follow
 - **(D)** Neither follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Only I follows**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Some disks are tapes and all tapes are
+media, so some media are disks. Caches are disjoint from disks and
+need not meet tapes. Only I.
+
+---
+
 ---
 
 ### Question 15 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -244,6 +392,19 @@ divisible by 2 and by 3. S2: n ends with the digit 4.
 - **(B)** S2 alone is sufficient, S1 is not
 - **(C)** Either alone
 - **(D)** Both needed
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) S1 alone is sufficient, S2 is not**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A number divisible by 2 and 3 is divisible
+by 6. S1 is enough. Ending with 4 means even, but not necessarily
+a multiple of 3.
+
+---
+
+## Section: Aptitude (Technical Ability)
 
 ---
 
@@ -261,6 +422,15 @@ replacement. Probability both are aces is
 - **(C)** 1/17
 - **(D)** 2/52
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 1/221**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+C(4,2)/C(52,2) = 6/1326 = 1/221.
+
+---
+
 ---
 
 ### Question 17 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -274,6 +444,16 @@ arrangements of the letters in LEVEL is
 - **(B)** 60
 - **(C)** 120
 - **(D)** 24
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 30**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+LEVEL has 5 letters, L twice and E twice. 5!
+/ (2! × 2!) = 30.
+
+---
 
 ---
 
@@ -289,6 +469,16 @@ together they take
 - **(C)** 15 days
 - **(D)** 25 days
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 12 days**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Combined rate = 1/20 + 1/30 = 1/12. Time =
+12 days.
+
+---
+
 ---
 
 ### Question 19 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -302,6 +492,16 @@ An item marked ₹2,500 is sold after
 - **(B)** 11.11%
 - **(C)** 12%
 - **(D)** 20%
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 11.11%**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+SP = 80% of 2500 = 2000. Profit = 200. % =
+200/1800 × 100 = 11.11%.
+
+---
 
 ---
 
@@ -317,6 +517,16 @@ A and B together take 8 days. A alone takes
 - **(C)** 24 days
 - **(D)** 30 days
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 24 days**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+B = 1/8 − 1/12 = 1/24. B takes 24
+days.
+
+---
+
 ---
 
 ### Question 21 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -330,6 +540,15 @@ price is
 - **(B)** ₹1,360
 - **(C)** ₹1,380
 - **(D)** ₹1,400
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) ₹1,380**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+SP = 115% of 1200 = ₹1,380.
+
+---
 
 ---
 
@@ -345,6 +564,15 @@ Probability of exactly two heads is
 - **(C)** 1/2
 - **(D)** 3/4
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 3/8**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+C(3,2)/8 = 3/8.
+
+---
+
 ---
 
 ### Question 23 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -358,6 +586,15 @@ ball is drawn. Probability it is black is
 - **(B)** 1/2
 - **(C)** 5/8
 - **(D)** 2/5
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 5/8**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+5 black out of 8 = 5/8.
+
+---
 
 ---
 
@@ -373,6 +610,17 @@ arranged on a shelf if two particular books must stay together?
 - **(C)** 120
 - **(D)** 240
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 48**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Tie the two books as one bundle: 4 units can
+be arranged in 4! ways and the bundle in 2! ways. 24 × 2 =
+48.
+
+---
+
 ---
 
 ### Question 25 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -386,6 +634,17 @@ with exactly 2 women can be formed in how many ways?
 - **(B)** 90
 - **(C)** 120
 - **(D)** 180
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 90**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+C(4,2) × C(6,2) = 6 × 15 = 90.
+
+---
+
+## Section: Verbal Ability
 
 ---
 
@@ -409,6 +668,18 @@ P S R
 - **(D)** P
 Q R S
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Q R S P**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q
+names the risk. R is the weekly test. S values the notes. P notes
+that short demos also expose the gap; the tightest story is Q R S
+P.
+
+---
+
 ---
 
 ### Question 27 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -426,6 +697,16 @@ one of the module has a test.
 - **(D)** Every
 one of the modules having a test.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Every one of the modules has a test.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Every
+one is singular: has. Modules stays plural after of.
+
+---
+
 ---
 
 ### Question 28 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -442,6 +723,16 @@ of the traffic have cleared.
 of the traffic has cleared.
 - **(D)** Little
 of the traffics has cleared.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Little of the traffic has cleared.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Traffic
+is uncountable; little + has.
+
+---
 
 ---
 
@@ -461,6 +752,16 @@ owners
 - **(D)** fix
 latency
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) teach nobody**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+third sentence.
+
+---
+
 ---
 
 ### Question 30 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -477,6 +778,16 @@ laid on the couch after the on-call.
 lied on the couch after the on-call.
 - **(D)** She
 lain on the couch after the on-call.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) She lay on the couch after the on-call.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Past
+of intransitive lie (recline) is lay.
+
+---
 
 ---
 
@@ -498,6 +809,17 @@ Q R S
 - **(D)** Q
 P S R
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Q P R S**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q
+is the failure. P is the better artefact. R says where it lives. S
+is the outcome. Q P R S.
+
+---
+
 ---
 
 ### Question 32 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -515,6 +837,16 @@ latency automatically
 - **(C)** replace alerts
 - **(D)** become wallpaper
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) become wallpaper**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Last
+sentence.
+
+---
+
 ---
 
 ### Question 33 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -528,6 +860,16 @@ Lasting only for a short time.
 - **(B)** Perennial
 - **(C)** Ephemeral
 - **(D)** Perpetual
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Ephemeral**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Ephemeral
+means short-lived.
+
+---
 
 ---
 
@@ -549,6 +891,17 @@ Q R S
 - **(D)** Q
 P S R
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Q S P R**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q
+looks harmless. S explains why staging hides it. P is the
+production bill. R is the control. Q S P R.
+
+---
+
 ---
 
 ### Question 35 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -569,6 +922,17 @@ Q P R
 - **(D)** Q
 R S P
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Q S R P**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q
+is the problem. S is the cost. R is the small pattern. P is how
+flags help. Q S R P.
+
+---
+
 ---
 
 ### Question 36 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -586,6 +950,16 @@ hide slow leaks
 remove the need for an SLO
 - **(D)** they
 replace error budgets
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) a sharp incident and a slow leak are both visible**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+fourth sentence.
+
+---
 
 ---
 
@@ -605,6 +979,17 @@ alerts are better than short windows
 - **(D)** latency
 promises should be deleted
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) SLOs work only with visible budgets, dual-window alerts and owners**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+passage ties SLOs to seeing the budget, using short and long
+alerts, and naming owners.
+
+---
+
 ---
 
 ### Question 38 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -619,6 +1004,16 @@ The outage postmortem was _____ and named every missed alert.
 - **(C)** obscure
 - **(D)** reluctant
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) candid**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Candid
+means frank and open.
+
+---
+
 ---
 
 ### Question 39 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -632,6 +1027,16 @@ of “amplify”:
 - **(B)** Boost
 - **(C)** Diminish
 - **(D)** Raise
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Diminish**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Diminish
+is the opposite of amplify.
+
+---
 
 ---
 
@@ -650,6 +1055,16 @@ a metric
 - **(D)** Pause
 a release
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Make a measurable difference**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+idiom means to cause a noticeable change.
+
+---
+
 ---
 
 ### Question 41 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -666,6 +1081,16 @@ sooner the job started when the queue grew.
 sooner had the job started then the queue grew.
 - **(D)** No
 sooner the job had started than the queue grew.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) No sooner had the job started than the queue grew.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+No
+sooner + inversion + than.
+
+---
 
 ---
 
@@ -684,6 +1109,16 @@ criterias are listed in the RFC.
 - **(D)** The
 criterion are listed in the RFC.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) The criteria are listed in the RFC.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Criteria
+is plural; the singular is criterion.
+
+---
+
 ---
 
 ### Question 43 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -697,6 +1132,16 @@ of “succinct”:
 - **(B)** Brief
 - **(C)** Vague
 - **(D)** Loud
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Brief**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Succinct
+means briefly and clearly expressed.
+
+---
 
 ---
 
@@ -715,6 +1160,16 @@ the SLO is optional
 - **(C)** is not a licence to ignore timeouts
 - **(D)** should
 be deleted from the dashboard
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) is not a licence to ignore timeouts**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+second sentence says the 1% is not a licence to ignore timeouts.
+
+---
 
 ---
 
@@ -735,6 +1190,19 @@ Q R S
 P R S
 - **(D)** P
 R S Q
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) P R Q S**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+P
+is the leak path. R says scans miss old tokens. Q is the correct
+inject path. S is cleanup. P R Q S.
+
+---
+
+## Section: Pseudo Code
 
 ---
 
@@ -764,6 +1232,16 @@ p
 - **(C)** 24
 - **(D)** 120
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 24**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+p
+multiplies 1×2×3×4 = 24.
+
+---
+
 ---
 
 ### Question 47 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -789,6 +1267,16 @@ front(Q)
 - **(B)** 15
 - **(C)** 25
 - **(D)** Empty
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 15**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+FIFO:
+5 leaves. Front is 15.
+
+---
 
 ---
 
@@ -817,6 +1305,16 @@ peek(S)
 - **(C)** 40
 - **(D)** 30
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 40**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Stack
+after pops/pushes: [10, 20, 40]. peek = 40.
+
+---
+
 ---
 
 ### Question 49 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -836,6 +1334,16 @@ a & b
 - **(B)** 5
 - **(C)** 7
 - **(D)** 11
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 4**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+13
+is 1101, 6 is 0110, AND is 0100 = 4.
+
+---
 
 ---
 
@@ -860,6 +1368,18 @@ P(4)
 - **(B)** 12
 - **(C)** 16
 - **(D)** 24
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 16**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+P(1)=2,
+P(2)=4, P(3)=8, P(4)=16.
+
+---
+
+## Section: Numerical Puzzles
 
 ---
 
@@ -888,6 +1408,16 @@ Wheel B
 - **(C)** 15
 - **(D)** 16
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 13**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Wheel A: 8+3=11. Wheel B: 9+4=13 and 6+7=13.
+Missing centre = 13.
+
+---
+
 ---
 
 ### Question 52 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -906,6 +1436,17 @@ Find the next number.
 - **(B)** 42
 - **(C)** 44
 - **(D)** 48
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 42**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Gaps +4, +6, +8, +10, next +12. 30+12=42.
+Also n(n+1): 1×2, 2×3, 3×4, 4×5, 5×6,
+6×7=42.
+
+---
 
 ---
 
@@ -929,6 +1470,16 @@ Find the missing number.
 - **(C)** 15
 - **(D)** 18
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 17**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Third = first − second. 18−10=8,
+25−13=12, 31−14=17.
+
+---
+
 ---
 
 ### Question 54 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -951,6 +1502,18 @@ Find the missing number.
 - **(C)** 59
 - **(D)** 63
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 59**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Third = first × second + 3. 3×4+3=15,
+5×6+3=33, 7×8+3=59.
+
+---
+
+## Section: English Grammar
+
 ---
 
 ## Section: English Grammar
@@ -966,6 +1529,16 @@ A series of patches _____ scheduled for Sunday.
 - **(B)** is
 - **(C)** have
 - **(D)** were
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) is**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+subject is series (singular): is scheduled.
+
+---
 
 ---
 
@@ -985,6 +1558,16 @@ servers
 - **(D)** No
 error
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) are reachable**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Neither
+is singular: is reachable.
+
+---
+
 ---
 
 ### Question 57 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -1003,6 +1586,16 @@ releases
 - **(D)** No
 error
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) to work late**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Used
+to + gerund: used to working late.
+
+---
+
 ---
 
 ### Question 58 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -1016,6 +1609,16 @@ The fix is consistent _____ the style guide.
 - **(B)** with
 - **(C)** from
 - **(D)** against
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) with**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Consistent
+with is the standard collocation.
+
+---
 
 ---
 
@@ -1033,6 +1636,18 @@ write
 - **(D)** will
 wrote
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) had written**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+earlier of two past actions takes past perfect: had written.
+
+---
+
+## Section: Essay Writting
+
 ---
 
 ## Section: Essay Writting
@@ -1043,7 +1658,19 @@ Importance of Cybersecurity in the Digital Age
 
 **Options:**
 
-- **(A)** 
+- **(A)**
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) **
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Cybersecurity has become an essential part of modern life because people increasingly use the internet for education, communication, banking, shopping, and professional activities. As digital technology continues to grow, protecting personal and organizational information has become very important.
+Cybersecurity helps prevent unauthorized access, data theft, online fraud, and other digital threats. Individuals can improve their online security by using strong passwords, enabling two-factor authentication, and avoiding suspicious links and messages. Organizations also need effective security systems to protect customer information and important business data.
+However, technology alone cannot provide complete protection. Human awareness is equally important because many cyber incidents happen due to careless actions or a lack of knowledge. Regular cybersecurity education can help people recognize common online threats and use digital services safely.
+In conclusion, cybersecurity is not only a responsibility of technology companies or IT professionals. Every internet user has a role in protecting digital information. Developing good security habits and staying aware of online threats can make the digital environment safer and more reliable.
+
+---
 
 ---
 

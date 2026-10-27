@@ -29,6 +29,12 @@ cout<< Test::getX();      }  
 - **(C)** 0 5
 - **(D)** a)     Run time error
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 0 5**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 2 [Marks: +1, -0.25]
@@ -50,6 +56,12 @@ return 0;
 - **(B)** Compile time error
 - **(C)** Run time error
 - **(D)** Blank line
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Compile time error**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -75,6 +87,12 @@ for (int x = 10; x >= 0; x--)
 - **(C)** 6 7 8
 - **(D)** 6 5 4
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 7 6 3**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 4 [Marks: +1, -0.25]
@@ -87,6 +105,12 @@ for (int x = 10; x >= 0; x--)
 - **(B)** Ready queue
 - **(C)** Execution queue
 - **(D)** Process queue
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Ready queue**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -101,6 +125,12 @@ for (int x = 10; x >= 0; x--)
 - **(C)** Down
 - **(D)** All of these
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) All of these**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 6 [Marks: +1, -0.25]
@@ -113,6 +143,12 @@ for (int x = 10; x >= 0; x--)
 - **(B)** Device
 - **(C)** Power failure
 - **(D)** Scheduler process
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) Scheduler process**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -127,6 +163,12 @@ for (int x = 10; x >= 0; x--)
 - **(C)** Hexadecimal
 - **(D)**    Line feed
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Unicode escape sequence**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 8 [Marks: +1, -0.25]
@@ -139,6 +181,12 @@ for (int x = 10; x >= 0; x--)
 - **(B)** char ca = 'tea';
 - **(C)** char cr = \u0223;
 - **(D)** char cc = '\itea';
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) char ch = '\utea';**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -153,6 +201,12 @@ for (int x = 10; x >= 0; x--)
 - **(C)** 904423
 - **(D)** 0xnf029L
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 0xnf029L**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 10 [Marks: +1, -0.25]
@@ -165,6 +219,12 @@ for (int x = 10; x >= 0; x--)
 - **(B)** Not a Number
 - **(C)** Infinity
 - **(D)** Run time exception
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Infinity**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -183,6 +243,12 @@ d)   D) A final method can be inherited.
 - **(C)** C&D
 - **(D)** None of these
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) C&D**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 12 [Marks: +1, -0.25]
@@ -197,6 +263,12 @@ Pre-Order: 6 7 9 10 8
 - **(B)** 9 7 6 10 8
 - **(C)**  8 9 10 7 6
 - **(D)** 9 8 10 7 6
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 9 10 7 8 6**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -213,6 +285,12 @@ Pre-Order: 6 7 9 10 8
 - **(C)** rings the bell
 - **(D)** prints garbage
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) rings the bell**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 14 [Marks: +1, -0.25]
@@ -226,6 +304,12 @@ printf (“%d”, 9/5); 
 - **(B)** 1.0
 - **(C)** 2.0
 - **(D)** None of these
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) None of these**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -246,6 +330,12 @@ printf (“%d”, 9/5); 
 - **(C)** 4
 - **(D)** 1
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 1**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 16 [Marks: +1, -0.25]
@@ -258,6 +348,12 @@ printf (“%d”, 9/5); 
 - **(B)** char str[] = “campus monk is the best platform for learn";
 - **(C)** char str[20] = “campus monk is the best platform for learn";
 - **(D)** char[] str = “campus monk is the best platform for learn";
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) char[] str = “campus monk is the best platform for learn";**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -282,6 +378,12 @@ main()  
 - **(C)** h
 - **(D)** 3
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) error: redeclaration of an enumerator**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 18 [Marks: +1, -0.25]
@@ -302,6 +404,12 @@ main ()  
 - **(B)** 5
 - **(C)** I
 - **(D)** Not equal to 5
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 5**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -324,6 +432,12 @@ print n
 - **(C)** 9
 - **(D)** 12
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 5**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 20 [Marks: +1, -0.25]
@@ -344,6 +458,12 @@ end while
 - **(C)** 5 5 5
 - **(D)** 6 5 4
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 6 5 4**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 21 [Marks: +1, -0.25]
@@ -358,6 +478,12 @@ Push(1), Push(2), Pop(), Push(1), Push(2), Pop(), Pop(), Pop(), Push(2), Pop().
 - **(B)** 2 2 1 2 2
 - **(C)** 2 1 2 2 1
 - **(D)** 2 1 2 2 2
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 2 2 1 1 2**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -374,6 +500,12 @@ Push(1), Push(2), Pop(), Push(1), Push(2), Pop(), Pop(), Pop(), Push(2), Pop().
 - **(C)** 99
 - **(D)** 120
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 97**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 23 [Marks: +1, -0.25]
@@ -387,6 +519,12 @@ T The concatenation of two lists is to be performed in O(1) time. Which of the f
 - **(C)** a)     Circular doubly linked list
 - **(D)** a)     Array implementation of list
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) a)     Circular doubly linked list**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 24 [Marks: +1, -0.25]
@@ -399,6 +537,12 @@ T The concatenation of two lists is to be performed in O(1) time. Which of the f
 - **(B)** a)     3,4,5,2,1
 - **(C)** a)     1,5,2,3,4
 - **(D)** a)     5,4,3,1,2
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) a)     3,4,5,2,1**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -424,6 +568,12 @@ Output (A[i][j]);
 - **(C)** a)     Adding 100 to the upper diagonal elements and subtracting 100 from diagonal elements of A 
 - **(D)** a)     None of the above
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) a)     The matrix A itself **
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 26 [Marks: +1, -0.25]
@@ -446,6 +596,12 @@ end for
 - **(B)** 4
 - **(C)** 6
 - **(D)** 7
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 10**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -474,6 +630,12 @@ Z= X+Y+Z
 - **(C)** 27, 7
 - **(D)** None of these
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 31, 3**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 28 [Marks: +1, -0.25]
@@ -495,6 +657,12 @@ return f(n);
 - **(B)** 6
 - **(C)** 7
 - **(D)** 8
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 7**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -523,6 +691,12 @@ Print n
 - **(C)** 22
 - **(D)** 2
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 2**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 30 [Marks: +1, -0.25]
@@ -548,6 +722,12 @@ Print x+y+z
 - **(B)** 11
 - **(C)** 42
 - **(D)** 30
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 30**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 

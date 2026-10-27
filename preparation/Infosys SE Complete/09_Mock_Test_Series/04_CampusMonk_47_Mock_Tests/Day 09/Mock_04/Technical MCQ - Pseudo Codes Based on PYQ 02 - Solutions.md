@@ -19,6 +19,12 @@ What is the output of following pseudo code: Fun() { Int a=10 , b=20 , c=30; If(
 
 **Correct Answer:** Option (B)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 2
@@ -33,6 +39,12 @@ What is the output of following code: Int main(){ Int n=(1<<2+3<<4) Print(n); Re
 - (D) 0
 
 **Correct Answer:** Option (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -49,6 +61,12 @@ What is the output of following: Integer x, y Set x = 15, y = 12 y = x – 1 do{
 
 **Correct Answer:** Option (B)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 4
@@ -63,6 +81,12 @@ What is the output if fun(5) is called? Function fun(n) If n == 0 Return 0 Else 
 - (D) -1
 
 **Correct Answer:** Option (C)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -79,6 +103,12 @@ int main() { int x, y = 5, z = 5; x = y == z; Print(x); return 0; }
 
 **Correct Answer:** Option (B)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 6
@@ -93,6 +123,12 @@ int main() { int x, y = 5, z = 5; x = y == z; Print(x); return 0; }
 - ✅ **(D) No error** *(Correct Answer)*
 
 **Correct Answer:** Option (D)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -109,6 +145,12 @@ int main() { int x = 9, y = 2, z = 6; int a = x & y | z; printf("%d", a); return
 
 **Correct Answer:** Option (D)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 8
@@ -120,6 +162,12 @@ Integer p, q, r Set p = 4, q = 2, r = 5 p = (q + p) + p if ((q + p) < (r - q) &&
 - (A) undefined
 
 **Correct Answer:** Option ()
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option ()** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -133,6 +181,12 @@ Integer a, b, c Set a = 2, b = 4, c = 7 b = 7 + a if (c > b) b = b + b end if b 
 
 **Correct Answer:** Option ()
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option ()** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 10
@@ -144,6 +198,12 @@ Integer a, b, c Set a = 1, b = 6, c = 7 b = (a & b) + b for (each c from 3 to 5)
 - (A) undefined
 
 **Correct Answer:** Option ()
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option ()** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 

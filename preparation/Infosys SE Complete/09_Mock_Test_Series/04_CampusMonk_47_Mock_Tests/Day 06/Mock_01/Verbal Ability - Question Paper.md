@@ -17,6 +17,12 @@ Direction: Select the option that is most nearly similar in meaning to the given
 - **(C)** Medium
 - **(D)** Shy
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) Shy**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 2 [Marks: +1, -0.25]
@@ -29,6 +35,12 @@ Direction: Select the option that is most nearly similar in meaning to the given
 - **(B)** Helplessness
 - **(C)** Misfortune
 - **(D)** Crisis
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Misfortune**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -43,6 +55,12 @@ Direction: Select the correct option that fills the blank(s) to make the sentenc
 - **(C)** devoted
 - **(D)** made
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) devoted**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 4 [Marks: +1, -0.25]
@@ -55,6 +73,12 @@ Direction: Select the correct option that fills the blank(s) to make the sentenc
 - **(B)** at/between
 - **(C)** inside/of
 - **(D)** under/beyond
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) at/between**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -69,6 +93,12 @@ Read the passage and answer the questions. Management is a set of processes that
 - **(C)** Organizations did not want to spend their scarce resources in training managers.
 - **(D)** Organizations wanted to create communication network through trained managers.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) The large number of organizations were created as they needed managers in good number.**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 6 [Marks: +1, -0.25]
@@ -81,6 +111,12 @@ Read the passage and answer the questions. Management is a set of processes that
 - **(B)** Strong and dogmatic culture
 - **(C)** Bureaucratic and inward-looking approach
 - **(D)** Failing to acknowledge the value of customers and shareholders
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Emphasis on leadership and not management**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -95,6 +131,12 @@ Read the passage and answer the questions. The impressive recent growth of certa
 - **(C)** non_conducting policy environment
 - **(D)** structural problems of india society
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) does not help the poorest**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 8 [Marks: +1, -0]
@@ -107,6 +149,12 @@ Direction : In Question nos. 1 to 3 some part of the sentences have errors and s
 - **(B)** B
 - **(C)** C
 - **(D)** D
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) C**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -121,6 +169,12 @@ Direction : In Question nos. 1 to 3 some part of the sentences have errors and s
 - **(C)** C
 - **(D)** D
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) B**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 10 [Marks: +1, -0]
@@ -134,6 +188,12 @@ Direction : In Question nos. 12 to 14, four alternative are given for the Idiom/
 - **(C)** avoiding being friendly with others
 - **(D)** always try to gain advantage over others
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) exposing their innermost feelings to others**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 11 [Marks: +1, -0]
@@ -146,6 +206,12 @@ Direction : In Question nos. 12 to 14, four alternative are given for the Idiom/
 - **(B)** I consulted several people
 - **(C)** I used my commonsense
 - **(D)** I subjected my mind to hard thinking
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) I subjected my mind to hard thinking**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 

@@ -26,6 +26,16 @@ Find the missing number.
 - **(C)** 16
 - **(D)** 19
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 17**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Third
+= first − second. 12−5=7, 19−8=11, 27−10=17.
+
+---
+
 ---
 
 ### Question 2 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -45,6 +55,17 @@ follow
 - **(D)** Neither
 follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Only I follows**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Sprints
+→ cycles → plans, so I follows. Buffers overlap plans,
+not necessarily sprints.
+
+---
+
 ---
 
 ### Question 3 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -58,6 +79,16 @@ TABLE is coded as UBCMF, how is CHAIR coded?
 - **(B)** BGZHQ
 - **(C)** DIBJR
 - **(D)** CIBJS
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) DIBJS**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each
+letter moves one step forward. CHAIR → D I B J S.
+
+---
 
 ---
 
@@ -77,6 +108,17 @@ alone is sufficient
 - **(D)** Both
 together are needed
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Statement 1 alone is sufficient, but Statement 2 alone is not**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Average
+= (m + n) / 2. S1 gives the sum, so the average is 24. S2 alone
+does not give the sum.
+
+---
+
 ---
 
 ### Question 5 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -90,6 +132,16 @@ If
 - **(B)** 41
 - **(C)** 45
 - **(D)** 49
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 41**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+a
+* b = a² + b²: 1+4=5, 4+9=13, 9+16=25, 16+25=41.
+
+---
 
 ---
 
@@ -113,6 +165,17 @@ Find the missing number.
 - **(C)** 45
 - **(D)** 48
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 45**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Third
+= first × second + 3: 18+3=21, 28+4=32, 40+5=45.
+Equivalently first × (second + 1).
+
+---
+
 ---
 
 ### Question 7 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -132,6 +195,18 @@ follow
 - **(D)** Neither
 follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Only II follows**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Indexes
+sit inside keys but need not meet hashes, so I does not follow.
+Some keys are hashes and no hash is a heap, so those keys are not
+heaps. II follows.
+
+---
+
 ---
 
 ### Question 8 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -145,6 +220,16 @@ BRIDGE is coded as CSJEHF, how is TUNNEL coded?
 - **(B)** STMMDK
 - **(C)** UVOOEL
 - **(D)** SVOOFM
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) UVOOFM**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each
+letter moves one step forward. TUNNEL → U V O O F M.
+
+---
 
 ---
 
@@ -168,6 +253,16 @@ Find the missing number.
 - **(C)** 32
 - **(D)** 36
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 32**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Third
+= first × second. 2×4=8, 3×6=18, 4×8=32.
+
+---
+
 ---
 
 ### Question 10 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -182,6 +277,21 @@ If
 - **(B)** 32
 - **(C)** 36
 - **(D)** 40
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 36**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+a
+⊗ b means b × (a + 1). Check: 5×5=25 wait no
+5×5=25≠24. Means a × b + b = b(a+1): 5×5=25
+still. 4×5+4=24 so a×b+a. 6×3+3=21 so a×b+b.
+Inconsistent between +a and +b. 4×5+4=24 (+ first), 6×3+3=21
+(+ second), 7×2+2=16 (+ second). Use a×b + min(a,b):
+20+4=24, 18+3=21, 14+2=16, 32+4=36.
+
+---
 
 ---
 
@@ -202,6 +312,18 @@ follow
 - **(D)** Neither
 follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Only I follows**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Some
+tokens are claims and all claims are fields, so some fields are
+tokens. Cookies are disjoint from tokens and need not meet claims.
+Only I.
+
+---
+
 ---
 
 ### Question 12 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -219,6 +341,17 @@ I
 II
 - **(C)** Both I and II
 - **(D)** Neither
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Both I and II**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Ports
+that are sockets are handles. Every socket is a handle and no
+handle is a file, so no socket is a file. Both follow.
+
+---
 
 ---
 
@@ -239,6 +372,17 @@ alone is sufficient
 - **(D)** Both
 together are needed
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Statement 1 alone is sufficient, but Statement 2 alone is not**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Same
+time, so the ratio equals the capital ratio 2 : 3 from S1. The
+total in S2 is not needed for the ratio.
+
+---
+
 ---
 
 ### Question 14 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -256,6 +400,17 @@ integer k divisible by 15? Statement 1: k is divisible by 3 and by
 alone is sufficient
 - **(D)** Both
 together are needed
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Statement 1 alone is sufficient, but Statement 2 alone is not**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A
+number divisible by both 3 and 5 is divisible by 15. Ending with 0
+means divisible by 10, not necessarily by 3.
+
+---
 
 ---
 
@@ -275,6 +430,19 @@ is older than H.
 alone is sufficient
 - **(D)** Both statements together are needed
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) Both statements together are needed**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Together
+they give G > I > H, so G is older. Neither statement alone
+compares G with H.
+
+---
+
+## Section: Aptitude (Technical Ability)
+
 ---
 
 ## Section: Aptitude (Technical Ability)
@@ -290,6 +458,16 @@ fair die is thrown. Probability of a number greater than 4 is
 - **(B)** 1/3
 - **(C)** 1/2
 - **(D)** 2/3
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 1/3**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+5
+and 6: 2/6 = 1/3.
+
+---
 
 ---
 
@@ -308,6 +486,16 @@ days
 - **(D)** 27
 days
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 18 days**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+B
+= 1/9 − 1/18 = 1/18. B also takes 18 days.
+
+---
+
 ---
 
 ### Question 18 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -322,6 +510,16 @@ percent is
 - **(B)** 15%
 - **(C)** 18%
 - **(D)** 20%
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 15%**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Profit
+= 72. Percent = 72/480 × 100 = 15%.
+
+---
 
 ---
 
@@ -338,6 +536,16 @@ are not repeated?
 - **(C)** 125
 - **(D)** 15
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 60**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+P(5,3)
+= 5 × 4 × 3 = 60.
+
+---
+
 ---
 
 ### Question 20 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -351,6 +559,16 @@ From
 - **(B)** 56
 - **(C)** 336
 - **(D)** 512
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 56**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+C(8,3)
+= 8×7×6 / 6 = 56.
+
+---
 
 ---
 
@@ -366,6 +584,16 @@ item sold at 20% profit brings ₹720. The cost price is
 - **(C)** ₹640
 - **(D)** ₹700
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) ₹600**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+120%
+of CP = 720, so CP = 720 × 100 / 120 = ₹600.
+
+---
+
 ---
 
 ### Question 22 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -380,6 +608,16 @@ it is white is
 - **(B)** 1/2
 - **(C)** 5/12
 - **(D)** 7/12
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 5/12**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+5
+white out of 12 = 5/12.
+
+---
 
 ---
 
@@ -398,6 +636,16 @@ days
 - **(D)** 12.5
 days
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 6 days**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Combined
+rate = 1/15 + 1/10 = 1/6. Time = 6 days.
+
+---
+
 ---
 
 ### Question 24 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -411,6 +659,16 @@ coins are tossed. Probability of two heads is
 - **(B)** 1/2
 - **(C)** 1/3
 - **(D)** 3/4
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 1/4**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+HH
+is 1 of 4 outcomes.
+
+---
 
 ---
 
@@ -426,6 +684,18 @@ ways?
 - **(B)** 120
 - **(C)** 24
 - **(D)** 80
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 60**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+5
+letters with F twice: 5! / 2! = 60.
+
+---
+
+## Section: Verbal Ability
 
 ---
 
@@ -446,6 +716,16 @@ a later cleanup quarter
 after a rename
 - **(D)** never
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) during the same patch**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Fourth
+sentence.
+
+---
+
 ---
 
 ### Question 27 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -459,6 +739,16 @@ the one-word substitute: A person who speaks two languages.
 - **(B)** Orator
 - **(C)** Bilingual
 - **(D)** Editor
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Bilingual**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Bilingual
+means able to use two languages.
+
+---
 
 ---
 
@@ -480,6 +770,17 @@ Q R S
 - **(D)** Q
 R P S
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Q P R S**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q
+is the rule. P is the failure. R is the timeout fix. S is the
+alert. Q P R S.
+
+---
+
 ---
 
 ### Question 29 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -497,6 +798,16 @@ the release
 - **(D)** Skip
 the design step
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Start the plan again after a failure**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+idiom means to start over after something did not work.
+
+---
+
 ---
 
 ### Question 30 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -513,6 +824,15 @@ every build, not only on release day.
 - **(B)** Q P R S
 - **(C)** R Q P S
 - **(D)** Q R S P
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Q R P S**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q is the Monday failure. R is the script. P is what it proves. S is when to run it. Q R P S.
+
+---
 
 ---
 
@@ -532,6 +852,17 @@ should replace all comments
 - **(D)** reviews
 should count comments
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) useful comments explain why, stay true later, and should not repeat the code**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+passage rejects repeating comments, values why-comments, and asks
+whether the sentence will still be true.
+
+---
+
 ---
 
 ### Question 32 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -546,6 +877,16 @@ the word most opposite in meaning to “expand.”
 - **(C)** Shrink
 - **(D)** Spread
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Shrink**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Shrink
+is the opposite of expand.
+
+---
+
 ---
 
 ### Question 33 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -559,6 +900,16 @@ the word most similar in meaning to “concise.”
 - **(B)** Brief
 - **(C)** Unclear
 - **(D)** Loud
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Brief**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Concise
+means short and clear.
+
+---
 
 ---
 
@@ -577,6 +928,16 @@ kilometre is a short ride.
 - **(D)** Five
 kilometres were a short ride now.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Five kilometres is a short ride.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A
+distance as one measure takes a singular verb.
+
+---
+
 ---
 
 ### Question 35 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -591,6 +952,16 @@ the first week.
 - **(B)** optimistic
 - **(C)** final
 - **(D)** binding
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) optimistic**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Optimistic
+fits an estimate that later needed a revision.
+
+---
 
 ---
 
@@ -610,6 +981,16 @@ many comments exist
 wrote the comment
 - **(D)** will this sentence still be true after the next rename
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) will this sentence still be true after the next rename**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Last
+sentence.
+
+---
+
 ---
 
 ### Question 37 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -627,6 +1008,16 @@ test
 bound
 - **(D)** a
 rename
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) noise**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Second
+sentence.
+
+---
 
 ---
 
@@ -646,6 +1037,16 @@ the next line
 - **(D)** counts
 review comments
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) names why a bound is 17, not 16**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Third
+sentence.
+
+---
+
 ---
 
 ### Question 39 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -663,6 +1064,16 @@ had the mail gone then the server restarted.
 - **(D)** Hardly
 the mail gone when the server restarted.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Hardly had the mail gone when the server restarted.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Hardly
++ inversion + when.
+
+---
+
 ---
 
 ### Question 40 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -679,6 +1090,16 @@ suggested him to join the later batch.
 suggested that he joins the later batch.
 - **(D)** She
 suggested him joining the later batch.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) She suggested that he join the later batch.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Suggest
+that + base verb (subjunctive): join.
+
+---
 
 ---
 
@@ -700,6 +1121,17 @@ P R S
 - **(D)** P
 R Q S
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) P Q R S**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+P
+names idle tests. Q says delete or fix. R prefers sharp tests. S
+rejects coverage as the only reason. P Q R S.
+
+---
+
 ---
 
 ### Question 42 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -716,6 +1148,16 @@ of the files have a checksum.
 of the file has a checksum.
 - **(D)** Each
 of the files having a checksum.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Each of the files has a checksum.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each
+is singular: has. Files stays plural after of.
+
+---
 
 ---
 
@@ -737,6 +1179,17 @@ Q R S
 - **(D)** Q
 P S R
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Q P R S**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q
+is the trap. P is the cost. R is the label rule. S is where the
+note lives. Q P R S.
+
+---
+
 ---
 
 ### Question 44 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -757,6 +1210,17 @@ Q R S
 - **(D)** Q
 P S R
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Q P R S**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q
+is the guess. P is dual-run. R is the hourly compare. S is the
+switch. Q P R S.
+
+---
+
 ---
 
 ### Question 45 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -773,6 +1237,18 @@ furnitures are new.
 - **(C)** The furniture is new.
 - **(D)** The
 furniture were new always.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) The furniture is new.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Furniture
+is uncountable and takes is.
+
+---
+
+## Section: Pseudo Code
 
 ---
 
@@ -800,6 +1276,16 @@ U(4)
 - **(C)** 11
 - **(D)** 24
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 11**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+U(0)=1,
+then +1+2+3+4 = 11.
+
+---
+
 ---
 
 ### Question 47 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -819,6 +1305,16 @@ z & 7
 - **(B)** 7
 - **(C)** 8
 - **(D)** 21
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 6**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+14
+is 1110, 7 is 0111, AND is 0110 = 6.
+
+---
 
 ---
 
@@ -846,6 +1342,16 @@ n
 - **(C)** 12
 - **(D)** 21
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 9**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Multiples
+of 3 from 1 to 6 are 3 and 6. Sum = 9.
+
+---
+
 ---
 
 ### Question 49 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -870,6 +1376,16 @@ front(Q)
 - **(B)** 8
 - **(C)** 12
 - **(D)** Empty
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 8**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+4
+leaves first. Front is 8.
+
+---
 
 ---
 
@@ -898,6 +1414,18 @@ peek(S)
 - **(C)** 11
 - **(D)** 8
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 11**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Pop
+removes 8. Push 11. peek returns 11.
+
+---
+
+## Section: Numerical Puzzles
+
 ---
 
 ## Section: Numerical Puzzles
@@ -922,6 +1450,17 @@ Find the missing number.
 - **(C)** 52
 - **(D)** 54
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 50**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Third
+= first × second + 2. 6×4+2=26, 7×5+2=37,
+8×6+2=50.
+
+---
+
 ---
 
 ### Question 52 [Marks: +{'positive': 3, 'negative': 0, 'negativeUnattempted': 0}]
@@ -943,6 +1482,16 @@ Find the missing number.
 - **(B)** 34
 - **(C)** 35
 - **(D)** 42
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 35**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Third
+= first + second. 10+15=25, 12+18=30, 14+21=35.
+
+---
 
 ---
 
@@ -969,6 +1518,17 @@ Set 2
 - **(C)** 10
 - **(D)** 16
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 8**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Set
+1: 18−11=7 and 11−4=7. Set 2: 21−13=8 and
+13−5=8. Missing centre = 8.
+
+---
+
 ---
 
 ### Question 54 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -988,6 +1548,18 @@ Find the next number.
 - **(C)** 100
 - **(D)** 102
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 98**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each
+term = previous × 2 − 2. 50 × 2 − 2 = 98.
+
+---
+
+## Section: English Grammar
+
 ---
 
 ## Section: English Grammar
@@ -1004,6 +1576,16 @@ is responsible _____ the nightly build.
 - **(C)** of
 - **(D)** with
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) for**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Responsible
+for is the standard collocation.
+
+---
+
 ---
 
 ### Question 56 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -1017,6 +1599,16 @@ number of open bugs _____ fallen this week.
 - **(B)** has
 - **(C)** are
 - **(D)** were
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) has**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+number of is singular, so has.
+
+---
 
 ---
 
@@ -1036,6 +1628,16 @@ error
 - **(D)** Everybody
 have
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Everybody have received**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Everybody
+is singular: has received.
+
+---
+
 ---
 
 ### Question 58 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -1050,6 +1652,17 @@ next Friday the team _____ the migration.
 - **(C)** will have finished
 - **(D)** has
 finish
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) will have finished**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A
+completed action before a future point takes future perfect: will
+have finished.
+
+---
 
 ---
 
@@ -1069,6 +1682,18 @@ the morning
 - **(D)** No
 error
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) than coffee**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Prefer
+takes to, not than: prefer tea to coffee.
+
+---
+
+## Section: Essay Writting
+
 ---
 
 ## Section: Essay Writting
@@ -1079,7 +1704,19 @@ Importance of Teamwork in the Workplace
 
 **Options:**
 
-- **(A)** 
+- **(A)**
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) **
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Teamwork is an important part of a successful workplace. It means working together with different people to achieve a common goal. In a professional environment, employees often need to share ideas, responsibilities, and knowledge to complete tasks effectively.
+One major benefit of teamwork is that it brings different skills and perspectives together. When employees cooperate, they can solve problems more efficiently and make better decisions. Teamwork also improves communication and helps employees learn from one another. It can create a positive working environment where people support each other.
+However, teamwork can sometimes be challenging. Differences in opinions, communication gaps, or unequal distribution of responsibilities may create conflicts. These problems can be reduced through clear communication, mutual respect, and proper coordination.
+In conclusion, teamwork is essential for achieving organizational goals and developing professional relationships. Employees who listen to others, communicate clearly, and contribute responsibly can become valuable members of a team. Therefore, developing teamwork skills is important for both personal and professional growth.
+
+---
 
 ---
 

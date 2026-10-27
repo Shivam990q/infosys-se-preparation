@@ -32,6 +32,12 @@ to the left
 - **(D)** Third
 to the right
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (B)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 2 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -62,6 +68,12 @@ of the following pair is diagonally opposite to each other?
 - **(C)** AN
 - **(D)** AM
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) AM**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 3 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -78,6 +90,12 @@ to the left of S. Which of the following are the neighbours of P ?
 - **(B)** U,R
 - **(C)** T,R
 - **(D)** None
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) T,R**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -103,6 +121,17 @@ to the right
 - **(D)** Fourth
 to the left
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Following
+the final solution, we can say that Arif is third to the right of
+Amit.
+
+---
+
 ---
 
 ### Question 5 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -123,6 +152,18 @@ sit immediately left of T. Pick the odd one out.
 - **(B)** P
 - **(C)** W
 - **(D)** None
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) None**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Clearly,
+all of them are facing inside and sitting on the longer sides.
+None
+is odd.
+
+---
 
 ---
 
@@ -146,6 +187,12 @@ when counted from the left of P?
 - **(C)** 3
 - **(D)** 4
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 4**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 7 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -161,6 +208,12 @@ the right of P ?
 - **(B)** S
 - **(C)** Z
 - **(D)** A
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) X**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -178,6 +231,12 @@ right to Reeta ?
 - **(B)** Rani
 - **(C)** Mary
 - **(D)** Seema
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Mary**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -205,6 +264,12 @@ one who sits to the immediate right of E
 one who sits third to the right of A
 - **(D)** H
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (C)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 10 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -226,6 +291,12 @@ B and D
 E and D
 - **(D)** Between
 C and D
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (A)
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -257,6 +328,12 @@ is sitting just opposite to N ?
 - **(C)** C
 - **(D)** D
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) A**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 12 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -273,6 +350,12 @@ to the left of S. Which one is sitting opposite to P ?
 - **(B)** S
 - **(C)** T
 - **(D)** Q
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) S**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -292,6 +375,12 @@ immediate right of A?
 - **(B)** F
 - **(C)** D
 - **(D)** E
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) E**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -319,6 +408,12 @@ FA BC ___
 - **(C)** HB
 - **(D)** AG
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) HD**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 15 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -337,6 +432,12 @@ between B and F?
 - **(B)** D
 - **(C)** A
 - **(D)** E
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) C**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -357,6 +458,17 @@ from the right of Z?
 - **(C)** 3
 - **(D)** 4
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 3**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+T,V
+and S are sitting between U and Z when counted from the right of
+Z.
+
+---
+
 ---
 
 ### Question 17 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -373,6 +485,12 @@ photograph ?
 - **(B)** Rani
 - **(C)** Seema
 - **(D)** Reeta
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Rani**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -394,6 +512,17 @@ Anil, when counted from the left of Anil?
 - **(C)** 3
 - **(D)** 4
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 4**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Following
+the final solution, we can say that four persons were sitting
+between Amit and Anil, when counted from the left of Anil.
+
+---
+
 ---
 
 ### Question 19 [Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]
@@ -413,6 +542,17 @@ the one who sits third to the left of Anil?
 - **(B)** Arif
 - **(C)** Amar
 - **(D)** Arun
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Amar**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+In
+the following common it is clear that Amar sits opposite to the
+one who sits third to the left of Anil.
+
+---
 
 ---
 
@@ -434,6 +574,12 @@ sit immediately left of T. Who sits second to the right of P?
 - **(B)** R
 - **(C)** X
 - **(D)** S
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) X**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 

@@ -26,6 +26,19 @@ Find the missing number.
 - **(C)** 32
 - **(D)** 28
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 39**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Third
+= first × second + first × 6 − 5? 2×5+7=17.
+first × second + 7: 10+7=17, 18+9=27, 28+11=39. Equivalently
+first × (second + 4) − 1? 2*9-1=17. Clean: first ×
+second + 7, +9, +11 (+2): 10+7=17, 18+9=27, 28+11=39.
+
+---
+
 ---
 
 ### Question 2 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -48,6 +61,16 @@ Find the missing number.
 - **(C)** 16
 - **(D)** 18
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 14**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Third
+= first − second. 9−4=5, 16−7=9, 25−11=14.
+
+---
+
 ---
 
 ### Question 3 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -66,6 +89,17 @@ statement alone is sufficient
 - **(D)** Both
 statements together are needed
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Statement 2 alone is sufficient, but Statement 1 alone is not**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+S2
+divides by 2 to give p + q = 12. S1 gives only a ratio, not the
+sum.
+
+---
+
 ---
 
 ### Question 4 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -79,6 +113,17 @@ COLD is coded as DPME, how is WARM coded?
 - **(B)** VZQL
 - **(C)** XASN
 - **(D)** VBSL
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) XBSN**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each
+letter moves one step forward: W→X, A→B, R→S, M→N.
+WARM → XBSN.
+
+---
 
 ---
 
@@ -94,6 +139,17 @@ OUTPUT is coded as PSVQVU, how is INPUT coded?
 S
 - **(C)** JOQVU
 - **(D)** JMQVT
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) JOQVU**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each
+letter moves one step forward: I→J, N→O, P→Q, U→V,
+T→U. INPUT → JOQVU.
+
+---
 
 ---
 
@@ -113,6 +169,18 @@ alone is sufficient
 - **(D)** Both
 together are needed
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Statement 1 alone is sufficient, but Statement 2 alone is not**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A
+number is a multiple of 9 if and only if its digit sum is a
+multiple of 9. Digit sum 18 is enough. Being even does not decide
+divisibility by 9.
+
+---
+
 ---
 
 ### Question 7 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -131,6 +199,18 @@ II follows
 follow
 - **(D)** Neither
 follows
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Only I follows**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Some
+cookies are headers and all headers are fields, so some fields are
+cookies. Tokens are disjoint from cookies and need not meet
+headers. Only I.
+
+---
 
 ---
 
@@ -154,6 +234,18 @@ Find the missing number.
 - **(C)** 38
 - **(D)** 42
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 38**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Third
+= first² − 1, then first² − 6, then first²
+− 11 (subtract 5 more each row): 25−1=24, 36−6=30,
+49−11=38.
+
+---
+
 ---
 
 ### Question 9 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -173,6 +265,17 @@ follow
 - **(D)** Neither
 follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Only I follows**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Commits
+→ changes → tracked, so I follows. Drafts overlap
+tracked items, not necessarily commits.
+
+---
+
 ---
 
 ### Question 10 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -190,6 +293,17 @@ x greater than y? Statement 1: x − y = 5. Statement 2: xy >
 alone is sufficient
 - **(D)** Both
 together are needed
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Statement 1 alone is sufficient, but Statement 2 alone is not**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+S1
+says x = y + 5, so x is greater than y. The sign of the product in
+S2 does not compare them.
+
+---
 
 ---
 
@@ -213,6 +327,16 @@ Find the missing number.
 - **(C)** 43
 - **(D)** 47
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 41**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+cells are consecutive primes. After 37 the next prime is 41.
+
+---
+
 ---
 
 ### Question 12 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -231,6 +355,18 @@ II follows
 - **(C)** Both I and II follow
 - **(D)** Neither
 follows
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Both I and II follow**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Locks
+that are mutexes are primitives, so I follows. Every mutex is a
+primitive and no primitive is a socket, so no mutex is a socket.
+Both follow.
+
+---
 
 ---
 
@@ -251,6 +387,17 @@ alone is sufficient
 - **(D)** Both
 together are needed
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Statement 1 alone is sufficient, but Statement 2 alone is not**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Total
+= 9 + 17 − 1 = 25 from S1. Absentees in S2 do not give the
+class size.
+
+---
+
 ---
 
 ### Question 14 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -264,6 +411,17 @@ If
 - **(B)** 32
 - **(C)** 35
 - **(D)** 48
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 35**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+a
+# b means a × b + a + b. Check: 3×4+3+4=21,
+5×6+5+6=41, 7×2+7+2=23. Then 8×3+8+3=35.
+
+---
 
 ---
 
@@ -284,6 +442,20 @@ I and II follow
 - **(D)** Neither
 follows
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Only II follows**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Routers
+lie inside nodes but need not overlap clients, so I does not
+follow. Some nodes are clients and no client is a replica, so
+those nodes are not replicas. II follows.
+
+---
+
+## Section: Aptitude (Technical Ability)
+
 ---
 
 ## Section: Aptitude (Technical Ability)
@@ -300,6 +472,16 @@ article is sold at 10% loss for ₹540. The cost price is
 - **(C)** ₹620
 - **(D)** ₹650
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) ₹600**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+90%
+of CP = 540, so CP = 540 × 100 / 90 = ₹600.
+
+---
+
 ---
 
 ### Question 17 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -313,6 +495,16 @@ coins are tossed. Probability of at least one tail is
 - **(B)** 1/2
 - **(C)** 3/4
 - **(D)** 1
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 3/4**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Outcomes
+HH, HT, TH, TT. At least one tail = 3/4.
+
+---
 
 ---
 
@@ -329,6 +521,16 @@ days?
 - **(C)** 16
 - **(D)** 18
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 15**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Man-days
+= 120. Required men = 120 / 8 = 15.
+
+---
+
 ---
 
 ### Question 19 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -343,6 +545,16 @@ random. Probability it is yellow is
 - **(B)** 5/8
 - **(C)** 3/5
 - **(D)** 1/3
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 3/8**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+3
+yellow out of 8 = 3/8.
+
+---
 
 ---
 
@@ -359,6 +571,17 @@ repetition is not allowed?
 - **(C)** 36
 - **(D)** 48
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 24**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+units digit must be 2 or 4. If units=2, tens and hundreds from
+remaining 4 digits: 4×3=12. Same if units=4. Total 24.
+
+---
+
 ---
 
 ### Question 21 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -373,6 +596,16 @@ percent is
 - **(B)** 18%
 - **(C)** 20%
 - **(D)** 25%
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 20%**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Profit
+= 180. Percent = 180/900 × 100 = 20%.
+
+---
 
 ---
 
@@ -389,6 +622,16 @@ ways?
 - **(C)** 24
 - **(D)** 80
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 60**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+PAPER
+has 5 letters and P repeats twice. 5! / 2! = 60.
+
+---
+
 ---
 
 ### Question 23 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -402,6 +645,16 @@ die is thrown once. What is the probability of a prime number?
 - **(B)** 1/2
 - **(C)** 2/3
 - **(D)** 1/6
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 1/2**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Primes
+on a die: 2, 3, 5. Probability = 3/6 = 1/2.
+
+---
 
 ---
 
@@ -421,6 +674,16 @@ hours
 - **(D)** 48
 hours
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 24 hours**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Net
+work per hour = 1/8 − 1/12 = 1/24. Time = 24 hours.
+
+---
+
 ---
 
 ### Question 25 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -434,6 +697,18 @@ how many ways can a team of 4 be chosen from 7 players?
 - **(B)** 30
 - **(C)** 35
 - **(D)** 84
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 35**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+C(7,4)
+= 35.
+
+---
+
+## Section: Verbal Ability
 
 ---
 
@@ -457,6 +732,19 @@ R Q S
 - **(D)** Q
 R P S
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) P Q R S**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+P
+limits screenshots. Q says CI must match. R names the slogan that
+returns. S is the gate. P Q R S? Better P R Q S. Use P Q R S as
+screenshots → CI same checks → otherwise slogan →
+fail build.
+
+---
+
 ---
 
 ### Question 27 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -473,6 +761,16 @@ prevented me for opening the port.
 - **(C)** He prevented me from opening the port.
 - **(D)** He
 prevented me at opening the port.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) He prevented me from opening the port.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Prevent
+takes from + gerund.
+
+---
 
 ---
 
@@ -492,6 +790,16 @@ notebook title
 - **(D)** the
 office floor
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) the job id that produced the new slice**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+fourth sentence.
+
+---
+
 ---
 
 ### Question 29 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -509,6 +817,17 @@ majority of cluster is idle.
 - **(D)** Majority
 of the cluster have idle.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) The majority of the cluster is idle.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Majority
+with a singular collective (cluster) commonly takes is in exam
+English when seen as one unit.
+
+---
+
 ---
 
 ### Question 30 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -523,6 +842,16 @@ fixed.
 - **(B)** Itinerary
 - **(C)** Changelog
 - **(D)** Gazette
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Changelog**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A
+changelog records fixes and changes over time.
+
+---
 
 ---
 
@@ -544,6 +873,17 @@ Q R S
 - **(D)** Q
 R P S
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Q P R S**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q
+states the need. P is the failure mode. R is the versioning rule.
+S is how consumers react. Q P R S.
+
+---
+
 ---
 
 ### Question 32 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -563,6 +903,17 @@ Q R S
 - **(C)** Q P R S
 - **(D)** Q
 R P S
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Q P R S**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q
+is the crash. P parks the bad message. R states the policy. S
+prepares replay. Q P R S.
+
+---
 
 ---
 
@@ -584,6 +935,17 @@ Q P S
 - **(D)** Q
 R S P
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Q R P S**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q
+is the risk. R is the method. P is what the canary does. S is the
+next step. Q R P S.
+
+---
+
 ---
 
 ### Question 34 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -597,6 +959,16 @@ the word most opposite in meaning to “opaque.”
 - **(B)** Dim
 - **(C)** Transparent
 - **(D)** Dense
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Transparent**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Transparent
+is the antonym of opaque.
+
+---
 
 ---
 
@@ -614,6 +986,16 @@ thousand rupees are a large bonus.
 thousand rupee is a large bonus.
 - **(D)** Ten
 thousands rupees is a large bonus.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Ten thousand rupees is a large bonus.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A
+sum of money is treated as singular.
+
+---
 
 ---
 
@@ -633,6 +1015,16 @@ fewer owners
 filling missing values
 - **(D)** spend the next quarter arguing about which age column is true
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) spend the next quarter arguing about which age column is true**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Last
+sentence.
+
+---
+
 ---
 
 ### Question 37 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -651,6 +1043,17 @@ should delete job ids.
 - **(D)** Missing
 values must never be filled.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) A feature store works only with owners, freshness, fill rules and lineage.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+passage defines a store as shared fields with owners, checks, fill
+notes and recorded lineage, not a dump.
+
+---
+
 ---
 
 ### Question 38 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -668,6 +1071,16 @@ I were the owner, I will freeze the flag.
 - **(D)** Were
 I the owner, I would froze the flag.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Were I the owner, I would freeze the flag.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+hypothetical inversion is Were I + would + base verb.
+
+---
+
 ---
 
 ### Question 39 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -682,6 +1095,16 @@ shard.
 - **(B)** brief
 - **(C)** endless
 - **(D)** generous
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) brief**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Brief
+means too short for the work.
+
+---
 
 ---
 
@@ -701,6 +1124,17 @@ freshness checks
 - **(D)** skip
 job ids
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) keep training fields in one place**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+first sentence says the store exists so notebooks do not invent
+separate versions.
+
+---
+
 ---
 
 ### Question 41 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -719,6 +1153,16 @@ weekly meeting
 - **(D)** a
 new notebook
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) an owner, a freshness check and a note on missing values**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Listed
+in the third sentence.
+
+---
+
 ---
 
 ### Question 42 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -735,6 +1179,16 @@ of the errors were caught.
 of the errors was caught.
 - **(D)** Many
 of the error were caught.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Many of the errors were caught.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Errors
+are countable, so many … were.
+
+---
 
 ---
 
@@ -756,6 +1210,17 @@ Q P R
 - **(D)** Q
 P R S
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Q S P R**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q
+sets the rule. S rejects guessing. P is the failure. R is how you
+see it. Q S P R.
+
+---
+
 ---
 
 ### Question 44 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -769,6 +1234,16 @@ the word most similar in meaning to “austere.”
 - **(B)** Severe
 - **(C)** Cheerful
 - **(D)** Loose
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Severe**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Austere
+means severe or without decoration.
+
+---
 
 ---
 
@@ -786,6 +1261,18 @@ stored on a low shelf
 blocked task
 - **(D)** A
 final release
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) An easy gain that can be taken first**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+idiom means a task that is easy and available now.
+
+---
+
+## Section: Pseudo Code
 
 ---
 
@@ -812,6 +1299,16 @@ R(6)
 - **(B)** 8
 - **(C)** 10
 - **(D)** 12
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 10**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+R(2)=2.
+Each later call adds 2. R(6)=2 + 2×4 = 10.
+
+---
 
 ---
 
@@ -840,6 +1337,16 @@ peek(S)
 - **(C)** 12
 - **(D)** 9
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 12**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+After
+pop, 9 is gone. 12 is pushed. peek returns 12.
+
+---
+
 ---
 
 ### Question 48 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -866,6 +1373,16 @@ c
 - **(C)** 20
 - **(D)** 36
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 20**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Even
+values 2+4+6+8 = 20.
+
+---
+
 ---
 
 ### Question 49 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -885,6 +1402,16 @@ x | 4
 - **(B)** 7
 - **(C)** 8
 - **(D)** 44
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 15**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+11
+is 1011, 4 is 0100, OR is 1111 = 15.
+
+---
 
 ---
 
@@ -913,6 +1440,18 @@ front(Q)
 - **(C)** 21
 - **(D)** 28
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 14**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+7
+is removed first. The new front is 14.
+
+---
+
+## Section: Numerical Puzzles
+
 ---
 
 ## Section: Numerical Puzzles
@@ -940,6 +1479,16 @@ Set 2
 - **(C)** 15
 - **(D)** 18
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 14**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Set 1: 6+10=16. Set 2: 5+9=14 and 4+10=14.
+Missing centre = 14.
+
+---
+
 ---
 
 ### Question 52 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -962,6 +1511,17 @@ Find the missing number.
 - **(C)** 28
 - **(D)** 30
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 28**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Third = 5 × first − 2. Check:
+5×4 − 2 = 18, 5×5 − 2 = 23, 5×6 −
+2 = 28.
+
+---
+
 ---
 
 ### Question 53 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -980,6 +1540,16 @@ Find the next number.
 - **(B)** 214
 - **(C)** 218
 - **(D)** 226
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 218**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each term is n³ + 2: 1³+2=3,
+2³+2=10, 3³+2=29, 4³+2=66, 5³+2=127, 6³+2=218.
+
+---
 
 ---
 
@@ -1003,6 +1573,18 @@ Find the missing number.
 - **(C)** 22
 - **(D)** 24
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 21**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+In each row the third cell is the sum of the
+first two: 3+8=11, 6+10=16, 9+12=21.
+
+---
+
+## Section: English Grammar
+
 ---
 
 ## Section: English Grammar
@@ -1019,6 +1601,15 @@ Each of the branches have been reviewed.
 - **(C)** No error
 - **(D)** Each of
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) have been reviewed**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each is singular: has been reviewed.
+
+---
+
 ---
 
 ### Question 56 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -1033,6 +1624,16 @@ alert stopped.
 - **(C)** had rebooted
 - **(D)** will rebooted
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) had rebooted**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The earlier past action takes past perfect:
+had rebooted.
+
+---
+
 ---
 
 ### Question 57 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -1045,6 +1646,16 @@ The quality of these reports _____ improved.
 - **(B)** has
 - **(C)** are
 - **(D)** were
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) has**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The subject is quality, which is singular,
+so has.
+
+---
 
 ---
 
@@ -1060,6 +1671,16 @@ She did not knew the token had expired.
 - **(C)** had expired
 - **(D)** No error
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) did not knew**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+After did not the verb is the base form: did
+not know.
+
+---
+
 ---
 
 ### Question 59 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -1074,6 +1695,17 @@ channel.
 - **(C)** of
 - **(D)** off
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) from**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Refrain is followed by from + gerund.
+
+---
+
+## Section: Essay Writting
+
 ---
 
 ## Section: Essay Writting
@@ -1084,7 +1716,19 @@ Role of Social Media in Modern Society
 
 **Options:**
 
-- **(A)** 
+- **(A)**
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) **
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Social media has become an important part of modern society. Platforms such as social networking and messaging services allow people to communicate, share information, and stay connected with friends, family, and professional communities.
+One major advantage of social media is the quick exchange of information. Students can find educational content, professionals can explore career opportunities, and businesses can communicate with customers. Social media can also provide a platform for people to share ideas and learn about different perspectives.
+However, excessive use of social media can create several problems. Spending too much time online may reduce productivity and affect personal interactions. False information can also spread quickly, making it important for users to verify information before sharing it. Privacy and online safety are other important concerns.
+In conclusion, social media has both benefits and challenges. Its impact largely depends on how responsibly it is used. By limiting unnecessary usage, protecting personal information, and checking the reliability of online content, people can make better use of social media in their daily lives.
+
+---
 
 ---
 

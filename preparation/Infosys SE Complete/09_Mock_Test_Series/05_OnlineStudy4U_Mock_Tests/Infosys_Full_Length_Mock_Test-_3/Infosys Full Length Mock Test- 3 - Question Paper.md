@@ -18,6 +18,17 @@ ANALOG coded?
 - **(C)** BOBNPH
 - **(D)** BMBMPH
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) BOBMPH**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each letter moves one step forward: A→B,
+N→O, A→B, L→M, O→P, G→H. So ANALOG →
+BOBMPH.
+
+---
+
 ---
 
 ### Question 2 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -32,6 +43,16 @@ All sensors are routers.
 - **(B)** Only II follows
 - **(C)** Both follow
 - **(D)** Neither follows
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) Neither follows**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Routers are inside devices. Sensors overlap
+devices, not necessarily routers. Neither conclusion follows.
+
+---
 
 ---
 
@@ -48,6 +69,17 @@ implicit?
 - **(C)** Only graduates use phones.
 - **(D)** Tracking is impossible on a computer.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Applicants may want to check status on a phone.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+An official app is offered because some
+applicants are expected to check status from a phone. The other
+options are not required.
+
+---
+
 ---
 
 ### Question 4 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -61,6 +93,16 @@ minute hands at 3:20?
 - **(B)** 25°
 - **(C)** 30°
 - **(D)** 35°
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 20&deg;**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Minute hand = 20 × 6 = 120°. Hour
+hand = 3 × 30 + 20 × 0.5 = 100°. Angle = 20°.
+
+---
 
 ---
 
@@ -77,6 +119,17 @@ is not first. Which car finishes first?
 - **(C)** Yellow
 - **(D)** Green
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Red**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Green is last. Red immediately before Blue
+gives the block RB. Yellow is not first, so first cannot be Yellow
+or Green. First must be Red: order Red, Blue, Yellow, Green.
+
+---
+
 ---
 
 ### Question 6 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -91,6 +144,18 @@ Step II: “week next exam held”. What is Step III?
 - **(B)** week held next exam
 - **(C)** next week exam held
 - **(D)** week exam next held
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) week next held exam**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each step takes the last word of the
+remaining right part and places it after the already-fixed left
+part, in reverse dictionary order: week, then next, then held,
+then exam. Step III is week next held exam.
+
+---
 
 ---
 
@@ -107,6 +172,17 @@ the person in the photograph related to Kavya?
 - **(C)** Brother
 - **(D)** Uncle
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Cousin**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Kavya’s mother’s only brother is
+Kavya’s maternal uncle. His only son is Kavya’s
+cousin.
+
+---
+
 ---
 
 ### Question 8 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -122,6 +198,16 @@ direction?
 - **(C)** 6 m east
 - **(D)** 16 m east
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 6 m east**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The 10 m north and 10 m south cancel. He is
+6 m east of the start.
+
+---
+
 ---
 
 ### Question 9 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -135,6 +221,17 @@ If 1 January 2024 was a Monday, what day was
 - **(B)** Wednesday
 - **(C)** Friday
 - **(D)** Saturday
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Friday**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+2024 is a leap year, so January has 31 days
+and February has 29. Days from 1 Jan to 1 Mar = 31 + 29 = 60. 60
+mod 7 = 4. Monday + 4 = Friday.
+
+---
 
 ---
 
@@ -150,6 +247,16 @@ Book : Author :: Symphony : ?
 - **(C)** Orchestra
 - **(D)** Stage
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Composer**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+An author creates a book. A composer creates
+a symphony.
+
+---
+
 ---
 
 ### Question 11 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -162,6 +269,17 @@ Find the next term: 7, 10, 16, 28, 52, ?
 - **(B)** 94
 - **(C)** 100
 - **(D)** 108
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 100**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each term = previous × 2 − 4:
+7×2−4=10, 10×2−4=16, 16×2−4=28,
+28×2−4=52, 52×2−4=100.
+
+---
 
 ---
 
@@ -177,6 +295,16 @@ Choose the odd one out: 121, 144, 169, 196,
 - **(C)** 169
 - **(D)** 222
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) 222**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+121=11², 144=12², 169=13²,
+196=14². 222 is not a perfect square.
+
+---
+
 ---
 
 ### Question 13 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -191,6 +319,16 @@ conclusion is definitely true?
 - **(C)** P = T
 - **(D)** R > T
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) P > S**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+P is greater than Q, and Q = R ≥ S, so P
+> S. Q = R ≥ S < T does not compare Q with T.
+
+---
+
 ---
 
 ### Question 14 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -204,6 +342,15 @@ the front. What is her position from the rear?
 - **(B)** 24th
 - **(C)** 25th
 - **(D)** 22nd
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 24th**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Position from rear = 35 − 12 + 1 = 24.
+
+---
 
 ---
 
@@ -221,6 +368,18 @@ middle?
 - **(C)** T
 - **(D)** S
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) T**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+P at left end gives P, Q, T, R, S. The
+middle seat is T.
+
+---
+
+## Section: Aptitude (Technical Ability)
+
 ---
 
 ## Section: Aptitude (Technical Ability)
@@ -235,6 +394,16 @@ The value of 40% of 250 + 15% of 400 is
 - **(B)** 150
 - **(C)** 160
 - **(D)** 170
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 160**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+40% of 250 = 100. 15% of 400 = 60. Sum =
+160.
+
+---
 
 ---
 
@@ -251,6 +420,16 @@ fills in
 - **(C)** 30 hours
 - **(D)** 6 hours
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 30 hours**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Net work per hour = 1/10 − 1/15 =
+1/30. Time = 30 hours.
+
+---
+
 ---
 
 ### Question 18 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -264,6 +443,16 @@ number 22 is replaced by 12, the new average is
 - **(B)** 17
 - **(C)** 15
 - **(D)** 14
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 16**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Total was 90. New total = 90 − 22 + 12
+= 80. New average = 80/5 = 16.
+
+---
 
 ---
 
@@ -280,6 +469,17 @@ present age is
 - **(C)** 14 years
 - **(D)** 16 years
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 12 years**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Let ages be 7x and 2x. (7x+6)/(2x+6) = 8/3.
+3(7x+6)=8(2x+6) → 21x+18=16x+48 → 5x=30 → x=6. Son
+= 12.
+
+---
+
 ---
 
 ### Question 20 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -295,6 +495,17 @@ A’s share is
 - **(C)** ₹3,000
 - **(D)** ₹3,300
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) ₹2,750**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Ratio of capitals × time = 30,000×8
+: 40,000×6 = 240 : 240 = 1 : 1. A gets half of 5,500 =
+₹2,750.
+
+---
+
 ---
 
 ### Question 21 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -308,6 +519,16 @@ per year. What is the interest after 3 years?
 - **(B)** ₹1,000
 - **(C)** ₹1,200
 - **(D)** ₹1,500
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) ₹1,200**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+SI = PRT/100 = 5000×8×3 / 100 =
+₹1,200.
+
+---
 
 ---
 
@@ -323,6 +544,16 @@ B : C is
 - **(C)** 18 : 24 : 14
 - **(D)** 3 : 6 : 7
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 9 : 12 : 14**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+B must match: A:B = 3:4 = 9:12 and B:C = 6:7
+= 12:14. So A:B:C = 9:12:14.
+
+---
+
 ---
 
 ### Question 23 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -336,6 +567,16 @@ decreased by 20%. The net change is
 - **(B)** 5% decrease
 - **(C)** no change
 - **(D)** 2.5% decrease
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) no change**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Let the number be 100. After +25% it is 125.
+After −20% it is 100. Net change is zero.
+
+---
 
 ---
 
@@ -351,6 +592,16 @@ by 7?
 - **(C)** 3
 - **(D)** 4
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 2**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+2^1=2, 2^2=4, 2^3=1 (mod 7), then cycle
+length 3. 10 = 3×3 + 1, so remainder equals 2^1 = 2.
+
+---
+
 ---
 
 ### Question 25 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -364,6 +615,18 @@ seconds does it take to pass a pole?
 - **(B)** 12 s
 - **(C)** 15 s
 - **(D)** 18 s
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 12 s**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+54 km/h = 54×5/18 = 15 m/s. Time =
+180/15 = 12 s.
+
+---
+
+## Section: Verbal Ability
 
 ---
 
@@ -381,6 +644,16 @@ _____ to support a firm conclusion.
 - **(C)** ample
 - **(D)** decisive
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) scanty**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Scanty means insufficient. The other three
+suggest there was enough evidence.
+
+---
+
 ---
 
 ### Question 27 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -393,6 +666,17 @@ Choose the grammatically correct sentence.
 - **(B)** The team as well as the lead are agreed.
 - **(C)** The team as well as the lead has agreed.
 - **(D)** The team as well as the lead have agree.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) The team as well as the lead has agreed.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+With “as well as,” the verb
+agrees with the first subject “team” (singular): has
+agreed.
+
+---
 
 ---
 
@@ -408,6 +692,16 @@ Choose the word most opposite in meaning to
 - **(C)** Contract
 - **(D)** Grow
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Contract**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Contract means to become smaller, the
+opposite of expand.
+
+---
+
 ---
 
 ### Question 29 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -422,6 +716,17 @@ A copyleft licence may require a company to
 - **(B)** rename the library
 - **(C)** publish its own source if the library is mixed into a shipped product
 - **(D)** delete all comments
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) publish its own source if the library is mixed into a shipped product**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The third sentence states that copyleft can
+require publishing the company’s own source when the library
+is mixed into a shipped product.
+
+---
 
 ---
 
@@ -441,6 +746,17 @@ source.
 - **(D)** Legal reviews should be delayed until
 release week.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Shared libraries save time only if licences are tracked early.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The passage balances the speed of shared
+libraries with the need to track licences from the first sprint so
+late rewrites are avoided.
+
+---
+
 ---
 
 ### Question 31 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -455,6 +771,17 @@ reliable.
 - **(C)** The data collected last year is being
 reliable.
 - **(D)** The datas collected last year are reliable.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) The data collected last year are reliable.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+In exam English, “data” is
+treated as plural here with “are.” “Datas”
+is not a word.
+
+---
 
 ---
 
@@ -471,6 +798,16 @@ Late legal reviews are a problem because they
 - **(C)** remove the need for credit
 - **(D)** make permissive licences heavier
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) often find a blocked component and force a rewrite**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The passage says reviews a week before
+release often find a blocked component and force a rewrite.
+
+---
+
 ---
 
 ### Question 33 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -485,6 +822,16 @@ Permissive licences still require
 - **(B)** credit
 - **(C)** a one-week delay
 - **(D)** a rewrite of every module
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) credit**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The passage says permissive licences are
+lighter but still ask for credit.
+
+---
 
 ---
 
@@ -501,6 +848,16 @@ Teams avoid last-minute scramble by
 - **(C)** keeping a licence inventory from the first sprint
 - **(D)** shipping without review
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) keeping a licence inventory from the first sprint**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The last sentence recommends a licence
+inventory from the first sprint.
+
+---
+
 ---
 
 ### Question 35 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -514,6 +871,16 @@ Choose the word most similar in meaning to
 - **(B)** Practical
 - **(C)** Careless
 - **(D)** Vague
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Practical**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Pragmatic means dealing with things in a
+practical way.
+
+---
 
 ---
 
@@ -530,6 +897,16 @@ alerts stopped.
 alerts stopped.
 - **(D)** Hardly the server restarted when the alerts
 stopped.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Hardly had the server restarted when the alerts stopped.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Hardly is followed by inversion (had the
+server) and paired with when.
+
+---
 
 ---
 
@@ -548,6 +925,17 @@ eyes.
 - **(C)** P Q R S
 - **(D)** S Q P R
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Q P R S**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q names the fault. P is the practice that
+catches it. R states the rule. S adds why guides are not enough. Q
+P R S.
+
+---
+
 ---
 
 ### Question 38 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -564,6 +952,16 @@ Health checks decide when the switch must happen.
 - **(C)** R Q P S
 - **(D)** R Q S P
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) R Q P S**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+R states the requirement. Q is the design. P
+is the failover. S is how the switch is decided. R Q P S.
+
+---
+
 ---
 
 ### Question 39 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -576,6 +974,16 @@ Choose the grammatically correct sentence.
 - **(B)** She congratulated me on my promotion.
 - **(C)** She congratulated me to my promotion.
 - **(D)** She congratulated me with my promotion.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) She congratulated me on my promotion.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The standard collocation is “congratulated
+on.”
+
+---
 
 ---
 
@@ -591,6 +999,16 @@ mean?
 - **(C)** Finish extra work
 - **(D)** Share credit equally
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Do something in the cheapest or quickest way, leaving out steps**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+To cut corners is to skip steps to save time
+or money, often lowering quality.
+
+---
+
 ---
 
 ### Question 41 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -604,6 +1022,16 @@ Choose the grammatically correct sentence.
 - **(C)** Fewer error was logged after the patch.
 - **(D)** Less number of errors was logged after the
 patch.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Fewer errors were logged after the patch.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Errors are countable, so “fewer”
+is correct, not “less.”
+
+---
 
 ---
 
@@ -622,6 +1050,17 @@ client complains.
 - **(C)** Q R P S
 - **(D)** R Q S P
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Q P R S**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q states the need. P is the failure mode. R
+is the operational response. S comments on skipping it. Order Q P
+R S.
+
+---
+
 ---
 
 ### Question 43 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -638,6 +1077,17 @@ task detail. S: Speaking to the board keeps each update short.
 - **(C)** P R Q S
 - **(D)** Q P S R
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Q R S P**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q states the aim. R notes where detail
+already lives. S is the method. P warns what happens when it
+fails. Q R S P.
+
+---
+
 ---
 
 ### Question 44 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -651,6 +1101,16 @@ with updated facts.
 - **(B)** Journal
 - **(C)** Almanac
 - **(D)** Memoir
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Almanac**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+An almanac is published yearly with revised
+information.
+
+---
 
 ---
 
@@ -668,6 +1128,18 @@ wrong story.
 - **(B)** Q P S R
 - **(C)** S Q P R
 - **(D)** P Q R S
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Q S P R**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q is the trap. S is the cost. P is the
+simple fix. R is the process rule. Q S P R.
+
+---
+
+## Section: Pseudo Code
 
 ---
 
@@ -698,6 +1170,16 @@ d
 - **(C)** 5
 - **(D)** 6
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 5**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+48→24→12→6→3→1.
+That is five divisions. d = 5. (Integer division: 3/2=1.)
+
+---
+
 ---
 
 ### Question 47 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -725,6 +1207,16 @@ s
 - **(C)** 24
 - **(D)** 30
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 12**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Values divisible by 4 are 4 and 8. s = 4 + 8
+= 12.
+
+---
+
 ---
 
 ### Question 48 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -743,6 +1235,16 @@ x & 3
 - **(B)** 2
 - **(C)** 3
 - **(D)** 8
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 2**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+10 is 1010 and 3 is 0011. AND is 0010, which
+is 2.
+
+---
 
 ---
 
@@ -769,6 +1271,16 @@ peek(S)
 - **(C)** 9
 - **(D)** Empty
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 1**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+After three pushes the top is 9. Two pops
+remove 9 then 4. peek returns 1.
+
+---
+
 ---
 
 ### Question 50 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -791,6 +1303,17 @@ G(4)
 - **(B)** 16
 - **(C)** 24
 - **(D)** 64
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 24**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+G is factorial. G(4)=4×3×2×1=24.
+
+---
+
+## Section: Numerical Puzzles
 
 ---
 
@@ -819,6 +1342,16 @@ Wheel B
 - **(C)** 10
 - **(D)** 12
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 9**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Wheel A: 5+4=9 and 4+5=9. Wheel B: 7+2=9 and
+6+3=9. The missing centre is 9.
+
+---
+
 ---
 
 ### Question 52 [Marks: +{'positive': 3, 'negative': 0, 'negativeUnattempted': 0}]
@@ -837,6 +1370,16 @@ Find the next number: 4, 9, 19, 39, 79, ?
 - **(B)** 157
 - **(C)** 159
 - **(D)** 169
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 159**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each term = previous × 2 + 1: 4×2+1=9,
+9×2+1=19, 19×2+1=39, 39×2+1=79, 79×2+1=159.
+
+---
 
 ---
 
@@ -860,6 +1403,17 @@ Find the missing number.
 - **(C)** 26
 - **(D)** 30
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 24**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Third = first × second + 2, then +3,
+then +4: 2×3+2=8, 3×4+3=15, 4×5+4=24.
+Equivalently first × (second + 1).
+
+---
+
 ---
 
 ### Question 54 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -882,6 +1436,18 @@ Find the missing number.
 - **(C)** 12
 - **(D)** 10
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 14**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Third = first − second: 11−6=5,
+17−8=9, 23−9=14.
+
+---
+
+## Section: English Grammar
+
 ---
 
 ## Section: English Grammar
@@ -898,6 +1464,16 @@ long walk in this heat.
 - **(C)** in this heat
 - **(D)** No error
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) are a long walk**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A distance taken as a single measure is
+singular: “Ten kilometres is a long walk.”
+
+---
+
 ---
 
 ### Question 56 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -911,6 +1487,16 @@ already.
 - **(B)** has started
 - **(C)** had started
 - **(D)** will start
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) had started**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Two past events: the earlier one takes past
+perfect. The talk had started before we reached.
+
+---
 
 ---
 
@@ -926,6 +1512,16 @@ here since three years.
 - **(C)** here
 - **(D)** No error
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) since three years**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+“Since” takes a point in time. A
+period takes “for”: for three years.
+
+---
+
 ---
 
 ### Question 58 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -938,6 +1534,16 @@ The pair of shoes _____ on the rack.
 - **(B)** is
 - **(C)** were
 - **(D)** have
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) is**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The subject is “pair”
+(singular), so the verb is “is.”
+
+---
 
 ---
 
@@ -953,6 +1559,18 @@ interns.
 - **(C)** with
 - **(D)** into
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) among**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Use “among” for more than two
+people. “Between” is for two.
+
+---
+
+## Section: Essay Writting
+
 ---
 
 ## Section: Essay Writting
@@ -963,7 +1581,20 @@ The Importance of Time Management in Student Life
 
 **Options:**
 
-- **(A)** 
+- **(A)**
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) **
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Time management is an essential skill that helps students achieve their academic and personal goals. It means planning and organizing time effectively to complete different tasks. In today's competitive world, good time management is important for success in education and professional life.
+Students often have to manage studies, assignments, examinations, and personal activities. Creating a daily timetable helps them prioritize important tasks and avoid unnecessary stress. Proper time management also improves concentration, productivity, and self-discipline.
+One of the major benefits of time management is that it helps students complete their work on time. It also provides enough time for revision, skill development, and relaxation. Students who manage their time effectively can maintain a better balance between studies and personal life.
+However, time management requires consistency and dedication. Avoiding distractions such as excessive social media use can help students focus on their goals.
+In conclusion, time management is a key factor in student success. By developing good time management habits, students can improve their performance, reduce stress, and prepare themselves for a successful future.
+
+---
 
 ---
 

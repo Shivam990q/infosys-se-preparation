@@ -19,6 +19,17 @@ direction is he from the starting point?
 - **(C)** 8 km South
 - **(D)** 18 km West
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 8 km South**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Path: 10 km West, then left (South) 8 km,
+then left (East) 10 km. The eastward 10 km cancels the westward 10
+km, leaving him 8 km due South of the start.
+
+---
+
 ---
 
 ### Question 2 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -34,6 +45,18 @@ follows?
 - **(C)** The meeting may or may not have been on
 Monday
 - **(D)** Kavya never attends meetings
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) The meeting was not held on Monday**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+This is modus tollens: from “If P then
+Q” and “not Q”, infer “not P”. P =
+meeting on Monday, Q = Kavya attends. She did not attend, so the
+meeting was not on Monday.
+
+---
 
 ---
 
@@ -51,6 +74,17 @@ An online booking facility is available. Which is implicit?
 - **(C)** Both I and II are implicit
 - **(D)** Neither is implicit
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Both I and II are implicit**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The advice is useful only if people want to
+skip queues (I) and only if online booking actually exists (II).
+Both assumptions are implicit.
+
+---
+
 ---
 
 ### Question 4 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -66,6 +100,16 @@ written using the same rule?
 - **(C)** 15-5-14-3-9-12
 - **(D)** 16-5-14-3-8-12
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 16-5-14-3-9-12**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Use each letter’s serial number: P=16,
+E=5, N=14, C=3, I=9, L=12. So PENCIL → 16-5-14-3-9-12.
+
+---
+
 ---
 
 ### Question 5 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -79,6 +123,17 @@ the week was 15 August 2024?
 - **(B)** Thursday
 - **(C)** Friday
 - **(D)** Saturday
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Thursday**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+2024 is a leap year and 29 February 2024
+falls between the two dates, so the gap is 366 days = 52 weeks + 2
+extra days. Tuesday + 2 = Thursday.
+
+---
 
 ---
 
@@ -94,6 +149,18 @@ Find the wrong number in the series: 2, 6,
 - **(C)** 70
 - **(D)** 30
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 70**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The intended pattern is n(n+1): 1×2=2,
+2×3=6, 3×4=12, 4×5=20, 5×6=30, 6×7=42,
+7×8=56, 8×9=72. The last term should be 72, so 70 is
+wrong.
+
+---
+
 ---
 
 ### Question 7 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -108,6 +175,17 @@ grandfather.” How is the girl related to Rohan?
 - **(B)** Daughter
 - **(C)** Sister
 - **(D)** Niece
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Sister**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The only son of Rohan’s grandfather is
+Rohan’s father. The daughter of Rohan’s father is
+Rohan’s sister.
+
+---
 
 ---
 
@@ -125,6 +203,18 @@ end. Who sits at the extreme right?
 - **(C)** C
 - **(D)** E
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) C**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+B occupies the left end (position 1). D
+between B and A forces B, D, A. A second to the left of C places C
+at position 5. E takes position 4. Arrangement: B D A E C. Extreme
+right is C.
+
+---
+
 ---
 
 ### Question 9 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -138,6 +228,18 @@ relationship as Surgeon : Scalpel.
 - **(B)** Author : Novel
 - **(C)** Sculptor : Chisel
 - **(D)** Farmer : Crop
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Sculptor : Chisel**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A scalpel is the primary tool a surgeon
+works with. A chisel is the primary tool a sculptor works with.
+The other options are workplace, product, or output — not
+tool.
+
+---
 
 ---
 
@@ -153,6 +255,18 @@ Find the next number in the series: 5, 11,
 - **(C)** 221
 - **(D)** 225
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 217**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each term is formed as (previous × 2)
+plus an increasing integer: 5×2+1 = 11, 11×2+2 = 24,
+24×2+3 = 51, 51×2+4 = 106. The next term is 106×2+5
+= 217.
+
+---
+
 ---
 
 ### Question 11 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -166,6 +280,17 @@ O, U, ?
 - **(B)** A
 - **(C)** B
 - **(D)** Y
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) B**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Letter positions: C=3, F=6, J=10, O=15,
+U=21. The gaps are +3, +4, +5, +6. The next gap is +7, so 21+7 =
+28. Wrapping the alphabet (28−26 = 2) gives B.
+
+---
 
 ---
 
@@ -182,6 +307,17 @@ occasions?
 - **(C)** 4:40
 - **(D)** 4:42 8/11 min
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 4:38 2/11 min**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Use |30H − 5.5M| = 90 with H = 4. This
+gives 5.5M = 30 or 5.5M = 210, so M = 5 5/11 or M = 38 2/11. The
+later occasion is 4:38 2/11 minutes.
+
+---
+
 ---
 
 ### Question 13 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -197,6 +333,16 @@ code?
 - **(C)** BRRNG
 - **(D)** CRRNF
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) CRRNG**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Shift every letter +2 in the alphabet: A→C,
+P→R, P→R, L→N, E→G. The code is CRRNG.
+
+---
+
 ---
 
 ### Question 14 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -211,6 +357,18 @@ All flowers are roses. Which conclusion(s) follow?
 - **(B)** Only II follows
 - **(C)** Both follow
 - **(D)** Neither I nor II follows
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) Neither I nor II follows**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+“Some flowers fade quickly” need
+not include the subset of flowers that are roses, so I is not
+definite. II reverses a universal statement and does not follow.
+Neither conclusion is certain.
+
+---
 
 ---
 
@@ -228,6 +386,19 @@ rank from the top?
 - **(C)** 4
 - **(D)** 5
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 3**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Better rank means a smaller position number.
+Riya’s rank = Amit’s rank − (students between
+them) − 1 = 12 − 8 − 1 = 3.
+
+---
+
+## Section: Aptitude (Technical Ability)
+
 ---
 
 ## Section: Aptitude (Technical Ability)
@@ -243,6 +414,17 @@ If a:b = 3:4 and b:c = 5:6, find a:b:c.
 - **(C)** 15:20:30
 - **(D)** 3:5:6
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 15:20:24**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Make b the same in both ratios. LCM of 4 and
+5 is 20. Scale a:b = 3:4 by 5 → 15:20. Scale b:c = 5:6 by 4 →
+20:24. Combined ratio a:b:c = 15:20:24.
+
+---
+
 ---
 
 ### Question 17 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -256,6 +438,16 @@ How long will it take to pass a pole?
 - **(B)** 12 seconds
 - **(C)** 15 seconds
 - **(D)** 18 seconds
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 12 seconds**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Speed = 54 × 5/18 = 15 m/s. Time to
+pass a pole = length / speed = 180 / 15 = 12 seconds.
+
+---
 
 ---
 
@@ -271,6 +463,17 @@ Find the remainder when 3^25 is divided by
 - **(C)** 3
 - **(D)** 4
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 3**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Powers of 3 modulo 5 cycle every 4: 3, 4, 2,
+1. Since 25 = 4×6 + 1, the remainder is the 1st residue in
+the cycle, which is 3.
+
+---
+
 ---
 
 ### Question 19 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -284,6 +487,16 @@ for 2 years at 10% per annum, compounded annually.
 - **(B)** ₹1050
 - **(C)** ₹1100
 - **(D)** ₹1200
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) ₹1050**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+CI = P[(1 + R/100)^n − 1] =
+5000[(1.10)^2 − 1] = 5000 × 0.21 = ₹1050.
+
+---
 
 ---
 
@@ -300,6 +513,17 @@ the work if they work together?
 - **(C)** 7.5 days
 - **(D)** 8 days
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 6 days**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A’s 1-day work = 1/15, B’s 1-day
+work = 1/10. Together = 1/15 + 1/10 = 1/6. So they finish the work
+in 6 days.
+
+---
+
 ---
 
 ### Question 21 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -314,6 +538,17 @@ the probability of getting a sum of 7?
 - **(C)** 1/6
 - **(D)** 5/36
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 1/6**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Favourable outcomes: (1,6), (2,5), (3,4),
+(4,3), (5,2), (6,1) — 6 outcomes. Total outcomes = 36.
+Probability = 6/36 = 1/6.
+
+---
+
 ---
 
 ### Question 22 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -327,6 +562,16 @@ decreased by 20%. What is the net percentage change?
 - **(B)** 4% increase
 - **(C)** 4% decrease
 - **(D)** 2% decrease
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 4% decrease**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Net multiplying factor = 1.20 × 0.80 =
+0.96. This is a 4% decrease from the original value.
+
+---
 
 ---
 
@@ -343,6 +588,16 @@ percentage.
 - **(C)** 12.5%
 - **(D)** 15%
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 12.5%**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Take CP = 100. Marked price = 125. After 10%
+discount, SP = 125 × 0.90 = 112.5. Profit = 12.5%.
+
+---
+
 ---
 
 ### Question 24 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -358,6 +613,16 @@ change in its area?
 - **(C)** 10% increase
 - **(D)** No change
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 8% increase**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+New area factor = 1.20 × 0.90 = 1.08.
+The area increases by 8%.
+
+---
+
 ---
 
 ### Question 25 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -371,6 +636,18 @@ The HCF and LCM of two numbers are 18 and
 - **(B)** 126
 - **(C)** 144
 - **(D)** 162
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 126**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Product of the two numbers = HCF × LCM
+= 18 × 252 = 4536. Other number = 4536 / 36 = 126.
+
+---
+
+## Section: Verbal Ability
 
 ---
 
@@ -390,6 +667,17 @@ staff
 - **(C)** cannot observe experienced colleagues
 - **(D)** refuse to follow hybrid schedules
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) cannot observe experienced colleagues**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The passage states directly that new joiners
+learn less quickly when they cannot observe experienced
+colleagues.
+
+---
+
 ---
 
 ### Question 27 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -403,6 +691,17 @@ Choose the word most opposite in meaning to
 - **(B)** Limited
 - **(C)** Abundant
 - **(D)** Insufficient
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Abundant**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Scarce means in short supply. Abundant means
+present in large quantity. The other three are near-synonyms of
+scarce.
+
+---
 
 ---
 
@@ -422,6 +721,17 @@ clear, current instructions.
 - **(C)** S P Q R
 - **(D)** R S Q P
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) S Q P R**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+S sets the general point. Q gives a specific
+failure. P shows the customer effect. R states the policy
+response. Order: S Q P R.
+
+---
+
 ---
 
 ### Question 29 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -440,6 +750,16 @@ then never reach the table.
 - **(C)** R Q S P
 - **(D)** S Q P R
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Q S P R**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q names the behaviour. S is the immediate
+result. P is the longer cost. R offers the remedy. Order: Q S P R.
+
+---
+
 ---
 
 ### Question 30 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -452,6 +772,18 @@ Choose the grammatically correct sentence.
 - **(B)** Each of the players has received a medal.
 - **(C)** Each of the player has received a medal.
 - **(D)** Each of the players are received a medal.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Each of the players has received a medal.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+"Each" is singular, so it takes
+"has." The plural noun after "of" does not
+control the verb. "Player" would also be wrong because
+"each of" needs a plural noun.
+
+---
 
 ---
 
@@ -471,6 +803,17 @@ classroom knowledge and supervised practice.
 - **(C)** S Q P R
 - **(D)** P Q R S
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Q S P R**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q states what campus courses give. S draws
+the need for both theory and practice. P explains the mentor’s
+role. R warns what happens without it. Order: Q S P R.
+
+---
+
 ---
 
 ### Question 32 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -485,6 +828,17 @@ author suggests that hybrid models succeed mainly because of
 - **(C)** clear norms for meeting, documenting and
 including remote colleagues
 - **(D)** longer commuting hours
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (C)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The last sentence says success depends less
+on software tools than on clear norms for meetings, documentation
+and inclusion.
+
+---
 
 ---
 
@@ -519,6 +873,18 @@ work has both benefits and limits.
 models succeed.
 - **(D)** New joiners prefer working only from home.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (B)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The passage notes gains from remote work,
+then its drawbacks for collaboration and new joiners, and ends
+with hybrid models plus the need for norms. That balanced shift is
+the main idea.
+
+---
+
 ---
 
 ### Question 34 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -533,6 +899,16 @@ Choose the grammatically correct sentence.
 - **(D)** She is more senior than I in the
 organisation.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) She is senior to me in the organisation.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Latin comparatives such as senior, junior,
+superior and inferior are followed by "to," not "than."
+
+---
+
 ---
 
 ### Question 35 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -546,6 +922,17 @@ argument was so _____ that nobody could find a flaw in it.
 - **(B)** fallible
 - **(C)** watertight
 - **(D)** redundant
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) watertight**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Watertight means having no gaps or
+weaknesses. Vague and fallible suggest weakness; redundant means
+unnecessarily repeated.
+
+---
 
 ---
 
@@ -564,6 +951,17 @@ decline, depending on the kind of work
 - **(C)** researchers used poor data
 - **(D)** productivity cannot be measured at all
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (B)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The next sentences explain the mix:
+individual task completion often improves, but collaboration on
+complex problems slows down.
+
+---
+
 ---
 
 ### Question 37 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -580,6 +978,17 @@ this year.
 year.
 - **(D)** A number of applicants has increased this
 year.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (B)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+"The number of" is singular and
+takes "has." ("A number of" is plural and
+would take "have," but that would change the meaning.)
+
+---
 
 ---
 
@@ -598,6 +1007,17 @@ commuting.
 becomes faster.
 - **(D)** Hybrid models have no office days at all.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** **Correct Answer:** (C)
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The passage says individual task completion
+often improves when people work from home. The other options
+contradict the text.
+
+---
+
 ---
 
 ### Question 39 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -612,6 +1032,17 @@ can use both hands equally well.
 - **(C)** Ambidextrous
 - **(D)** Amphibious
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Ambidextrous**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Ambidextrous describes equal skill with both
+hands. Ambiguous means unclear; ambivert is a personality type;
+amphibious means living on land and water.
+
+---
+
 ---
 
 ### Question 40 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -625,6 +1056,16 @@ the nail on the head."
 - **(B)** Describe a situation exactly right
 - **(C)** Finish a task too quickly
 - **(D)** Blame someone unfairly
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Describe a situation exactly right**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+To hit the nail on the head is to identify
+the exact point or say something precisely correct.
+
+---
 
 ---
 
@@ -643,6 +1084,17 @@ Fewer cars mean lower emissions of fine particles.
 - **(C)** S Q R P
 - **(D)** P Q S R
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Q S R P**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q is the topic sentence. S explains the
+mechanism. R adds where the health benefit is strongest. P names
+the supporting policy. Order: Q S R P.
+
+---
+
 ---
 
 ### Question 42 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -656,6 +1108,17 @@ Choose the grammatically correct sentence.
 - **(C)** If I saw him, I will tell him the news.
 - **(D)** If I would see him, I will tell him the
 news.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) If I see him, I will tell him the news.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+In a first-conditional sentence the
+if-clause takes the present simple (see), and the main clause
+takes will + verb.
+
+---
 
 ---
 
@@ -671,6 +1134,17 @@ Choose the word most similar in meaning to
 - **(C)** Rigid
 - **(D)** Temporary
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Flexible and able to recover**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Resilient means able to recover quickly from
+difficulty. Fragile and rigid are opposites; temporary refers to
+duration, not recovery.
+
+---
+
 ---
 
 ### Question 44 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -683,6 +1157,16 @@ Choose the grammatically correct sentence.
 - **(B)** He denied having stolen the documents.
 - **(C)** He denied to stealing the documents.
 - **(D)** He denied for stealing the documents.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) He denied having stolen the documents.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+"Deny" is followed by a gerund
+(having stolen / stealing), not by an infinitive "to have."
+
+---
 
 ---
 
@@ -701,6 +1185,19 @@ large volumes of information in a few charts.
 - **(B)** P Q R S
 - **(C)** S Q R P
 - **(D)** Q P S R
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Q S P R**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q introduces dashboards. S explains what
+they do. P gives the consequence of bad data in that setting. R
+states the practical response. Order: Q S P R.
+
+---
+
+## Section: Pseudo Code
 
 ---
 
@@ -732,6 +1229,18 @@ count
 - **(C)** 5
 - **(D)** 6
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 5**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Trace i and count: start i=1. Pass 1: i=2,
+count=1. Pass 2: i=4, count=2. Pass 3: i=8, count=3. Pass 4: i=16,
+count=4. Pass 5: i=32, count=5. Now i=32 is not less than 20, so
+the loop stops. Printed value is 5.
+
+---
+
 ---
 
 ### Question 47 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -751,6 +1260,16 @@ Print
 - **(B)** 4
 - **(C)** 5
 - **(D)** 7
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 5**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Integer division: 17 / 5 = 3. Remainder: 17
+% 5 = 2. Printed value = 3 + 2 = 5.
+
+---
 
 ---
 
@@ -783,6 +1302,17 @@ x
 - **(C)** 16
 - **(D)** 21
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 9**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+continue skips even values of i. The loop
+runs i = 1 to 6, so only the odd values 1, 3 and 5 are added. x =
+1 + 3 + 5 = 9.
+
+---
+
 ---
 
 ### Question 49 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -811,6 +1341,16 @@ Mystery(5)
 - **(C)** 120
 - **(D)** 125
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 120**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Mystery(n) computes n!. Mystery(5) = 5 ×
+4 × 3 × 2 × 1 = 120.
+
+---
+
 ---
 
 ### Question 50 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -837,6 +1377,19 @@ a, b
 - **(C)** 20 8
 - **(D)** 20 12
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 8 12**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+This swaps the two values without a third
+variable. a = 12+8 = 20, b = 20-8 = 12, a = 20-12 = 8. Output: 8
+12.
+
+---
+
+## Section: Numerical Puzzles
+
 ---
 
 ## Section: Numerical Puzzles
@@ -861,6 +1414,18 @@ Find the missing number.
 - **(C)** 32
 - **(D)** 36
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 32**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Third
+= first × second + 2. 2×5+2=12, 3×6+3=21 wait
+18+3=21. first × second + first: 10+2=12, 18+3=21, 28+4=32.
+Yes first × (second + 1).
+
+---
+
 ---
 
 ### Question 52 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -883,6 +1448,16 @@ Find the missing number.
 - **(C)** 29
 - **(D)** 31
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 27**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Third
+= first − second. 21−8=13, 34−15=19, 47−20=27.
+
+---
+
 ---
 
 ### Question 53 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -904,6 +1479,18 @@ Find the missing number in the 3 &times; 3 grid.
 - **(B)** 30
 - **(C)** 34
 - **(D)** 36
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 34**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+In each row, third = first × second +
+first + second, which is the same as (first + 1)(second + 1) −
+1. Row 1: 2×5 + 2 + 5 = 17. Row 2: 4×3 + 4 + 3 = 19.
+Row 3: 6×4 + 6 + 4 = 34. Check: (6+1)(4+1) − 1 = 34.
+
+---
 
 ---
 
@@ -933,6 +1520,17 @@ Find the missing number in the last row of the grid.
 - **(C)** 57
 - **(D)** 63
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 57**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+In every row, third = first × second +
+1. Check: 2×3+1 = 7, 3×4+1 = 13, 4×5+1 = 21,
+6×7+1 = 43. Therefore 7×8+1 = 57.
+
+---
+
 ---
 
 ### Question 55 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -954,6 +1552,20 @@ Find the missing number in the 3 &times; 3 grid.
 - **(B)** 19
 - **(C)** 21
 - **(D)** 24
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 19**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+In each row, third number = (product of
+digits of the first number) − (product of digits of the
+second number). Row 2: 7×6 − 3×5 = 42 − 15
+= 27. Row 3: 5×8 − 4×2 = 40 − 8 = 32. Row
+1: 3×9 − 2×4 = 27 − 8 = 19. So the missing
+number is 19.
+
+---
 
 ---
 
@@ -981,6 +1593,19 @@ Set 1                                  Set 2                               Set 3
 - **(C)** 4
 - **(D)** 5
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 2**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Within each set both rows use the same
+multiplier k, where right = left × k. Set 1: 5×2 = 10
+and 3×2 = 6, so k = 2. Set 2: 4×4 = 16 and 2×4 =
+8, so k = 4. Set 3: 3×5 = 15, so k = 5. Then ? × 5 =
+10, hence ? = 2.
+
+---
+
 ---
 
 ### Question 57 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -1000,6 +1625,19 @@ Find the next number.
 - **(C)** 225
 - **(D)** 227
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 223**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each
+term = previous × 2 + 1. 6×2+1=13, 13×2+1=27,
+27×2+1=55, 55×2+1=111, 111×2+1=223.
+
+---
+
+## Section: English Grammar
+
 ---
 
 ## Section: English Grammar
@@ -1016,6 +1654,18 @@ One of my colleague has gone to the Bangalore office for training.
 - **(C)** to the Bangalore office
 - **(D)** No error
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) One of my colleague**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+"One of" is always followed by a
+plural noun. The correct phrase is "one of my colleagues."
+The verb "has gone" is already singular and agrees with
+"one."
+
+---
+
 ---
 
 ### Question 59 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -1029,6 +1679,17 @@ The quality of these reports leave much to be desired.
 - **(B)** these reports
 - **(C)** leave much to be desired
 - **(D)** No error
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) leave much to be desired**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The subject is "quality"
+(singular), not "reports." The verb must be "leaves,"
+not "leave."
+
+---
 
 ---
 
@@ -1044,6 +1705,17 @@ test data.
 - **(C)** with
 - **(D)** to
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) of**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The standard collocation is "accused
+of" + gerund/noun. "Accused for" is a common error
+in exam English.
+
+---
+
 ---
 
 ### Question 61 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -1057,6 +1729,17 @@ campus in Pune.
 - **(B)** will have completed
 - **(C)** has completed
 - **(D)** is completing
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) will have completed**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+"By next March" marks a deadline
+in the future. The action will already be finished by that point,
+so the future perfect "will have completed" is required.
+
+---
 
 ---
 
@@ -1072,6 +1755,19 @@ _____ ready for the client demo.
 - **(C)** was
 - **(D)** has
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) are**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+With "neither…nor," the
+verb agrees with the nearer subject. The nearer subject is
+"developers" (plural), so the correct verb is "are."
+
+---
+
+## Section: Essay Writting
+
 ---
 
 ## Section: Essay Writting
@@ -1083,6 +1779,18 @@ Importance of Environmental Protection
 **Options:**
 
 - **(A)** Type your option
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Type your option**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Environmental protection is essential for maintaining a healthy and sustainable life. The environment provides humans with air, water, food, and natural resources. However, pollution, deforestation, and excessive use of resources have created serious environmental challenges.
+Protecting the environment requires responsible actions from individuals, businesses, and governments. People can contribute by reducing plastic waste, saving water and electricity, planting trees, and using public transport when possible. Proper waste management and recycling can also help reduce pollution.
+Environmental protection is not only about preserving nature but also about protecting future generations. If natural resources are used without considering their long-term impact, future generations may face shortages and unhealthy living conditions. Education and awareness can encourage people to adopt more environmentally responsible habits.
+In conclusion, environmental protection is a shared responsibility. Small changes in daily habits, combined with effective environmental policies and sustainable practices, can make a meaningful difference. Protecting nature today can help create a cleaner, healthier, and more sustainable future for everyone.
+
+---
 
 ---
 

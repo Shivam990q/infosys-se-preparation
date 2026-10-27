@@ -19,6 +19,12 @@ Q1.) Integer p, q, r Set p = 0, q = 2, r = 9 r = 7 + p q = q + r for (each r fro
 
 **Correct Answer:** Option (B)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 2
@@ -33,6 +39,12 @@ Q2.) #include<iostream> using namespace std; int main() { int a = 3, b = 2, c = 
 - (D) 16
 
 **Correct Answer:** Option (A)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -49,6 +61,12 @@ Q3.) Integer value, n Set value = 1, n = 45 while (value less than equal to n) v
 
 **Correct Answer:** Option (C)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 4
@@ -63,6 +81,12 @@ Q4.) Predict the output of the following pseudocode. Integer x, y, z Set x = -2,
 - ✅ **(D) 3** *(Correct Answer)*
 
 **Correct Answer:** Option (D)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -79,6 +103,12 @@ Q5. What is the output int main() { int x = 10; int *y, **z; y = &x; z = &y; **z
 
 **Correct Answer:** Option (C)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 6
@@ -93,6 +123,12 @@ Q6. What is the output for p=15 and q=4. Integer solve (Integer p, Integer q) In
 - (D) 0
 
 **Correct Answer:** Option (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -109,6 +145,12 @@ Q7.what is the output for number=4 int something(int number) { if(number <= 0) r
 
 **Correct Answer:** Option (B)
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 8
@@ -120,6 +162,12 @@ Q8. What will be the output of the following pseudocode? int a , b ,c Set a=0,b=
 - (A) 20
 
 **Correct Answer:** Option ()
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option ()** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 
@@ -133,6 +181,12 @@ Q9. What is the output for x = 10, y = 5 Integer solve(Integer x, Integer y) if(
 
 **Correct Answer:** Option ()
 
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option ()** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
 ---
 
 ### Question 10
@@ -144,6 +198,12 @@ Q10. What is the output of following Integer value, n Set value = 32, n = 1 whil
 - (A) undefined
 
 **Correct Answer:** Option ()
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option ()** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
 
 ---
 

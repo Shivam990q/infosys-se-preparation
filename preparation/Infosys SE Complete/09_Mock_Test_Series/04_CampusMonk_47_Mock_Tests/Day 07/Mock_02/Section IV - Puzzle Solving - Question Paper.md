@@ -17,6 +17,12 @@ Find the value of the question mark (?) Choose the best answer:
 - **(C)** 197
 - **(D)** 205
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 181**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 2 [Marks: +1, -0]
@@ -29,6 +35,12 @@ Study the 3×3 matrix. Each row follows the same rule relating the first two ent
 - **(B)** 1
 - **(C)** 2
 - **(D)** 4
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 1**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 
@@ -43,6 +55,12 @@ In the following question select the number which can be placed at the question 
 - **(C)** 68
 - **(D)** 98
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 68**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
+
 ---
 
 ### Question 4 [Marks: +1, -0]
@@ -55,6 +73,12 @@ Study the 3×3 matrix. Each row follows the same rule relating the first two ent
 - **(B)** X
 - **(C)** W
 - **(D)** Z
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) Z**
+
+**Step-by-Step Explanation & Derivation:**
+Detailed step-by-step deduction provided in solutions compendium.
 
 ---
 

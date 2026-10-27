@@ -40,6 +40,9 @@ $$15, 30, 23, 46, 39, 78, \dots$$
 - **(D)** 69
 
 
+> [!IMPORTANT]
+> **Verified Answer Key:** Option (B) — `71`
+
 #### Detailed Solution & Mathematical Proof:
 
 The given sequence follows a two-tier alternating mathematical pattern:
@@ -79,6 +82,9 @@ The sum of the cubes of the first $n$ consecutive natural numbers is 2025. Find 
 - **(C)** 10
 - **(D)** 13
 
+
+> [!IMPORTANT]
+> **Verified Answer Key:** Option (B) — `9`
 
 #### Detailed Solution & Mathematical Proof:
 
@@ -134,6 +140,9 @@ The pie chart below represents the market share of five mobile phone companies i
 - **(D)** 3:4
 
 
+> [!IMPORTANT]
+> **Verified Answer Key:** Option (A) — `4:3`
+
 #### Detailed Solution & Mathematical Proof:
 
 To find the ratio of phones sold by Company B to Company D:
@@ -181,6 +190,9 @@ The following table shows the quarterly revenue (in $ million) for five differen
 - **(C)** 60%
 - **(D)** **[CORRECT]** 40%
 
+
+> [!IMPORTANT]
+> **Verified Answer Key:** Option (D) — `40%`
 
 #### Detailed Solution & Mathematical Proof:
 
@@ -240,6 +252,9 @@ End Function
 - **(D)** result + i
 
 
+> [!IMPORTANT]
+> **Verified Answer Key:** Option (B) — `++i`
+
 #### Detailed Solution & Mathematical Proof:
 
 **Forensic Semantic Analysis of Options:**
@@ -294,6 +309,9 @@ Display Find(arr, target)
 - **(C)** **[CORRECT]** 4
 - **(D)** 2
 
+
+> [!IMPORTANT]
+> **Verified Answer Key:** Option (C) — `4`
 
 #### Detailed Solution & Mathematical Proof:
 
@@ -354,6 +372,9 @@ The table below shows the production of cars (in thousands) by five different co
 - **(D)** 20.20%
 
 
+> [!IMPORTANT]
+> **Verified Answer Key:** Option (A) — `26.23%`
+
 #### Detailed Solution & Mathematical Proof:
 
 **Step 1: Calculate annual totals for all five companies:**
@@ -402,6 +423,9 @@ A train crosses a pole in 12 seconds and a 780-meter-long tunnel in 72 seconds. 
 - **(D)** 154 meters
 - **(E)** 152 meters
 
+
+> [!IMPORTANT]
+> **Verified Answer Key:** Option (A) — `156 meters`
 
 #### Detailed Solution & Mathematical Proof:
 
@@ -464,6 +488,9 @@ End Function
 - **(C)** (++i) + (i++)
 - **(D)** **[CORRECT]** (++i) + (++i)
 
+
+> [!IMPORTANT]
+> **Verified Answer Key:** Option (D) — `(++i) + (++i)`
 
 #### Detailed Solution & Mathematical Proof:
 
@@ -533,6 +560,9 @@ End Function
 - **(D)** [60, 40, 30, 20]
 
 
+> [!IMPORTANT]
+> **Verified Answer Key:** Option (A) — `[60, 40, 30, 24]`
+
 #### Detailed Solution & Mathematical Proof:
 
 **Trace of Algorithm:**
@@ -586,6 +616,9 @@ The pie chart below represents the monthly expenditure (in percentage) of a hous
 - **(D)** ₹28,000
 
 
+> [!IMPORTANT]
+> **Verified Answer Key:** Option (B) — `₹27,500`
+
 #### Detailed Solution & Mathematical Proof:
 
 **Step 1: Calculate combined percentage for Rent, Groceries, and Entertainment:**
@@ -623,6 +656,9 @@ In a survey, 75% of the participants are satisfied with the service. If 3300 peo
 - **(C)** 4000
 - **(D)** 4500
 
+
+> [!IMPORTANT]
+> **Verified Answer Key:** Option (A) — `4400`
 
 #### Detailed Solution & Mathematical Proof:
 
@@ -685,6 +721,9 @@ End Function
 - **(D)** **[CORRECT]** For the array [1, 2, 2, 3, 4, 5, 1] output will be 4
 
 
+> [!IMPORTANT]
+> **Verified Answer Key:** Option (D) — `For the array [1, 2, 2, 3, 4, 5, 1] output will be 4`
+
 #### Detailed Solution & Mathematical Proof:
 
 **Forensic Algorithm Characterization:**
@@ -746,6 +785,9 @@ What number should fill the blank?
 - **(D)** 220
 
 
+> [!IMPORTANT]
+> **Verified Answer Key:** Option (A) — `228`
+
 #### Detailed Solution & Mathematical Proof:
 
 **Pattern Identification & Mathematical Deduction:**
@@ -787,6 +829,9 @@ Analyze the sectional layout, timing, and question architecture of the authentic
 - **(C)** Single 120-minute unsectioned assessment
 - **(D)** Only verbal and coding without mathematical reasoning
 
+
+> [!IMPORTANT]
+> **Verified Answer Key:** Option (A) — `Sectional Distribution: Reasoning (15 Qs), Technical Ability (10 Qs), Pseudocode (5 Qs), Puzzle Solving (4 Qs)`
 
 #### Detailed Solution & Mathematical Proof:
 

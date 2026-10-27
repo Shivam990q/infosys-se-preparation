@@ -18,6 +18,16 @@ boarding pass.” Which assumption is implicit?
 - **(C)** Airlines have banned digital passes.
 - **(D)** Paper is cheaper than data.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) The phone or app copy might fail when needed.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A paper copy is advised only if a digital
+copy might not be available when needed.
+
+---
+
 ---
 
 ### Question 2 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -30,6 +40,16 @@ Needle : Thread :: Pen : ?
 - **(B)** Ink
 - **(C)** Eraser
 - **(D)** Desk
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Ink**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A needle works with thread; a pen works with
+ink.
+
+---
 
 ---
 
@@ -45,6 +65,16 @@ bottom in a class. How many students are there?
 - **(C)** 23
 - **(D)** 24
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 22**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Total = position from top + position from
+bottom − 1 = 8 + 15 − 1 = 22.
+
+---
+
 ---
 
 ### Question 4 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -58,6 +88,17 @@ C. C is the wife of D. How is A related to D?
 - **(B)** Brother
 - **(C)** Uncle
 - **(D)** Cousin
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Son**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+C is B’s mother and D’s wife, so
+D is the father of B. A is B’s brother, therefore A is D’s
+son.
+
+---
 
 ---
 
@@ -75,6 +116,17 @@ sits opposite P?
 - **(C)** M
 - **(D)** O
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) N**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Place L, then P immediate right of L. K is
+second left of L. M opposite K. Remaining arc fits N between M and
+O. Opposite P is N.
+
+---
+
 ---
 
 ### Question 6 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -87,6 +139,17 @@ Find the missing term: 3, 5, 9, 17, 33, ?
 - **(B)** 65
 - **(C)** 66
 - **(D)** 67
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 65**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each term = previous × 2 − 1:
+3×2−1=5, 5×2−1=9, 9×2−1=17,
+17×2−1=33, 33×2−1=65.
+
+---
 
 ---
 
@@ -101,6 +164,16 @@ alphabetical order, which letter is in the middle?
 - **(B)** I
 - **(C)** L
 - **(D)** O
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) L**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Alphabetical: C, G, I, L, O. The middle
+letter is I.
+
+---
 
 ---
 
@@ -118,6 +191,18 @@ end?
 - **(C)** White
 - **(D)** Red
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Blue**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Red at an end. Green between White and Red
+gives White–Green–Red or Red–Green–White.
+White not next to Blue, so the remaining end is Blue: Blue, White,
+Green, Red.
+
+---
+
 ---
 
 ### Question 9 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -131,6 +216,16 @@ Rectangle, Circle
 - **(B)** Square
 - **(C)** Rectangle
 - **(D)** Circle
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) Circle**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Triangle, square and rectangle are polygons
+with straight sides. A circle is not.
+
+---
 
 ---
 
@@ -146,6 +241,16 @@ true?
 - **(C)** A = E
 - **(D)** C > A
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) A > D**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A ≥ B > C = D, so A > D. B and E
+are not directly compared.
+
+---
+
 ---
 
 ### Question 11 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -160,6 +265,16 @@ coded?
 - **(C)** RWEOLF
 - **(D)** ELWORF
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) REWOLF**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The code is the word written backwards.
+FLOWER → REWOLF.
+
+---
+
 ---
 
 ### Question 12 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -173,6 +288,17 @@ are the hands at right angles for the first time?
 - **(B)** 4 : 20
 - **(C)** 4 : 5 5/11
 - **(D)** 4 : 10
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 4 : 5 5/11**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Formula: minutes = (30H ± 90)/5.5.
+First right angle after 4: (120−90)/5.5 = 30/5.5 = 60/11 = 5
+5/11 minutes. So 4 : 5 5/11.
+
+---
 
 ---
 
@@ -189,6 +315,19 @@ Tuesday; use the given fact.)
 - **(C)** Sunday
 - **(D)** Monday
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Friday**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Years 1947 to 2023 = 76 years. Leap years
+among 1948–2020 inclusive: 19 leaps (1948,52,…2020 =
+19). Odd days = 76 + 19 = 95. 95 mod 7 = 4. Tuesday minus 4 days =
+Friday. Check leaps: from 1948 to 2020 step 4: (2020-1948)/4+1=19
+yes. 76 ordinary extra +19 = 95, 13×7=91 rem 4. Tue-4=Fri.
+
+---
+
 ---
 
 ### Question 14 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -204,6 +343,16 @@ right. Which direction is she facing now?
 - **(C)** East
 - **(D)** South
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) South**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+East, then left to north, then right to
+east, then right to south. She faces south.
+
+---
+
 ---
 
 ### Question 15 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -218,6 +367,17 @@ All archives are folders.
 - **(B)** Only II follows
 - **(C)** Both follow
 - **(D)** Neither follows
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Only I follows**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The files that are folders are also archives, so I follows. II reverses a universal statement and does not follow.
+
+---
+
+## Section: Aptitude (Technical Ability)
 
 ---
 
@@ -236,6 +396,16 @@ age is
 - **(C)** 20
 - **(D)** 22
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 18**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A=B+4
+and A+B=40 → 2B+4=40 → B=18.
+
+---
+
 ---
 
 ### Question 17 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -251,6 +421,16 @@ price is
 - **(C)** ₹405
 - **(D)** ₹414
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) ₹396**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+SP
+= 88% of 450 = ₹396.
+
+---
+
 ---
 
 ### Question 18 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -264,6 +444,16 @@ Divide
 - **(B)** ₹360
 - **(C)** ₹420
 - **(D)** ₹560
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) ₹420**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Parts
+= 9. One part = 140. Middle = 3×140 = ₹420.
+
+---
 
 ---
 
@@ -280,6 +470,16 @@ His profit percent is
 - **(C)** 30%
 - **(D)** 32%
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 26%**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Let
+CP=100. MP=140. SP=126. Profit=26%.
+
+---
+
 ---
 
 ### Question 20 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -293,6 +493,16 @@ HCF of 48 and 180 is
 - **(B)** 8
 - **(C)** 12
 - **(D)** 24
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 12**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+48=2^4×3,
+180=2^2×3^2×5. HCF = 2^2×3 = 12.
+
+---
 
 ---
 
@@ -311,6 +521,16 @@ m/s
 - **(D)** 60
 m/s
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 16.67 m/s**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Speed
+= 60 km/h = 60×5/18 = 50/3 ≈ 16.67 m/s.
+
+---
+
 ---
 
 ### Question 22 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -324,6 +544,16 @@ average of the first five odd numbers is
 - **(B)** 6
 - **(C)** 7
 - **(D)** 9
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 5**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+1+3+5+7+9=25.
+Average=5.
+
+---
 
 ---
 
@@ -340,6 +570,16 @@ days?
 - **(C)** 16
 - **(D)** 18
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 16**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Worker-days
+= 12×8=96. Needed = 96/6=16.
+
+---
+
 ---
 
 ### Question 24 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -354,6 +594,16 @@ at 10% compound interest for 2 years amounts to
 - **(C)** ₹2,420
 - **(D)** ₹2,440
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) ₹2,420**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Amount
+= 2000×(1.1)^2 = 2000×1.21 = ₹2,420.
+
+---
+
 ---
 
 ### Question 25 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -367,6 +617,18 @@ If
 - **(B)** 280
 - **(C)** 300
 - **(D)** 320
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 300**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+x
+= 45 × 100 / 15 = 300.
+
+---
+
+## Section: Verbal Ability
 
 ---
 
@@ -383,6 +645,16 @@ of “lucid”:
 - **(B)** Clear
 - **(C)** Dim
 - **(D)** Lengthy
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Clear**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Lucid
+means easy to understand; clear.
+
+---
 
 ---
 
@@ -404,6 +676,17 @@ Q R S
 - **(D)** Q
 P S R
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Q P R S**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q
+states the limit. P shows how extra slides hide the claim. R is
+the edit rule. S rejects decoration. Q P R S.
+
+---
+
 ---
 
 ### Question 28 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -421,6 +704,16 @@ scissor are on the desk.
 - **(D)** A
 scissors are on the desk.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) The scissors are on the desk.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Scissors
+is a plural tool-noun and takes are.
+
+---
+
 ---
 
 ### Question 29 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -434,6 +727,17 @@ A person who hates humankind.
 - **(B)** Optimist
 - **(C)** Misanthrope
 - **(D)** Introvert
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Misanthrope**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+A
+misanthrope hates or distrusts people. A philanthropist loves
+humankind.
+
+---
 
 ---
 
@@ -455,6 +759,17 @@ Q R S
 R P S
 - **(D)** Q R S P
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) Q R S P**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q
+sets the standard. R is what happens without it. S is the method.
+P dismisses empty logs. Order Q R S P.
+
+---
+
 ---
 
 ### Question 31 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -472,6 +787,16 @@ is me who am responsible for the delay.
 - **(D)** It
 is I who are responsible for the delay.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) It is I who am responsible for the delay.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+pronoun after “who” agrees with I, so “who am.”
+
+---
+
 ---
 
 ### Question 32 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -485,6 +810,16 @@ The plan is still _____ and may change after the review.
 - **(B)** tentative
 - **(C)** obsolete
 - **(D)** binding
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) tentative**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Tentative
+means not yet fixed.
+
+---
 
 ---
 
@@ -504,6 +839,16 @@ change to the grid
 - **(D)** fewer
 drivers
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) chargers, a stronger grid connection and spare batteries**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Those
+three items are listed in the second sentence.
+
+---
+
 ---
 
 ### Question 34 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -521,6 +866,16 @@ ban on pilots
 - **(C)** buying
 buses with no spare batteries
 - **(D)** the plan that matches charger capacity to the timetable
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(D) the plan that matches charger capacity to the timetable**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+That
+claim is the last sentence.
+
+---
 
 ---
 
@@ -542,6 +897,17 @@ Q P S
 - **(D)** Q
 P R S
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Q R S P**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q
+is the problem. R is the simple fix. S is how the line is used. P
+is the result on the board. Better Q R S P.
+
+---
+
 ---
 
 ### Question 36 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -558,6 +924,16 @@ is junior from the team lead.
 - **(C)** He is junior to the team lead.
 - **(D)** He
 is more junior than the team lead.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) He is junior to the team lead.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Junior,
+senior, superior and inferior take “to.”
+
+---
 
 ---
 
@@ -577,6 +953,17 @@ buying any chargers
 - **(D)** cut
 driver training
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) learn real range in rain and hill traffic**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+passage says a pilot shows real range in rain and hill traffic
+before a full fleet change.
+
+---
+
 ---
 
 ### Question 38 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -595,6 +982,17 @@ should ban diesel overnight
 - **(D)** spare
 batteries are unnecessary
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) electric fleets work only if charging and timetables are planned together**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+passage lists extra depot and duty-cycle costs and ends by
+matching charger capacity to the timetable.
+
+---
+
 ---
 
 ### Question 39 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -611,6 +1009,16 @@ a book together
 in one row
 - **(D)** Sharing
 a password
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) In agreement**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+It
+means having the same understanding or agreement.
+
+---
 
 ---
 
@@ -630,6 +1038,17 @@ timetable itself
 - **(D)** hill
 routes
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) some of the old refuelling stops**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Drivers
+need a new duty cycle in which charging windows replace some
+refuelling stops.
+
+---
+
 ---
 
 ### Question 41 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -647,6 +1066,17 @@ insisted him to wait outside.
 - **(D)** She
 insisted that he waiting outside.
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) She insisted that he wait outside.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+After
+insist that, American/exam English uses the base form wait
+(subjunctive).
+
+---
+
 ---
 
 ### Question 42 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -660,6 +1090,16 @@ of “scarce”:
 - **(B)** Meagre
 - **(C)** Plentiful
 - **(D)** Sparse
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) Plentiful**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Plentiful
+is the opposite of scarce.
+
+---
 
 ---
 
@@ -677,6 +1117,17 @@ of the reports have a summary.
 of the report has a summary.
 - **(D)** Each
 of the reports having a summary.
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) Each of the reports has a summary.**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each
+is singular, so the verb is has. After “of” the noun
+is plural: reports.
+
+---
 
 ---
 
@@ -698,6 +1149,17 @@ R P S
 - **(D)** S
 Q P R
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) Q P R S**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Q
+is the risk. P is how detectors help. R draws the rule. S warns
+about dead batteries. Q P R S.
+
+---
+
 ---
 
 ### Question 45 [Marks: +{'positive': 1, 'negative': 0, 'negativeUnattempted': 0}]
@@ -717,6 +1179,19 @@ R Q S
 P S R
 - **(D)** S
 P Q R
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) P Q R S**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+P
+states the hazard. Q is the work habit. R is the payoff. S
+generalises. P Q R S.
+
+---
+
+## Section: Pseudo Code
 
 ---
 
@@ -739,6 +1214,16 @@ a | 3
 - **(B)** 5
 - **(C)** 2
 - **(D)** 18
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 7**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+6
+is 0110, 3 is 0011, OR is 0111 = 7.
+
+---
 
 ---
 
@@ -766,6 +1251,16 @@ front(Q)
 - **(C)** 33
 - **(D)** Empty
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 33**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Queue
+starts [11,22,33]. Two dequeues remove 11 then 22. Front is 33.
+
+---
+
 ---
 
 ### Question 48 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -792,6 +1287,16 @@ s
 - **(C)** 45
 - **(D)** 55
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 25**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The
+loop adds the odd values 1+3+5+7+9 = 25.
+
+---
+
 ---
 
 ### Question 49 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -815,6 +1320,16 @@ S(5)
 - **(B)** 15
 - **(C)** 16
 - **(D)** 25
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 15**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+S(n)
+is the sum 5+4+3+2+1+0 = 15.
+
+---
 
 ---
 
@@ -844,6 +1359,18 @@ p
 - **(C)** 945
 - **(D)** 105
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 945**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Product
+3×5×7×9 = 945.
+
+---
+
+## Section: Numerical Puzzles
+
 ---
 
 ## Section: Numerical Puzzles
@@ -864,6 +1391,16 @@ p
 - **(B)** 920
 - **(C)** 925
 - **(D)** 945
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 925**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+×1+1=6, ×2+2=14, ×3+3=45,
+×4+4=184, ×5+5=925.
+
+---
 
 ---
 
@@ -887,6 +1424,16 @@ p
 - **(C)** 16
 - **(D)** 17
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) 15**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+In each row, third = first + second + 2. So
+7+6+2 = 15.
+
+---
+
 ---
 
 ### Question 53 [Marks: +{'positive': 3, 'negative': 0, 'negativeUnattempted': 0}]
@@ -908,6 +1455,17 @@ p
 - **(B)** 8
 - **(C)** 7
 - **(D)** 6
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) 9**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Each row is consecutive squares: 3² 4²
+5²; 2² 3² 4²; 1² 2² 3². Missing
+9.
+
+---
 
 ---
 
@@ -934,6 +1492,18 @@ Wheel B
 - **(C)** 15
 - **(D)** 30
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) 15**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Wheel A: 2×8=16. Wheel B: 3×5=15.
+The missing centre is 15.
+
+---
+
+## Section: English Grammar
+
 ---
 
 ## Section: English Grammar
@@ -950,6 +1520,17 @@ suggested me to join the evening batch.
 - **(C)** No error
 - **(D)** He suggested
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) He suggested me to join**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Suggest is not followed by object +
+to-infinitive. Use “suggested that I join” or
+“suggested joining.”
+
+---
+
 ---
 
 ### Question 56 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -964,6 +1545,16 @@ police is investigating the complaint.
 - **(C)** the complaint
 - **(D)** No error
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) is investigating**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Police is a plural noun in exam English:
+“The police are investigating.”
+
+---
+
 ---
 
 ### Question 57 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -976,6 +1567,16 @@ police is investigating the complaint.
 - **(B)** open
 - **(C)** have had
 - **(D)** had open
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(C) have had**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Since 2021 marks a period up to now, so
+present perfect: have had.
+
+---
 
 ---
 
@@ -991,6 +1592,16 @@ butter _____ his usual breakfast.
 - **(C)** were
 - **(D)** have
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) is**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Bread and butter as one meal takes a
+singular verb: is.
+
+---
+
 ---
 
 ### Question 59 [Marks: +{'positive': 2, 'negative': 0, 'negativeUnattempted': 0}]
@@ -1005,6 +1616,17 @@ new tool.
 - **(C)** of
 - **(D)** from
 
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(B) with**
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+The collocation is acquainted with.
+
+---
+
+## Section: Essay Writting
+
 ---
 
 ## Section: Essay Writting
@@ -1015,7 +1637,19 @@ Work From Home: Benefits and Challenges
 
 **Options:**
 
-- **(A)** 
+- **(A)**
+
+> [!IMPORTANT]
+> **Verified Answer Key:** ✅ **(A) **
+
+**Step-by-Step Explanation & Derivation:**
+**Explanation / Solution:**
+Work from home has become an important part of the modern working environment. With the help of computers, smartphones, and internet connectivity, employees can perform many professional tasks without visiting an office.
+One major benefit of working from home is flexibility. Employees can save travelling time and use it for productive activities. It can also help people maintain a better balance between their professional and personal responsibilities. Companies may also reduce certain office-related expenses by adopting remote work.
+However, work from home also has some challenges. Employees may face communication problems, technical issues, or distractions at home. Long working hours and limited interaction with colleagues can also affect productivity and teamwork. Therefore, proper planning and communication are necessary for successful remote working.
+In conclusion, work from home offers several advantages but also requires discipline and effective communication. When employees and organizations use suitable technology and maintain clear work schedules, remote working can become an effective way of working in the modern professional world.
+
+---
 
 ---
 
