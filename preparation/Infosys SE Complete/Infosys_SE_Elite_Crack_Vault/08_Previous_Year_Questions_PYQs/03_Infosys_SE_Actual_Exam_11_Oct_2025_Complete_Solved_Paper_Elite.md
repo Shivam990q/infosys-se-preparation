@@ -16,7 +16,7 @@
 **Section:** Puzzle Solving Test | **Topic:** Number Series / Pattern Recognition | **Live Exam Screenshot:** `133ef797-4e5c-4394-b70b-f3f0ba560d31.jpeg`
 
 
-![Exam Screenshot](../../../images/133ef797-4e5c-4394-b70b-f3f0ba560d31.jpeg)
+![Exam Screenshot](../../images/133ef797-4e5c-4394-b70b-f3f0ba560d31.jpeg)
 
 
 **Question Statement:**
@@ -65,7 +65,7 @@ Therefore, the next number in the series is **71** (Option B).
 **Section:** Technical Ability Test | **Topic:** Quantitative Aptitude / Number Theory & Algebra | **Live Exam Screenshot:** `24a46df8-04a8-45d7-a7e7-ed3704fc13fd.jpeg`
 
 
-![Exam Screenshot](../../../images/24a46df8-04a8-45d7-a7e7-ed3704fc13fd.jpeg)
+![Exam Screenshot](../../images/24a46df8-04a8-45d7-a7e7-ed3704fc13fd.jpeg)
 
 
 **Question Statement:**
@@ -119,7 +119,7 @@ Thus, the value of $n$ is **9** (Option B).
 **Section:** Reasoning Ability Test | **Topic:** Data Interpretation / Pie Charts & Ratio Proportions | **Live Exam Screenshot:** `35e2b57f-0152-453c-b0b3-a4aa14bb22c4.jpeg`
 
 
-![Exam Screenshot](../../../images/35e2b57f-0152-453c-b0b3-a4aa14bb22c4.jpeg)
+![Exam Screenshot](../../images/35e2b57f-0152-453c-b0b3-a4aa14bb22c4.jpeg)
 
 
 **Question Statement:**
@@ -174,7 +174,7 @@ Therefore, the ratio is **4:3** (Option A).
 **Section:** Reasoning Ability Test | **Topic:** Data Interpretation / Tabular Quarterly Revenue Analysis | **Live Exam Screenshot:** `4c75602e-9c3c-43f6-8bca-19528e2760a8.jpeg`
 
 
-![Exam Screenshot](../../../images/4c75602e-9c3c-43f6-8bca-19528e2760a8.jpeg)
+![Exam Screenshot](../../images/4c75602e-9c3c-43f6-8bca-19528e2760a8.jpeg)
 
 
 **Question Statement:**
@@ -235,7 +235,7 @@ Hence, the difference is **40%** (Option D).
 **Section:** Pseudocode Test | **Topic:** Language Semantics / Pre-increment vs Post-increment | **Live Exam Screenshot:** `5d343714-54b0-4c45-90d7-df4bf0958fc0.jpeg`
 
 
-![Exam Screenshot](../../../images/5d343714-54b0-4c45-90d7-df4bf0958fc0.jpeg)
+![Exam Screenshot](../../images/5d343714-54b0-4c45-90d7-df4bf0958fc0.jpeg)
 
 
 **Question Statement:**
@@ -291,7 +291,7 @@ Therefore, the correct expression is **++i** (Option B).
 **Section:** Pseudocode Test | **Topic:** Array Traversal / Dynamic Search Target Update | **Live Exam Screenshot:** `70f04555-bbb2-4abd-b6fe-b67e69239b15.jpeg`
 
 
-![Exam Screenshot](../../../images/70f04555-bbb2-4abd-b6fe-b67e69239b15.jpeg)
+![Exam Screenshot](../../images/70f04555-bbb2-4abd-b6fe-b67e69239b15.jpeg)
 
 
 **Question Statement:**
@@ -366,7 +366,7 @@ Therefore, the displayed output is **4** (Option C).
 **Section:** Reasoning / Technical Ability | **Topic:** Data Interpretation / Multi-Company Automobile Production | **Live Exam Screenshot:** `712eca95-7a32-49c8-902d-096b7e41821c.jpeg`
 
 
-![Exam Screenshot](../../../images/712eca95-7a32-49c8-902d-096b7e41821c.jpeg)
+![Exam Screenshot](../../images/712eca95-7a32-49c8-902d-096b7e41821c.jpeg)
 
 
 **Question Statement:**
@@ -429,7 +429,7 @@ Therefore, the correct percentage share is **26.23%** (Option A).
 **Section:** Technical Ability Test | **Topic:** Quantitative Aptitude / Speed, Time & Distance | **Live Exam Screenshot:** `78c90181-a957-4388-a3f0-f676928345ea.jpeg`
 
 
-![Exam Screenshot](../../../images/78c90181-a957-4388-a3f0-f676928345ea.jpeg)
+![Exam Screenshot](../../images/78c90181-a957-4388-a3f0-f676928345ea.jpeg)
 
 
 **Question Statement:**
@@ -491,7 +491,7 @@ Hence, the length of the train is **156 meters** (Option A).
 **Section:** Pseudocode Test | **Topic:** Expression Evaluation / Compound Unary Operators | **Live Exam Screenshot:** `9bf8dd40-6f20-4933-8185-9f24a4f624bb.jpeg`
 
 
-![Exam Screenshot](../../../images/9bf8dd40-6f20-4933-8185-9f24a4f624bb.jpeg)
+![Exam Screenshot](../../images/9bf8dd40-6f20-4933-8185-9f24a4f624bb.jpeg)
 
 
 **Question Statement:**
@@ -560,7 +560,7 @@ Therefore, the correct expression is **(++i) + (++i)** (Option D).
 **Section:** Pseudocode Test | **Topic:** Algorithms / Product of Array Except Self | **Live Exam Screenshot:** `aae75e69-0132-4325-95df-81246cf7b963.jpeg`
 
 
-![Exam Screenshot](../../../images/aae75e69-0132-4325-95df-81246cf7b963.jpeg)
+![Exam Screenshot](../../images/aae75e69-0132-4325-95df-81246cf7b963.jpeg)
 
 
 **Question Statement:**
@@ -627,7 +627,7 @@ Thus, the output is **[60, 40, 30, 24]** (Option A).
 **Section:** Reasoning Ability Test | **Topic:** Data Interpretation / Household Budget Percentage Breakdown | **Live Exam Screenshot:** `d6a882ef-e926-4548-88b1-a2545164847a.jpeg`
 
 
-![Exam Screenshot](../../../images/d6a882ef-e926-4548-88b1-a2545164847a.jpeg)
+![Exam Screenshot](../../images/d6a882ef-e926-4548-88b1-a2545164847a.jpeg)
 
 
 **Question Statement:**

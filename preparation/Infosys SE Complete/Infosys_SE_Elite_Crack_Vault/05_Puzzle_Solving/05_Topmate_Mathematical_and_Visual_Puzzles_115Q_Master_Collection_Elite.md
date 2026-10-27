@@ -23,7 +23,7 @@
 - C) 10
 - D) 11
 
-![Figure](../../../images/slot1_page_008.png)
+![Figure](../../images/slot1_page_008.png)
 
 > **Verified Answer Key:** `A) 8`  
 
@@ -49,7 +49,7 @@ Grid BFS from S(0,0) to E(4,4) avoiding X: Optimal shortest path: (0,0) -> (1,0)
 - C) 22
 - D) 24
 
-![Figure](../../../images/slot1_page_008.png)
+![Figure](../../images/slot1_page_008.png)
 
 > **Verified Answer Key:** `C) 22`  
 
@@ -75,7 +75,7 @@ Row relationships: Row 1: 2 + 5 = 7; 7 + 2 = 9. Row 2: 4 + 8 = 12; 12 + 3 = 15. 
 - C) 1→2→1→7→8→11
 - D) 1→5→6→7→8→11
 
-![Figure](../../../images/slot1_page_008.png)
+![Figure](../../images/slot1_page_008.png)
 
 > **Verified Answer Key:** `A) 1→3→5→8→9→10→11`  
 
@@ -101,7 +101,7 @@ A valid path must move orthogonally between adjacent cells with strictly increas
 - C) 21
 - D) 24
 
-![Figure](../../../images/slot1_page_009.png)
+![Figure](../../images/slot1_page_009.png)
 
 > **Verified Answer Key:** `C) 27`  
 
@@ -127,7 +127,7 @@ In 3x3 magic/pattern grids, rows and columns follow arithmetic progressions or c
 - C) 10
 - D) 11
 
-![Figure](../../../images/slot2_page_008.png)
+![Figure](../../images/slot2_page_008.png)
 
 > **Verified Answer Key:** `B) 9`  
 
@@ -153,7 +153,7 @@ Official Exam Key: `B) 9`. Systematic step-by-step verification confirms this re
 - C) 19
 - D) 20
 
-![Figure](../../../images/slot2_page_009.png)
+![Figure](../../images/slot2_page_009.png)
 
 > **Verified Answer Key:** `C) 19`  
 
@@ -179,7 +179,7 @@ Official Exam Key: `C) 19`. Systematic step-by-step verification confirms this r
 - C) 2→4→5→8→6→13→14
 - D) 2→7→8→10→12→14
 
-![Figure](../../../images/slot2_page_009.png)
+![Figure](../../images/slot2_page_009.png)
 
 > **Verified Answer Key:** `A) 2→4→7→8→11→12→14`  
 
@@ -205,7 +205,7 @@ Official Exam Key: `A) 2→4→7→8→11→12→14`. Systematic step-by-step ve
 - C) 27
 - D) 30
 
-![Figure](../../../images/slot2_page_009.png)
+![Figure](../../images/slot2_page_009.png)
 
 > **Verified Answer Key:** `C) 27`  
 
@@ -242,7 +242,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_001.png)
+![Figure](../../images/puzzle_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -281,7 +281,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 22
 - D) 20
 
-![Figure](../../../images/puzzle_page_002.png)
+![Figure](../../images/puzzle_page_002.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -318,7 +318,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 729
 - D) 1000
 
-![Figure](../../../images/puzzle_page_003.png)
+![Figure](../../images/puzzle_page_003.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -357,7 +357,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 6
 - D) 3
 
-![Figure](../../../images/puzzle_page_004.png)
+![Figure](../../images/puzzle_page_004.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -396,7 +396,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 55
 - D) 65
 
-![Figure](../../../images/puzzle_page_005.png)
+![Figure](../../images/puzzle_page_005.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -435,7 +435,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 9
 - D) 12
 
-![Figure](../../../images/puzzle_page_006.png)
+![Figure](../../images/puzzle_page_006.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -478,7 +478,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 11
 - D) 190
 
-![Figure](../../../images/puzzle_page_007.png)
+![Figure](../../images/puzzle_page_007.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -521,7 +521,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 11
 - D) 190
 
-![Figure](../../../images/puzzle_page_007.png)
+![Figure](../../images/puzzle_page_007.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -564,7 +564,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 56
 - D) 42
 
-![Figure](../../../images/puzzle_page_008.png)
+![Figure](../../images/puzzle_page_008.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -607,7 +607,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 56
 - D) 42
 
-![Figure](../../../images/puzzle_page_008.png)
+![Figure](../../images/puzzle_page_008.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -644,7 +644,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 23
 - D) 27
 
-![Figure](../../../images/puzzle_page_009.png)
+![Figure](../../images/puzzle_page_009.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -683,7 +683,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 26
 - D) 25
 
-![Figure](../../../images/puzzle_page_010.png)
+![Figure](../../images/puzzle_page_010.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -720,7 +720,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) i0
 - D) 13
 
-![Figure](../../../images/puzzle_page_011.png)
+![Figure](../../images/puzzle_page_011.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -763,7 +763,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 26
 - D) 30
 
-![Figure](../../../images/puzzle_page_012.png)
+![Figure](../../images/puzzle_page_012.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -806,7 +806,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 26
 - D) 30
 
-![Figure](../../../images/puzzle_page_012.png)
+![Figure](../../images/puzzle_page_012.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -847,7 +847,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 80
 - D) 90
 
-![Figure](../../../images/puzzle_page_013.png)
+![Figure](../../images/puzzle_page_013.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -890,7 +890,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_014.png)
+![Figure](../../images/puzzle_page_014.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -931,7 +931,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 27
 - D) 120
 
-![Figure](../../../images/puzzle_page_015.png)
+![Figure](../../images/puzzle_page_015.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -972,7 +972,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 27
 - D) 120
 
-![Figure](../../../images/puzzle_page_015.png)
+![Figure](../../images/puzzle_page_015.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1011,7 +1011,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_016.png)
+![Figure](../../images/puzzle_page_016.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -1050,7 +1050,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 16
 - D) 40
 
-![Figure](../../../images/puzzle_page_017.png)
+![Figure](../../images/puzzle_page_017.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1089,7 +1089,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 11
 
-![Figure](../../../images/puzzle_page_018.png)
+![Figure](../../images/puzzle_page_018.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -1128,7 +1128,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_019.png)
+![Figure](../../images/puzzle_page_019.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1167,7 +1167,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_020.png)
+![Figure](../../images/puzzle_page_020.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1208,7 +1208,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_021.png)
+![Figure](../../images/puzzle_page_021.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1245,7 +1245,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 11
 
-![Figure](../../../images/puzzle_page_022.png)
+![Figure](../../images/puzzle_page_022.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -1282,7 +1282,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 23
 - D) 40
 
-![Figure](../../../images/puzzle_page_023.png)
+![Figure](../../images/puzzle_page_023.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1325,7 +1325,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 11
 - D) 40
 
-![Figure](../../../images/puzzle_page_024.png)
+![Figure](../../images/puzzle_page_024.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1368,7 +1368,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 11
 - D) 40
 
-![Figure](../../../images/puzzle_page_024.png)
+![Figure](../../images/puzzle_page_024.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -1407,7 +1407,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_025.png)
+![Figure](../../images/puzzle_page_025.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1446,7 +1446,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_026.png)
+![Figure](../../images/puzzle_page_026.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -1487,7 +1487,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 10
 - D) 21
 
-![Figure](../../../images/puzzle_page_027.png)
+![Figure](../../images/puzzle_page_027.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1528,7 +1528,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 10
 - D) 21
 
-![Figure](../../../images/puzzle_page_027.png)
+![Figure](../../images/puzzle_page_027.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -1567,7 +1567,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 15
 - D) 44
 
-![Figure](../../../images/puzzle_page_028.png)
+![Figure](../../images/puzzle_page_028.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -1606,7 +1606,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 15
 - D) 44
 
-![Figure](../../../images/puzzle_page_028.png)
+![Figure](../../images/puzzle_page_028.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1645,7 +1645,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_029.png)
+![Figure](../../images/puzzle_page_029.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -1686,7 +1686,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 12
 - D) 15
 
-![Figure](../../../images/puzzle_page_030.png)
+![Figure](../../images/puzzle_page_030.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -1727,7 +1727,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 12
 - D) 15
 
-![Figure](../../../images/puzzle_page_030.png)
+![Figure](../../images/puzzle_page_030.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -1766,7 +1766,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_031.png)
+![Figure](../../images/puzzle_page_031.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -1805,7 +1805,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_032.png)
+![Figure](../../images/puzzle_page_032.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -1844,7 +1844,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_033.png)
+![Figure](../../images/puzzle_page_033.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -1883,7 +1883,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_034.png)
+![Figure](../../images/puzzle_page_034.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -1926,7 +1926,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_035.png)
+![Figure](../../images/puzzle_page_035.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -1965,7 +1965,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_036.png)
+![Figure](../../images/puzzle_page_036.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -2004,7 +2004,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_037.png)
+![Figure](../../images/puzzle_page_037.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -2043,7 +2043,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_038.png)
+![Figure](../../images/puzzle_page_038.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -2082,7 +2082,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_039.png)
+![Figure](../../images/puzzle_page_039.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -2121,7 +2121,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_040.png)
+![Figure](../../images/puzzle_page_040.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -2160,7 +2160,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_041.png)
+![Figure](../../images/puzzle_page_041.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -2199,7 +2199,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_042.png)
+![Figure](../../images/puzzle_page_042.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -2238,7 +2238,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_043.png)
+![Figure](../../images/puzzle_page_043.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -2277,7 +2277,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_044.png)
+![Figure](../../images/puzzle_page_044.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -2320,7 +2320,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_045.png)
+![Figure](../../images/puzzle_page_045.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -2359,7 +2359,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_046.png)
+![Figure](../../images/puzzle_page_046.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -2402,7 +2402,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_047.png)
+![Figure](../../images/puzzle_page_047.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -2441,7 +2441,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_048.png)
+![Figure](../../images/puzzle_page_048.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -2482,7 +2482,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_049.png)
+![Figure](../../images/puzzle_page_049.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -2519,7 +2519,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_050.png)
+![Figure](../../images/puzzle_page_050.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -2562,7 +2562,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_051.png)
+![Figure](../../images/puzzle_page_051.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -2601,7 +2601,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_052.png)
+![Figure](../../images/puzzle_page_052.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -2640,7 +2640,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_053.png)
+![Figure](../../images/puzzle_page_053.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -2683,7 +2683,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_054.png)
+![Figure](../../images/puzzle_page_054.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -2722,7 +2722,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_055.png)
+![Figure](../../images/puzzle_page_055.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -2763,7 +2763,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_056.png)
+![Figure](../../images/puzzle_page_056.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -2800,7 +2800,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_057.png)
+![Figure](../../images/puzzle_page_057.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -2843,7 +2843,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_058.png)
+![Figure](../../images/puzzle_page_058.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -2886,7 +2886,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_059.png)
+![Figure](../../images/puzzle_page_059.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -2923,7 +2923,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_060.png)
+![Figure](../../images/puzzle_page_060.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -2964,7 +2964,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_061.png)
+![Figure](../../images/puzzle_page_061.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -3007,7 +3007,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_062.png)
+![Figure](../../images/puzzle_page_062.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -3044,7 +3044,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_063.png)
+![Figure](../../images/puzzle_page_063.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -3083,7 +3083,7 @@ Official Exam Key: `C) 27`. Systematic step-by-step verification confirms this r
 - C) 30
 - D) 40
 
-![Figure](../../../images/puzzle_page_064.png)
+![Figure](../../images/puzzle_page_064.png)
 
 > **Verified Answer Key:** `A`  
 

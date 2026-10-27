@@ -38,8 +38,6 @@ executed and waiting?
 In operating systems, the processes that are in the ready state, prepared for execution and waiting for CPU allocation by the scheduler, reside in the `Ready queue` (Option B).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -72,8 +70,6 @@ What does the expression float a =
 In Java, floating-point arithmetic follows IEEE 754 standards. Dividing a non-zero float/double by 0 or 0.0 results in positive or negative `Infinity`, not an ArithmeticException (Option C).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_03.png)
-
 ---
 
 ---
@@ -125,8 +121,6 @@ Given Traversals:
 5. Post-Order (Left, Right, Root): `9 10 7 8 6` (Option A).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_03.png)
-
 ---
 
 ---
@@ -168,8 +162,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `D`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_03.png)
-
 ---
 
 ---
@@ -215,8 +207,6 @@ main()
 3. Summing/reducing returned values produces the exact result corresponding to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_04.png)
-
 ---
 
 ---
@@ -255,8 +245,6 @@ Push(2), Pop().
 2. Executing operations in specified order leads unambiguously to Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_04.png)
-
 ---
 
 ---
@@ -293,8 +281,6 @@ list should be used?
 2. Executing operations in specified order leads unambiguously to Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_05.png)
-
 ---
 
 ---
@@ -336,8 +322,6 @@ sequence 1,2,3,4,5 order?
 2. Executing operations in specified order leads unambiguously to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_05.png)
-
 ---
 
 ---
@@ -383,8 +367,6 @@ end for
 3. Summing/reducing returned values produces the exact result corresponding to Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_05.png)
-
 ---
 
 ---
@@ -438,8 +420,6 @@ Z= X+Y+Z
 3. Summing/reducing returned values produces the exact result corresponding to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_05.png)
-
 ---
 
 ---
@@ -483,8 +463,6 @@ return f(n);
 3. Summing/reducing returned values produces the exact result corresponding to Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_06.png)
-
 ---
 
 ---
@@ -521,8 +499,6 @@ vertices will occupy positions 2 and
 2. Executing operations in specified order leads unambiguously to Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_07.png)
-
 ---
 
 ---
@@ -557,8 +533,6 @@ vertices in a full binary tree?
 2. Executing operations in specified order leads unambiguously to Option `D`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_07.png)
-
 ---
 
 ---
@@ -595,8 +569,6 @@ sorting technique used.
 2. Executing operations in specified order leads unambiguously to Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_07.png)
-
 ---
 
 ---
@@ -647,8 +619,6 @@ or underflow situation occurs:
 2. Executing operations in specified order leads unambiguously to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_08.png)
-
 ---
 
 ---
@@ -696,8 +666,6 @@ End function fun()
 3. Summing/reducing returned values produces the exact result corresponding to Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_08.png)
-
 ---
 
 ---
@@ -740,8 +708,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `D`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_09.png)
-
 ---
 
 ---
@@ -778,8 +744,6 @@ Non empty Children?
 2. Executing operations in specified order leads unambiguously to Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_09.png)
-
 ---
 
 ---
@@ -820,8 +784,6 @@ Inserting 25 into min-heap [10, 15, 30, 40, 50, 100]:
 Resulting array: `10, 15, 25, 40, 50, 100, 30` (Option B).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_09.png)
-
 ---
 
 ---
@@ -859,8 +821,6 @@ array representation of max heap?
 2. Executing operations in specified order leads unambiguously to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_09.png)
-
 ---
 
 ---
@@ -903,8 +863,6 @@ end-function
 3. Summing/reducing returned values produces the exact result corresponding to Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_10.png)
-
 ---
 
 ---
@@ -942,8 +900,6 @@ display res
 2. Executing operations in specified order leads unambiguously to Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_10.png)
-
 ---
 
 ---
@@ -986,8 +942,6 @@ Print a+b+c
 3. Summing/reducing returned values produces the exact result corresponding to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_12.png)
-
 ---
 
 ---
@@ -1024,8 +978,6 @@ another?
 2. Executing operations in specified order leads unambiguously to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_17.png)
-
 ---
 
 ---
@@ -1069,8 +1021,6 @@ Root: A -> Left: B -> Left: D, Right: E -> Right child of E: H -> Right subtree 
 Traversal order: `ABDEHCFIG` (Option A).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_18.png)
-
 ---
 
 ---
@@ -1114,8 +1064,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_20.png)
-
 ---
 
 ---
@@ -1159,8 +1107,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `D`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_20.png)
-
 ---
 
 ---
@@ -1205,8 +1151,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_20.png)
-
 ---
 
 ---
@@ -1245,8 +1189,6 @@ Pop().
 2. Executing operations in specified order leads unambiguously to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_21.png)
-
 ---
 
 ---
@@ -1285,8 +1227,6 @@ following statements is correct?
 2. Executing operations in specified order leads unambiguously to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_21.png)
-
 ---
 
 ---
@@ -1322,8 +1262,6 @@ the nodes 1 to 7 will be?2
 2. Executing operations in specified order leads unambiguously to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_21.png)
-
 ---
 
 ---
@@ -1359,8 +1297,6 @@ search tree?
 2. Executing operations in specified order leads unambiguously to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_21.png)
-
 ---
 
 ---
@@ -1405,8 +1341,6 @@ End function funn()
 3. Summing/reducing returned values produces the exact result corresponding to Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_22.png)
-
 ---
 
 ---
@@ -1450,8 +1384,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_23.png)
-
 ---
 
 ---
@@ -1493,8 +1425,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_23.png)
-
 ---
 
 ---
@@ -1539,8 +1469,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_23.png)
-
 ---
 
 ---
@@ -1594,8 +1522,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_23.png)
-
 ---
 
 ---
@@ -1640,8 +1566,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_24.png)
-
 ---
 
 ---
@@ -1685,8 +1609,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_24.png)
-
 ---
 
 ---

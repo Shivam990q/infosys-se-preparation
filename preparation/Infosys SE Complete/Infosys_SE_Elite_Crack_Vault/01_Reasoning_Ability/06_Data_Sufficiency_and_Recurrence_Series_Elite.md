@@ -47,7 +47,7 @@ Therefore, u_{10} = 1023.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD09_Q01 Reference](../../../images/mod09_number_series_page_01.png)
+![SEC01_MOD09_Q01 Reference](../../images/mod09_number_series_page_01.png)
 
 ---
 
@@ -91,7 +91,7 @@ Therefore, the missing number is 81.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD09_Q02 Reference](../../../images/mod09_number_series_page_02.png)
+![SEC01_MOD09_Q02 Reference](../../images/mod09_number_series_page_02.png)
 
 ---
 
@@ -137,7 +137,7 @@ Therefore, the missing number is 9264.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD09_Q03 Reference](../../../images/mod09_number_series_page_02.png)
+![SEC01_MOD09_Q03 Reference](../../images/mod09_number_series_page_02.png)
 
 ---
 
@@ -185,7 +185,7 @@ Therefore, the missing term is 945.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD09_Q04 Reference](../../../images/mod09_number_series_page_03.png)
+![SEC01_MOD09_Q04 Reference](../../images/mod09_number_series_page_03.png)
 
 ---
 
@@ -230,7 +230,7 @@ The tallest person is E.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD10_Q01 Reference](../../../images/mod10_data_sufficiency_page_03.png)
+![SEC01_MOD10_Q01 Reference](../../images/mod10_data_sufficiency_page_03.png)
 
 ---
 
@@ -272,7 +272,7 @@ Therefore, both statements together are necessary (Option e).
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD10_Q02 Reference](../../../images/mod10_data_sufficiency_page_05.png)
+![SEC01_MOD10_Q02 Reference](../../images/mod10_data_sufficiency_page_05.png)
 
 ---
 
@@ -312,7 +312,7 @@ Depending on gender conventions, statement II alone or combined determines the r
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD10_Q03 Reference](../../../images/mod10_data_sufficiency_page_14.png)
+![SEC01_MOD10_Q03 Reference](../../images/mod10_data_sufficiency_page_14.png)
 
 ---
 
@@ -364,7 +364,7 @@ Data Sufficiency logical proof from slide 3. Evaluate Statement I alone, Stateme
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD10_DS_SLIDE_P03 Reference](../../../images/mod10_data_sufficiency_page_03.png)
+![SEC01_MOD10_DS_SLIDE_P03 Reference](../../images/mod10_data_sufficiency_page_03.png)
 
 ---
 
@@ -408,7 +408,7 @@ Data Sufficiency logical proof from slide 4. Evaluate Statement I alone, Stateme
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD10_DS_SLIDE_P04 Reference](../../../images/mod10_data_sufficiency_page_04.png)
+![SEC01_MOD10_DS_SLIDE_P04 Reference](../../images/mod10_data_sufficiency_page_04.png)
 
 ---
 
@@ -459,7 +459,7 @@ Data Sufficiency logical proof from slide 5. Evaluate Statement I alone, Stateme
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD10_DS_SLIDE_P05 Reference](../../../images/mod10_data_sufficiency_page_05.png)
+![SEC01_MOD10_DS_SLIDE_P05 Reference](../../images/mod10_data_sufficiency_page_05.png)
 
 ---
 
@@ -511,7 +511,7 @@ Data Sufficiency logical proof from slide 6. Evaluate Statement I alone, Stateme
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD10_DS_SLIDE_P06 Reference](../../../images/mod10_data_sufficiency_page_06.png)
+![SEC01_MOD10_DS_SLIDE_P06 Reference](../../images/mod10_data_sufficiency_page_06.png)
 
 ---
 
@@ -566,7 +566,7 @@ Data Sufficiency logical proof from slide 7. Evaluate Statement I alone, Stateme
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD10_DS_SLIDE_P07 Reference](../../../images/mod10_data_sufficiency_page_07.png)
+![SEC01_MOD10_DS_SLIDE_P07 Reference](../../images/mod10_data_sufficiency_page_07.png)
 
 ---
 
@@ -613,7 +613,7 @@ Data Sufficiency logical proof from slide 8. Evaluate Statement I alone, Stateme
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD10_DS_SLIDE_P08 Reference](../../../images/mod10_data_sufficiency_page_08.png)
+![SEC01_MOD10_DS_SLIDE_P08 Reference](../../images/mod10_data_sufficiency_page_08.png)
 
 ---
 
@@ -664,7 +664,7 @@ Data Sufficiency logical proof from slide 10. Evaluate Statement I alone, Statem
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD10_DS_SLIDE_P10 Reference](../../../images/mod10_data_sufficiency_page_10.png)
+![SEC01_MOD10_DS_SLIDE_P10 Reference](../../images/mod10_data_sufficiency_page_10.png)
 
 ---
 
@@ -718,7 +718,7 @@ Data Sufficiency logical proof from slide 11. Evaluate Statement I alone, Statem
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD10_DS_SLIDE_P11 Reference](../../../images/mod10_data_sufficiency_page_11.png)
+![SEC01_MOD10_DS_SLIDE_P11 Reference](../../images/mod10_data_sufficiency_page_11.png)
 
 ---
 
@@ -764,7 +764,7 @@ Data Sufficiency logical proof from slide 12. Evaluate Statement I alone, Statem
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD10_DS_SLIDE_P12 Reference](../../../images/mod10_data_sufficiency_page_12.png)
+![SEC01_MOD10_DS_SLIDE_P12 Reference](../../images/mod10_data_sufficiency_page_12.png)
 
 ---
 
@@ -812,7 +812,7 @@ Data Sufficiency logical proof from slide 14. Evaluate Statement I alone, Statem
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD10_DS_SLIDE_P14 Reference](../../../images/mod10_data_sufficiency_page_14.png)
+![SEC01_MOD10_DS_SLIDE_P14 Reference](../../images/mod10_data_sufficiency_page_14.png)
 
 ---
 
@@ -863,7 +863,7 @@ Data Sufficiency logical proof from slide 15. Evaluate Statement I alone, Statem
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD10_DS_SLIDE_P15 Reference](../../../images/mod10_data_sufficiency_page_15.png)
+![SEC01_MOD10_DS_SLIDE_P15 Reference](../../images/mod10_data_sufficiency_page_15.png)
 
 ---
 
@@ -914,7 +914,7 @@ Data Sufficiency logical proof from slide 16. Evaluate Statement I alone, Statem
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD10_DS_SLIDE_P16 Reference](../../../images/mod10_data_sufficiency_page_16.png)
+![SEC01_MOD10_DS_SLIDE_P16 Reference](../../images/mod10_data_sufficiency_page_16.png)
 
 ---
 
@@ -969,7 +969,7 @@ Data Sufficiency logical proof from slide 17. Evaluate Statement I alone, Statem
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD10_DS_SLIDE_P17 Reference](../../../images/mod10_data_sufficiency_page_17.png)
+![SEC01_MOD10_DS_SLIDE_P17 Reference](../../images/mod10_data_sufficiency_page_17.png)
 
 ---
 
@@ -1022,7 +1022,7 @@ Data Sufficiency logical proof from slide 19. Evaluate Statement I alone, Statem
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD10_DS_SLIDE_P19 Reference](../../../images/mod10_data_sufficiency_page_19.png)
+![SEC01_MOD10_DS_SLIDE_P19 Reference](../../images/mod10_data_sufficiency_page_19.png)
 
 ---
 
@@ -1067,7 +1067,7 @@ Data Sufficiency logical proof from slide 20. Evaluate Statement I alone, Statem
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD10_DS_SLIDE_P20 Reference](../../../images/mod10_data_sufficiency_page_20.png)
+![SEC01_MOD10_DS_SLIDE_P20 Reference](../../images/mod10_data_sufficiency_page_20.png)
 
 ---
 
@@ -1115,7 +1115,7 @@ Data Sufficiency logical proof from slide 22. Evaluate Statement I alone, Statem
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD10_DS_SLIDE_P22 Reference](../../../images/mod10_data_sufficiency_page_22.png)
+![SEC01_MOD10_DS_SLIDE_P22 Reference](../../images/mod10_data_sufficiency_page_22.png)
 
 ---
 
@@ -1168,7 +1168,7 @@ Data Sufficiency logical proof from slide 23. Evaluate Statement I alone, Statem
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD10_DS_SLIDE_P23 Reference](../../../images/mod10_data_sufficiency_page_23.png)
+![SEC01_MOD10_DS_SLIDE_P23 Reference](../../images/mod10_data_sufficiency_page_23.png)
 
 ---
 
@@ -1206,7 +1206,7 @@ Mathematical series deduction from slide 1. Difference, multiplicative, or recur
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD09_SERIES_SLIDE_P01 Reference](../../../images/mod09_number_series_page_01.png)
+![SEC01_MOD09_SERIES_SLIDE_P01 Reference](../../images/mod09_number_series_page_01.png)
 
 ---
 
@@ -1246,7 +1246,7 @@ Mathematical series deduction from slide 2. Difference, multiplicative, or recur
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD09_SERIES_SLIDE_P02 Reference](../../../images/mod09_number_series_page_02.png)
+![SEC01_MOD09_SERIES_SLIDE_P02 Reference](../../images/mod09_number_series_page_02.png)
 
 ---
 
@@ -1286,7 +1286,7 @@ Mathematical series deduction from slide 3. Difference, multiplicative, or recur
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD09_SERIES_SLIDE_P03 Reference](../../../images/mod09_number_series_page_03.png)
+![SEC01_MOD09_SERIES_SLIDE_P03 Reference](../../images/mod09_number_series_page_03.png)
 
 ---
 
@@ -1321,7 +1321,7 @@ Mathematical series deduction from slide 4. Difference, multiplicative, or recur
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD09_SERIES_SLIDE_P04 Reference](../../../images/mod09_number_series_page_04.png)
+![SEC01_MOD09_SERIES_SLIDE_P04 Reference](../../images/mod09_number_series_page_04.png)
 
 ---
 
@@ -1357,7 +1357,7 @@ Mathematical series deduction from slide 5. Difference, multiplicative, or recur
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD09_SERIES_SLIDE_P05 Reference](../../../images/mod09_number_series_page_05.png)
+![SEC01_MOD09_SERIES_SLIDE_P05 Reference](../../images/mod09_number_series_page_05.png)
 
 ---
 
@@ -1393,7 +1393,7 @@ Mathematical series deduction from slide 6. Difference, multiplicative, or recur
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD09_SERIES_SLIDE_P06 Reference](../../../images/mod09_number_series_page_06.png)
+![SEC01_MOD09_SERIES_SLIDE_P06 Reference](../../images/mod09_number_series_page_06.png)
 
 ---
 
@@ -1434,7 +1434,7 @@ Mathematical series deduction from slide 7. Difference, multiplicative, or recur
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD09_SERIES_SLIDE_P07 Reference](../../../images/mod09_number_series_page_07.png)
+![SEC01_MOD09_SERIES_SLIDE_P07 Reference](../../images/mod09_number_series_page_07.png)
 
 ---
 
@@ -1478,7 +1478,7 @@ Mathematical series deduction from slide 8. Difference, multiplicative, or recur
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD09_SERIES_SLIDE_P08 Reference](../../../images/mod09_number_series_page_08.png)
+![SEC01_MOD09_SERIES_SLIDE_P08 Reference](../../images/mod09_number_series_page_08.png)
 
 ---
 

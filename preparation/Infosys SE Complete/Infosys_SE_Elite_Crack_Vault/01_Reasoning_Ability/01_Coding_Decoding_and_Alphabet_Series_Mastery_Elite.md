@@ -45,7 +45,7 @@ Therefore, the wrong letter in the series is T (it should be S).
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q01 Reference](../../../images/mod01_day01_page_03.png)
+![SEC01_MOD01_Q01 Reference](../../images/mod01_day01_page_03.png)
 
 ---
 
@@ -94,7 +94,7 @@ Reversing the single-digit sums gives: 7, 3, 3, 1 -> '7331'.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q02 Reference](../../../images/mod01_day01_page_04.png)
+![SEC01_MOD01_Q02 Reference](../../images/mod01_day01_page_04.png)
 
 ---
 
@@ -134,7 +134,7 @@ Therefore, J is coded as 125.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q03 Reference](../../../images/mod01_day01_page_05.png)
+![SEC01_MOD01_Q03 Reference](../../images/mod01_day01_page_05.png)
 
 ---
 
@@ -174,7 +174,7 @@ Therefore, the code for QUEEN is 62.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q04 Reference](../../../images/mod01_day01_page_06.png)
+![SEC01_MOD01_Q04 Reference](../../images/mod01_day01_page_06.png)
 
 ---
 
@@ -212,7 +212,7 @@ CARD: C (3) + A (1) + R (18) + D (4) = 26. Number of letters = 4. 26 * 4 = 104.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q05 Reference](../../../images/mod01_day01_page_07.png)
+![SEC01_MOD01_Q05 Reference](../../images/mod01_day01_page_07.png)
 
 ---
 
@@ -250,7 +250,7 @@ OVER has 4 letters, HOSPITAL has 8 letters -> 4 * 8 = 32.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q06 Reference](../../../images/mod01_day01_page_08.png)
+![SEC01_MOD01_Q06 Reference](../../images/mod01_day01_page_08.png)
 
 ---
 
@@ -296,7 +296,7 @@ Therefore, option 4 (82) is the exact answer.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q07 Reference](../../../images/mod01_day01_page_09.png)
+![SEC01_MOD01_Q07 Reference](../../images/mod01_day01_page_09.png)
 
 ---
 
@@ -345,7 +345,7 @@ Code = 20-17-15-16-28.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q08 Reference](../../../images/mod01_day01_page_10.png)
+![SEC01_MOD01_Q08 Reference](../../images/mod01_day01_page_10.png)
 
 ---
 
@@ -398,7 +398,7 @@ Wait, let's verify if -7 is option 1! Yes, Option 1 is -7!
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q09 Reference](../../../images/mod01_day01_page_11.png)
+![SEC01_MOD01_Q09 Reference](../../images/mod01_day01_page_11.png)
 
 ---
 
@@ -436,7 +436,7 @@ Therefore, FRICTION is coded as 64.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q10 Reference](../../../images/mod01_day01_page_12.png)
+![SEC01_MOD01_Q10 Reference](../../images/mod01_day01_page_12.png)
 
 ---
 
@@ -480,7 +480,7 @@ Check digital root: 79 -> 7+9 = 16 -> 1+6 = 7. 51 -> 5+1 = 6. 40 -> 4+0 = 4. Opt
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q11 Reference](../../../images/mod01_day01_page_13.png)
+![SEC01_MOD01_Q11 Reference](../../images/mod01_day01_page_13.png)
 
 ---
 
@@ -529,7 +529,7 @@ Option d: '217111912' corresponds to 2-17-11-1-9-12 where vowels O=17, A=1, I=9 
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q12 Reference](../../../images/mod01_day01_page_14.png)
+![SEC01_MOD01_Q12 Reference](../../images/mod01_day01_page_14.png)
 
 ---
 
@@ -573,7 +573,7 @@ Therefore, ZEJP is the odd one out.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q13 Reference](../../../images/mod01_day01_page_15.png)
+![SEC01_MOD01_Q13 Reference](../../images/mod01_day01_page_15.png)
 
 ---
 
@@ -616,7 +616,7 @@ Hence, 'trees' = 4.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q14 Reference](../../../images/mod01_day01_page_16.png)
+![SEC01_MOD01_Q14 Reference](../../images/mod01_day01_page_16.png)
 
 ---
 
@@ -651,7 +651,7 @@ M - 2 = K, O + 1 = P, U - 2 = S, S + 1 = T, E - 2 = C. Applying alternate -2, +1
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q15 Reference](../../../images/mod01_dpp01_page_01.png)
+![SEC01_MOD01_Q15 Reference](../../images/mod01_dpp01_page_01.png)
 
 ---
 
@@ -687,7 +687,7 @@ Positions: 1 2 3 4 -> 2 1 4 3 or transposition. BEAN -> ABNE swaps 1&2, 3&4. NEW
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q16 Reference](../../../images/mod01_dpp01_page_01.png)
+![SEC01_MOD01_Q16 Reference](../../images/mod01_dpp01_page_01.png)
 
 ---
 
@@ -723,7 +723,7 @@ Divide word into two halves + middle letter. J E A L O U S (+1 to each letter an
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q17 Reference](../../../images/mod01_dpp01_page_01.png)
+![SEC01_MOD01_Q17 Reference](../../images/mod01_dpp01_page_01.png)
 
 ---
 
@@ -759,7 +759,7 @@ Pattern of +1, -1 alternating on each character of ATMOSPHERE -> BSLPROGFQF. App
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q18 Reference](../../../images/mod01_dpp01_page_01.png)
+![SEC01_MOD01_Q18 Reference](../../images/mod01_dpp01_page_01.png)
 
 ---
 
@@ -794,7 +794,7 @@ In BOMBAY, the 3rd and 6th letters are M and Y, repeated 3 times. In TAMILNADU (
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q19 Reference](../../../images/mod01_dpp01_page_01.png)
+![SEC01_MOD01_Q19 Reference](../../images/mod01_dpp01_page_01.png)
 
 ---
 
@@ -829,7 +829,7 @@ Direct letter substitution: C=8, A=2, L=5, I=1, C=8, U=9, T=6 -> 8251896.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q20 Reference](../../../images/mod01_dpp01_page_01.png)
+![SEC01_MOD01_Q20 Reference](../../images/mod01_dpp01_page_01.png)
 
 ---
 
@@ -865,7 +865,7 @@ In '253' (books are old) and '546' (man is old), common digit is 5 = 'old'. In '
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q21 Reference](../../../images/mod01_dpp01_page_01.png)
+![SEC01_MOD01_Q21 Reference](../../images/mod01_dpp01_page_01.png)
 
 ---
 
@@ -900,7 +900,7 @@ In a certain code language, 'pit nae tom' means 'give me water', 'nae tok pa' me
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q22 Reference](../../../images/mod01_dpp01_page_01.png)
+![SEC01_MOD01_Q22 Reference](../../images/mod01_dpp01_page_01.png)
 
 ---
 
@@ -936,7 +936,7 @@ In 'for profit order now' and 'right now for him', common words are 'for', 'now'
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q23 Reference](../../../images/mod01_dpp01_page_01.png)
+![SEC01_MOD01_Q23 Reference](../../images/mod01_dpp01_page_01.png)
 
 ---
 
@@ -972,7 +972,7 @@ What does 'bi' stand for in the above Chinese coding?
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q24 Reference](../../../images/mod01_dpp01_page_01.png)
+![SEC01_MOD01_Q24 Reference](../../images/mod01_dpp01_page_01.png)
 
 ---
 
@@ -1008,7 +1008,7 @@ What is the code for 'order' in the above code?
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q25 Reference](../../../images/mod01_dpp01_page_01.png)
+![SEC01_MOD01_Q25 Reference](../../images/mod01_dpp01_page_01.png)
 
 ---
 
@@ -1043,7 +1043,7 @@ F is 6th letter: (6 + 1)^3 = 7^3 = 343. L is 12th letter: (12 + 1)^3 = 13^3 = 21
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q26 Reference](../../../images/mod01_dpp01_page_01.png)
+![SEC01_MOD01_Q26 Reference](../../images/mod01_dpp01_page_01.png)
 
 ---
 
@@ -1078,7 +1078,7 @@ If 264 * 2 = 6, 870 * 3 = 11, then what should 735 * 5 be?
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q27 Reference](../../../images/mod01_dpp01_page_01.png)
+![SEC01_MOD01_Q27 Reference](../../images/mod01_dpp01_page_01.png)
 
 ---
 
@@ -1113,7 +1113,7 @@ Direct positional values: 2 = B, 5 = E, 1 = A, 4 = D, 4 = D -> 'BEADD' (or 25=Y,
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q28 Reference](../../../images/mod01_dpp01_page_01.png)
+![SEC01_MOD01_Q28 Reference](../../images/mod01_dpp01_page_01.png)
 
 ---
 
@@ -1148,7 +1148,7 @@ Direct substitution matching: L=G, A=K, N=L, T=C, E=D, R=F, N=L -> GKLCDAC.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD01_Q29 Reference](../../../images/mod01_dpp01_page_01.png)
+![SEC01_MOD01_Q29 Reference](../../images/mod01_dpp01_page_01.png)
 
 ---
 
@@ -1183,7 +1183,7 @@ This is t orrect Option: C O R G A N I S A T I O N C B D W L Q J W Y Q C L O P E
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_CODING_Q01 Reference](../../../images/q1_1.png)
+![SEC01_TEST_CODING_Q01 Reference](../../images/q1_1.png)
 
 ---
 
@@ -1218,7 +1218,7 @@ P E N N Z O B A R K C T S L Therefore; P R A N K N S T O L
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_CODING_Q02 Reference](../../../images/q2_1.png)
+![SEC01_TEST_CODING_Q02 Reference](../../images/q2_1.png)
 
 ---
 
@@ -1253,7 +1253,7 @@ Correct Option: A B U T T E R &darr; &darr; &darr; &darr; &darr; &darr; +1 +1 +1
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_CODING_Q03 Reference](../../../images/q3_1.png)
+![SEC01_TEST_CODING_Q03 Reference](../../images/q3_1.png)
 
 ---
 
@@ -1288,7 +1288,7 @@ Correct Option: D P A R E N T B D F G J K C H I L D R E N M O X Q U F G J Theref
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_CODING_Q04 Reference](../../../images/q4_1.png)
+![SEC01_TEST_CODING_Q04 Reference](../../images/q4_1.png)
 
 ---
 
@@ -1323,7 +1323,7 @@ Correct Option: A U N I T E D &darr; &darr; &darr; &darr; &darr; &darr; &ndash;2
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_CODING_Q05 Reference](../../../images/q5_1.png)
+![SEC01_TEST_CODING_Q05 Reference](../../images/q5_1.png)
 
 ---
 

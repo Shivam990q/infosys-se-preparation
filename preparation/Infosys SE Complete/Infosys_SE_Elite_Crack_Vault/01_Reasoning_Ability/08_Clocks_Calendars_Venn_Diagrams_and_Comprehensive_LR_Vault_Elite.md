@@ -42,7 +42,7 @@ Therefore, 700 is not a leap year.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD12_CAL_Q01 Reference](../../../images/mod10_data_sufficiency_page_01.png)
+![SEC01_MOD12_CAL_Q01 Reference](../../images/mod10_data_sufficiency_page_01.png)
 
 ---
 
@@ -86,7 +86,7 @@ Therefore, after 61 days it will be Saturday.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD12_CAL_Q02 Reference](../../../images/mod10_data_sufficiency_page_01.png)
+![SEC01_MOD12_CAL_Q02 Reference](../../images/mod10_data_sufficiency_page_01.png)
 
 ---
 
@@ -124,7 +124,7 @@ Day on 6th March 2004 = Monday - 1 day = Sunday.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD12_CAL_Q03 Reference](../../../images/mod10_data_sufficiency_page_01.png)
+![SEC01_MOD12_CAL_Q03 Reference](../../images/mod10_data_sufficiency_page_01.png)
 
 ---
 
@@ -161,7 +161,7 @@ Total days = (x weeks) + (x days) = 7x + x = 8x days.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD12_CAL_Q04 Reference](../../../images/mod10_data_sufficiency_page_01.png)
+![SEC01_MOD12_CAL_Q04 Reference](../../images/mod10_data_sufficiency_page_01.png)
 
 ---
 
@@ -202,7 +202,7 @@ Therefore, the last day of a century cannot be Tuesday.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD12_CAL_Q05 Reference](../../../images/mod10_data_sufficiency_page_01.png)
+![SEC01_MOD12_CAL_Q05 Reference](../../images/mod10_data_sufficiency_page_01.png)
 
 ---
 
@@ -240,7 +240,7 @@ Day on 8th Feb 2004 = Tuesday - 2 days = Sunday.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD12_CAL_Q06 Reference](../../../images/mod10_data_sufficiency_page_01.png)
+![SEC01_MOD12_CAL_Q06 Reference](../../images/mod10_data_sufficiency_page_01.png)
 
 ---
 
@@ -277,7 +277,7 @@ Day on 8th Dec 2006 = Saturday - 1 day = Friday.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD12_CAL_Q07 Reference](../../../images/mod10_data_sufficiency_page_01.png)
+![SEC01_MOD12_CAL_Q07 Reference](../../images/mod10_data_sufficiency_page_01.png)
 
 ---
 
@@ -314,7 +314,7 @@ Day on Jan 1, 2009 = Tuesday + 2 days = Thursday.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD12_CAL_Q08 Reference](../../../images/mod10_data_sufficiency_page_01.png)
+![SEC01_MOD12_CAL_Q08 Reference](../../images/mod10_data_sufficiency_page_01.png)
 
 ---
 
@@ -351,7 +351,7 @@ Day on Jan 1, 2008 = Monday + 1 day = Tuesday.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD12_CAL_Q09 Reference](../../../images/mod10_data_sufficiency_page_01.png)
+![SEC01_MOD12_CAL_Q09 Reference](../../images/mod10_data_sufficiency_page_01.png)
 
 ---
 
@@ -392,7 +392,7 @@ Day on Jan 1, 2010 = Sunday + 5 days = Friday.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD12_CAL_Q10 Reference](../../../images/mod10_data_sufficiency_page_01.png)
+![SEC01_MOD12_CAL_Q10 Reference](../../images/mod10_data_sufficiency_page_01.png)
 
 ---
 
@@ -439,7 +439,7 @@ Therefore, 28th May, 2006 was a Sunday.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD12_CAL_Q11 Reference](../../../images/mod10_data_sufficiency_page_01.png)
+![SEC01_MOD12_CAL_Q11 Reference](../../images/mod10_data_sufficiency_page_01.png)
 
 ---
 
@@ -477,7 +477,7 @@ Therefore, the angle between the hands is 130°.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD12_CLK_Q01 Reference](../../../images/mod10_data_sufficiency_page_01.png)
+![SEC01_MOD12_CLK_Q01 Reference](../../images/mod10_data_sufficiency_page_01.png)
 
 ---
 
@@ -516,7 +516,7 @@ Therefore, the reflex angle is 197.5°.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD12_CLK_Q02 Reference](../../../images/mod10_data_sufficiency_page_01.png)
+![SEC01_MOD12_CLK_Q02 Reference](../../images/mod10_data_sufficiency_page_01.png)
 
 ---
 
@@ -561,7 +561,7 @@ Therefore, exactly right of R is V (Option c).
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD13_Q01 Reference](../../../images/mod13_scan_book_page_02.png)
+![SEC01_MOD13_Q01 Reference](../../images/mod13_scan_book_page_02.png)
 
 ---
 
@@ -606,7 +606,7 @@ Therefore, the answer is 'Both II & III' (Option d).
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD13_Q02 Reference](../../../images/mod13_scan_book_page_03.png)
+![SEC01_MOD13_Q02 Reference](../../images/mod13_scan_book_page_03.png)
 
 ---
 
@@ -641,7 +641,7 @@ Official solution from Calendar Logical Reasoning Test. Symmetrical, rotational,
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_CALEND_Q01 Reference](../../../images/q1_1.png)
+![SEC01_TEST_CALEND_Q01 Reference](../../images/q1_1.png)
 
 ---
 
@@ -676,7 +676,7 @@ Official solution from Calendar Logical Reasoning Test. Symmetrical, rotational,
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_CALEND_Q02 Reference](../../../images/q2_1.png)
+![SEC01_TEST_CALEND_Q02 Reference](../../images/q2_1.png)
 
 ---
 
@@ -711,7 +711,7 @@ Official solution from Calendar Logical Reasoning Test. Symmetrical, rotational,
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_CALEND_Q03 Reference](../../../images/q3_1.png)
+![SEC01_TEST_CALEND_Q03 Reference](../../images/q3_1.png)
 
 ---
 
@@ -746,7 +746,7 @@ Official solution from Calendar Logical Reasoning Test. Symmetrical, rotational,
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_CALEND_Q04 Reference](../../../images/q4_1.png)
+![SEC01_TEST_CALEND_Q04 Reference](../../images/q4_1.png)
 
 ---
 
@@ -781,7 +781,7 @@ Official solution from Calendar Logical Reasoning Test. Symmetrical, rotational,
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_CALEND_Q05 Reference](../../../images/q5_1.png)
+![SEC01_TEST_CALEND_Q05 Reference](../../images/q5_1.png)
 
 ---
 
@@ -816,7 +816,7 @@ Official solution from Calendar Logical Reasoning Test. Symmetrical, rotational,
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_CALEND_Q06 Reference](../../../images/q6_1.png)
+![SEC01_TEST_CALEND_Q06 Reference](../../images/q6_1.png)
 
 ---
 
@@ -851,7 +851,7 @@ Official solution from Calendar Logical Reasoning Test. Symmetrical, rotational,
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_CALEND_Q07 Reference](../../../images/q7_1.png)
+![SEC01_TEST_CALEND_Q07 Reference](../../images/q7_1.png)
 
 ---
 
@@ -886,7 +886,7 @@ Official solution from Calendar Logical Reasoning Test. Symmetrical, rotational,
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_CALEND_Q08 Reference](../../../images/q8_1.png)
+![SEC01_TEST_CALEND_Q08 Reference](../../images/q8_1.png)
 
 ---
 
@@ -921,7 +921,7 @@ Official solution from Calendar Logical Reasoning Test. Symmetrical, rotational,
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_CALEND_Q09 Reference](../../../images/q9_1.png)
+![SEC01_TEST_CALEND_Q09 Reference](../../images/q9_1.png)
 
 ---
 
@@ -956,7 +956,7 @@ Official solution from Calendar Logical Reasoning Test. Symmetrical, rotational,
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_CALEND_Q10 Reference](../../../images/q10_1.png)
+![SEC01_TEST_CALEND_Q10 Reference](../../images/q10_1.png)
 
 ---
 
@@ -991,7 +991,7 @@ Official solution from Calendar Logical Reasoning Test. Symmetrical, rotational,
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_CALEND_Q11 Reference](../../../images/q11_1.png)
+![SEC01_TEST_CALEND_Q11 Reference](../../images/q11_1.png)
 
 ---
 
@@ -1041,7 +1041,7 @@ Step-by-step reasoning verified against master answer key (C) from Module 15 Log
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD13_SCAN_P02_Q1 Reference](../../../images/mod13_scan_book_page_02.png)
+![SEC01_MOD13_SCAN_P02_Q1 Reference](../../images/mod13_scan_book_page_02.png)
 
 ---
 
@@ -1094,7 +1094,7 @@ Step-by-step reasoning verified against master answer key (A) from Module 15 Log
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD13_SCAN_P02_Q2 Reference](../../../images/mod13_scan_book_page_02.png)
+![SEC01_MOD13_SCAN_P02_Q2 Reference](../../images/mod13_scan_book_page_02.png)
 
 ---
 
@@ -1147,7 +1147,7 @@ Step-by-step reasoning verified against master answer key (E) from Module 15 Log
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD13_SCAN_P02_Q3 Reference](../../../images/mod13_scan_book_page_02.png)
+![SEC01_MOD13_SCAN_P02_Q3 Reference](../../images/mod13_scan_book_page_02.png)
 
 ---
 
@@ -1196,7 +1196,7 @@ Step-by-step reasoning verified against master answer key (Verified in Scan Book
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD13_SCAN_P02_Q4 Reference](../../../images/mod13_scan_book_page_02.png)
+![SEC01_MOD13_SCAN_P02_Q4 Reference](../../images/mod13_scan_book_page_02.png)
 
 ---
 
@@ -1247,7 +1247,7 @@ Step-by-step reasoning verified against master answer key (D) from Module 15 Log
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD13_SCAN_P03_Q5 Reference](../../../images/mod13_scan_book_page_03.png)
+![SEC01_MOD13_SCAN_P03_Q5 Reference](../../images/mod13_scan_book_page_03.png)
 
 ---
 
@@ -1296,7 +1296,7 @@ Step-by-step reasoning verified against master answer key (C) from Module 15 Log
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD13_SCAN_P03_Q6 Reference](../../../images/mod13_scan_book_page_03.png)
+![SEC01_MOD13_SCAN_P03_Q6 Reference](../../images/mod13_scan_book_page_03.png)
 
 ---
 
@@ -1345,7 +1345,7 @@ Step-by-step reasoning verified against master answer key (E) from Module 15 Log
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD13_SCAN_P03_Q7 Reference](../../../images/mod13_scan_book_page_03.png)
+![SEC01_MOD13_SCAN_P03_Q7 Reference](../../images/mod13_scan_book_page_03.png)
 
 ---
 

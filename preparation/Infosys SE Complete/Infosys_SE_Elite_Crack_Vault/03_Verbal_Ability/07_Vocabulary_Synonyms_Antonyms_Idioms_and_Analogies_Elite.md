@@ -3023,7 +3023,7 @@ Q1. ABDICATE
 S1. Ans.(b) Sol. Abdicate: fail to fulfill or undertake (a responsibility or duty). Disown and Spurn are both synonyms of Abdicate.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_assorted_super30_page_01.png)
+
 
 ---
 
@@ -3058,7 +3058,7 @@ Q2. BABBLE
 S2. Ans.(d) Sol. Babble: talk rapidly and continuously in a foolish, excited, or incomprehensible way. Prattle and Ramble are synonyms of babble.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_assorted_super30_page_01.png)
+
 
 ---
 
@@ -3093,7 +3093,7 @@ Q3. CAJOLE
 S3. Ans.(a) Sol. Cajole: persuade (someone) to do something by sustained coaxing or flattery. Lure is the synonym and Bully is the antonym for Cajole.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_assorted_super30_page_01.png)
+
 
 ---
 
@@ -3128,7 +3128,7 @@ Q4. DEFILE
 S4. Ans.(d) Sol. Defile: damage the purity or appearance of; mar or spoil. Degrade is the synonym and Purify is the Antonym for Defile.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_assorted_super30_page_01.png)
+
 
 ---
 
@@ -3163,7 +3163,7 @@ Q5. ENTREAT
 S5. Ans.(d) Sol. Entreat: to make a request to (someone) in an earnest or urgent manner. Command and Demand are both antonyms.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_assorted_super30_page_01.png)
+
 
 ---
 
@@ -3198,7 +3198,7 @@ Q6. FUTILE
 S6. Ans.(c) Sol. Futile: incapable of producing any useful result; pointless. Vain is the synonym and Fruitful is the antonym for Futile.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_assorted_super30_page_01.png)
+
 
 ---
 
@@ -3233,7 +3233,7 @@ Q7. GAMUT
 S7. Ans.(d) Sol. Gamut: the complete range or scope of something. The options in both (a) and (c) are synonyms of Gamut.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_assorted_super30_page_01.png)
+
 
 ---
 
@@ -3268,7 +3268,7 @@ Q8. HERESY
 S8. Ans.(a) Sol. Heresy: belief or opinion contrary to orthodox religious (especially Christian) doctrine. Dissension and Blasphemy are synonyms of Heresy.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_assorted_super30_page_01.png)
+
 
 ---
 
@@ -3303,7 +3303,7 @@ Q9. INEPT
 S9. Ans.(d) Sol. Inept: having or showing no skill; clumsy. Absurd is the synonym and Proper is the antonym for Inept.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_assorted_super30_page_01.png)
+
 
 ---
 
@@ -3338,7 +3338,7 @@ Q10. JADED
 S10. Ans.(c) Sol. Jaded: physically tired; exhausted. Weary and Mellow are synonyms of Jaded.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_assorted_super30_page_01.png)
+
 
 ---
 
@@ -3372,7 +3372,7 @@ sustainability imply?
 Contextual replacement for shift / changeover.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_ability_pyq_50_page_05.png)
+
 
 ---
 
@@ -3406,7 +3406,7 @@ harder.
 Synonym: Altruistic / Magnanimous means generous and unselfish.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_ability_pyq_50_page_09.png)
+
 
 ---
 
@@ -3439,7 +3439,7 @@ Despite his initial _______, he grew to love the city's vibrant culture.
 Antonym: Amicable means friendly; its direct antonym is hostile.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_ability_pyq_50_page_09.png)
+
 
 ---
 
@@ -3473,7 +3473,7 @@ repetitive tasks.
 Synonym: Ephemeral means lasting for a very short time; transient / fleeting.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_ability_pyq_50_page_09.png)
+
 
 ---
 
@@ -3507,7 +3507,7 @@ to find common ground.
 Antonym: Transient means temporary; antonym is permanent.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_ability_pyq_50_page_09.png)
+
 
 ---
 
@@ -3540,7 +3540,7 @@ The evidence was _______; there was no doubt that he was guilty.
 Synonym: Meticulous means showing great attention to detail; very careful.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_ability_pyq_50_page_09.png)
+
 
 ---
 
@@ -3574,7 +3574,7 @@ downturn.
 Antonym: Scarcity means shortage; antonym is abundance / plentiful.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_ability_pyq_50_page_10.png)
+
 
 ---
 
@@ -3607,7 +3607,7 @@ She has a _______ for details, which makes her an excellent editor.
 Synonym: Lucid means expressed clearly; easy to understand.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_ability_pyq_50_page_10.png)
+
 
 ---
 
@@ -3641,7 +3641,7 @@ life in the past.
 Antonym: Audacious means fearless and bold; antonym is timid / cowardly.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_ability_pyq_50_page_10.png)
+
 
 ---
 
@@ -3675,7 +3675,7 @@ to be fulfilled.
 Synonym: Pragmatic means dealing with things sensibly and realistically; practical.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_ability_pyq_50_page_10.png)
+
 
 ---
 
@@ -3709,7 +3709,7 @@ and unexpected shades.
 Antonym: Lethargic means sluggish and inactive; antonym is energetic / active.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_ability_pyq_50_page_10.png)
+
 
 ---
 
@@ -4045,7 +4045,7 @@ Analogy: ODOMETER : DISTANCE
 Analogy: Odometer measures distance; clock measures time, scale measures weight, thermometer measures temperature. All are instrument-to-metric pairs.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_ability_pyq_50_page_13.png)
+
 
 ---
 
@@ -4078,7 +4078,7 @@ Analogy: DOCTOR : HOSPITAL
 Analogy: Doctor works in hospital; farmer works in field, teacher in school, chef in kitchen. All are professional-to-workplace pairs.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_ability_pyq_50_page_13.png)
+
 
 ---
 
@@ -4111,7 +4111,7 @@ One-Word Substitution: A person who is new to a profession or activity.
 One-Word Substitution: A person new to a profession or activity is a novice / tyro / neophyte.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_ability_pyq_50_page_13.png)
+
 
 ---
 
@@ -4144,7 +4144,7 @@ One-Word Substitution: A place where government records are kept.
 One-Word Substitution: A collection of historical documents or place where government records are kept is an archive.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_ability_pyq_50_page_13.png)
+
 
 ---
 
@@ -4177,7 +4177,7 @@ One-Word Substitution: Something that is certain to happen.
 One-Word Substitution: Certain to happen; unavoidable is inevitable.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](images/eng_verbal_ability_pyq_50_page_13.png)
+
 
 ---
 

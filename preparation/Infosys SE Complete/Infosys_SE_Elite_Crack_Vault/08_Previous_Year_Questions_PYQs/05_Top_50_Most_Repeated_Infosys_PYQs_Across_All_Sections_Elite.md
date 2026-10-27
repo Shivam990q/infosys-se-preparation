@@ -41,7 +41,7 @@ The Sales of different Chocolates in a shop on Sunday is as follows: KitKat - 15
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 01) |
 | :---: |
-| ![INFOSYS_TOP_50_page_01.png](../../../images/INFOSYS_TOP_50_page_01.png) |
+| ![INFOSYS_TOP_50_page_01.png](../../images/INFOSYS_TOP_50_page_01.png) |
 
 ---
 
@@ -78,7 +78,7 @@ In a sequence of alphanumeric observations, identify the terminal missing value 
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 02) |
 | :---: |
-| ![INFOSYS_TOP_50_page_02.png](../../../images/INFOSYS_TOP_50_page_02.png) |
+| ![INFOSYS_TOP_50_page_02.png](../../images/INFOSYS_TOP_50_page_02.png) |
 
 ---
 
@@ -114,7 +114,7 @@ Evaluation of candidate marks and proportion distribution in assessment test.
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 03) |
 | :---: |
-| ![INFOSYS_TOP_50_page_03.png](../../../images/INFOSYS_TOP_50_page_03.png) |
+| ![INFOSYS_TOP_50_page_03.png](../../images/INFOSYS_TOP_50_page_03.png) |
 
 ---
 
@@ -150,7 +150,7 @@ Identify the missing sequence value in the reasoning assessment progression.
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 04) |
 | :---: |
-| ![INFOSYS_TOP_50_page_04.png](../../../images/INFOSYS_TOP_50_page_04.png) |
+| ![INFOSYS_TOP_50_page_04.png](../../images/INFOSYS_TOP_50_page_04.png) |
 
 ---
 
@@ -186,7 +186,7 @@ Calculate the effective percentage yield in the assessment scenario.
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 05) |
 | :---: |
-| ![INFOSYS_TOP_50_page_05.png](../../../images/INFOSYS_TOP_50_page_05.png) |
+| ![INFOSYS_TOP_50_page_05.png](../../images/INFOSYS_TOP_50_page_05.png) |
 
 ---
 
@@ -222,7 +222,7 @@ Determine the truth value of the logical condition in the candidate test.
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 06) |
 | :---: |
-| ![INFOSYS_TOP_50_page_06.png](../../../images/INFOSYS_TOP_50_page_06.png) |
+| ![INFOSYS_TOP_50_page_06.png](../../images/INFOSYS_TOP_50_page_06.png) |
 
 ---
 
@@ -258,7 +258,7 @@ Relative speed calculation for two moving bodies in the same direction.
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 07) |
 | :---: |
-| ![INFOSYS_TOP_50_page_07.png](../../../images/INFOSYS_TOP_50_page_07.png) |
+| ![INFOSYS_TOP_50_page_07.png](../../images/INFOSYS_TOP_50_page_07.png) |
 
 ---
 
@@ -294,7 +294,7 @@ Letter pattern mapping and substitution cipher calculation.
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 08) |
 | :---: |
-| ![INFOSYS_TOP_50_page_08.png](../../../images/INFOSYS_TOP_50_page_08.png) |
+| ![INFOSYS_TOP_50_page_08.png](../../images/INFOSYS_TOP_50_page_08.png) |
 
 ---
 
@@ -330,7 +330,7 @@ Venn set intersection of subsets in the problem.
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 09) |
 | :---: |
-| ![INFOSYS_TOP_50_page_09.png](../../../images/INFOSYS_TOP_50_page_09.png) |
+| ![INFOSYS_TOP_50_page_09.png](../../images/INFOSYS_TOP_50_page_09.png) |
 
 ---
 
@@ -366,7 +366,7 @@ Find the highest common factor and remainder under division.
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 10) |
 | :---: |
-| ![INFOSYS_TOP_50_page_10.png](../../../images/INFOSYS_TOP_50_page_10.png) |
+| ![INFOSYS_TOP_50_page_10.png](../../images/INFOSYS_TOP_50_page_10.png) |
 
 ---
 
@@ -402,7 +402,7 @@ An article marked at a discount is sold for a net gain. Find the profit percenta
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 11) |
 | :---: |
-| ![INFOSYS_TOP_50_page_11.png](../../../images/INFOSYS_TOP_50_page_11.png) |
+| ![INFOSYS_TOP_50_page_11.png](../../images/INFOSYS_TOP_50_page_11.png) |
 
 ---
 
@@ -438,7 +438,7 @@ A person walks 10m North, turns East 15m, then South 10m. Find distance from sta
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 12) |
 | :---: |
-| ![INFOSYS_TOP_50_page_12.png](../../../images/INFOSYS_TOP_50_page_12.png) |
+| ![INFOSYS_TOP_50_page_12.png](../../images/INFOSYS_TOP_50_page_12.png) |
 
 ---
 
@@ -475,7 +475,7 @@ Statements: Some doctors are scientists. Some scientists are teachers. Conclusio
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 13) |
 | :---: |
-| ![INFOSYS_TOP_50_page_13.png](../../../images/INFOSYS_TOP_50_page_13.png) |
+| ![INFOSYS_TOP_50_page_13.png](../../images/INFOSYS_TOP_50_page_13.png) |
 
 ---
 
@@ -511,7 +511,7 @@ The average of 5 consecutive odd numbers is 25. Find the largest number.
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 14) |
 | :---: |
-| ![INFOSYS_TOP_50_page_14.png](../../../images/INFOSYS_TOP_50_page_14.png) |
+| ![INFOSYS_TOP_50_page_14.png](../../images/INFOSYS_TOP_50_page_14.png) |
 
 ---
 
@@ -547,7 +547,7 @@ Pointing to a man, a woman says: 'His mother is the only daughter of my mother.'
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 15) |
 | :---: |
-| ![INFOSYS_TOP_50_page_15.png](../../../images/INFOSYS_TOP_50_page_15.png) |
+| ![INFOSYS_TOP_50_page_15.png](../../images/INFOSYS_TOP_50_page_15.png) |
 
 ---
 
@@ -583,7 +583,7 @@ A can finish a task in 12 days, B in 24 days. How many days working together?
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 16) |
 | :---: |
-| ![INFOSYS_TOP_50_page_16.png](../../../images/INFOSYS_TOP_50_page_16.png) |
+| ![INFOSYS_TOP_50_page_16.png](../../images/INFOSYS_TOP_50_page_16.png) |
 
 ---
 
@@ -619,7 +619,7 @@ Five friends P, Q, R, S, T sit in a row facing North. S is between T and Q. Q is
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 17) |
 | :---: |
-| ![INFOSYS_TOP_50_page_17.png](../../../images/INFOSYS_TOP_50_page_17.png) |
+| ![INFOSYS_TOP_50_page_17.png](../../images/INFOSYS_TOP_50_page_17.png) |
 
 ---
 
@@ -659,7 +659,7 @@ Statement II: The interest earned is Rs. 331.
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 18) |
 | :---: |
-| ![INFOSYS_TOP_50_page_18.png](../../../images/INFOSYS_TOP_50_page_18.png) |
+| ![INFOSYS_TOP_50_page_18.png](../../images/INFOSYS_TOP_50_page_18.png) |
 
 ---
 
@@ -695,7 +695,7 @@ A sum doubles itself in 8 years at simple interest. What is the rate of interest
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 19) |
 | :---: |
-| ![INFOSYS_TOP_50_page_19.png](../../../images/INFOSYS_TOP_50_page_19.png) |
+| ![INFOSYS_TOP_50_page_19.png](../../images/INFOSYS_TOP_50_page_19.png) |
 
 ---
 
@@ -731,7 +731,7 @@ Find the missing term: 12 : 144 :: 15 : ?
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 20) |
 | :---: |
-| ![INFOSYS_TOP_50_page_20.png](../../../images/INFOSYS_TOP_50_page_20.png) |
+| ![INFOSYS_TOP_50_page_20.png](../../images/INFOSYS_TOP_50_page_20.png) |
 
 ---
 
@@ -768,7 +768,7 @@ In a certain language, GENERAL is coded as IJSJWFQ. How is ACCOUNT written in th
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 21) |
 | :---: |
-| ![INFOSYS_TOP_50_page_21.png](../../../images/INFOSYS_TOP_50_page_21.png) |
+| ![INFOSYS_TOP_50_page_21.png](../../images/INFOSYS_TOP_50_page_21.png) |
 
 ---
 
@@ -804,7 +804,7 @@ Select the option related to the third term on the same basis: 15 : 21 :: ?
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 22) |
 | :---: |
-| ![INFOSYS_TOP_50_page_22.png](../../../images/INFOSYS_TOP_50_page_22.png) |
+| ![INFOSYS_TOP_50_page_22.png](../../images/INFOSYS_TOP_50_page_22.png) |
 
 ---
 
@@ -845,7 +845,7 @@ If 'Bells are brown' = '723', 'Rail in sea' = '614', 'Sea is noisy' = '359', 'Br
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 23) |
 | :---: |
-| ![INFOSYS_TOP_50_page_23.png](../../../images/INFOSYS_TOP_50_page_23.png) |
+| ![INFOSYS_TOP_50_page_23.png](../../images/INFOSYS_TOP_50_page_23.png) |
 
 ---
 
@@ -882,7 +882,7 @@ Find the next term: 1, 2, 1, 4, 2, 8, 3, 16, 5, 32, 7, 64, ?
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 24) |
 | :---: |
-| ![INFOSYS_TOP_50_page_24.png](../../../images/INFOSYS_TOP_50_page_24.png) |
+| ![INFOSYS_TOP_50_page_24.png](../../images/INFOSYS_TOP_50_page_24.png) |
 
 ---
 
@@ -918,7 +918,7 @@ Six friends P, Q, R, S, T, U go to college. T is older than P and Q, younger tha
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 25) |
 | :---: |
-| ![INFOSYS_TOP_50_page_25.png](../../../images/INFOSYS_TOP_50_page_25.png) |
+| ![INFOSYS_TOP_50_page_25.png](../../images/INFOSYS_TOP_50_page_25.png) |
 
 ---
 
@@ -955,7 +955,7 @@ Two numbers are in ratio 3:5. If 8 is added to both, the ratio becomes 2:3. Find
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 26) |
 | :---: |
-| ![INFOSYS_TOP_50_page_26.png](../../../images/INFOSYS_TOP_50_page_26.png) |
+| ![INFOSYS_TOP_50_page_26.png](../../images/INFOSYS_TOP_50_page_26.png) |
 
 ---
 
@@ -992,7 +992,7 @@ Two pipes P and Q together can fill a cistern in 6 hours. If opened separately, 
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 27) |
 | :---: |
-| ![INFOSYS_TOP_50_page_27.png](../../../images/INFOSYS_TOP_50_page_27.png) |
+| ![INFOSYS_TOP_50_page_27.png](../../images/INFOSYS_TOP_50_page_27.png) |
 
 ---
 
@@ -1030,7 +1030,7 @@ From a well-shuffled pack of 52 cards, two cards are drawn at random. What is th
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 28) |
 | :---: |
-| ![INFOSYS_TOP_50_page_28.png](../../../images/INFOSYS_TOP_50_page_28.png) |
+| ![INFOSYS_TOP_50_page_28.png](../../images/INFOSYS_TOP_50_page_28.png) |
 
 ---
 
@@ -1066,7 +1066,7 @@ From a well-shuffled pack of 52 cards, two cards are drawn at random. What is th
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 29) |
 | :---: |
-| ![INFOSYS_TOP_50_page_29.png](../../../images/INFOSYS_TOP_50_page_29.png) |
+| ![INFOSYS_TOP_50_page_29.png](../../images/INFOSYS_TOP_50_page_29.png) |
 
 ---
 
@@ -1104,7 +1104,7 @@ Find the range of the following dataset: 7, 10, 6, 72, 83, 12, 5.
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 30) |
 | :---: |
-| ![INFOSYS_TOP_50_page_30.png](../../../images/INFOSYS_TOP_50_page_30.png) |
+| ![INFOSYS_TOP_50_page_30.png](../../images/INFOSYS_TOP_50_page_30.png) |
 
 ---
 
@@ -1141,7 +1141,7 @@ Statements: All pens are pencils. All pencils are shoes. Conclusions: I. All pen
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 31) |
 | :---: |
-| ![INFOSYS_TOP_50_page_31.png](../../../images/INFOSYS_TOP_50_page_31.png) |
+| ![INFOSYS_TOP_50_page_31.png](../../images/INFOSYS_TOP_50_page_31.png) |
 
 ---
 
@@ -1182,7 +1182,7 @@ Statement II: The profit earned is Rs. 50.
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 32) |
 | :---: |
-| ![INFOSYS_TOP_50_page_32.png](../../../images/INFOSYS_TOP_50_page_32.png) |
+| ![INFOSYS_TOP_50_page_32.png](../../images/INFOSYS_TOP_50_page_32.png) |
 
 ---
 
@@ -1223,7 +1223,7 @@ Statement II: The expenditure of A and B are in the ratio 2:3.
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 33) |
 | :---: |
-| ![INFOSYS_TOP_50_page_33.png](../../../images/INFOSYS_TOP_50_page_33.png) |
+| ![INFOSYS_TOP_50_page_33.png](../../images/INFOSYS_TOP_50_page_33.png) |
 
 ---
 
@@ -1263,7 +1263,7 @@ Which conclusions logically follow?
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 34) |
 | :---: |
-| ![INFOSYS_TOP_50_page_34.png](../../../images/INFOSYS_TOP_50_page_34.png) |
+| ![INFOSYS_TOP_50_page_34.png](../../images/INFOSYS_TOP_50_page_34.png) |
 
 ---
 
@@ -1303,7 +1303,7 @@ A batsman scored 110 runs which included 4 boundaries (fours), 6 sixes, and the 
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 35) |
 | :---: |
-| ![INFOSYS_TOP_50_page_35.png](../../../images/INFOSYS_TOP_50_page_35.png) |
+| ![INFOSYS_TOP_50_page_35.png](../../images/INFOSYS_TOP_50_page_35.png) |
 
 ---
 
@@ -1341,7 +1341,7 @@ The sum of 15 data points is 2100. If each data point is doubled and then 10 is 
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 36) |
 | :---: |
-| ![INFOSYS_TOP_50_page_36.png](../../../images/INFOSYS_TOP_50_page_36.png) |
+| ![INFOSYS_TOP_50_page_36.png](../../images/INFOSYS_TOP_50_page_36.png) |
 
 ---
 
@@ -1378,7 +1378,7 @@ The daily sales by a shop for a 7-day week were: Rs. 2800, Rs. 3300, Rs. 2500, R
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 37) |
 | :---: |
-| ![INFOSYS_TOP_50_page_37.png](../../../images/INFOSYS_TOP_50_page_37.png) |
+| ![INFOSYS_TOP_50_page_37.png](../../images/INFOSYS_TOP_50_page_37.png) |
 
 ---
 
@@ -1415,7 +1415,7 @@ In the sequence: 6 1 2 7 8 9 4 5 3 2 4 6 5 8 9 1 0 3 2, how many even numbers ar
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 38) |
 | :---: |
-| ![INFOSYS_TOP_50_page_38.png](../../../images/INFOSYS_TOP_50_page_38.png) |
+| ![INFOSYS_TOP_50_page_38.png](../../images/INFOSYS_TOP_50_page_38.png) |
 
 ---
 
@@ -1453,7 +1453,7 @@ In a farm, there are some cows and their owners. If the total number of heads is
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 39) |
 | :---: |
-| ![INFOSYS_TOP_50_page_39.png](../../../images/INFOSYS_TOP_50_page_39.png) |
+| ![INFOSYS_TOP_50_page_39.png](../../images/INFOSYS_TOP_50_page_39.png) |
 
 ---
 
@@ -1493,7 +1493,7 @@ Statement II: Q is to the east of S. S is to the south of A.
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 40) |
 | :---: |
-| ![INFOSYS_TOP_50_page_40.png](../../../images/INFOSYS_TOP_50_page_40.png) |
+| ![INFOSYS_TOP_50_page_40.png](../../images/INFOSYS_TOP_50_page_40.png) |
 
 ---
 
@@ -1530,7 +1530,7 @@ Sixty percent of a number 'X' is equal to thirty percent of another number 'Y'. 
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 41) |
 | :---: |
-| ![INFOSYS_TOP_50_page_41.png](../../../images/INFOSYS_TOP_50_page_41.png) |
+| ![INFOSYS_TOP_50_page_41.png](../../images/INFOSYS_TOP_50_page_41.png) |
 
 ---
 
@@ -1568,7 +1568,7 @@ If 5 bakers make 50 cupcakes in 5 hours, how many cupcakes will 10 bakers make i
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 42) |
 | :---: |
-| ![INFOSYS_TOP_50_page_42.png](../../../images/INFOSYS_TOP_50_page_42.png) |
+| ![INFOSYS_TOP_50_page_42.png](../../images/INFOSYS_TOP_50_page_42.png) |
 
 ---
 
@@ -1608,7 +1608,7 @@ Statement II: Dhruv is 6 years younger than Yash, who is 28 years old.
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 43) |
 | :---: |
-| ![INFOSYS_TOP_50_page_43.png](../../../images/INFOSYS_TOP_50_page_43.png) |
+| ![INFOSYS_TOP_50_page_43.png](../../images/INFOSYS_TOP_50_page_43.png) |
 
 ---
 
@@ -1648,7 +1648,7 @@ Statement II: Priya is 15th from the end and has 9 people in front of her.
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 44) |
 | :---: |
-| ![INFOSYS_TOP_50_page_44.png](../../../images/INFOSYS_TOP_50_page_44.png) |
+| ![INFOSYS_TOP_50_page_44.png](../../images/INFOSYS_TOP_50_page_44.png) |
 
 ---
 
@@ -1686,7 +1686,7 @@ Conclusions: I. Some A is not B. II. All B can never be C.
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 45) |
 | :---: |
-| ![INFOSYS_TOP_50_page_45.png](../../../images/INFOSYS_TOP_50_page_45.png) |
+| ![INFOSYS_TOP_50_page_45.png](../../images/INFOSYS_TOP_50_page_45.png) |
 
 ---
 
@@ -1726,7 +1726,7 @@ A man buys a certain number of mangoes and sells 3/5th of the total. He gives ha
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 46) |
 | :---: |
-| ![INFOSYS_TOP_50_page_46.png](../../../images/INFOSYS_TOP_50_page_46.png) |
+| ![INFOSYS_TOP_50_page_46.png](../../images/INFOSYS_TOP_50_page_46.png) |
 
 ---
 
@@ -1770,7 +1770,7 @@ What two numbers should replace the question marks in the series: 6, 7, 14, 17, 
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 47) |
 | :---: |
-| ![INFOSYS_TOP_50_page_47.png](../../../images/INFOSYS_TOP_50_page_47.png) |
+| ![INFOSYS_TOP_50_page_47.png](../../images/INFOSYS_TOP_50_page_47.png) |
 
 ---
 
@@ -1808,7 +1808,7 @@ The pie chart shows causes of death in a country: Heart Attack 25%, Accidents 22
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 48) |
 | :---: |
-| ![INFOSYS_TOP_50_page_48.png](../../../images/INFOSYS_TOP_50_page_48.png) |
+| ![INFOSYS_TOP_50_page_48.png](../../images/INFOSYS_TOP_50_page_48.png) |
 
 ---
 
@@ -1846,7 +1846,7 @@ From the sports competition table, Country A has Male athletes (300, 320, 340, 3
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 49) |
 | :---: |
-| ![INFOSYS_TOP_50_page_49.png](../../../images/INFOSYS_TOP_50_page_49.png) |
+| ![INFOSYS_TOP_50_page_49.png](../../images/INFOSYS_TOP_50_page_49.png) |
 
 ---
 
@@ -1882,6 +1882,6 @@ Using the multi-country athlete table, find the total number of participants acr
 #### Authentic Live Exam Slide Figure
 | Exam Slide Capture (Page 50) |
 | :---: |
-| ![INFOSYS_TOP_50_page_50.png](../../../images/INFOSYS_TOP_50_page_50.png) |
+| ![INFOSYS_TOP_50_page_50.png](../../images/INFOSYS_TOP_50_page_50.png) |
 
 ---

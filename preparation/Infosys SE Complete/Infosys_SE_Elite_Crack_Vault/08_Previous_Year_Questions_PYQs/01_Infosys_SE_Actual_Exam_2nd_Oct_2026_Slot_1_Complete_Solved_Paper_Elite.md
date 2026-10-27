@@ -1105,7 +1105,7 @@ The sentence “It is the best book I have ever read” is grammatically correct
 
 **Prompt:** Consider the following pseudocode: A = [3, 1, 4, 1] FOR i = 0 TO 2 SWAP A[i] AND A[i+1] END FOR PRINT A What is the output?
 
-![Slide Figure](../../../images/slot1_page_006.png)
+![Slide Figure](../../images/slot1_page_006.png)
 
 **Options:**
 - A) [1, 4, 1, 3]
@@ -1131,7 +1131,7 @@ Initial array A = [3, 1, 4, 1]. Iteration i = 0: Swap A[0] and A[1] -> [1, 3, 4,
 
 **Prompt:** Consider the following pseudocode: result = 0 FOR i = 1 TO 5 IF i MOD 2 == 0 result = result + i * i END IF END FOR PRINT result What is the output?
 
-![Slide Figure](../../../images/slot1_page_007.png)
+![Slide Figure](../../images/slot1_page_007.png)
 
 **Options:**
 - A) 10
@@ -1157,7 +1157,7 @@ Loop i runs from 1 to 5. Even values of i are 2 and 4. When i = 2: result = 0 + 
 
 **Prompt:** Consider the following pseudocode: FUNCTION F(n) IF n == 0 RETURN 1 ELSE RETURN n * F(n - 1) END IF END FUNCTION PRINT F(4) What is the output?
 
-![Slide Figure](../../../images/slot1_page_007.png)
+![Slide Figure](../../images/slot1_page_007.png)
 
 **Options:**
 - A) 12
@@ -1183,7 +1183,7 @@ F(n) is the recursive factorial function. F(4) = 4 × F(3) = 4 × 3 × F(2) = 4 
 
 **Prompt:** Consider the following pseudocode: FOR i = 1 TO N FOR j = 1 TO N PRINT i + j END FOR END FOR What is the time complexity of the pseudocode in terms of N?
 
-![Slide Figure](../../../images/slot1_page_007.png)
+![Slide Figure](../../images/slot1_page_007.png)
 
 **Options:**
 - A) O(N)
@@ -1209,7 +1209,7 @@ The outer loop runs N times and the inner loop runs N times independently for ea
 
 **Prompt:** Consider the following pseudocode: count = 0 FOR EACH x IN [2, 7, 8, 3, 10] IF x MOD 2 == 0 count = count + 1 END IF END FOR PRINT count What is printed?
 
-![Slide Figure](../../../images/slot1_page_007.png)
+![Slide Figure](../../images/slot1_page_007.png)
 
 **Options:**
 - A) 2
@@ -1238,7 +1238,7 @@ The pseudocode iterates through [2, 7, 8, 3, 10] and increments count for each e
 
 **Prompt:** Maze/Grid Puzzle: A robot starts at S and must reach E. It can move only UP, DOWN, LEFT or RIGHT and cannot enter cells marked X. Grid: S  .  X  .  . .  .  X  .  X X  .  .  .  . .  X  X  .  . .  .  .  X  E What is the minimum number of moves required to reach E from S?
 
-![Slide Figure](../../../images/slot1_page_008.png)
+![Slide Figure](../../images/slot1_page_008.png)
 
 **Options:**
 - A) 8
@@ -1264,7 +1264,7 @@ Grid BFS from S(0,0) to E(4,4) avoiding X: Optimal shortest path: (0,0) -> (1,0)
 
 **Prompt:** Matrix Puzzle: Find the missing number (?) in the following matrix. 2   5   9 4   8   15 6   11  ? Choose the number that logically completes the pattern.
 
-![Slide Figure](../../../images/slot1_page_008.png)
+![Slide Figure](../../images/slot1_page_008.png)
 
 **Options:**
 - A) 18
@@ -1290,7 +1290,7 @@ Row relationships: Row 1: 2 + 5 = 7; 7 + 2 = 9. Row 2: 4 + 8 = 12; 12 + 3 = 15. 
 
 **Prompt:** Number-Path Puzzle: Starting from the cell marked S, move to the cell marked E. At every step you may move horizontally or vertically to an adjacent cell. You may enter a numbered cell only if its number is greater than the number in the cell you are currently occupying. Grid: S(1)  3   5   8 2      4   6   9 1      2   7   10 0      1   8   E(11) Which of the following gives a valid path from S to E?
 
-![Slide Figure](../../../images/slot1_page_008.png)
+![Slide Figure](../../images/slot1_page_008.png)
 
 **Options:**
 - A) 1→2→4→6→9→10→11
@@ -1462,7 +1462,7 @@ The subject 'cookies' is plural, requiring the plural auxiliary verb 'were baked
 
 > **Topic:** *"Effective communication is one of the most important skills for success in a professional workplace."*
 
-![Original Slide](../../../images/slot1_page_010.png)
+![Original Slide](../../images/slot1_page_010.png)
 
 
 ### Correct Answer

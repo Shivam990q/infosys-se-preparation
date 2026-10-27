@@ -59,7 +59,7 @@ Shop-1 (0, 0) is directly North of Shop-2 (0, -35) at a distance of 35 m.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD02_Q01 Reference](../../../images/mod02_distance_direction_page_01.png)
+![SEC01_MOD02_Q01 Reference](../../images/mod02_distance_direction_page_01.png)
 
 ---
 
@@ -101,7 +101,7 @@ Sundar is facing North.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD02_Q02 Reference](../../../images/mod02_distance_direction_page_02.png)
+![SEC01_MOD02_Q02 Reference](../../images/mod02_distance_direction_page_02.png)
 
 ---
 
@@ -144,7 +144,7 @@ Wait! Let's check: 0 + 180 + 45 - 270 + 180 = 135° (South-East). If anti-clockw
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD02_Q03 Reference](../../../images/mod02_distance_direction_page_03.png)
+![SEC01_MOD02_Q03 Reference](../../images/mod02_distance_direction_page_03.png)
 
 ---
 
@@ -184,7 +184,7 @@ Direction: North-East (NE).
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD02_Q04 Reference](../../../images/mod02_distance_direction_page_04.png)
+![SEC01_MOD02_Q04 Reference](../../images/mod02_distance_direction_page_04.png)
 
 ---
 
@@ -226,7 +226,7 @@ Distance = 100 - (-200) = 300m along the horizontal axis.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD02_Q05 Reference](../../../images/mod02_distance_direction_page_04.png)
+![SEC01_MOD02_Q05 Reference](../../images/mod02_distance_direction_page_04.png)
 
 ---
 
@@ -269,7 +269,7 @@ To reach starting point (0, 0), he must drive 5 km in the North direction.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD02_Q06 Reference](../../../images/mod02_distance_direction_page_04.png)
+![SEC01_MOD02_Q06 Reference](../../images/mod02_distance_direction_page_04.png)
 
 ---
 
@@ -308,7 +308,7 @@ Shortest distance = √(x^2 + y^2) = √(12^2 + 5^2) = √(144 + 25) = √169 = 
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD02_Q07 Reference](../../../images/mod02_distance_direction_page_04.png)
+![SEC01_MOD02_Q07 Reference](../../images/mod02_distance_direction_page_04.png)
 
 ---
 
@@ -353,7 +353,7 @@ Therefore, he is exactly 10 km from the starting point.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD02_Q08 Reference](../../../images/mod02_distance_direction_page_04.png)
+![SEC01_MOD02_Q08 Reference](../../images/mod02_distance_direction_page_04.png)
 
 ---
 
@@ -389,7 +389,7 @@ This is the solution
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_DISTAN_Q01 Reference](../../../images/q1_1.png)
+![SEC01_TEST_DISTAN_Q01 Reference](../../images/q1_1.png)
 
 ---
 
@@ -425,7 +425,7 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_DISTAN_Q02 Reference](../../../images/q2_1.png)
+![SEC01_TEST_DISTAN_Q02 Reference](../../images/q2_1.png)
 
 ---
 
@@ -466,7 +466,7 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_DISTAN_Q03 Reference](../../../images/q3_1.png)
+![SEC01_TEST_DISTAN_Q03 Reference](../../images/q3_1.png)
 
 ---
 
@@ -502,7 +502,7 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_DISTAN_Q04 Reference](../../../images/q4_1.png)
+![SEC01_TEST_DISTAN_Q04 Reference](../../images/q4_1.png)
 
 ---
 
@@ -541,7 +541,7 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_DISTAN_Q05 Reference](../../../images/q5_1.png)
+![SEC01_TEST_DISTAN_Q05 Reference](../../images/q5_1.png)
 
 ---
 
@@ -579,7 +579,7 @@ This is the solution
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_DISTAN_Q06 Reference](../../../images/q6_1.png)
+![SEC01_TEST_DISTAN_Q06 Reference](../../images/q6_1.png)
 
 ---
 
@@ -619,7 +619,7 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_DISTAN_Q07 Reference](../../../images/q7_1.png)
+![SEC01_TEST_DISTAN_Q07 Reference](../../images/q7_1.png)
 
 ---
 
@@ -660,7 +660,7 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_DISTAN_Q08 Reference](../../../images/q8_1.png)
+![SEC01_TEST_DISTAN_Q08 Reference](../../images/q8_1.png)
 
 ---
 
@@ -699,7 +699,7 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_DISTAN_Q09 Reference](../../../images/q9_1.png)
+![SEC01_TEST_DISTAN_Q09 Reference](../../images/q9_1.png)
 
 ---
 
@@ -740,7 +740,7 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_DISTAN_Q10 Reference](../../../images/q10_1.png)
+![SEC01_TEST_DISTAN_Q10 Reference](../../images/q10_1.png)
 
 ---
 
@@ -780,7 +780,7 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_DISTAN_Q11 Reference](../../../images/q11_1.png)
+![SEC01_TEST_DISTAN_Q11 Reference](../../images/q11_1.png)
 
 ---
 
@@ -821,7 +821,7 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_DISTAN_Q12 Reference](../../../images/q12_1.png)
+![SEC01_TEST_DISTAN_Q12 Reference](../../images/q12_1.png)
 
 ---
 
@@ -861,7 +861,7 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_DISTAN_Q13 Reference](../../../images/q13_1.png)
+![SEC01_TEST_DISTAN_Q13 Reference](../../images/q13_1.png)
 
 ---
 
@@ -901,7 +901,7 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_DISTAN_Q14 Reference](../../../images/q14_1.png)
+![SEC01_TEST_DISTAN_Q14 Reference](../../images/q14_1.png)
 
 ---
 
@@ -940,7 +940,7 @@ Official solution from Distance & Direction Sense Test 02. Symmetrical, rotation
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_DISTAN_Q15 Reference](../../../images/q15_1.png)
+![SEC01_TEST_DISTAN_Q15 Reference](../../images/q15_1.png)
 
 ---
 

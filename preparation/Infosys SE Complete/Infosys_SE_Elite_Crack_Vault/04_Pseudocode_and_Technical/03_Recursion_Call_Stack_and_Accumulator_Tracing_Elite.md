@@ -52,8 +52,6 @@ cout<< Test::getX();      }
 Therefore, the output is `0 5` (Option C).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -99,8 +97,6 @@ return 0;
 Therefore, the result is `Compile time error` (Option B).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -133,8 +129,6 @@ What does the expression float a =
 In Java, floating-point arithmetic follows IEEE 754 standards. Dividing a non-zero float/double by 0 or 0.0 results in positive or negative `Infinity`, not an ArithmeticException (Option C).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_03.png)
-
 ---
 
 ---
@@ -176,8 +170,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `D`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_03.png)
-
 ---
 
 ---
@@ -223,8 +215,6 @@ main()
 3. Summing/reducing returned values produces the exact result corresponding to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_04.png)
-
 ---
 
 ---
@@ -270,8 +260,6 @@ end for
 3. Summing/reducing returned values produces the exact result corresponding to Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_05.png)
-
 ---
 
 ---
@@ -325,8 +313,6 @@ Z= X+Y+Z
 3. Summing/reducing returned values produces the exact result corresponding to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_05.png)
-
 ---
 
 ---
@@ -370,8 +356,6 @@ return f(n);
 3. Summing/reducing returned values produces the exact result corresponding to Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_06.png)
-
 ---
 
 ---
@@ -419,8 +403,6 @@ End function fun()
 3. Summing/reducing returned values produces the exact result corresponding to Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_08.png)
-
 ---
 
 ---
@@ -466,8 +448,6 @@ End function fun()
 4. Cross-verifying against the master answer key confirms Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_08.png)
-
 ---
 
 ---
@@ -511,8 +491,6 @@ End function func
 4. Cross-verifying against the master answer key confirms Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_08.png)
-
 ---
 
 ---
@@ -555,8 +533,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `D`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_09.png)
-
 ---
 
 ---
@@ -599,8 +575,6 @@ end-function
 3. Summing/reducing returned values produces the exact result corresponding to Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_10.png)
-
 ---
 
 ---
@@ -645,8 +619,6 @@ Print a+b+c
 4. Cross-verifying against the master answer key confirms Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_12.png)
-
 ---
 
 ---
@@ -689,8 +661,6 @@ Print a+b+c
 3. Summing/reducing returned values produces the exact result corresponding to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_12.png)
-
 ---
 
 ---
@@ -735,8 +705,6 @@ End function fun()
 4. Cross-verifying against the master answer key confirms Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_18.png)
-
 ---
 
 ---
@@ -780,8 +748,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_20.png)
-
 ---
 
 ---
@@ -825,8 +791,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `D`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_20.png)
-
 ---
 
 ---
@@ -871,8 +835,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_20.png)
-
 ---
 
 ---
@@ -917,8 +879,6 @@ End function funn()
 3. Summing/reducing returned values produces the exact result corresponding to Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_22.png)
-
 ---
 
 ---
@@ -962,8 +922,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_23.png)
-
 ---
 
 ---
@@ -1008,8 +966,6 @@ return 0;
 4. Cross-verifying against the master answer key confirms Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_23.png)
-
 ---
 
 ---
@@ -1051,8 +1007,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_23.png)
-
 ---
 
 ---
@@ -1097,8 +1051,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `C`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_23.png)
-
 ---
 
 ---
@@ -1152,8 +1104,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_23.png)
-
 ---
 
 ---
@@ -1198,8 +1148,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_24.png)
-
 ---
 
 ---
@@ -1243,8 +1191,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `B`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_24.png)
-
 ---
 
 ---
@@ -1290,8 +1236,6 @@ return 0;
 3. Summing/reducing returned values produces the exact result corresponding to Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_24.png)
-
 ---
 
 ---
@@ -1336,8 +1280,6 @@ return 0;
 4. Cross-verifying against the master answer key confirms Option `A`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_24.png)
-
 ---
 
 ---
@@ -1380,8 +1322,6 @@ cout<< Test::getX();      }
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `0 5`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -1422,8 +1362,6 @@ return 0;
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `Compile time error`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -1455,8 +1393,6 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `Infinity`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -1494,8 +1430,6 @@ return 0;
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `1`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -1537,8 +1471,6 @@ return 0;
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `error: redeclaration of an enumerator`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -1579,8 +1511,6 @@ end for
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `10`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -1620,8 +1550,6 @@ return f(n);
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `7`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -1653,8 +1581,6 @@ Find the output of the following code. #include   int main(void) { int a = 10, x
 Official Video Solution from Day 06 Full Length Mock I. Full execution trace and operator evaluation confirms Option `455`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_06.png)
-
 ---
 
 ---
@@ -1686,8 +1612,6 @@ What will be the output of the following pseudocode? Initial values: a = 4, b = 
 Official Video Solution from Day 06 Full Length Mock I. Full execution trace and operator evaluation confirms Option `11`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_06.png)
-
 ---
 
 ---
@@ -1719,8 +1643,6 @@ What is the output of the following C code? #include   int main() { float x = 0.
 Official Video Solution from Day 07 Full Length Mock II. Full execution trace and operator evaluation confirms Option `1`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_10.png)
-
 ---
 
 ---

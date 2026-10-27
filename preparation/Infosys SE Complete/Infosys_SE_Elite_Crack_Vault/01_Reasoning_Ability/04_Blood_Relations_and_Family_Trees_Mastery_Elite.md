@@ -53,7 +53,7 @@ Ques 1: Aditya is Bhavi's brother, Bharat is Jayant's father. Ella is Bhavi's mo
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD04_Q01 Reference](../../../images/mod04_blood_relation_page_01.png)
+![SEC01_MOD04_Q01 Reference](../../images/mod04_blood_relation_page_01.png)
 
 ---
 
@@ -93,7 +93,7 @@ Therefore, the boy is the son of the man.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD04_Q02 Reference](../../../images/mod04_blood_relation_page_01.png)
+![SEC01_MOD04_Q02 Reference](../../images/mod04_blood_relation_page_01.png)
 
 ---
 
@@ -132,7 +132,7 @@ Therefore, B is the paternal uncle of D.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD04_Q03 Reference](../../../images/mod04_blood_relation_page_02.png)
+![SEC01_MOD04_Q03 Reference](../../images/mod04_blood_relation_page_02.png)
 
 ---
 
@@ -171,7 +171,7 @@ Ques 4: Vidya is the wife of Gopi and Gopi is the brother of Akhil. Akhil is the
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD04_Q04 Reference](../../../images/mod04_blood_relation_page_02.png)
+![SEC01_MOD04_Q04 Reference](../../images/mod04_blood_relation_page_02.png)
 
 ---
 
@@ -217,7 +217,7 @@ Therefore, option A is completely true.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD04_Q05 Reference](../../../images/mod04_blood_relation_slides_page_06.png)
+![SEC01_MOD04_Q05 Reference](../../images/mod04_blood_relation_slides_page_06.png)
 
 ---
 
@@ -256,7 +256,7 @@ Official solution from Blood Relation Topic Mock Test 01. Symmetrical, rotationa
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_BLOOD _Q01 Reference](../../../images/q1_1.png)
+![SEC01_TEST_BLOOD _Q01 Reference](../../images/q1_1.png)
 
 ---
 
@@ -295,7 +295,7 @@ Official solution from Blood Relation Topic Mock Test 01. Symmetrical, rotationa
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_BLOOD _Q02 Reference](../../../images/q2_1.png)
+![SEC01_TEST_BLOOD _Q02 Reference](../../images/q2_1.png)
 
 ---
 
@@ -335,7 +335,7 @@ Official solution from Blood Relation Topic Mock Test 01. Symmetrical, rotationa
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_BLOOD _Q03 Reference](../../../images/q3_1.png)
+![SEC01_TEST_BLOOD _Q03 Reference](../../images/q3_1.png)
 
 ---
 
@@ -371,7 +371,7 @@ This is the solution
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_BLOOD _Q04 Reference](../../../images/q4_1.png)
+![SEC01_TEST_BLOOD _Q04 Reference](../../images/q4_1.png)
 
 ---
 
@@ -407,7 +407,7 @@ This is the solution
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_BLOOD _Q05 Reference](../../../images/q5_1.png)
+![SEC01_TEST_BLOOD _Q05 Reference](../../images/q5_1.png)
 
 ---
 
@@ -446,7 +446,7 @@ Official solution from Blood Relation Topic Mock Test 01. Symmetrical, rotationa
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_BLOOD _Q06 Reference](../../../images/q6_1.png)
+![SEC01_TEST_BLOOD _Q06 Reference](../../images/q6_1.png)
 
 ---
 
@@ -485,7 +485,7 @@ Official solution from Blood Relation Topic Mock Test 01. Symmetrical, rotationa
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_BLOOD _Q07 Reference](../../../images/q7_1.png)
+![SEC01_TEST_BLOOD _Q07 Reference](../../images/q7_1.png)
 
 ---
 
@@ -524,7 +524,7 @@ Official solution from Blood Relation Topic Mock Test 01. Symmetrical, rotationa
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_BLOOD _Q08 Reference](../../../images/q8_1.png)
+![SEC01_TEST_BLOOD _Q08 Reference](../../images/q8_1.png)
 
 ---
 
@@ -566,7 +566,7 @@ Official solution from Blood Relation Topic Mock Test 01. Symmetrical, rotationa
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_BLOOD _Q09 Reference](../../../images/q9_1.png)
+![SEC01_TEST_BLOOD _Q09 Reference](../../images/q9_1.png)
 
 ---
 

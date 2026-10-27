@@ -16,7 +16,7 @@
 
 **ID:** `SEC06_PUZ_Q01` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
-![Diagram](../../../images/q1_1.png)
+![Diagram](../../images/q1_1.png)
 
 **Problem Statement:**
 What will replace the question mark (?) in the third triangle?
@@ -90,7 +90,7 @@ Hence, the missing number is 9 (Option B).
 
 **ID:** `SEC06_PUZ_Q02` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
-![Diagram](../../../images/q2_1.png)
+![Diagram](../../images/q2_1.png)
 
 **Problem Statement:**
 What number comes inside the circle marked with a question mark (?) in the concentric grid?
@@ -165,7 +165,7 @@ Hence, the missing number is 6 (Option B).
 
 **ID:** `SEC06_PUZ_Q03` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
-![Diagram](../../../images/q3_1.png)
+![Diagram](../../images/q3_1.png)
 
 **Problem Statement:**
 Which letter replaces the question mark (?) in the octagonal concentric ring?
@@ -213,7 +213,7 @@ Hence, the missing letter is O (Option A).
 
 **ID:** `SEC06_PUZ_Q04` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
-![Diagram](../../../images/q4_1.png)
+![Diagram](../../images/q4_1.png)
 
 **Problem Statement:**
 Which number replaces the question mark (?) in the paired octagon series?
@@ -259,7 +259,7 @@ Hence, the missing number is 1 (Option A).
 
 **ID:** `SEC06_PUZ_Q05` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
-![Diagram](../../../images/q5_1.png)
+![Diagram](../../images/q5_1.png)
 
 **Problem Statement:**
 Which number replaces the question mark (?) in the radial tree structure?
@@ -315,7 +315,7 @@ Hence, the missing number is 253 (Option D).
 
 **ID:** `SEC06_PUZ_Q06` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
-![Diagram](../../../images/q6_1.png)
+![Diagram](../../images/q6_1.png)
 
 **Problem Statement:**
 Which number replaces the question mark (?) in the 2-column segmented ladder?
@@ -365,7 +365,7 @@ Hence, the missing number is 2 (Option C).
 
 **ID:** `SEC06_PUZ_Q07` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
-![Diagram](../../../images/q7_1.png)
+![Diagram](../../images/q7_1.png)
 
 **Problem Statement:**
 Which number replaces the question mark (?) in the center of the third 5-pointed star?
@@ -433,7 +433,7 @@ Hence, the missing number is 10 (Option B).
 
 **ID:** `SEC06_PUZ_Q08` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
-![Diagram](../../../images/q8_1.png)
+![Diagram](../../images/q8_1.png)
 
 **Problem Statement:**
 Which letter replaces the question mark (?) in the 5×3 grid of boxes?
@@ -482,7 +482,7 @@ Hence, the missing letter is B (Option A).
 
 **ID:** `SEC06_PUZ_Q11` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
-![Diagram](../../../images/q11_1.png)
+![Diagram](../../images/q11_1.png)
 
 **Problem Statement:**
 Find the missing term (?) in the third figure. Assume the third figure works in the same way as the other two.

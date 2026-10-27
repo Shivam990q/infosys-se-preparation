@@ -47,9 +47,6 @@ $$1 \div \frac{3}{7} \text{ of } (6 + 8 \times 3 - 2) + \left[ \frac{1}{5} \div 
    Per textbook fraction alignment with mixed numeral reduction: $-\frac{10}{84} = -\frac{5}{42}$.
    Therefore, the correct simplified value is option **D**.
 
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_num_system_02_page_01.png)
-
 ---
 
 ---
@@ -85,9 +82,6 @@ How many numbers between 400 and 1000 can be formed with the digits 0, 2, 3, 4, 
 5. **Total Formable Numbers:**
    $$\text{Total} = 3 \times 5 \times 4 = 60$$
    Therefore, exactly **60** unique numbers can be formed. Verified Answer is **C**.
-
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_num_system_02_page_01.png)
 
 ---
 
@@ -133,9 +127,6 @@ The range $300 < N < 3000$ splits into two disjoint sets: 3-digit numbers and 4-
    $$\text{Total} = \text{Count}_1 + \text{Count}_2 = 60 + 120 = 180$$
    Therefore, exactly **180** numbers can be formed. Verified Answer is **B**.
 
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_num_system_02_page_01.png)
-
 ---
 
 ---
@@ -169,9 +160,6 @@ How many 3-digit numbers can be formed from the digits 2, 3, 5, 6, 7 and 9, whic
 6. **Total Numbers:**
    $$\text{Total} = 5 \times 4 \times 1 = 20$$
    Therefore, exactly **20** valid numbers can be formed. Verified Answer is **D**.
-
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_num_system_02_page_01.png)
 
 ---
 
@@ -218,9 +206,6 @@ For a number to be even, the units digit must be even. Because 0 cannot be place
 3. **Total Even 4-Digit Numbers:**
    $$\text{Total} = \text{Subtotal}_1 + \text{Subtotal}_2 = 120 + 300 = 420$$
    Therefore, exactly **420** even four-digit numbers can be formed. Verified Answer is **D**.
-
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_num_system_02_page_01.png)
 
 ---
 
@@ -269,9 +254,6 @@ MR. X has forgotten his friend's seven-digit telephone number. He remembers the 
    $$\text{Total Trials} = 2 \times 1701 = 3402$$
    Therefore, Mr. X must make **3,402** trials to be guaranteed of success. Verified Answer is **B**.
 
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_num_system_02_page_01.png)
-
 ---
 
 ---
@@ -309,9 +291,6 @@ A Four-digit number is formed using digits 1, 2, 3, 4 without repeating any one 
    $$\text{Total Sum} = 60 \times 1000 + 60 \times 100 + 60 \times 10 + 60 \times 1$$
    $$\text{Total Sum} = 60 \times (1000 + 100 + 10 + 1) = 60 \times 1111 = 66,660$$
    Therefore, the sum of all possible numbers is **66,660**. Verified Answer is **A**.
-
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_num_system_02_page_01.png)
 
 ---
 
@@ -353,9 +332,6 @@ Two dice are tossed. The probability that the total score is a prime number is:
 5. **Probability Calculation:**
    $$P(\text{Prime Sum}) = \frac{n(E)}{n(S)} = \frac{15}{36} = \frac{5}{12}$$
    Therefore, the probability is **5/12**. Verified Answer is **A**.
-
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_num_system_02_page_01.png)
 
 ---
 
@@ -402,8 +378,5 @@ C. $n$ is a perfect square
    For $k \ge 1$, $y = k^2 + 3k \ge 4$, so $y + 1 \ge 5$.
    Thus $n = (y+1)^2 \ge 25$, which is a composite square number, never prime $\implies$ **Statement B is FALSE**.
 6. **Conclusion:** Statements A and C only are true. Verified Answer is **A**.
-
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_num_system_02_page_01.png)
 
 ---

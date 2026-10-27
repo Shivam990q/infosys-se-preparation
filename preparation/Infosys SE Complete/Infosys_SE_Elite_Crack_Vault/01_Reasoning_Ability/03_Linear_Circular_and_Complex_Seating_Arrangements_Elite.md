@@ -52,7 +52,7 @@ Position of A is position 4, which is Fourth from the left.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD03_Q01 Reference](../../../images/mod03_linear_arrangement_page_01.png)
+![SEC01_MOD03_Q01 Reference](../../images/mod03_linear_arrangement_page_01.png)
 
 ---
 
@@ -94,7 +94,7 @@ The car at the extreme right is Cadillac.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD03_Q02 Reference](../../../images/mod03_linear_arrangement_page_02.png)
+![SEC01_MOD03_Q02 Reference](../../images/mod03_linear_arrangement_page_02.png)
 
 ---
 
@@ -139,7 +139,7 @@ Therefore, D & R are sitting diagonally opposite.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD03_Q03 Reference](../../../images/mod03_parallel_arrangement_page_01.png)
+![SEC01_MOD03_Q03 Reference](../../images/mod03_parallel_arrangement_page_01.png)
 
 ---
 
@@ -179,7 +179,7 @@ Detailed placement satisfies all conditions giving C second to the right of E.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD03_Q04 Reference](../../../images/mod03_parallel_arrangement_page_02.png)
+![SEC01_MOD03_Q04 Reference](../../images/mod03_parallel_arrangement_page_02.png)
 
 ---
 
@@ -221,7 +221,7 @@ Row 2 (facing North): B, A, C, D.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD03_Q05 Reference](../../../images/mod03_parallel_arrangement_page_03.png)
+![SEC01_MOD03_Q05 Reference](../../images/mod03_parallel_arrangement_page_03.png)
 
 ---
 
@@ -261,7 +261,7 @@ Therefore, option (b) R is the correct answer.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD06_Q01 Reference](../../../images/mod06_square_arrangement_page_04.png)
+![SEC01_MOD06_Q01 Reference](../../images/mod06_square_arrangement_page_04.png)
 
 ---
 
@@ -299,7 +299,7 @@ Testing both orientations uniquely resolves the circular/polygonal layout where 
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD06_Q02 Reference](../../../images/mod06_square_arrangement_page_02.png)
+![SEC01_MOD06_Q02 Reference](../../images/mod06_square_arrangement_page_02.png)
 
 ---
 
@@ -371,7 +371,7 @@ Therefore, option 1 (H) is the correct answer.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD05_Q01 Reference](../../../images/mod05_circular_assignment_page_01.png)
+![SEC01_MOD05_Q01 Reference](../../images/mod05_circular_assignment_page_01.png)
 
 ---
 
@@ -409,7 +409,7 @@ Since N is not among options R, F, M, the answer is 'None of these' (N).
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD05_Q02 Reference](../../../images/mod05_circular_assignment_page_02.png)
+![SEC01_MOD05_Q02 Reference](../../images/mod05_circular_assignment_page_02.png)
 
 ---
 
@@ -451,7 +451,7 @@ Therefore, F sits between G and D.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD05_Q03 Reference](../../../images/mod05_circular_assignment_page_02.png)
+![SEC01_MOD05_Q03 Reference](../../images/mod05_circular_assignment_page_02.png)
 
 ---
 

@@ -15,7 +15,7 @@
 
 **Question ID**: `INFY-SET1-18`  
 - **Figure**:
-  ![Original Question Slide](../../../images/mock2_slide_p12.png)  
+  ![Original Question Slide](../../images/mock2_slide_p12.png)  
 Which of the following can be inferred?
 
 #### Options
@@ -49,7 +49,7 @@ $$\mathbf{\text{Verified Answer: (b) Plastic contributes to pollution.}}$$
 
 **Question ID**: `INFY-SET1-19`  
 - **Figure**:
-  ![Original Question Slide](../../../images/mock2_slide_p13.png)  
+  ![Original Question Slide](../../images/mock2_slide_p13.png)  
 Which is the best course of action?
 
 #### Options
@@ -82,7 +82,7 @@ $$\mathbf{\text{Verified Answer: (a) Encourage use of eco-friendly alternatives.
 
 **Question ID**: `INFY-SET1-20`  
 - **Figure**:
-  ![Original Question Slide](../../../images/mock2_slide_p13.png)  
+  ![Original Question Slide](../../images/mock2_slide_p13.png)  
 **Statement**: *“Students should not be allowed to use mobile phones in classrooms.”*  
 **Assumption**:
 
@@ -108,7 +108,7 @@ $$\mathbf{\text{Verified Answer: (a) Mobile phones distract students.}}$$
 
 
 ### Official Answer Key Slide Verification
-![Official Answer Key Slide](../../../images/mock2_slide_p14.png)
+![Official Answer Key Slide](../../images/mock2_slide_p14.png)
 
 ## 📊 Summary Assessment Matrix (Topic 02 - Set 1)
 
@@ -146,7 +146,7 @@ $$\mathbf{\text{Verified Answer: (a) Mobile phones distract students.}}$$
 
 **Question ID**: `INFY-SET2-18`  
 - **Figure**:
-  ![Original Question Slide](../../../images/mock2_slide_p25.png)  
+  ![Original Question Slide](../../images/mock2_slide_p25.png)  
 Which of the following can be inferred?
 
 #### Options
@@ -179,7 +179,7 @@ $$\mathbf{\text{Verified Answer: (b) Online education can be accessed from anywh
 
 **Question ID**: `INFY-SET2-19`  
 - **Figure**:
-  ![Original Question Slide](../../../images/mock2_slide_p26.png)  
+  ![Original Question Slide](../../images/mock2_slide_p26.png)  
 Which is the most logical course of action?
 
 #### Options

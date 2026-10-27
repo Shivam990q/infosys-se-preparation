@@ -43,9 +43,6 @@ $$\sqrt[3]{328509}$$
    $$69^3 = 69 \times 69 \times 69 = 4,761 \times 69 = 328,509$$
    Therefore, the cube root is **69**. Verified Answer is **A**.
 
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_mensuration_3d_page_01.png)
-
 ---
 
 ---
@@ -83,9 +80,6 @@ $$\sqrt[3]{50653}$$
 3. **Verification:**
    $$37^3 = 37 \times 37 \times 37 = 1,369 \times 37 = 50,653$$
    Therefore, the cube root is **37**. Verified Answer is **B**.
-
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_mensuration_3d_page_01.png)
 
 ---
 
@@ -128,9 +122,6 @@ Shiva is facing North. He turns $180^\circ$ and $45^\circ$ in the clockwise dire
    - $135^\circ$ = South-East (SE)
    - $180^\circ$ = South
    Therefore, Shiva is facing **South-East (SE)**. Verified Answer is **A**.
-
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_quadratic_01_page_01.png)
 
 ---
 
@@ -206,9 +197,6 @@ The ratio of the length, width, and height of a closed rectangular cuboid is $7 
    (Also: length $= 7 \times 4 = 28\text{ cm}$, height $= 4 \times 4 = 16\text{ cm}$).
    Therefore, the width is **20 cm**. Verified Answer is **B**.
 
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_mensuration_3d_page_01.png)
-
 ---
 
 ---
@@ -243,9 +231,6 @@ Find the total surface area (in $\text{cm}^2$) of a right circular cylinder havi
    $$\text{TSA} = 2 \times \frac{22}{7} \times \frac{7}{2} \times \left( \frac{7}{2} + 6 \right)$$
    $$\text{TSA} = 22 \times \left( 3.5 + 6 \right) = 22 \times 9.5 = 209\text{ cm}^2$$
    Therefore, the total surface area is **209 cm²**. Verified Answer is **C**.
-
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_mensuration_3d_page_01.png)
 
 ---
 

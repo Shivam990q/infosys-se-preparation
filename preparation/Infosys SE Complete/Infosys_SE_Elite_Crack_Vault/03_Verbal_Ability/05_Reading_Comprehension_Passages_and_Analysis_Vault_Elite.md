@@ -39,7 +39,7 @@ The primary purpose of the passage is to:
 Paragraph Reference: The passage explicitly explores both dimensions: benefits ('automate routine tasks, reduce human error, increase efficiency') and challenges ('ethical and practical concerns, job displacement, training bias'). Thus, Option B accurately identifies the primary objective.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_reading_comprehension_2311_page_01.png)
+![Verbal Document Reference](../../images/eng_reading_comprehension_2311_page_01.png)
 
 ---
 
@@ -75,7 +75,7 @@ According to the passage, proponents of AI argue that technology:
 Paragraph Reference: 'Proponents, however, contend that AI augments human capabilities rather than replacing them, allowing employees to focus on strategic, creative, and interpersonal functions...'
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_reading_comprehension_2311_page_01.png)
+![Verbal Document Reference](../../images/eng_reading_comprehension_2311_page_01.png)
 
 ---
 
@@ -111,7 +111,7 @@ Which of the following is cited as a major risk of AI in the workplace?
 Paragraph Reference: 'Critics argue that AI can inadvertently perpetuate biases present in training data, leading to unfair outcomes.'
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_reading_comprehension_2311_page_01.png)
+![Verbal Document Reference](../../images/eng_reading_comprehension_2311_page_01.png)
 
 ---
 
@@ -147,7 +147,7 @@ What does the word 'obsolete' most nearly mean as used in the passage?
 Vocabulary in Context: 'render certain job roles obsolete' means that automation makes those routine positions outdated or no longer needed.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_reading_comprehension_2311_page_02.png)
+![Verbal Document Reference](../../images/eng_reading_comprehension_2311_page_02.png)
 
 ---
 
@@ -183,7 +183,7 @@ The author suggests that successful AI implementation depends on:
 Paragraph Reference: 'Organizations that successfully implement AI balance technological innovation with employee empowerment, cultivating an adaptive, forward-thinking culture.'
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_reading_comprehension_2311_page_02.png)
+![Verbal Document Reference](../../images/eng_reading_comprehension_2311_page_02.png)
 
 ---
 
@@ -222,7 +222,7 @@ Q1. What, according to the passage, is/are the disadvantage(s) of constraining t
 Refer the last few lines of first paragraph "But stifling your imagination is the worst thing you can do to yourself, as it will only pave the way for accelerated aging, and all too often a life that feels unfulfilled." Hence option (c) is the correct choice.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_01.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_01.png)
 
 ---
 
@@ -258,7 +258,7 @@ Q2. “Imagination unleashes Creativity”. Justify.
 Refer second paragraph of the passage " The creative individual does not see the sky as the limit, instead the limit is as far as he or she can imagine. They not only think outside the box, for them there is no box, and so their brains are constantly challenged, humming and conjuring up all sorts of goodies". Other options are incorrect and not true or definite.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_01.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_01.png)
 
 ---
 
@@ -295,7 +295,7 @@ Q3. According to the passage, how can a person express empathy?
 Refer the third paragraph of the passage "our imagination may leave you in a good position to offer a shoulder for comfort and support, as you are able to envision going through the same thing as the person suffering." Hence option (b) is the correct choice.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_01.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_01.png)
 
 ---
 
@@ -330,7 +330,7 @@ Q4. Which of the following is an appropriate title of the passage?
 " The power of using your imagination" is an appropriate title of the passage as the passage revolves around the theme of advantages of being imaginative.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_01.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_01.png)
 
 ---
 
@@ -365,7 +365,7 @@ Q5. According to the passage, Imaginative power helps in
 The passage is about about using imagination for different purposes. All the given options are mentioned in the passage. Hence option (e) is the right choice.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_01.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_01.png)
 
 ---
 
@@ -401,7 +401,7 @@ Q6. How imagination can be a useful tool in strengthening the brain connections?
 Refer the last paragraph of the passage "On the other hand, someone who uses their imagination may know something well, and be able to recall everything without seeming to make an effort." Recollect means to remember and is similar in meaning to recall. Hence option (c) is the correct choice.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_01.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_01.png)
 
 ---
 
@@ -438,7 +438,7 @@ Conjure
 Conjure means implore (someone) to do something. Hence it has same meaning as adjure. Abject means of the most contemptible kind. Abstruse means difficult to penetrate. Dogmatic means pertaining to a code of beliefs accepted as authoritative.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_01.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_01.png)
 
 ---
 
@@ -475,7 +475,7 @@ Quantified
 Quantified means express or measure the quantity of. Hence it has same meaning as appraise. Extraneous means not belonging to that in which it is contained. Expiate means make amends for. Incumbent means necessary as a duty or responsibility, morally binding.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_01.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_01.png)
 
 ---
 
@@ -512,7 +512,7 @@ Meticulously
 Meticulous means in a way that shows great attention to detail, very thoroughly. Hence it has opposite meaning as imprecise. Noxious means injurious to physical or mental health. Obfuscate means make obscure or unclear.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_01.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_01.png)
 
 ---
 
@@ -549,7 +549,7 @@ Envision
 Envision means imagine as a future possibility, visualize.. Hence it has opposite meaning as disregard. Pernicious means exceedingly harmful. Pithy means concise and full of meaning. Requisition means an authoritative request or demand
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_01.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_01.png)
 
 ---
 
@@ -581,7 +581,7 @@ Q11. As soon as we (A)/enter the hotel the (B)/Manager welcomes us and (C)/took 
 &lsquo;takes&rsquo; will be used in place of &lsquo;took&rsquo; as the sentence is in present tense.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_01.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_01.png)
 
 ---
 
@@ -612,7 +612,7 @@ In spite of our several request (A)/ the owner of the house (B)/did not open (C)
 requests&rsquo; will be used in place of &lsquo;request&rsquo; because &lsquo;several, many, various, few, a few, very few&rsquo; tells the number hence nouns after them is used as plural This is the solution
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_01.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_01.png)
 
 ---
 
@@ -643,7 +643,7 @@ The manager concluded that(A)/either Mahesh (B)/or Teja were (C)/responsible for
 was&rsquo; will be used in place of &lsquo;were&rsquo; as if &lsquo;either&hellip;or, neither&hellip;nor, not only&hellip;but also&rsquo; is connected with two singular nouns then the verb which is used is singular. Ex. Either Sita and Mira was guilty. Neither john nor Tom is late.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_01.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_01.png)
 
 ---
 
@@ -674,7 +674,7 @@ was&rsquo; will be used in place of &lsquo;were&rsquo; as if &lsquo;either&helli
 This is the solution
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_01.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_01.png)
 
 ---
 
@@ -705,7 +705,7 @@ In today meeting (A)/we must first discuss (B)/and thrash out the problem (C)/on
 &lsquo;In today&rsquo;s meeting&rsquo; will be used in place of &lsquo;In today meeting&rsquo;.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_01.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_01.png)
 
 ---
 
@@ -742,7 +742,7 @@ Q1. What could be the appropriate title of this passage?
 Refer to the last and second last paragraph of this passage, it states that crisis of water is not due to scarcity but it is due to lack of preservation measures for delivering the same. As only groundwater is not sufficient due to expanding urbanisation, there needs to be long term planning and alongside staying prepared for drought. Also, in the last paragraph, the author says for reconsidering the strategies for water governance. For coping up with water security challenges, the Centre needs to collaborate with States strengthening the water resources governance and ensuring water security in the long term. Rest of the options are not specific enough to portray the passage as a whole. Thus, option (d) is the most suitable title for the above passage
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_02.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_02.png)
 
 ---
 
@@ -779,7 +779,7 @@ Finally, we need to reconsider our approaches to water governance. We must recog
 Refer to the fourth paragraph of the passage, it states that the main challenge is to deliver quality water, especially in urban areas. Lack of time and space makes it a cumbersome task to bring quality drinking water everywhere in an organized manner. To achieve this goal, there is a dire need for effective strategies. Hence, option (a) is most adequate answer
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_02.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_02.png)
 
 ---
 
@@ -816,7 +816,7 @@ Q3. As per the passage, what are the steps taken to ensure maximum fulfilment of
 Refer to the, third, fourth and fifth paragraph of the above passage, the steps necessary to reach maximum results fulfilling challenges of water governance are given. Hence, option (d) is the right answer choice
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_02.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_02.png)
 
 ---
 
@@ -853,7 +853,7 @@ Q4. Which of the following statements are not true according to the above passag
 With the given information about water governance strategies, all the options are correct. Therefore, none of them is false. Option (e) is the apt choice.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_02.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_02.png)
 
 ---
 
@@ -890,7 +890,7 @@ Q5. Which of the following is the most suitable word to fill the blank (A) as gi
 Option (c) , &lsquo;Strengthen&rsquo; is the most suitable word to fit in the blank (A). It makes the sentence contextually and grammatically correct. (a)Approach-Come near or nearer to (b)Destruct-Cause deliberate, terminal damage to (c)Uncertain-Not able to be relied on (d)Tinker-An act of attempting to repair something
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_02.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_02.png)
 
 ---
 
@@ -930,7 +930,7 @@ Q6. What could be the most appropriate title of this passage?
 Option (a) is the most suitable answer choice. It fits as the title of the passage because it states the entire theme behind this passage in few and precise words.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_02.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_02.png)
 
 ---
 
@@ -970,7 +970,7 @@ Q7.In what aspects, the present Protection of Children from Sexual Offence (amen
 Refer to the introductory paragraph of this passage. The elements are mentioned due o which POSCO Bill is welcomed. Hence, option (d) is the most suitable answer choice.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_02.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_02.png)
 
 ---
 
@@ -1010,7 +1010,7 @@ Q8. Why it is said in the italicized sentence, ‘Today, the death penalty has b
 Refer to the third paragraph of this passage, where it elaborates the statement that death penalty is now a prominent tool symbolizing legislation. It helps politicians to divert mind of public from core issues of legislature. Hence, option (d) is the most suitable answer choice.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_02.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_02.png)
 
 ---
 
@@ -1050,7 +1050,7 @@ Q9. Which one of the following statements is not true about POSCO Bill according
 Statement given in option (c) is not true because death penalty it is introduced in minor rape cases. Thus, option (c) is the right answer choice.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_02.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_02.png)
 
 ---
 
@@ -1090,7 +1090,7 @@ Q10. Choose among the following most suitable word to fill the blank given in (A
 Ramification- Complex or unwelcomed consequences of an action of event (a)Acumen-Ability to make good judgments and make quick decisions (b)Multifarious-Of various types (c)Exacerbate- Making worse, having an unemotional and calm disposition
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_02.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_02.png)
 
 ---
 
@@ -1132,7 +1132,7 @@ Q11. Why amalgamation of Public sector banks has become a stress lately for the 
 As it is mentioned in paragraph second, due to amalgamation of banks, the job security and existence of employees of the bank being amalgamated creates stress as their existence becomes questionable. Hence, option (b) is correct.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_02.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_02.png)
 
 ---
 
@@ -1174,7 +1174,7 @@ Q12. According to Section 5 of the Banking Regulation Act, what the term ‘bank
 Referring to the paragraph fifth, the provisions in the section 5 of banking regulation act are mentioned. Hence, option (d) is right answer choice.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_02.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_02.png)
 
 ---
 
@@ -1216,7 +1216,7 @@ Q13. What causes traumatisation of bank employees according to the passage given
 Paragraph third and fourth of this passage contains the reasons behind the traumatisation of bank employees. So, option (d) is correct answer choice.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_02.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_02.png)
 
 ---
 
@@ -1258,7 +1258,7 @@ Q14. According to the above passage, what could be the other factors apart from 
 As mentioned in paragraph 5th, we can conclude that all these acts of bankers should be considered for wage revision. Since, all the points are supporting according to the facts given in the passage, so option (e) is right answer choice.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_02.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_02.png)
 
 ---
 
@@ -1300,7 +1300,7 @@ Q15. According to Jyothi KP, how government should help banks in realizing the p
 Here, In the third paragraph of the passage, KP Jyothi is stating the measures how government should help banks in realising public money by initiating suo moto. Therefore, option (d) is correct answer selection.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_rc_exercise_1_2_page_02.png)
+![Verbal Document Reference](../../images/eng_rc_exercise_1_2_page_02.png)
 
 ---
 
@@ -1337,7 +1337,7 @@ Q71. As per the passage given above, how has India managed to amplify its democr
 To validate the answer, refer to the first paragraph of the passage given above, which mentions, "India did make some dangerous turns and show signs of fragility, especially during the Emergency in the 1970s, but in the long term it expanded the scope of its democracy through widening representation, devolution of power and redistribution of resources". We can infer the quoted text from all the three given statements. Hence, option (d) is the most suitable answer choice.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_verbal_assorted_super30_page_02.png)
+![Verbal Document Reference](../../images/eng_verbal_assorted_super30_page_02.png)
 
 ---
 
@@ -1368,7 +1368,7 @@ To validate the answer, refer to the first paragraph of the passage given above,
 To validate the answer, refer to the last few lines of the first paragraph of the passage given above, which mentions, "The Election Commission of India has over the decades evolved itself into a fine institution and plays a critical role in the support of democracy. Its efforts to increase voter participation through a series of small steps over the years, including the use of the Electronic Voting Machines, have been praiseworthy." Here, the quoted text can be clearly inferred from the statement given in option (d). hence, option (d) is the most suitable answer choice.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_verbal_assorted_super30_page_02.png)
+![Verbal Document Reference](../../images/eng_verbal_assorted_super30_page_02.png)
 
 ---
 
@@ -1399,7 +1399,7 @@ What is the tone used by author in the italicized statement (i) in the passage g
 In the italicized statement indicates contradiction. Hence, option (c) is the most suitable answer choice. Irony: a state of affairs or an event that seems deliberately contrary to what one expects and is often wryly amusing as a result. Indignant: shows the author&rsquo;s anger towards the subject in a justified way Bellicose: where two parties involved are aggressively hostile towards each other. Grandiose: passages written in a descriptive or abstract style Introspective: self-examine and reflect upon one&rsquo;s actions and feelings.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_verbal_assorted_super30_page_02.png)
+![Verbal Document Reference](../../images/eng_verbal_assorted_super30_page_02.png)
 
 ---
 
@@ -1430,7 +1430,7 @@ Which of the following statements is true in context of the information availabl
 To validate the answer, refer to the first paragraph of the passage given above, which mentions, "India did make some dangerous turns and show signs of fragility, especially during the Emergency in the 1970s, but in the long term it expanded the scope of its democracy through widening representation, devolution of power and redistribution of resources." From the quoted text, we can infer that the statement given in option (d) is correct. Hence, option (d) is the most suitable answer choice.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_verbal_assorted_super30_page_02.png)
+![Verbal Document Reference](../../images/eng_verbal_assorted_super30_page_02.png)
 
 ---
 
@@ -1461,7 +1461,7 @@ Which of the following can be the most appropriate title for the passage given a
 Among the given options, most appropriate choice for the title of the passage is "A promise to live by: on Indian democracy." As the passage discusses the upcoming general elections and how they are the core of the India&rsquo;s democratic system through which the country has been able to maintain its democratic character since decades, option (d) is the most suitable answer choice.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_verbal_assorted_super30_page_02.png)
+![Verbal Document Reference](../../images/eng_verbal_assorted_super30_page_02.png)
 
 ---
 
@@ -1492,7 +1492,7 @@ Which of the following word is most similar to ADEQUATE, as highlighted in the a
 Among the given words, "apposite" is synonymous with "adequate". All other words are opposite to adequate. Hence, option (c) is the most suitable answer choice. Apposite: apt in the circumstances or in relation to something.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_verbal_assorted_super30_page_02.png)
+![Verbal Document Reference](../../images/eng_verbal_assorted_super30_page_02.png)
 
 ---
 
@@ -1521,7 +1521,7 @@ What is the main idea of the passage?
 Passage analysis confirms that AI is presented as a 'double-edged sword' bringing technological advances alongside ethical/job displacement hurdles.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_verbal_ability_pyq_50_page_02.png)
+![Verbal Document Reference](../../images/eng_verbal_ability_pyq_50_page_02.png)
 
 ---
 
@@ -1552,7 +1552,7 @@ workforce?
 Paragraph text highlights job displacement and privacy/algorithmic bias as critical challenges.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_verbal_ability_pyq_50_page_03.png)
+![Verbal Document Reference](../../images/eng_verbal_ability_pyq_50_page_03.png)
 
 ---
 
@@ -1582,7 +1582,7 @@ What does the passage suggest about algorithmic bias?
 Passage directly states: 'An AI system trained on biased data will perpetuate and even amplify existing societal prejudices'.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_verbal_ability_pyq_50_page_03.png)
+![Verbal Document Reference](../../images/eng_verbal_ability_pyq_50_page_03.png)
 
 ---
 
@@ -1612,7 +1612,7 @@ The phrase "double-edged sword" is used to indicate that AI is:
 Direct phrase quote from paragraph 1.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_verbal_ability_pyq_50_page_03.png)
+![Verbal Document Reference](../../images/eng_verbal_ability_pyq_50_page_03.png)
 
 ---
 
@@ -1643,7 +1643,7 @@ AI?
 Author maintains an objective, balanced tone discussing both pros and cons.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_verbal_ability_pyq_50_page_03.png)
+![Verbal Document Reference](../../images/eng_verbal_ability_pyq_50_page_03.png)
 
 ---
 
@@ -1673,7 +1673,7 @@ What is the primary purpose of this passage?
 Passage 2 focuses on clean sustainable energy transition.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_verbal_ability_pyq_50_page_04.png)
+![Verbal Document Reference](../../images/eng_verbal_ability_pyq_50_page_04.png)
 
 ---
 
@@ -1703,7 +1703,7 @@ Which of the following is NOT listed as a pillar of sustainability?
 Text explicitly cites storage and intermittency as major hurdles.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_verbal_ability_pyq_50_page_05.png)
+![Verbal Document Reference](../../images/eng_verbal_ability_pyq_50_page_05.png)
 
 ---
 
@@ -1734,7 +1734,7 @@ is often:
 Passage states grid modernization is essential for renewable integration.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_verbal_ability_pyq_50_page_05.png)
+![Verbal Document Reference](../../images/eng_verbal_ability_pyq_50_page_05.png)
 
 ---
 
@@ -1765,7 +1765,7 @@ sustainability imply?
 Contextual replacement for shift / changeover.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_verbal_ability_pyq_50_page_05.png)
+![Verbal Document Reference](../../images/eng_verbal_ability_pyq_50_page_05.png)
 
 ---
 
@@ -1795,7 +1795,7 @@ What is the author's vision of a "truly sustainable solution"?
 Author provides informative factual overview with positive forward-looking stance.
 
 ### Visual Page Reference / Document Extract
-![Verbal Document Reference](../../../images/eng_verbal_ability_pyq_50_page_05.png)
+![Verbal Document Reference](../../images/eng_verbal_ability_pyq_50_page_05.png)
 
 ---
 

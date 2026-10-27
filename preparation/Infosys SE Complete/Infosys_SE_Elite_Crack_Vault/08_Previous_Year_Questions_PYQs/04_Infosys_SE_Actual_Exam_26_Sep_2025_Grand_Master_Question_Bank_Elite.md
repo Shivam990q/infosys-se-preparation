@@ -43,7 +43,7 @@ Verified Answer: Option A -> Statement I alone is sufficient to answer the quest
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0004_25e81716.jpeg](../../../images/pyq_26sep_0004_25e81716.jpeg) |
+| ![pyq_26sep_0004_25e81716.jpeg](../../images/pyq_26sep_0004_25e81716.jpeg) |
 
 ---
 
@@ -79,7 +79,7 @@ Verified Answer: Option B -> Statement II alone is sufficient to answer the ques
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0734_98c8446c.jpeg](../../../images/pyq_26sep_0734_98c8446c.jpeg) |
+| ![pyq_26sep_0734_98c8446c.jpeg](../../images/pyq_26sep_0734_98c8446c.jpeg) |
 
 ---
 
@@ -115,7 +115,7 @@ Verified Answer: Option B -> Statement II alone is sufficient to answer the ques
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0744_cf78bc4a.jpeg](../../../images/pyq_26sep_0744_cf78bc4a.jpeg) |
+| ![pyq_26sep_0744_cf78bc4a.jpeg](../../images/pyq_26sep_0744_cf78bc4a.jpeg) |
 
 ---
 
@@ -151,7 +151,7 @@ Verified Answer: Option A -> Statement I alone is sufficient to answer the quest
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0751_8b8ac648.jpeg](../../../images/pyq_26sep_0751_8b8ac648.jpeg) |
+| ![pyq_26sep_0751_8b8ac648.jpeg](../../images/pyq_26sep_0751_8b8ac648.jpeg) |
 
 ---
 
@@ -187,7 +187,7 @@ Verified Answer: Option A -> Statement I alone is sufficient to answer the quest
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0756_c26410d3.jpeg](../../../images/pyq_26sep_0756_c26410d3.jpeg) |
+| ![pyq_26sep_0756_c26410d3.jpeg](../../images/pyq_26sep_0756_c26410d3.jpeg) |
 
 ---
 
@@ -222,7 +222,7 @@ Question 9 In a certain code, THERE is coded as 12343 and FOUR is coded as 5674.
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0397_c2b6eea6.jpeg](../../../images/pyq_26sep_0397_c2b6eea6.jpeg) |
+| ![pyq_26sep_0397_c2b6eea6.jpeg](../../images/pyq_26sep_0397_c2b6eea6.jpeg) |
 
 ---
 
@@ -257,7 +257,7 @@ TECHNICAL TEST  Question 7 In a certain code. if •mat tat pat' means •water 
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0399_1963d1ac.jpeg](../../../images/pyq_26sep_0399_1963d1ac.jpeg) |
+| ![pyq_26sep_0399_1963d1ac.jpeg](../../images/pyq_26sep_0399_1963d1ac.jpeg) |
 
 ---
 
@@ -292,7 +292,7 @@ C:wrert Section TECHNICAL ABILITYTEST tuestions once cannot be attempted again. 
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0401_4d738c25.jpeg](../../../images/pyq_26sep_0401_4d738c25.jpeg) |
+| ![pyq_26sep_0401_4d738c25.jpeg](../../images/pyq_26sep_0401_4d738c25.jpeg) |
 
 ---
 
@@ -327,7 +327,7 @@ If PLANET is coded as 19-36-442-80. then what Will tp CAIAXY? ,  0 10-3-15-3-27-
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0405_ae251d9a.jpeg](../../../images/pyq_26sep_0405_ae251d9a.jpeg) |
+| ![pyq_26sep_0405_ae251d9a.jpeg](../../images/pyq_26sep_0405_ae251d9a.jpeg) |
 
 ---
 
@@ -362,7 +362,7 @@ Current Section Candiate Name TECHNICAL ABILITY TEST sandhya  Question 9 In a æ
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0410_d59d1381.jpeg](../../../images/pyq_26sep_0410_d59d1381.jpeg) |
+| ![pyq_26sep_0410_d59d1381.jpeg](../../images/pyq_26sep_0410_d59d1381.jpeg) |
 
 ---
 
@@ -397,7 +397,7 @@ cannot attempt.«i In the question given there ate two stalenerts trøoed use ze
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0002_ad3d0d93.jpeg](../../../images/pyq_26sep_0002_ad3d0d93.jpeg) |
+| ![pyq_26sep_0002_ad3d0d93.jpeg](../../images/pyq_26sep_0002_ad3d0d93.jpeg) |
 
 ---
 
@@ -432,7 +432,7 @@ cannot attempt.«i In the question given there ate two stalenerts trøoed use ze
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0005_d6dcec7a.jpeg](../../../images/pyq_26sep_0005_d6dcec7a.jpeg) |
+| ![pyq_26sep_0005_d6dcec7a.jpeg](../../images/pyq_26sep_0005_d6dcec7a.jpeg) |
 
 ---
 
@@ -467,7 +467,7 @@ REASONING ABILITY TEST Quetionsønce cannot be attempted again. Question 3 peren
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0006_065486cd.jpeg](../../../images/pyq_26sep_0006_065486cd.jpeg) |
+| ![pyq_26sep_0006_065486cd.jpeg](../../images/pyq_26sep_0006_065486cd.jpeg) |
 
 ---
 
@@ -502,7 +502,7 @@ auestions once subniitted/skipped cannot be attempted again. -numbers thai relat
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0008_ef103324.jpeg](../../../images/pyq_26sep_0008_ef103324.jpeg) |
+| ![pyq_26sep_0008_ef103324.jpeg](../../images/pyq_26sep_0008_ef103324.jpeg) |
 
 ---
 
@@ -537,7 +537,7 @@ Question No 55 What method on imageGenerator is used to normalize the image norm
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0012_c14fb493.jpeg](../../../images/pyq_26sep_0012_c14fb493.jpeg) |
+| ![pyq_26sep_0012_c14fb493.jpeg](../../images/pyq_26sep_0012_c14fb493.jpeg) |
 
 ---
 
@@ -572,7 +572,7 @@ Question 2 [3 Marksl Find the missing numtk•r in the third figure. Assume that
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0021_759fc0ea.jpeg](../../../images/pyq_26sep_0021_759fc0ea.jpeg) |
+| ![pyq_26sep_0021_759fc0ea.jpeg](../../images/pyq_26sep_0021_759fc0ea.jpeg) |
 
 ---
 
@@ -607,7 +607,7 @@ Question 2 [3 Marksl Find the missing numtk•r in the third figure. Assume that
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0026_3a0f5a16.jpeg](../../../images/pyq_26sep_0026_3a0f5a16.jpeg) |
+| ![pyq_26sep_0026_3a0f5a16.jpeg](../../images/pyq_26sep_0026_3a0f5a16.jpeg) |
 
 ---
 
@@ -642,7 +642,7 @@ Find the missing numbers in the given figure. 3 24 15 niteshbadgujar212ÜmaiI.co
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0033_25c6c81a.jpeg](../../../images/pyq_26sep_0033_25c6c81a.jpeg) |
+| ![pyq_26sep_0033_25c6c81a.jpeg](../../images/pyq_26sep_0033_25c6c81a.jpeg) |
 
 ---
 
@@ -677,7 +677,7 @@ Find the missing numbers in the given figure. 3 24 15 niteshbadgujar212ÜmaiI.co
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0042_ec84a47c.jpeg](../../../images/pyq_26sep_0042_ec84a47c.jpeg) |
+| ![pyq_26sep_0042_ec84a47c.jpeg](../../images/pyq_26sep_0042_ec84a47c.jpeg) |
 
 ---
 
@@ -712,7 +712,7 @@ Find the missing numbers in the given figure. 3 24 15 niteshbadgujar212ÜmaiI.co
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0051_f5d54f86.jpeg](../../../images/pyq_26sep_0051_f5d54f86.jpeg) |
+| ![pyq_26sep_0051_f5d54f86.jpeg](../../images/pyq_26sep_0051_f5d54f86.jpeg) |
 
 ---
 
@@ -747,7 +747,7 @@ C.ndiate Name Curre« NOME RICA.  13 MatKs) Find the missing nurnber in thifd fi
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0052_d6569c88.jpeg](../../../images/pyq_26sep_0052_d6569c88.jpeg) |
+| ![pyq_26sep_0052_d6569c88.jpeg](../../images/pyq_26sep_0052_d6569c88.jpeg) |
 
 ---
 
@@ -782,7 +782,7 @@ Find the mi5sing number in the grid given alongside 16 nikhi/, please provide yo
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0009_4474e63f.jpeg](../../../images/pyq_26sep_0009_4474e63f.jpeg) |
+| ![pyq_26sep_0009_4474e63f.jpeg](../../images/pyq_26sep_0009_4474e63f.jpeg) |
 
 ---
 
@@ -817,7 +817,7 @@ nd the missing numbers in the given figure. 3 15 24 ? , please provide
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0010_9f1d6129.jpeg](../../../images/pyq_26sep_0010_9f1d6129.jpeg) |
+| ![pyq_26sep_0010_9f1d6129.jpeg](../../images/pyq_26sep_0010_9f1d6129.jpeg) |
 
 ---
 
@@ -852,7 +852,7 @@ Questions once submitted!skipped cannot be attempted agatn. 13 Find the missing 
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0011_3a2dacaa.jpeg](../../../images/pyq_26sep_0011_3a2dacaa.jpeg) |
+| ![pyq_26sep_0011_3a2dacaa.jpeg](../../images/pyq_26sep_0011_3a2dacaa.jpeg) |
 
 ---
 
@@ -887,7 +887,7 @@ Questions once submitted!skipped cannot be attempted agatn. 13 Find the missing 
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0019_3635306d.jpeg](../../../images/pyq_26sep_0019_3635306d.jpeg) |
+| ![pyq_26sep_0019_3635306d.jpeg](../../images/pyq_26sep_0019_3635306d.jpeg) |
 
 ---
 
@@ -921,7 +921,7 @@ pted again. Question I 10120 The sentence has divided into three parts, Select t
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0229_76451a75.jpeg](../../../images/pyq_26sep_0229_76451a75.jpeg) |
+| ![pyq_26sep_0229_76451a75.jpeg](../../images/pyq_26sep_0229_76451a75.jpeg) |
 
 ---
 
@@ -955,7 +955,7 @@ nnot be attempted again. Question 10 Fill in the blank with appropriate choice. 
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0236_444b0a62.jpeg](../../../images/pyq_26sep_0236_444b0a62.jpeg) |
+| ![pyq_26sep_0236_444b0a62.jpeg](../../images/pyq_26sep_0236_444b0a62.jpeg) |
 
 ---
 
@@ -989,7 +989,7 @@ Fill in the blank with the most appropriate choice. The one solution) Question 1
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0238_de6d4fc5.jpeg](../../../images/pyq_26sep_0238_de6d4fc5.jpeg) |
+| ![pyq_26sep_0238_de6d4fc5.jpeg](../../images/pyq_26sep_0238_de6d4fc5.jpeg) |
 
 ---
 
@@ -1023,7 +1023,7 @@ Question 4 Fill in the blank With the most appropriate idiom or phrase. His job 
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0240_abf06d2f.jpeg](../../../images/pyq_26sep_0240_abf06d2f.jpeg) |
+| ![pyq_26sep_0240_abf06d2f.jpeg](../../images/pyq_26sep_0240_abf06d2f.jpeg) |
 
 ---
 
@@ -1057,7 +1057,7 @@ VERBAL ABILITY TEST Set NO 1  Fill in the blank with the most appropriate choice
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0243_4e312fce.jpeg](../../../images/pyq_26sep_0243_4e312fce.jpeg) |
+| ![pyq_26sep_0243_4e312fce.jpeg](../../images/pyq_26sep_0243_4e312fce.jpeg) |
 
 ---
 
@@ -1091,7 +1091,7 @@ restions once submitted/skipped cannot attempted again. Question 11 The sentence
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0263_efa80eff.jpeg](../../../images/pyq_26sep_0263_efa80eff.jpeg) |
+| ![pyq_26sep_0263_efa80eff.jpeg](../../images/pyq_26sep_0263_efa80eff.jpeg) |
 
 ---
 
@@ -1125,7 +1125,7 @@ ea cannot De att Question 5 The sentence below has been divided into three parts
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0311_583e35bd.jpeg](../../../images/pyq_26sep_0311_583e35bd.jpeg) |
+| ![pyq_26sep_0311_583e35bd.jpeg](../../images/pyq_26sep_0311_583e35bd.jpeg) |
 
 ---
 
@@ -1159,7 +1159,7 @@ Question 4 The sentence tem has diVKted into three parts. Select the part of the
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0345_22e1dae5.jpeg](../../../images/pyq_26sep_0345_22e1dae5.jpeg) |
+| ![pyq_26sep_0345_22e1dae5.jpeg](../../images/pyq_26sep_0345_22e1dae5.jpeg) |
 
 ---
 
@@ -1193,7 +1193,7 @@ Questions once submited/skipped cannot be attempted again. Question I The senten
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0350_c94c6b07.jpeg](../../../images/pyq_26sep_0350_c94c6b07.jpeg) |
+| ![pyq_26sep_0350_c94c6b07.jpeg](../../images/pyq_26sep_0350_c94c6b07.jpeg) |
 
 ---
 
@@ -1227,7 +1227,7 @@ Question f the sentence below has been divided into three parts-Select the part 
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0351_b703704f.jpeg](../../../images/pyq_26sep_0351_b703704f.jpeg) |
+| ![pyq_26sep_0351_b703704f.jpeg](../../images/pyq_26sep_0351_b703704f.jpeg) |
 
 ---
 
@@ -1261,7 +1261,7 @@ Question 5 The sentence teiow has tpen divided into three parts. Select the part
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0366_ebbaeaf7.jpeg](../../../images/pyq_26sep_0366_ebbaeaf7.jpeg) |
+| ![pyq_26sep_0366_ebbaeaf7.jpeg](../../images/pyq_26sep_0366_ebbaeaf7.jpeg) |
 
 ---
 
@@ -1295,7 +1295,7 @@ Question 2 The sentence below has been divided into three parts. Select the part
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0373_fc8ebe50.jpeg](../../../images/pyq_26sep_0373_fc8ebe50.jpeg) |
+| ![pyq_26sep_0373_fc8ebe50.jpeg](../../images/pyq_26sep_0373_fc8ebe50.jpeg) |
 
 ---
 
@@ -1329,7 +1329,7 @@ Questi The sentence below has been divided into three parts] Select the part of 
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0382_f6d78e7e.jpeg](../../../images/pyq_26sep_0382_f6d78e7e.jpeg) |
+| ![pyq_26sep_0382_f6d78e7e.jpeg](../../images/pyq_26sep_0382_f6d78e7e.jpeg) |
 
 ---
 
@@ -1363,7 +1363,7 @@ e cannot be attempted again, Question 8 The sentence has divided into three part
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0387_079c8ea5.jpeg](../../../images/pyq_26sep_0387_079c8ea5.jpeg) |
+| ![pyq_26sep_0387_079c8ea5.jpeg](../../images/pyq_26sep_0387_079c8ea5.jpeg) |
 
 ---
 
@@ -1397,7 +1397,7 @@ Question 2 Fill in the blank with the most appropriate choice: In the horror mov
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0398_6c4cd999.jpeg](../../../images/pyq_26sep_0398_6c4cd999.jpeg) |
+| ![pyq_26sep_0398_6c4cd999.jpeg](../../images/pyq_26sep_0398_6c4cd999.jpeg) |
 
 ---
 
@@ -1431,7 +1431,7 @@ Current Senon VERBAL ABILITY TEST Questions once cannot attempted again. Questio
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0420_b8439e8e.jpeg](../../../images/pyq_26sep_0420_b8439e8e.jpeg) |
+| ![pyq_26sep_0420_b8439e8e.jpeg](../../images/pyq_26sep_0420_b8439e8e.jpeg) |
 
 ---
 
@@ -1465,7 +1465,7 @@ VERBAL AOI LIVY TEST  Question 4 4 0120 Fill in the blank wttn the appropriate c
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0436_e08cf3a0.jpeg](../../../images/pyq_26sep_0436_e08cf3a0.jpeg) |
+| ![pyq_26sep_0436_e08cf3a0.jpeg](../../images/pyq_26sep_0436_e08cf3a0.jpeg) |
 
 ---
 
@@ -1499,7 +1499,7 @@ Cana•ae Name QUESTIONS Current Section set No VERBAL TEST  Question 2 has been
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0437_69953a2f.jpeg](../../../images/pyq_26sep_0437_69953a2f.jpeg) |
+| ![pyq_26sep_0437_69953a2f.jpeg](../../images/pyq_26sep_0437_69953a2f.jpeg) |
 
 ---
 
@@ -1533,7 +1533,7 @@ VERBAL ABILITY TEST once submitted/skipped cannot be attempted again. Question 8
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0449_5b4074fe.jpeg](../../../images/pyq_26sep_0449_5b4074fe.jpeg) |
+| ![pyq_26sep_0449_5b4074fe.jpeg](../../images/pyq_26sep_0449_5b4074fe.jpeg) |
 
 ---
 
@@ -1567,7 +1567,7 @@ Questions once cannot be attempted again- Fill in the blank With the most approp
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0450_c907bd0c.jpeg](../../../images/pyq_26sep_0450_c907bd0c.jpeg) |
+| ![pyq_26sep_0450_c907bd0c.jpeg](../../images/pyq_26sep_0450_c907bd0c.jpeg) |
 
 ---
 
@@ -1602,7 +1602,7 @@ What Will be the output of following program? Set Character array Set Character 
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0007_4166b0d8.jpeg](../../../images/pyq_26sep_0007_4166b0d8.jpeg) |
+| ![pyq_26sep_0007_4166b0d8.jpeg](../../images/pyq_26sep_0007_4166b0d8.jpeg) |
 
 ---
 
@@ -1637,7 +1637,7 @@ Current sec bhanu PSEUDOCC Quesüons once submittedlskipped cannot be attempted 
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0023_a4b28fa3.jpeg](../../../images/pyq_26sep_0023_a4b28fa3.jpeg) |
+| ![pyq_26sep_0023_a4b28fa3.jpeg](../../images/pyq_26sep_0023_a4b28fa3.jpeg) |
 
 ---
 
@@ -1672,7 +1672,7 @@ Candiate Name noorbonala sahul Questions once submitted/skipped cannot be attel 
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0039_301a6bb5.jpeg](../../../images/pyq_26sep_0039_301a6bb5.jpeg) |
+| ![pyq_26sep_0039_301a6bb5.jpeg](../../images/pyq_26sep_0039_301a6bb5.jpeg) |
 
 ---
 
@@ -1707,7 +1707,7 @@ PSEUt Questions once cannot attempted ag What will be the output of following pr
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0061_e406895b.jpeg](../../../images/pyq_26sep_0061_e406895b.jpeg) |
+| ![pyq_26sep_0061_e406895b.jpeg](../../images/pyq_26sep_0061_e406895b.jpeg) |
 
 ---
 
@@ -1742,7 +1742,7 @@ estions once submikediskipped cannot be attempted What will be the outp(å Ot fo
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0066_d12822d5.jpeg](../../../images/pyq_26sep_0066_d12822d5.jpeg) |
+| ![pyq_26sep_0066_d12822d5.jpeg](../../images/pyq_26sep_0066_d12822d5.jpeg) |
 
 ---
 
@@ -1777,7 +1777,7 @@ estions once submikediskipped cannot be attempted What will be the outp(å Ot fo
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0013_d3222894.jpeg](../../../images/pyq_26sep_0013_d3222894.jpeg) |
+| ![pyq_26sep_0013_d3222894.jpeg](../../images/pyq_26sep_0013_d3222894.jpeg) |
 
 ---
 
@@ -1812,7 +1812,7 @@ Glvm the nunt*ro relate each In a Deterrnlne the mlsslng number In ttE tilrd wt.
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0014_3bb568ed.jpeg](../../../images/pyq_26sep_0014_3bb568ed.jpeg) |
+| ![pyq_26sep_0014_3bb568ed.jpeg](../../images/pyq_26sep_0014_3bb568ed.jpeg) |
 
 ---
 
@@ -1847,7 +1847,7 @@ Namel = Name2 = Name3 = Name4 = Name3 Name2 Name2 determine the rank of Tensor s
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0015_ffd06f8c.jpeg](../../../images/pyq_26sep_0015_ffd06f8c.jpeg) |
+| ![pyq_26sep_0015_ffd06f8c.jpeg](../../images/pyq_26sep_0015_ffd06f8c.jpeg) |
 
 ---
 
@@ -1882,7 +1882,7 @@ osp;Answered: 22 Technical-I Question No. 35 Technical-2 Which Of the following 
 
 | Authentic Slot Screenshot |
 | :---: |
-| ![pyq_26sep_0016_876e93eb.jpeg](../../../images/pyq_26sep_0016_876e93eb.jpeg) |
+| ![pyq_26sep_0016_876e93eb.jpeg](../../images/pyq_26sep_0016_876e93eb.jpeg) |
 
 ---
 

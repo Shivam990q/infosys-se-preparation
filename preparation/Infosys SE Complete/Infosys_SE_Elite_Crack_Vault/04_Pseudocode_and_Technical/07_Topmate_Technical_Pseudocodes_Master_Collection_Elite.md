@@ -23,7 +23,7 @@
 - C) [3, 1, 1, 4]
 - D) [4, 1, 3, 1]
 
-![Figure](../../../images/slot1_page_006.png)
+![Figure](../../images/slot1_page_006.png)
 
 > **Verified Answer Key:** `A) [1, 4, 1, 3]`  
 
@@ -49,7 +49,7 @@ Initial array A = [3, 1, 4, 1]. Iteration i = 0: Swap A[0] and A[1] -> [1, 3, 4,
 - C) 30
 - D) 34
 
-![Figure](../../../images/slot1_page_007.png)
+![Figure](../../images/slot1_page_007.png)
 
 > **Verified Answer Key:** `B) 20`  
 
@@ -75,7 +75,7 @@ Loop i runs from 1 to 5. Even values of i are 2 and 4. When i = 2: result = 0 + 
 - C) 24
 - D) 120
 
-![Figure](../../../images/slot1_page_007.png)
+![Figure](../../images/slot1_page_007.png)
 
 > **Verified Answer Key:** `C) 24`  
 
@@ -101,7 +101,7 @@ F(n) is the recursive factorial function. F(4) = 4 × F(3) = 4 × 3 × F(2) = 4 
 - C) O(N²)
 - D) O(2N)
 
-![Figure](../../../images/slot1_page_007.png)
+![Figure](../../images/slot1_page_007.png)
 
 > **Verified Answer Key:** `C) O(N²)`  
 
@@ -127,7 +127,7 @@ The outer loop runs N times and the inner loop runs N times independently for ea
 - C) 4
 - D) 5
 
-![Figure](../../../images/slot1_page_007.png)
+![Figure](../../images/slot1_page_007.png)
 
 > **Verified Answer Key:** `B) 3`  
 
@@ -153,7 +153,7 @@ The pseudocode iterates through [2, 7, 8, 3, 10] and increments count for each e
 - C) [2, 7, 12, 16]
 - D) [7, 12, 16, 18]
 
-![Figure](../../../images/slot2_page_007.png)
+![Figure](../../images/slot2_page_007.png)
 
 > **Verified Answer Key:** `A) [7, 12, 16, 9]`  
 
@@ -179,7 +179,7 @@ Official Exam Key: `A) [7, 12, 16, 9]`. Systematic step-by-step verification con
 - C) 30
 - D) 45
 
-![Figure](../../../images/slot2_page_007.png)
+![Figure](../../images/slot2_page_007.png)
 
 > **Verified Answer Key:** `C) 15`  
 
@@ -205,7 +205,7 @@ Official Exam Key: `C) 15`. Systematic step-by-step verification confirms this r
 - C) 13
 - D) 21
 
-![Figure](../../../images/slot2_page_007.png)
+![Figure](../../images/slot2_page_007.png)
 
 > **Verified Answer Key:** `B) 8`  
 
@@ -231,7 +231,7 @@ Official Exam Key: `B) 8`. Systematic step-by-step verification confirms this re
 - C) O(N²)
 - D) O(2N)
 
-![Figure](../../../images/slot2_page_008.png)
+![Figure](../../images/slot2_page_008.png)
 
 > **Verified Answer Key:** `C) O(N²)`  
 
@@ -257,7 +257,7 @@ Official Exam Key: `C) O(N²)`. Systematic step-by-step verification confirms th
 - C) 5
 - D) 6
 
-![Figure](../../../images/slot2_page_008.png)
+![Figure](../../images/slot2_page_008.png)
 
 > **Verified Answer Key:** `C) 4`  
 
@@ -277,7 +277,7 @@ Official Exam Key: `C) 4`. Systematic step-by-step verification confirms this re
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_001.png)
+![Figure](../../images/pseudocode_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -297,7 +297,7 @@ Step-by-step register execution confirms B.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_002.png)
+![Figure](../../images/pseudocode_page_002.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -317,7 +317,7 @@ Step-by-step register execution confirms C.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_003.png)
+![Figure](../../images/pseudocode_page_003.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -337,7 +337,7 @@ Step-by-step register execution confirms D.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_004.png)
+![Figure](../../images/pseudocode_page_004.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -357,7 +357,7 @@ Step-by-step register execution confirms C.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_005.png)
+![Figure](../../images/pseudocode_page_005.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -377,7 +377,7 @@ Step-by-step register execution confirms C.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_005.png)
+![Figure](../../images/pseudocode_page_005.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -397,7 +397,7 @@ Step-by-step register execution confirms C.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_006.png)
+![Figure](../../images/pseudocode_page_006.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -417,7 +417,7 @@ Step-by-step register execution confirms D.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_006.png)
+![Figure](../../images/pseudocode_page_006.png)
 
 > **Verified Answer Key:** `16`  
 
@@ -437,7 +437,7 @@ Step-by-step register execution confirms 16.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_007.png)
+![Figure](../../images/pseudocode_page_007.png)
 
 > **Verified Answer Key:** `11`  
 
@@ -457,7 +457,7 @@ Step-by-step register execution confirms 11.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_008.png)
+![Figure](../../images/pseudocode_page_008.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -477,7 +477,7 @@ Step-by-step register execution confirms C.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_008.png)
+![Figure](../../images/pseudocode_page_008.png)
 
 > **Verified Answer Key:** `22`  
 
@@ -497,7 +497,7 @@ Step-by-step register execution confirms 22.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_009.png)
+![Figure](../../images/pseudocode_page_009.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -517,7 +517,7 @@ Step-by-step register execution confirms 4.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_009.png)
+![Figure](../../images/pseudocode_page_009.png)
 
 > **Verified Answer Key:** `20`  
 
@@ -537,7 +537,7 @@ Step-by-step register execution confirms 20.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_009.png)
+![Figure](../../images/pseudocode_page_009.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -557,7 +557,7 @@ Step-by-step register execution confirms 4.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_010.png)
+![Figure](../../images/pseudocode_page_010.png)
 
 > **Verified Answer Key:** `43`  
 
@@ -577,7 +577,7 @@ Step-by-step register execution confirms 43.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_011.png)
+![Figure](../../images/pseudocode_page_011.png)
 
 > **Verified Answer Key:** `26`  
 
@@ -597,7 +597,7 @@ Step-by-step register execution confirms 26.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_011.png)
+![Figure](../../images/pseudocode_page_011.png)
 
 > **Verified Answer Key:** `43`  
 
@@ -617,7 +617,7 @@ Step-by-step register execution confirms 43.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_011.png)
+![Figure](../../images/pseudocode_page_011.png)
 
 > **Verified Answer Key:** `26`  
 
@@ -637,7 +637,7 @@ Step-by-step register execution confirms 26.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_012.png)
+![Figure](../../images/pseudocode_page_012.png)
 
 > **Verified Answer Key:** `24`  
 
@@ -657,7 +657,7 @@ Step-by-step register execution confirms 24.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_013.png)
+![Figure](../../images/pseudocode_page_013.png)
 
 > **Verified Answer Key:** `171`  
 
@@ -677,7 +677,7 @@ Step-by-step register execution confirms 171.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_013.png)
+![Figure](../../images/pseudocode_page_013.png)
 
 > **Verified Answer Key:** `20`  
 
@@ -697,7 +697,7 @@ Step-by-step register execution confirms 20.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_014.png)
+![Figure](../../images/pseudocode_page_014.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -717,7 +717,7 @@ Step-by-step register execution confirms B.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_014.png)
+![Figure](../../images/pseudocode_page_014.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -737,7 +737,7 @@ Step-by-step register execution confirms B.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_015.png)
+![Figure](../../images/pseudocode_page_015.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -757,7 +757,7 @@ Step-by-step register execution confirms A.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_016.png)
+![Figure](../../images/pseudocode_page_016.png)
 
 > **Verified Answer Key:** `a`  
 
@@ -777,7 +777,7 @@ Step-by-step register execution confirms a.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_016.png)
+![Figure](../../images/pseudocode_page_016.png)
 
 > **Verified Answer Key:** `c`  
 
@@ -797,7 +797,7 @@ Step-by-step register execution confirms c.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_017.png)
+![Figure](../../images/pseudocode_page_017.png)
 
 > **Verified Answer Key:** `a`  
 
@@ -817,7 +817,7 @@ Step-by-step register execution confirms a.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_018.png)
+![Figure](../../images/pseudocode_page_018.png)
 
 > **Verified Answer Key:** `c`  
 
@@ -837,7 +837,7 @@ Step-by-step register execution confirms c.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_019.png)
+![Figure](../../images/pseudocode_page_019.png)
 
 > **Verified Answer Key:** `a`  
 
@@ -857,7 +857,7 @@ Step-by-step register execution confirms a.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_020.png)
+![Figure](../../images/pseudocode_page_020.png)
 
 > **Verified Answer Key:** `a`  
 
@@ -877,7 +877,7 @@ Step-by-step register execution confirms a.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_021.png)
+![Figure](../../images/pseudocode_page_021.png)
 
 > **Verified Answer Key:** `3 5 7 9 5`  
 
@@ -897,7 +897,7 @@ Step-by-step register execution confirms 3 5 7 9 5.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_022.png)
+![Figure](../../images/pseudocode_page_022.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -917,7 +917,7 @@ Step-by-step register execution confirms D.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_023.png)
+![Figure](../../images/pseudocode_page_023.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -937,7 +937,7 @@ Step-by-step register execution confirms B.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_023.png)
+![Figure](../../images/pseudocode_page_023.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -957,7 +957,7 @@ Step-by-step register execution confirms B.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_024.png)
+![Figure](../../images/pseudocode_page_024.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -977,7 +977,7 @@ Step-by-step register execution confirms B.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_025.png)
+![Figure](../../images/pseudocode_page_025.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -997,7 +997,7 @@ Step-by-step register execution confirms C.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_026.png)
+![Figure](../../images/pseudocode_page_026.png)
 
 > **Verified Answer Key:** `14`  
 
@@ -1017,7 +1017,7 @@ Step-by-step register execution confirms 14.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_027.png)
+![Figure](../../images/pseudocode_page_027.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -1037,7 +1037,7 @@ Step-by-step register execution confirms B.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_029.png)
+![Figure](../../images/pseudocode_page_029.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -1057,7 +1057,7 @@ Step-by-step register execution confirms B.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_030.png)
+![Figure](../../images/pseudocode_page_030.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -1077,7 +1077,7 @@ Step-by-step register execution confirms A.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_032.png)
+![Figure](../../images/pseudocode_page_032.png)
 
 > **Verified Answer Key:** `c`  
 
@@ -1097,7 +1097,7 @@ Step-by-step register execution confirms c.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_034.png)
+![Figure](../../images/pseudocode_page_034.png)
 
 > **Verified Answer Key:** `c`  
 
@@ -1117,7 +1117,7 @@ Step-by-step register execution confirms c.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_035.png)
+![Figure](../../images/pseudocode_page_035.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -1137,7 +1137,7 @@ Step-by-step register execution confirms D.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_035.png)
+![Figure](../../images/pseudocode_page_035.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -1157,7 +1157,7 @@ Step-by-step register execution confirms D.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_036.png)
+![Figure](../../images/pseudocode_page_036.png)
 
 > **Verified Answer Key:** `c`  
 
@@ -1177,7 +1177,7 @@ Step-by-step register execution confirms c.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_036.png)
+![Figure](../../images/pseudocode_page_036.png)
 
 > **Verified Answer Key:** `d`  
 
@@ -1197,7 +1197,7 @@ Step-by-step register execution confirms d.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_037.png)
+![Figure](../../images/pseudocode_page_037.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -1217,7 +1217,7 @@ Step-by-step register execution confirms D.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_039.png)
+![Figure](../../images/pseudocode_page_039.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -1237,7 +1237,7 @@ Step-by-step register execution confirms A.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_040.png)
+![Figure](../../images/pseudocode_page_040.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -1257,7 +1257,7 @@ Step-by-step register execution confirms A.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_041.png)
+![Figure](../../images/pseudocode_page_041.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -1277,7 +1277,7 @@ Step-by-step register execution confirms D.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_042.png)
+![Figure](../../images/pseudocode_page_042.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -1297,7 +1297,7 @@ Step-by-step register execution confirms A.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_043.png)
+![Figure](../../images/pseudocode_page_043.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1317,7 +1317,7 @@ Step-by-step register execution confirms C.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_043.png)
+![Figure](../../images/pseudocode_page_043.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -1337,7 +1337,7 @@ Step-by-step register execution confirms D.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_044.png)
+![Figure](../../images/pseudocode_page_044.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1357,7 +1357,7 @@ Step-by-step register execution confirms C.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_045.png)
+![Figure](../../images/pseudocode_page_045.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -1377,7 +1377,7 @@ Step-by-step register execution confirms B.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_045.png)
+![Figure](../../images/pseudocode_page_045.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -1397,7 +1397,7 @@ Step-by-step register execution confirms A.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_046.png)
+![Figure](../../images/pseudocode_page_046.png)
 
 > **Verified Answer Key:** `8`  
 
@@ -1417,7 +1417,7 @@ Step-by-step register execution confirms 8.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_047.png)
+![Figure](../../images/pseudocode_page_047.png)
 
 > **Verified Answer Key:** `18`  
 
@@ -1437,7 +1437,7 @@ Step-by-step register execution confirms 18.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_048.png)
+![Figure](../../images/pseudocode_page_048.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1457,7 +1457,7 @@ Step-by-step register execution confirms C.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_048.png)
+![Figure](../../images/pseudocode_page_048.png)
 
 > **Verified Answer Key:** `16`  
 
@@ -1477,7 +1477,7 @@ Step-by-step register execution confirms 16.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_049.png)
+![Figure](../../images/pseudocode_page_049.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -1497,7 +1497,7 @@ Step-by-step register execution confirms B.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_050.png)
+![Figure](../../images/pseudocode_page_050.png)
 
 > **Verified Answer Key:** `10`  
 
@@ -1517,7 +1517,7 @@ Step-by-step register execution confirms 10.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_050.png)
+![Figure](../../images/pseudocode_page_050.png)
 
 > **Verified Answer Key:** `10`  
 
@@ -1537,7 +1537,7 @@ Step-by-step register execution confirms 10.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_051.png)
+![Figure](../../images/pseudocode_page_051.png)
 
 > **Verified Answer Key:** `14`  
 
@@ -1557,7 +1557,7 @@ Step-by-step register execution confirms 14.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_052.png)
+![Figure](../../images/pseudocode_page_052.png)
 
 > **Verified Answer Key:** `26`  
 
@@ -1577,7 +1577,7 @@ Step-by-step register execution confirms 26.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_052.png)
+![Figure](../../images/pseudocode_page_052.png)
 
 > **Verified Answer Key:** `26`  
 
@@ -1597,7 +1597,7 @@ Step-by-step register execution confirms 26.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_053.png)
+![Figure](../../images/pseudocode_page_053.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -1617,7 +1617,7 @@ Step-by-step register execution confirms 3.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_053.png)
+![Figure](../../images/pseudocode_page_053.png)
 
 > **Verified Answer Key:** `34`  
 
@@ -1637,7 +1637,7 @@ Step-by-step register execution confirms 34.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_054.png)
+![Figure](../../images/pseudocode_page_054.png)
 
 > **Verified Answer Key:** `27`  
 
@@ -1657,7 +1657,7 @@ Step-by-step register execution confirms 27.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_055.png)
+![Figure](../../images/pseudocode_page_055.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -1677,7 +1677,7 @@ Step-by-step register execution confirms A.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_055.png)
+![Figure](../../images/pseudocode_page_055.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1697,7 +1697,7 @@ Step-by-step register execution confirms C.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_056.png)
+![Figure](../../images/pseudocode_page_056.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1717,7 +1717,7 @@ Step-by-step register execution confirms C.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_057.png)
+![Figure](../../images/pseudocode_page_057.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -1737,7 +1737,7 @@ Step-by-step register execution confirms D.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_058.png)
+![Figure](../../images/pseudocode_page_058.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1757,7 +1757,7 @@ Step-by-step register execution confirms C.
 **Category / Topic:** Technical Pseudocode | Pseudocode Output & Complexity  
 **Prompt:** What will be the output of the following pseudocode?
 
-![Figure](../../../images/pseudocode_page_058.png)
+![Figure](../../images/pseudocode_page_058.png)
 
 > **Verified Answer Key:** `HeyAnshika`  
 

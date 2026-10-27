@@ -16,7 +16,7 @@
 
 **ID:** `SEC06_PUZ_Q09` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/q9_1.png)
+![Grid Diagram](../../images/q9_1.png)
 
 **Problem Statement:**
 Study the 4×3 matrix. Each row follows the same rule relating the first two entries to the third entry. Find the missing number (?) that makes the fourth row obey the same rule.
@@ -91,7 +91,7 @@ Hence, the missing number is 5 (Option C).
 
 **ID:** `SEC06_PUZ_Q10` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/q10_1.png)
+![Grid Diagram](../../images/q10_1.png)
 
 **Problem Statement:**
 Study the 3×3 matrix. Each column follows the same rule relating the top and bottom numerical entries to the middle letter entry. Find the missing letter (?) that makes the middle column obey the same rule.
@@ -138,7 +138,7 @@ Hence, the missing letter is R (Option D).
 
 **ID:** `SEC06_PUZ_Q13` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/q13_1.png)
+![Grid Diagram](../../images/q13_1.png)
 
 **Problem Statement:**
 Study the 4×4 matrix. Each column follows the same rule relating the entries. Find the missing number (?) in the second row of the third column.
@@ -185,7 +185,7 @@ Hence, the missing number is 9 (Option B).
 
 **ID:** `SEC06_PUZ_Q14` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/q14_1.png)
+![Grid Diagram](../../images/q14_1.png)
 
 **Problem Statement:**
 Determine the missing number (?) in the second set. Assume the second set also works in the same way as the first set.
@@ -233,7 +233,7 @@ Hence, the missing number in the second set is 99 (Option C).
 
 **ID:** `SEC06_MAT_022` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/number_puzzles_ebook_page_14.png)
+![Grid Diagram](../../images/number_puzzles_ebook_page_14.png)
 
 **Problem Statement:**
 1. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -281,7 +281,7 @@ Conclusion confirms answer D.
 
 **ID:** `SEC06_MAT_023` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/number_puzzles_ebook_page_14.png)
+![Grid Diagram](../../images/number_puzzles_ebook_page_14.png)
 
 **Problem Statement:**
 2. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -329,7 +329,7 @@ Conclusion confirms answer B.
 
 **ID:** `SEC06_MAT_024` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/number_puzzles_ebook_page_14.png)
+![Grid Diagram](../../images/number_puzzles_ebook_page_14.png)
 
 **Problem Statement:**
 3. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -377,7 +377,7 @@ Conclusion confirms answer B.
 
 **ID:** `SEC06_MAT_025` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/number_puzzles_ebook_page_14.png)
+![Grid Diagram](../../images/number_puzzles_ebook_page_14.png)
 
 **Problem Statement:**
 4. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -425,7 +425,7 @@ Conclusion confirms answer B.
 
 **ID:** `SEC06_MAT_026` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/number_puzzles_ebook_page_14.png)
+![Grid Diagram](../../images/number_puzzles_ebook_page_14.png)
 
 **Problem Statement:**
 5. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -473,7 +473,7 @@ Conclusion confirms answer A.
 
 **ID:** `SEC06_MAT_027` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/number_puzzles_ebook_page_14.png)
+![Grid Diagram](../../images/number_puzzles_ebook_page_14.png)
 
 **Problem Statement:**
 6. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -521,7 +521,7 @@ Conclusion confirms answer D.
 
 **ID:** `SEC06_MAT_028` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/number_puzzles_ebook_page_14.png)
+![Grid Diagram](../../images/number_puzzles_ebook_page_14.png)
 
 **Problem Statement:**
 7. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -569,7 +569,7 @@ Conclusion confirms answer D.
 
 **ID:** `SEC06_MAT_029` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/number_puzzles_ebook_page_14.png)
+![Grid Diagram](../../images/number_puzzles_ebook_page_14.png)
 
 **Problem Statement:**
 8. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -617,7 +617,7 @@ Conclusion confirms answer D.
 
 **ID:** `SEC06_MAT_030` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/number_puzzles_ebook_page_14.png)
+![Grid Diagram](../../images/number_puzzles_ebook_page_14.png)
 
 **Problem Statement:**
 9. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -665,7 +665,7 @@ Conclusion confirms answer D.
 
 **ID:** `SEC06_MAT_031` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/number_puzzles_ebook_page_14.png)
+![Grid Diagram](../../images/number_puzzles_ebook_page_14.png)
 
 **Problem Statement:**
 10. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -713,7 +713,7 @@ Conclusion confirms answer D.
 
 **ID:** `SEC06_MAT_032` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/number_puzzles_ebook_page_14.png)
+![Grid Diagram](../../images/number_puzzles_ebook_page_14.png)
 
 **Problem Statement:**
 11. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -761,7 +761,7 @@ Conclusion confirms answer C.
 
 **ID:** `SEC06_MAT_033` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/number_puzzles_ebook_page_14.png)
+![Grid Diagram](../../images/number_puzzles_ebook_page_14.png)
 
 **Problem Statement:**
 12. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -809,7 +809,7 @@ Conclusion confirms answer A.
 
 **ID:** `SEC06_MAT_034` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/number_puzzles_ebook_page_14.png)
+![Grid Diagram](../../images/number_puzzles_ebook_page_14.png)
 
 **Problem Statement:**
 13. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -857,7 +857,7 @@ Conclusion confirms answer D.
 
 **ID:** `SEC06_MAT_035` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/number_puzzles_ebook_page_14.png)
+![Grid Diagram](../../images/number_puzzles_ebook_page_14.png)
 
 **Problem Statement:**
 14. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -905,7 +905,7 @@ Conclusion confirms answer B.
 
 **ID:** `SEC06_MAT_036` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/number_puzzles_ebook_page_14.png)
+![Grid Diagram](../../images/number_puzzles_ebook_page_14.png)
 
 **Problem Statement:**
 15. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -953,7 +953,7 @@ Conclusion confirms answer A.
 
 **ID:** `SEC06_MAT_037` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/number_puzzles_ebook_page_14.png)
+![Grid Diagram](../../images/number_puzzles_ebook_page_14.png)
 
 **Problem Statement:**
 16. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1001,7 +1001,7 @@ Conclusion confirms answer C.
 
 **ID:** `SEC06_MAT_038` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/number_puzzles_ebook_page_14.png)
+![Grid Diagram](../../images/number_puzzles_ebook_page_14.png)
 
 **Problem Statement:**
 17. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1049,7 +1049,7 @@ Conclusion confirms answer D.
 
 **ID:** `SEC06_MAT_039` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/number_puzzles_ebook_page_14.png)
+![Grid Diagram](../../images/number_puzzles_ebook_page_14.png)
 
 **Problem Statement:**
 18. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1097,7 +1097,7 @@ Conclusion confirms answer C.
 
 **ID:** `SEC06_MAT_040` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/number_puzzles_ebook_page_14.png)
+![Grid Diagram](../../images/number_puzzles_ebook_page_14.png)
 
 **Problem Statement:**
 19. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1145,7 +1145,7 @@ Conclusion confirms answer A.
 
 **ID:** `SEC06_MAT_041` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/number_puzzles_ebook_page_14.png)
+![Grid Diagram](../../images/number_puzzles_ebook_page_14.png)
 
 **Problem Statement:**
 20. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1193,7 +1193,7 @@ Conclusion confirms answer B.
 
 **ID:** `SEC06_MAT_042` | **Topic:** Matrix Grid & Algebraic Pattern Deductions
 
-![Grid Diagram](../../../images/number_puzzles_ebook_page_14.png)
+![Grid Diagram](../../images/number_puzzles_ebook_page_14.png)
 
 **Problem Statement:**
 21. Find the missing number (?) from the given matrix: **Native Grid Table:**

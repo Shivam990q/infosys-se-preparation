@@ -23,7 +23,7 @@
 - C) Cousin
 - D) Father
 
-![Figure](../../../images/slot1_page_001.png)
+![Figure](../../images/slot1_page_001.png)
 
 > **Verified Answer Key:** `A) Maternal uncle`  
 
@@ -50,7 +50,7 @@ Arun is the son of Meena. Meena is the sister of Ravi. Therefore, Ravi is Meena'
 - C) E
 - D) F
 
-![Figure](../../../images/slot1_page_001.png)
+![Figure](../../images/slot1_page_001.png)
 
 > **Verified Answer Key:** `C) E`  
 
@@ -76,7 +76,7 @@ Six people A, B, C, D, E, F sit around a circular table facing centre. Assign 6 
 - C) Both I and II
 - D) Neither I nor II
 
-![Figure](../../../images/slot1_page_001.png)
+![Figure](../../images/slot1_page_001.png)
 
 > **Verified Answer Key:** `D) Neither I nor II`  
 
@@ -102,7 +102,7 @@ Statements: All engineers are graduates (E ⊆ G). Some graduates are artists (G
 - C) 5
 - D) 6
 
-![Figure](../../../images/slot1_page_001.png)
+![Figure](../../images/slot1_page_001.png)
 
 > **Verified Answer Key:** `A) 1`  
 
@@ -128,7 +128,7 @@ In a standard die, opposite faces always sum to 7. If the top face is 6, the bot
 - C) R
 - D) T
 
-![Figure](../../../images/slot1_page_001.png)
+![Figure](../../images/slot1_page_001.png)
 
 > **Verified Answer Key:** `B) Q`  
 
@@ -154,7 +154,7 @@ P is immediately to the right of Q (order: Q P). R is immediately to the right o
 - C) 7 km east
 - D) 11 km south
 
-![Figure](../../../images/slot1_page_001.png)
+![Figure](../../images/slot1_page_001.png)
 
 > **Verified Answer Key:** `C) 4 km east`  
 
@@ -180,7 +180,7 @@ Start at (0, 0). Walking 7 km north leads to (0, 7). Turning right (east) and wa
 - C) P
 - D) Q
 
-![Figure](../../../images/slot1_page_001.png)
+![Figure](../../images/slot1_page_001.png)
 
 > **Verified Answer Key:** `B) P`  
 
@@ -206,7 +206,7 @@ Alphabet positions: A = 1, D = 4, G = 7, J = 10, M = 13. The common difference i
 - C) Circle
 - D) Rectangle
 
-![Figure](../../../images/slot1_page_002.png)
+![Figure](../../images/slot1_page_002.png)
 
 > **Verified Answer Key:** `C) Circle`  
 
@@ -232,7 +232,7 @@ Triangle, Square, and Rectangle are rectilinear polygons composed of straight li
 - C) Saturday
 - D) Friday
 
-![Figure](../../../images/slot1_page_002.png)
+![Figure](../../images/slot1_page_002.png)
 
 > **Verified Answer Key:** `B) Sunday`  
 
@@ -258,7 +258,7 @@ Calendar derivation: 15 August 1947 was a Friday. To reach 26 January 2020: Numb
 - C) 37
 - D) 38
 
-![Figure](../../../images/slot1_page_002.png)
+![Figure](../../images/slot1_page_002.png)
 
 > **Verified Answer Key:** `C) 37`  
 
@@ -284,7 +284,7 @@ The series follows the rule n² + 1: 1² + 1 = 2, 2² + 1 = 5, 3² + 1 = 10, 4²
 - C) 25 and 12.5
 - D) 24 and 12
 
-![Figure](../../../images/slot1_page_002.png)
+![Figure](../../images/slot1_page_002.png)
 
 > **Verified Answer Key:** `A) 20 and 10`  
 
@@ -310,7 +310,7 @@ Let Mary's present age be M and John's present age be J = 2M. For Option A (20 a
 - C) 50
 - D) 55
 
-![Figure](../../../images/slot1_page_002.png)
+![Figure](../../images/slot1_page_002.png)
 
 > **Verified Answer Key:** `B) 45`  
 
@@ -336,7 +336,7 @@ The number of handshakes among n people where each shakes hands once with every 
 - C) Tuesday
 - D) Wednesday
 
-![Figure](../../../images/slot1_page_002.png)
+![Figure](../../images/slot1_page_002.png)
 
 > **Verified Answer Key:** `A) Monday`  
 
@@ -362,7 +362,7 @@ If the day after tomorrow is Thursday, then tomorrow is Wednesday, and today is 
 - C) 48
 - D) 49
 
-![Figure](../../../images/slot1_page_002.png)
+![Figure](../../images/slot1_page_002.png)
 
 > **Verified Answer Key:** `C) 48`  
 
@@ -388,7 +388,7 @@ The sequence follows the formula n² - 1 starting from n = 2: 2² - 1 = 3, 3² -
 - C) 49
 - D) 56
 
-![Figure](../../../images/slot1_page_002.png)
+![Figure](../../images/slot1_page_002.png)
 
 > **Verified Answer Key:** `C) 49`  
 
@@ -414,7 +414,7 @@ The analogy relates a number to its square: 5² = 25. Therefore, 7² = 49.
 - C) Brother
 - D) Cousin
 
-![Figure](../../../images/slot2_page_001.png)
+![Figure](../../images/slot2_page_001.png)
 
 > **Verified Answer Key:** `B) Father`  
 
@@ -440,7 +440,7 @@ Official Exam Key: `B) Father`. Systematic step-by-step verification confirms th
 - C) R
 - D) S
 
-![Figure](../../../images/slot2_page_001.png)
+![Figure](../../images/slot2_page_001.png)
 
 > **Verified Answer Key:** `B) Q`  
 
@@ -466,7 +466,7 @@ Official Exam Key: `B) Q`. Systematic step-by-step verification confirms this re
 - C) Both I and II
 - D) Neither I nor II
 
-![Figure](../../../images/slot2_page_001.png)
+![Figure](../../images/slot2_page_001.png)
 
 > **Verified Answer Key:** `B) Only II`  
 
@@ -492,7 +492,7 @@ Official Exam Key: `B) Only II`. Systematic step-by-step verification confirms t
 - C) 5
 - D) 6
 
-![Figure](../../../images/slot2_page_001.png)
+![Figure](../../images/slot2_page_001.png)
 
 > **Verified Answer Key:** `C) 5`  
 
@@ -518,7 +518,7 @@ Official Exam Key: `C) 5`. Systematic step-by-step verification confirms this re
 - C) E
 - D) F
 
-![Figure](../../../images/slot2_page_001.png)
+![Figure](../../images/slot2_page_001.png)
 
 > **Verified Answer Key:** `A) B`  
 
@@ -544,7 +544,7 @@ Official Exam Key: `A) B`. Systematic step-by-step verification confirms this re
 - C) 9 km east
 - D) 14 km north
 
-![Figure](../../../images/slot2_page_001.png)
+![Figure](../../images/slot2_page_001.png)
 
 > **Verified Answer Key:** `A) 5 km north`  
 
@@ -570,7 +570,7 @@ Official Exam Key: `A) 5 km north`. Systematic step-by-step verification confirm
 - C) V
 - D) W
 
-![Figure](../../../images/slot2_page_002.png)
+![Figure](../../images/slot2_page_002.png)
 
 > **Verified Answer Key:** `C) V`  
 
@@ -596,7 +596,7 @@ Official Exam Key: `C) V`. Systematic step-by-step verification confirms this re
 - C) Earth
 - D) Moon
 
-![Figure](../../../images/slot2_page_002.png)
+![Figure](../../images/slot2_page_002.png)
 
 > **Verified Answer Key:** `D) Moon`  
 
@@ -622,7 +622,7 @@ Official Exam Key: `D) Moon`. Systematic step-by-step verification confirms this
 - C) Wednesday
 - D) Thursday
 
-![Figure](../../../images/slot2_page_002.png)
+![Figure](../../images/slot2_page_002.png)
 
 > **Verified Answer Key:** `C) Wednesday`  
 
@@ -648,7 +648,7 @@ Official Exam Key: `C) Wednesday`. Systematic step-by-step verification confirms
 - C) 49
 - D) 52
 
-![Figure](../../../images/slot2_page_002.png)
+![Figure](../../images/slot2_page_002.png)
 
 > **Verified Answer Key:** `C) 49`  
 
@@ -674,7 +674,7 @@ Official Exam Key: `C) 49`. Systematic step-by-step verification confirms this r
 - C) 25
 - D) 30
 
-![Figure](../../../images/slot2_page_002.png)
+![Figure](../../images/slot2_page_002.png)
 
 > **Verified Answer Key:** `B) 20`  
 
@@ -700,7 +700,7 @@ Official Exam Key: `B) 20`. Systematic step-by-step verification confirms this r
 - C) 66
 - D) 72
 
-![Figure](../../../images/slot2_page_002.png)
+![Figure](../../images/slot2_page_002.png)
 
 > **Verified Answer Key:** `C) 66`  
 
@@ -726,7 +726,7 @@ Official Exam Key: `C) 66`. Systematic step-by-step verification confirms this r
 - C) Thursday
 - D) Friday
 
-![Figure](../../../images/slot2_page_002.png)
+![Figure](../../images/slot2_page_002.png)
 
 > **Verified Answer Key:** `B) Wednesday`  
 
@@ -752,7 +752,7 @@ Official Exam Key: `B) Wednesday`. Systematic step-by-step verification confirms
 - C) 55
 - D) 57
 
-![Figure](../../../images/slot2_page_002.png)
+![Figure](../../images/slot2_page_002.png)
 
 > **Verified Answer Key:** `C) 55`  
 
@@ -778,7 +778,7 @@ Official Exam Key: `C) 55`. Systematic step-by-step verification confirms this r
 - C) 81
 - D) 90
 
-![Figure](../../../images/slot2_page_003.png)
+![Figure](../../images/slot2_page_003.png)
 
 > **Verified Answer Key:** `C) 81`  
 
@@ -798,7 +798,7 @@ Official Exam Key: `C) 81`. Systematic step-by-step verification confirms this r
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -818,7 +818,7 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -838,7 +838,7 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -858,7 +858,7 @@ Logical deduction and pattern verification confirm answer key `4`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `5`  
 
@@ -878,7 +878,7 @@ Logical deduction and pattern verification confirm answer key `5`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `5`  
 
@@ -898,7 +898,7 @@ Logical deduction and pattern verification confirm answer key `5`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -918,7 +918,7 @@ Logical deduction and pattern verification confirm answer key `4`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -938,7 +938,7 @@ Logical deduction and pattern verification confirm answer key `2`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -958,7 +958,7 @@ Logical deduction and pattern verification confirm answer key `2`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -978,7 +978,7 @@ Logical deduction and pattern verification confirm answer key `3`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -998,7 +998,7 @@ Logical deduction and pattern verification confirm answer key `1`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -1018,7 +1018,7 @@ Logical deduction and pattern verification confirm answer key `4`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `5`  
 
@@ -1038,7 +1038,7 @@ Logical deduction and pattern verification confirm answer key `5`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -1058,7 +1058,7 @@ Logical deduction and pattern verification confirm answer key `1`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -1078,7 +1078,7 @@ Logical deduction and pattern verification confirm answer key `3`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1098,7 +1098,7 @@ Logical deduction and pattern verification confirm answer key `C`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1118,7 +1118,7 @@ Logical deduction and pattern verification confirm answer key `C`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -1138,7 +1138,7 @@ Logical deduction and pattern verification confirm answer key `A`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -1158,7 +1158,7 @@ Logical deduction and pattern verification confirm answer key `3`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -1178,7 +1178,7 @@ Logical deduction and pattern verification confirm answer key `1`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -1198,7 +1198,7 @@ Logical deduction and pattern verification confirm answer key `4`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -1218,7 +1218,7 @@ Logical deduction and pattern verification confirm answer key `3`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -1238,7 +1238,7 @@ Logical deduction and pattern verification confirm answer key `2`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -1258,7 +1258,7 @@ Logical deduction and pattern verification confirm answer key `3`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -1278,7 +1278,7 @@ Logical deduction and pattern verification confirm answer key `1`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -1298,7 +1298,7 @@ Logical deduction and pattern verification confirm answer key `4`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -1318,7 +1318,7 @@ Logical deduction and pattern verification confirm answer key `1`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -1338,7 +1338,7 @@ Logical deduction and pattern verification confirm answer key `1`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -1358,7 +1358,7 @@ Logical deduction and pattern verification confirm answer key `2`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -1378,7 +1378,7 @@ Logical deduction and pattern verification confirm answer key `3`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -1398,7 +1398,7 @@ Logical deduction and pattern verification confirm answer key `4`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -1418,7 +1418,7 @@ Logical deduction and pattern verification confirm answer key `1`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -1438,7 +1438,7 @@ Logical deduction and pattern verification confirm answer key `3`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -1458,7 +1458,7 @@ Logical deduction and pattern verification confirm answer key `2`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -1478,7 +1478,7 @@ Logical deduction and pattern verification confirm answer key `2`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -1498,7 +1498,7 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -1518,7 +1518,7 @@ Logical deduction and pattern verification confirm answer key `A`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -1538,7 +1538,7 @@ Logical deduction and pattern verification confirm answer key `2`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `1`  
 
@@ -1558,7 +1558,7 @@ Logical deduction and pattern verification confirm answer key `1`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -1578,7 +1578,7 @@ Logical deduction and pattern verification confirm answer key `3`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -1598,7 +1598,7 @@ Logical deduction and pattern verification confirm answer key `3`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `E`  
 
@@ -1618,7 +1618,7 @@ Logical deduction and pattern verification confirm answer key `E`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1638,7 +1638,7 @@ Logical deduction and pattern verification confirm answer key `C`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1658,7 +1658,7 @@ Logical deduction and pattern verification confirm answer key `C`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `A`  
 
@@ -1678,7 +1678,7 @@ Logical deduction and pattern verification confirm answer key `A`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -1698,7 +1698,7 @@ Logical deduction and pattern verification confirm answer key `2`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `3`  
 
@@ -1718,7 +1718,7 @@ Logical deduction and pattern verification confirm answer key `3`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -1738,7 +1738,7 @@ Logical deduction and pattern verification confirm answer key `4`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `4`  
 
@@ -1758,7 +1758,7 @@ Logical deduction and pattern verification confirm answer key `4`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `2`  
 
@@ -1778,7 +1778,7 @@ Logical deduction and pattern verification confirm answer key `2`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1798,7 +1798,7 @@ Logical deduction and pattern verification confirm answer key `C`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -1818,7 +1818,7 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -1838,7 +1838,7 @@ Logical deduction and pattern verification confirm answer key `D`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -1858,7 +1858,7 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -1878,7 +1878,7 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -1898,7 +1898,7 @@ Logical deduction and pattern verification confirm answer key `D`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -1918,7 +1918,7 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `D`  
 
@@ -1938,7 +1938,7 @@ Logical deduction and pattern verification confirm answer key `D`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `C`  
 
@@ -1958,7 +1958,7 @@ Logical deduction and pattern verification confirm answer key `C`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -1978,7 +1978,7 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `B`  
 
@@ -1998,7 +1998,7 @@ Logical deduction and pattern verification confirm answer key `B`. The complete 
 **Category / Topic:** Logical Reasoning | Logical Reasoning Master Slide Collection  
 **Prompt:** Select the diagram which best illustrates the relationship dogs, and animals. oo c
 
-![Figure](../../../images/reasoning_page_001.png)
+![Figure](../../images/reasoning_page_001.png)
 
 > **Verified Answer Key:** `A`  
 

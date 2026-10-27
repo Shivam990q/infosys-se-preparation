@@ -252,7 +252,7 @@ Correct Answer: Option D: 418. Solved following standard Infosys System Engineer
 #### Problem Statement
 Identify the figure given in the options which when put in place of (?) will logically complete the series.
 
-![Figure](images/fig_2__Full_Length__q8_1.png)
+
 
 #### Options
 - **(A)** Option (A) — Refer to Figure Option A
@@ -316,7 +316,7 @@ Correct Answer: Option B: Only 2 does not follow. Solved following standard Info
 #### Problem Statement
 In a given figure of open dice. Which dice we can make?
 
-![Figure](images/fig_Day_01_q10_1.png)
+
 
 #### Options
 - **(A)** Option (A) — Refer to Figure Option A
@@ -349,7 +349,7 @@ Correct Answer: Option B: Option (B) — Refer to Figure Option B. Solved follow
 #### Problem Statement
 [Visual Reasoning Pattern Problem — Refer to Diagram Below] Analyze the sequence, shape transformations, or spatial pattern in the figure and determine the correct next element.
 
-![Figure](images/fig_Day_01_q11_1.png)
+
 
 #### Options
 - **(A)** Option (A) — Refer to Figure Option A
@@ -382,7 +382,7 @@ Correct Answer: Option C: Option (C) — Refer to Figure Option C. Solved follow
 #### Problem Statement
 Choose the correct mirror image which closely resembles the mirror image of the given image.
 
-![Figure](images/fig_Day_01_q12_1.png)
+
 
 #### Options
 - **(A)** Option (A) — Refer to Figure Option A
@@ -632,7 +632,7 @@ Correct Answer: Option B: if the data in statement II alone are sufficient to an
 #### Problem Statement
 Select the figure that will replace the question mark (?) in the following figure series
 
-![Figure](images/fig_Day_01_q20_1.png)
+
 
 #### Options
 - **(A)** Option (A) — Refer to Figure Option A
@@ -667,7 +667,7 @@ Correct Answer: Option A: Option (A) — Refer to Figure Option A. Solved follow
 #### Problem Statement
 720 litres of a mixture contain milk and water only in the ratio of x : 3 respectively. If 30 litres water is added into it, then the ratio of quantity of milk to that of water in the resultant mixture will become 3:2. Find the value of
 
-![Figure](images/fig_1__Full_Length__q1_1.png)
+
 
 #### Options
 - **(A)** 10
@@ -753,7 +753,7 @@ Correct Answer: Numerical Value: 21600. Solved following standard Infosys System
 #### Problem Statement
 Note : Type ans in Min Only without unit
 
-![Figure](images/fig_1__Full_Length__q4_1.png)
+
 
 #### Options
 - **(A)** 72
@@ -783,7 +783,7 @@ Correct Answer: Numerical Value: 72. Solved following standard Infosys System En
 #### Problem Statement
 Note : Ans in days
 
-![Figure](images/fig_Day_01_q5_1.png)
+
 
 #### Options
 - **(A)** 6
@@ -841,7 +841,7 @@ Correct Answer: Numerical Value: 14. Solved following standard Infosys System En
 #### Problem Statement
 [Data Interpretation / Graphical Aptitude Problem — Refer to Chart Below] Analyze the data chart, graph, or equation presented in the figure and compute the required value.
 
-![Figure](images/fig_1__Full_Length__q7_1.png)
+
 
 #### Options
 - **(A)** 240000
@@ -899,7 +899,7 @@ Correct Answer: Numerical Value: 81. Solved following standard Infosys System En
 #### Problem Statement
 [Data Interpretation / Graphical Aptitude Problem — Refer to Chart Below] Analyze the data chart, graph, or equation presented in the figure and compute the required value.
 
-![Figure](images/fig_2__Full_Length__q9_1.png)
+
 
 #### Options
 - **(A)** 45000
@@ -960,7 +960,7 @@ Correct Answer: Option C: 5.58. Solved following standard Infosys System Enginee
 #### Problem Statement
 [Data Interpretation / Graphical Aptitude Problem — Refer to Chart Below] Analyze the data chart, graph, or equation presented in the figure and compute the required value.
 
-![Figure](images/fig_Day_01_q11_1.png)
+
 
 #### Options
 - **(A)** Option (A) — Refer to Figure Option A
@@ -993,7 +993,7 @@ Correct Answer: Option B: Option (B) — Refer to Figure Option B. Solved follow
 #### Problem Statement
 [Data Interpretation / Graphical Aptitude Problem — Refer to Chart Below] Analyze the data chart, graph, or equation presented in the figure and compute the required value.
 
-![Figure](images/fig_Day_01_q12_1.png)
+
 
 #### Options
 - **(A)** Option (A) — Refer to Figure Option A
@@ -1026,7 +1026,7 @@ Correct Answer: Option A: Option (A) — Refer to Figure Option A. Solved follow
 #### Problem Statement
 [Data Interpretation / Graphical Aptitude Problem — Refer to Chart Below] Analyze the data chart, graph, or equation presented in the figure and compute the required value.
 
-![Figure](images/fig_2__Full_Length__q13_1.png)
+
 
 #### Options
 - **(A)** 35km/hr
@@ -1059,7 +1059,7 @@ Correct Answer: Option C: 37.5km/hr. Solved following standard Infosys System En
 #### Problem Statement
 [Data Interpretation / Graphical Aptitude Problem — Refer to Chart Below] Analyze the data chart, graph, or equation presented in the figure and compute the required value.
 
-![Figure](images/fig_3_Full_Length_M_q14_1.png)
+
 
 #### Options
 - **(A)** 4,5,9
@@ -1123,7 +1123,7 @@ Correct Answer: Option A: 17.5%. Solved following standard Infosys System Engine
 #### Problem Statement
 In the given questions, two quantities are given, one as 'Quantity 1' and another as 'Quantity 2'. You have to determine relationship between two quantities and choose the appropriate option: Question: One of the roots is 1, find the other root
 
-![Figure](images/fig_Day_01_q16_1.png)
+
 
 #### Options
 - **(A)** Quantity 1 > Quantity 2
@@ -1189,7 +1189,7 @@ Correct Answer: Option B: 15 : 8. Solved following standard Infosys System Engin
 #### Problem Statement
 Find the area of blue portion.
 
-![Figure](images/fig_Day_01_q18_1.png)
+
 
 #### Options
 - **(A)** 52

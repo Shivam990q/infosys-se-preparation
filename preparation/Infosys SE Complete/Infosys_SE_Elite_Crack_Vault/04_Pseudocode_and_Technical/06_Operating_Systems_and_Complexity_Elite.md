@@ -39,8 +39,6 @@ Where are placed the list of processes that are prepared to be executed and wait
 2. Therefore, processes prepared to execute and waiting for the CPU reside in the **Ready queue** (`Option B`).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -74,8 +72,6 @@ Which of the following operations can block a running process?
 4. Since all three primitives can cause transition into the `BLOCKED` state, the correct choice is **Option D**.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -112,8 +108,6 @@ Which of the following does NOT interrupt a running process?
 3. Therefore, the **Scheduler process** does not interrupt a running process (`Option D`).
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---

@@ -14,7 +14,7 @@
 
 
 
-![Figure](../../../images/q1_1.png)
+![Figure](../../images/q1_1.png)
 
 **Question:**
 What will replace the question mark (?) in the third triangle?
@@ -58,7 +58,7 @@ Hence, the missing number is 9 (Option B).
 
 
 
-![Figure](../../../images/q2_1.png)
+![Figure](../../images/q2_1.png)
 
 **Question:**
 What number comes inside the circle marked with a question mark (?) in the concentric grid?
@@ -105,7 +105,7 @@ Hence, the missing number is 6 (Option B).
 
 
 
-![Figure](../../../images/q3_1.png)
+![Figure](../../images/q3_1.png)
 
 **Question:**
 Which letter replaces the question mark (?) in the octagonal concentric ring?
@@ -151,7 +151,7 @@ Hence, the missing letter is O (Option A).
 
 
 
-![Figure](../../../images/q4_1.png)
+![Figure](../../images/q4_1.png)
 
 **Question:**
 Which number replaces the question mark (?) in the paired octagon series?
@@ -195,7 +195,7 @@ Hence, the missing number is 1 (Option A).
 
 
 
-![Figure](../../../images/q5_1.png)
+![Figure](../../images/q5_1.png)
 
 **Question:**
 Which number replaces the question mark (?) in the radial tree structure?
@@ -249,7 +249,7 @@ Hence, the missing number is 253 (Option D).
 
 
 
-![Figure](../../../images/q6_1.png)
+![Figure](../../images/q6_1.png)
 
 **Question:**
 Which number replaces the question mark (?) in the 2-column segmented ladder?
@@ -297,7 +297,7 @@ Hence, the missing number is 2 (Option C).
 
 
 
-![Figure](../../../images/q7_1.png)
+![Figure](../../images/q7_1.png)
 
 **Question:**
 Which number replaces the question mark (?) in the center of the third 5-pointed star?
@@ -337,7 +337,7 @@ Hence, the missing number is 10 (Option B).
 
 
 
-![Figure](../../../images/q8_1.png)
+![Figure](../../images/q8_1.png)
 
 **Question:**
 Which letter replaces the question mark (?) in the 5×3 grid of boxes?
@@ -384,7 +384,7 @@ Hence, the missing letter is B (Option A).
 
 
 
-![Figure](../../../images/q9_1.png)
+![Figure](../../images/q9_1.png)
 
 **Question:**
 Study the 4×3 matrix. Each row follows the same rule relating the first two entries to the third entry. Find the missing number (?) that makes the fourth row obey the same rule.
@@ -431,7 +431,7 @@ Hence, the missing number is 5 (Option C).
 
 
 
-![Figure](../../../images/q10_1.png)
+![Figure](../../images/q10_1.png)
 
 **Question:**
 Study the 3×3 matrix. Each column follows the same rule relating the top and bottom numerical entries to the middle letter entry. Find the missing letter (?) that makes the middle column obey the same rule.
@@ -476,7 +476,7 @@ Hence, the missing letter is R (Option D).
 
 
 
-![Figure](../../../images/q11_1.png)
+![Figure](../../images/q11_1.png)
 
 **Question:**
 Find the missing term (?) in the third figure. Assume the third figure works in the same way as the other two.
@@ -517,7 +517,7 @@ Hence, the missing number is 26 (Option D).
 
 
 
-![Figure](../../../images/q12_1.png)
+![Figure](../../images/q12_1.png)
 
 **Question:**
 Find the missing terms (A and B) in the third figure. Assume the third figure works in the same way as the other two.
@@ -564,7 +564,7 @@ Hence, the correct pair is A = 14, B = 28 (Option C).
 
 
 
-![Figure](../../../images/q13_1.png)
+![Figure](../../images/q13_1.png)
 
 **Question:**
 Study the 4×4 matrix. Each column follows the same rule relating the entries. Find the missing number (?) in the second row of the third column.
@@ -609,7 +609,7 @@ Hence, the missing number is 9 (Option B).
 
 
 
-![Figure](../../../images/q14_1.png)
+![Figure](../../images/q14_1.png)
 
 **Question:**
 Determine the missing number (?) in the second set. Assume the second set also works in the same way as the first set.
@@ -655,7 +655,7 @@ Hence, the missing number in the second set is 99 (Option C).
 
 
 
-![Figure](../../../images/q15_1.png)
+![Figure](../../images/q15_1.png)
 
 **Question:**
 Which number replaces the question mark (?) in the segmented four-square ring?
@@ -699,7 +699,7 @@ Hence, the missing number is 9 (Option D).
 
 
 
-![Figure](../../../images/q16_1.png)
+![Figure](../../images/q16_1.png)
 
 **Question:**
 Which number replaces the question mark (?) in the fourth T-shaped block?
@@ -741,7 +741,7 @@ Hence, the missing number is 3 (Option B).
 
 
 
-![Figure](../../../images/q17_1.png)
+![Figure](../../images/q17_1.png)
 
 **Question:**
 Which letter replaces the question mark (?) in the bottom row of hexagons?
@@ -786,7 +786,7 @@ Hence, the missing letter is M (Option A).
 
 
 
-![Figure](../../../images/number_puzzles_ebook_page_24.png)
+![Figure](../../images/number_puzzles_ebook_page_24.png)
 
 **Question:**
 A team of four players are to be selected from among four girls A, B, C, D and four boys P, Q, R, S such that there would be at least two girls in the team and the team selection should meet the following conditions:
@@ -832,7 +832,7 @@ Hence, the only valid team selection is DAPQ (Option B).
 
 
 
-![Figure](../../../images/number_puzzles_ebook_page_25.png)
+![Figure](../../images/number_puzzles_ebook_page_25.png)
 
 **Question:**
 While Balbir had his back turned, a dog ran into his butcher shop, snatched a piece of meat off the counter and ran off. Balbir was mad when he realised what had happened. He asked three other shopkeepers, who had seen the dog, to describe it. The shopkeepers really didn't want to help Balbir. So each of them made a statement which contained exactly one truth and one lie:
@@ -902,7 +902,7 @@ Hence, Option D is 100% mathematically proven.
 
 
 
-![Figure](../../../images/number_puzzles_ebook_page_26.png)
+![Figure](../../images/number_puzzles_ebook_page_26.png)
 
 **Question:**
 A milkman carries a full 12-liter container of milk. He needs to deliver exactly 6 liters to a customer who only has an 8-liter container and a 5-liter container. Neither container has any measurement markings. Can he measure exactly 6 liters without spilling or wasting any milk, and what is the minimum sequence of pours?
@@ -954,7 +954,7 @@ Hence, Option B is correct.
 
 
 
-![Figure](../../../images/number_puzzles_ebook_page_27.png)
+![Figure](../../images/number_puzzles_ebook_page_27.png)
 
 **Question:**
 You have a two-pan balance weighing scale and 8 identical-looking balls. Except for one defective ball which is slightly heavier than the others, all other 7 balls have identical weights. What is the minimum number of weighings required on the balance scale to guarantee finding the defective ball in all cases?
@@ -999,7 +999,7 @@ Hence, the minimum number of weight checks required is 2 (Option B).
 
 
 
-![Figure](../../../images/number_puzzles_ebook_page_14.png)
+![Figure](../../images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 1. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1045,7 +1045,7 @@ Conclusion confirms answer D.
 
 
 
-![Figure](../../../images/number_puzzles_ebook_page_14.png)
+![Figure](../../images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 2. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1091,7 +1091,7 @@ Conclusion confirms answer B.
 
 
 
-![Figure](../../../images/number_puzzles_ebook_page_14.png)
+![Figure](../../images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 3. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1137,7 +1137,7 @@ Conclusion confirms answer B.
 
 
 
-![Figure](../../../images/number_puzzles_ebook_page_14.png)
+![Figure](../../images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 4. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1183,7 +1183,7 @@ Conclusion confirms answer B.
 
 
 
-![Figure](../../../images/number_puzzles_ebook_page_14.png)
+![Figure](../../images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 5. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1229,7 +1229,7 @@ Conclusion confirms answer A.
 
 
 
-![Figure](../../../images/number_puzzles_ebook_page_14.png)
+![Figure](../../images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 6. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1275,7 +1275,7 @@ Conclusion confirms answer D.
 
 
 
-![Figure](../../../images/number_puzzles_ebook_page_14.png)
+![Figure](../../images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 7. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1321,7 +1321,7 @@ Conclusion confirms answer D.
 
 
 
-![Figure](../../../images/number_puzzles_ebook_page_14.png)
+![Figure](../../images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 8. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1367,7 +1367,7 @@ Conclusion confirms answer D.
 
 
 
-![Figure](../../../images/number_puzzles_ebook_page_14.png)
+![Figure](../../images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 9. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1413,7 +1413,7 @@ Conclusion confirms answer D.
 
 
 
-![Figure](../../../images/number_puzzles_ebook_page_14.png)
+![Figure](../../images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 10. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1459,7 +1459,7 @@ Conclusion confirms answer D.
 
 
 
-![Figure](../../../images/number_puzzles_ebook_page_14.png)
+![Figure](../../images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 11. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1505,7 +1505,7 @@ Conclusion confirms answer C.
 
 
 
-![Figure](../../../images/number_puzzles_ebook_page_14.png)
+![Figure](../../images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 12. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1551,7 +1551,7 @@ Conclusion confirms answer A.
 
 
 
-![Figure](../../../images/number_puzzles_ebook_page_14.png)
+![Figure](../../images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 13. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1597,7 +1597,7 @@ Conclusion confirms answer D.
 
 
 
-![Figure](../../../images/number_puzzles_ebook_page_14.png)
+![Figure](../../images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 14. Find the missing number (?) from the given matrix: **Native Grid Table:**

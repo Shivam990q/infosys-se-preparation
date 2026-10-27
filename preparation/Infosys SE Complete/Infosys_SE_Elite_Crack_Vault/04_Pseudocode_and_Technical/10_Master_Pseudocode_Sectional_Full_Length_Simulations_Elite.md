@@ -47,8 +47,6 @@ cout<< Test::getX();      }
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `0 5`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -89,8 +87,6 @@ return 0;
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `Compile time error`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -132,8 +128,6 @@ printf("%d ", x);
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `7 6 3`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -165,8 +159,6 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `Ready queue`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -198,8 +190,6 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `All of these`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -231,8 +221,6 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `Scheduler process`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -264,8 +252,6 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `Unicode escape sequence`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -297,8 +283,6 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `char ch = '\utea';`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -330,8 +314,6 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `0xnf029L`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -363,8 +345,6 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `Infinity`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -400,8 +380,6 @@ d)   D) A final method can be inherited.
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `C&D`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -435,8 +413,6 @@ Pre-Order: 6 7 9 10 8
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `9 10 7 8 6`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -470,8 +446,6 @@ putchar(i);
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `rings the bell`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -504,8 +478,6 @@ printf (“%d”, 9/5);
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `None of these`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -543,8 +515,6 @@ return 0;
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `1`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -576,8 +546,6 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `char[] str = “campus monk is the best platform for learn";`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -619,8 +587,6 @@ return 0;
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `error: redeclaration of an enumerator`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -659,8 +625,6 @@ printf(“ NOT EQUAL TO 5.”)
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `5`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -700,8 +664,6 @@ print n
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `5`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -740,8 +702,6 @@ end while
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `6 5 4`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -774,8 +734,6 @@ Push(1), Push(2), Pop(), Push(1), Push(2), Pop(), Pop(), Pop(), Push(2), Pop().
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `2 2 1 1 2`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -808,8 +766,6 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `97`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -841,8 +797,6 @@ T The concatenation of two lists is to be performed in O(1) time. Which of the f
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `a)     Circular doubly linked list`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -874,8 +828,6 @@ Official Video Solution from Day 04 Video Solutions Mock. Full execution trace a
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `a)     3,4,5,2,1`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -917,8 +869,6 @@ Output (A[i][j]);
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `a)     The matrix A itself`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -959,8 +909,6 @@ end for
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `10`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -1005,8 +953,6 @@ Z= X+Y+Z
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `31, 3`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -1046,8 +992,6 @@ return f(n);
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `7`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -1092,8 +1036,6 @@ Print n
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `2`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -1137,8 +1079,6 @@ Print x+y+z
 Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `30`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
 ---
 
 ---
@@ -1170,8 +1110,6 @@ Integer a, b, c Set a = 2, b = 4, c = 7 b = 7 + a if (c > b) b = b + b end if b 
 Official Video Solution from Day 06 Full Length Mock I. Full execution trace and operator evaluation confirms Option `54`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_06.png)
-
 ---
 
 ---
@@ -1203,8 +1141,6 @@ How many times campus monk will be printed? Set k = 1, p = 4 Int j = p + k / 2 I
 Official Video Solution from Day 06 Full Length Mock I. Full execution trace and operator evaluation confirms Option `2 Times`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_06.png)
-
 ---
 
 ---
@@ -1236,8 +1172,6 @@ Find the output of the following code. #include   int main(void) { int a = 10, x
 Official Video Solution from Day 06 Full Length Mock I. Full execution trace and operator evaluation confirms Option `455`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_06.png)
-
 ---
 
 ---
@@ -1269,8 +1203,6 @@ Int p, q, r Set p = 6, q = 4, r = 7 p = (r + 5) + p If ((q & r & p) < (p & 6)) {
 Official Video Solution from Day 06 Full Length Mock I. Full execution trace and operator evaluation confirms Option `26`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_06.png)
-
 ---
 
 ---
@@ -1302,8 +1234,6 @@ What is the output of this code? Int p, q, r; Set p = 0, q = 7, r = 9; If ((q + 
 Official Video Solution from Day 06 Full Length Mock I. Full execution trace and operator evaluation confirms Option `16`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_06.png)
-
 ---
 
 ---
@@ -1335,8 +1265,6 @@ What will be the output of the following pseudocode? Initial values: a = 4, b = 
 Official Video Solution from Day 06 Full Length Mock I. Full execution trace and operator evaluation confirms Option `11`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_06.png)
-
 ---
 
 ---
@@ -1368,8 +1296,6 @@ What will be the output of this pseudocode? a = 7, b = 2, c = 8 If ((b ^ a) < a 
 Official Video Solution from Day 06 Full Length Mock I. Full execution trace and operator evaluation confirms Option `20`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_06.png)
-
 ---
 
 ---
@@ -1401,8 +1327,6 @@ Find the output of the code snippet. Integer x, y, z Set x = 1, y = 8, z = 2 If 
 Official Video Solution from Day 06 Full Length Mock I. Full execution trace and operator evaluation confirms Option `11`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_06.png)
-
 ---
 
 ---
@@ -1434,8 +1358,6 @@ Find the output of the following code. #include   void main() { int a = 10; if (
 Official Video Solution from Day 06 Full Length Mock I. Full execution trace and operator evaluation confirms Option `B.tech`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_06.png)
-
 ---
 
 ---
@@ -1467,8 +1389,6 @@ Find the output of the following code. #include   void main () { int x = 91; x >
 Official Video Solution from Day 06 Full Length Mock I. Full execution trace and operator evaluation confirms Option `22`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_06.png)
-
 ---
 
 ---
@@ -1500,8 +1420,6 @@ What is the output of the following C code? #include   int main() { int num = 98
 Official Video Solution from Day 07 Full Length Mock II. Full execution trace and operator evaluation confirms Option `1`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_10.png)
-
 ---
 
 ---
@@ -1533,8 +1451,6 @@ What is the output of the following C code? #include   int main() { float x = 0.
 Official Video Solution from Day 07 Full Length Mock II. Full execution trace and operator evaluation confirms Option `1`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_10.png)
-
 ---
 
 ---
@@ -1566,8 +1482,6 @@ Predict the output of the given pseudocode if the value of the number is 6: Read
 Official Video Solution from Day 07 Full Length Mock II. Full execution trace and operator evaluation confirms Option `1440.0`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_10.png)
-
 ---
 
 ---
@@ -1599,8 +1513,6 @@ What is the output of the following C code? int f(int x, int *py, int **ppz) { i
 Official Video Solution from Day 07 Full Length Mock II. Full execution trace and operator evaluation confirms Option `19`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_10.png)
-
 ---
 
 ---
@@ -1632,8 +1544,6 @@ What is the output of the following C code? #include   int main() { int a = 12; 
 Official Video Solution from Day 07 Full Length Mock II. Full execution trace and operator evaluation confirms Option `Compiler Error`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_10.png)
-
 ---
 
 ---
@@ -1665,8 +1575,6 @@ Predict the output of the following pseudocode. Integer x, y, z Set x = -2, y = 
 Official Video Solution from Day 07 Full Length Mock II. Full execution trace and operator evaluation confirms Option `3`.
 
 ### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_10.png)
-
 ---
 
 ---

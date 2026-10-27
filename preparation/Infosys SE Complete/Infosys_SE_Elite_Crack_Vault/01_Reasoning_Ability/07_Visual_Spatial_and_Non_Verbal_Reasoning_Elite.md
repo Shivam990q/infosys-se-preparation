@@ -37,7 +37,7 @@ Answer: Option A Explanation: It is clear from Fig. (X) that if seen through a m
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_MIR_Q01 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_MIR_Q01 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -72,7 +72,7 @@ Answer: Option B Explanation: It is clear from Fig. (X) that if seen through a m
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_MIR_Q02 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_MIR_Q02 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -107,7 +107,7 @@ Answer: Option B Explanation: It is clear from Fig. (X) that if seen through a m
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_MIR_Q03 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_MIR_Q03 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -142,7 +142,7 @@ Answer: Option D Explanation: It is clear from Fig. (X) that if seen through a m
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_MIR_Q04 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_MIR_Q04 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -177,7 +177,7 @@ Answer: Option A Explanation: Here, the mirror is placed vertically at AB on the
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_MIR_Q05 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_MIR_Q05 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -212,7 +212,7 @@ Answer: Option C Explanation: Here, the mirror is placed vertically at AB on the
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_MIR_Q06 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_MIR_Q06 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -247,7 +247,7 @@ Answer: Option B Explanation: Here, the mirror is placed vertically at AB on the
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_MIR_Q07 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_MIR_Q07 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -282,7 +282,7 @@ Answer: Option D Explanation: Here, the mirror is placed vertically at AB on the
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_MIR_Q08 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_MIR_Q08 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -317,7 +317,7 @@ Answer: Option C Explanation: Here, the mirror is placed vertically at AB on the
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_MIR_Q09 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_MIR_Q09 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -352,7 +352,7 @@ Answer: Option B Explanation In the mirror image, &bull; The right side of the o
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_MIR_Q10 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_MIR_Q10 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -387,7 +387,7 @@ Answer: Option C Explanation: The correct mirror image will be (3).
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_MIR_Q11 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_MIR_Q11 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -422,7 +422,7 @@ Answer: Option A Explanation: The correct mirror image will be (1).
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_MIR_Q12 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_MIR_Q12 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -457,7 +457,7 @@ Answer: Option D Explanation: The correct mirror image will be (4).
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_MIR_Q13 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_MIR_Q13 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -492,7 +492,7 @@ Answer: Option D Explanation: The correct mirror image will be (4).
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_MIR_Q14 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_MIR_Q14 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -527,7 +527,7 @@ Answer: Option B Explanation: The correct mirror image will be (2).
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_MIR_Q15 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_MIR_Q15 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -562,7 +562,7 @@ Answer: Option A Explanation In the water image, The top side of the object beco
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_WAT_Q01 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_WAT_Q01 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -597,7 +597,7 @@ Answer: Option C Explanation In the water image, The top side of the object beco
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_WAT_Q02 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_WAT_Q02 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -632,7 +632,7 @@ Answer: Option A Explanation In the water image, The top side of the object beco
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_WAT_Q03 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_WAT_Q03 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -667,7 +667,7 @@ Answer: Option B Explanation In the water image, The top side of the object beco
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_WAT_Q04 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_WAT_Q04 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -702,7 +702,7 @@ Answer: Option C Explanation In the water image, The top side of the object beco
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_WAT_Q05 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_WAT_Q05 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -737,7 +737,7 @@ Answer: Option B Explanation In the water image, The top side of the object beco
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_WAT_Q06 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_WAT_Q06 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -772,7 +772,7 @@ Answer: Option B Explanation In the water image, The top side of the object beco
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_WAT_Q07 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_WAT_Q07 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -807,7 +807,7 @@ Answer: Option A Explanation In the water image, The top side of the object beco
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_WAT_Q08 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_WAT_Q08 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -842,7 +842,7 @@ Answer - D
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_WAT_Q09 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_WAT_Q09 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -877,7 +877,7 @@ Answer: Option B Explanation In the water image, The top side of the object beco
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_WAT_Q10 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_WAT_Q10 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -912,7 +912,7 @@ Answer: Option B Explanation In the water image, The top side of the object beco
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_WAT_Q11 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_WAT_Q11 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -947,7 +947,7 @@ Answer: Option B Explanation In the water image, The top side of the object beco
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_WAT_Q12 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_WAT_Q12 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -982,7 +982,7 @@ Answer: Option D Explanation In the water image, The top side of the object beco
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_WAT_Q13 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_WAT_Q13 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -1017,7 +1017,7 @@ Answer: Option A Explanation In the water image, The top side of the object beco
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_WAT_Q14 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_WAT_Q14 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -1052,7 +1052,7 @@ Answer: Option B Explanation In the water image, The top side of the object beco
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_WAT_Q15 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_WAT_Q15 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -1100,7 +1100,7 @@ Answer : C Explanation : In each triangle, multiply the lower two numbers togeth
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_NUM_Q01 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_NUM_Q01 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -1135,7 +1135,7 @@ Answer : C Explanation : Using the lower two circles as a source, the values in 
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_NUM_Q02 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_NUM_Q02 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -1170,7 +1170,7 @@ Answer : B Explanation : Starting on the extreme left and right hand of the row 
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_NUM_Q03 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_NUM_Q03 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -1205,7 +1205,7 @@ Answer : A Explanation : Starting bottom left and moving clockwise around the tr
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_NUM_Q04 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_NUM_Q04 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -1240,7 +1240,7 @@ Answer : D Explanation : Working from top to bottom, double each number and subt
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_NUM_Q05 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_NUM_Q05 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -1290,7 +1290,7 @@ Answer : D Explanation : Working in columns, the sum of the numbers in each colu
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_NUM_Q06 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_NUM_Q06 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -1339,7 +1339,7 @@ Answer : A Explanation : The numbers in each row and column add up to 15.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_NUM_Q07 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_NUM_Q07 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -1374,7 +1374,7 @@ Answer : B Explanation : Moving from left to right, numbers increase by 2,3,4 an
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_NUM_Q08 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_NUM_Q08 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -1420,7 +1420,7 @@ Answer : C Explanation : In each square of the diagram, the sum of the numbers i
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_NUM_Q09 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_NUM_Q09 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -1455,7 +1455,7 @@ Answer : A Explanation : Moving clockwise, around alternate segments in the chai
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_NUM_Q10 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_NUM_Q10 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -1490,7 +1490,7 @@ Answer : D Explanation : Starting with the numbers in the top row, and following
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_NUM_Q11 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_NUM_Q11 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 
@@ -1525,7 +1525,7 @@ Answer : B Explanation : In each circle, starting at the top left segment, numbe
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD11_NUM_Q12 Reference](../../../images/mod01_day01_page_01.png)
+![SEC01_MOD11_NUM_Q12 Reference](../../images/mod01_day01_page_01.png)
 
 ---
 

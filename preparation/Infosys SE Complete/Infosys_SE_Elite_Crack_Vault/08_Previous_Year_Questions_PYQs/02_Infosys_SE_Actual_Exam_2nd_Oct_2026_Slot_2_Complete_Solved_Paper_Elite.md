@@ -1104,7 +1104,7 @@ Official Exam Key: `C) player`. Systematic step-by-step verification confirms th
 
 **Prompt:** Consider the following pseudocode: A = [2, 5, 7, 9] FOR i = 0 TO 2 A[i] = A[i] + A[i+1] END FOR PRINT A What is the output?
 
-![Slide Figure](../../../images/slot2_page_007.png)
+![Slide Figure](../../images/slot2_page_007.png)
 
 **Options:**
 - A) [7, 12, 16, 9]
@@ -1130,7 +1130,7 @@ Official Exam Key: `A) [7, 12, 16, 9]`. Systematic step-by-step verification con
 
 **Prompt:** Consider the following pseudocode: result = 1 FOR i = 1 TO 5 IF i MOD 2 != 0 result = result * i END IF END FOR PRINT result What is the output?
 
-![Slide Figure](../../../images/slot2_page_007.png)
+![Slide Figure](../../images/slot2_page_007.png)
 
 **Options:**
 - A) 9
@@ -1156,7 +1156,7 @@ Official Exam Key: `C) 15`. Systematic step-by-step verification confirms this r
 
 **Prompt:** Consider the following pseudocode: FUNCTION G(n) IF n <= 1 RETURN n ELSE RETURN G(n-1) + G(n-2) END IF END FUNCTION PRINT G(6) What is the output?
 
-![Slide Figure](../../../images/slot2_page_007.png)
+![Slide Figure](../../images/slot2_page_007.png)
 
 **Options:**
 - A) 5
@@ -1182,7 +1182,7 @@ Official Exam Key: `B) 8`. Systematic step-by-step verification confirms this re
 
 **Prompt:** Consider the following pseudocode: FOR i = 1 TO N FOR j = 1 TO i PRINT i + j END FOR END FOR What is the time complexity in terms of N?
 
-![Slide Figure](../../../images/slot2_page_008.png)
+![Slide Figure](../../images/slot2_page_008.png)
 
 **Options:**
 - A) O(N)
@@ -1208,7 +1208,7 @@ Official Exam Key: `C) O(N²)`. Systematic step-by-step verification confirms th
 
 **Prompt:** Consider the following pseudocode: count = 0 FOR EACH x IN [4, 9, 12, 15, 18, 21] IF x MOD 3 == 0 count = count + 1 END IF END FOR PRINT count What is printed?
 
-![Slide Figure](../../../images/slot2_page_008.png)
+![Slide Figure](../../images/slot2_page_008.png)
 
 **Options:**
 - A) 3
@@ -1237,7 +1237,7 @@ Official Exam Key: `C) 4`. Systematic step-by-step verification confirms this re
 
 **Prompt:** Maze/Grid Puzzle: A robot starts at S and must reach E. It can move only UP, DOWN, LEFT or RIGHT and cannot enter cells marked X. Grid: S . . X . X . . X . . . X . . . X . . . . . . X E What is the minimum number of moves required to reach E from S?
 
-![Slide Figure](../../../images/slot2_page_008.png)
+![Slide Figure](../../images/slot2_page_008.png)
 
 **Options:**
 - A) 8
@@ -1263,7 +1263,7 @@ Official Exam Key: `B) 9`. Systematic step-by-step verification confirms this re
 
 **Prompt:** Matrix Puzzle: Find the missing number (?) in the matrix. 3  7  11 5  10  15 7  13  ? Choose the number that logically completes the pattern.
 
-![Slide Figure](../../../images/slot2_page_009.png)
+![Slide Figure](../../images/slot2_page_009.png)
 
 **Options:**
 - A) 17
@@ -1289,7 +1289,7 @@ Official Exam Key: `C) 19`. Systematic step-by-step verification confirms this r
 
 **Prompt:** Number-Path Puzzle: Starting from S(2), move horizontally or vertically to an adjacent cell. You may enter a numbered cell only if its number is greater than the number in the cell currently occupied. Grid: S(2) 4 7 9 3 5 8 10 1 6 11 12 0 7 13 E(14) Which gives a valid path from S to E?
 
-![Slide Figure](../../../images/slot2_page_009.png)
+![Slide Figure](../../images/slot2_page_009.png)
 
 **Options:**
 - A) 2→4→7→8→11→12→14
@@ -1461,7 +1461,7 @@ Official Exam Key: `D) is`. Systematic step-by-step verification confirms this r
 
 > **Topic:** *"Technology can improve productivity, but human skills remain essential in the modern workplace."*
 
-![Original Slide](../../../images/slot2_page_010.png)
+![Original Slide](../../images/slot2_page_010.png)
 
 
 ### Correct Answer

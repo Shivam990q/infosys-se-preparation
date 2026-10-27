@@ -42,7 +42,7 @@ Therefore, Option B most seriously weakens the argument.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD08_Q01 Reference](../../../images/mod08_critical_reasoning_page_01.png)
+![SEC01_MOD08_Q01 Reference](../../images/mod08_critical_reasoning_page_01.png)
 
 ---
 
@@ -82,7 +82,7 @@ Therefore, Option D accurately describes Barbie's counter-argument.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD08_Q02 Reference](../../../images/mod08_critical_reasoning_page_02.png)
+![SEC01_MOD08_Q02 Reference](../../images/mod08_critical_reasoning_page_02.png)
 
 ---
 
@@ -129,7 +129,7 @@ Since both Conclusion I and Conclusion II follow, the answer is E.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD08_Q03 Reference](../../../images/mod08_syllogism_q2_page_01.png)
+![SEC01_MOD08_Q03 Reference](../../images/mod08_syllogism_q2_page_01.png)
 
 ---
 
@@ -176,7 +176,7 @@ Since both conclusions follow as possibilities, the answer is E.
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD08_Q04 Reference](../../../images/mod08_syllogism_q2_page_02.png)
+![SEC01_MOD08_Q04 Reference](../../images/mod08_syllogism_q2_page_02.png)
 
 ---
 
@@ -226,7 +226,7 @@ Therefore, either conclusion I or conclusion II must follow (Option C).
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_MOD08_Q05 Reference](../../../images/mod08_syllogism_q2_page_03.png)
+![SEC01_MOD08_Q05 Reference](../../images/mod08_syllogism_q2_page_03.png)
 
 ---
 
@@ -273,7 +273,7 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q01 Reference](../../../images/q1_1.png)
+![SEC01_TEST_SYLLOG_Q01 Reference](../../images/q1_1.png)
 
 ---
 
@@ -318,7 +318,7 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q02 Reference](../../../images/q2_1.png)
+![SEC01_TEST_SYLLOG_Q02 Reference](../../images/q2_1.png)
 
 ---
 
@@ -363,7 +363,7 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q03 Reference](../../../images/q3_1.png)
+![SEC01_TEST_SYLLOG_Q03 Reference](../../images/q3_1.png)
 
 ---
 
@@ -408,7 +408,7 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q04 Reference](../../../images/q4_1.png)
+![SEC01_TEST_SYLLOG_Q04 Reference](../../images/q4_1.png)
 
 ---
 
@@ -453,7 +453,7 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q05 Reference](../../../images/q5_1.png)
+![SEC01_TEST_SYLLOG_Q05 Reference](../../images/q5_1.png)
 
 ---
 
@@ -500,7 +500,7 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q06 Reference](../../../images/q6_1.png)
+![SEC01_TEST_SYLLOG_Q06 Reference](../../images/q6_1.png)
 
 ---
 
@@ -544,7 +544,7 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q07 Reference](../../../images/q7_1.png)
+![SEC01_TEST_SYLLOG_Q07 Reference](../../images/q7_1.png)
 
 ---
 
@@ -588,7 +588,7 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q08 Reference](../../../images/q8_1.png)
+![SEC01_TEST_SYLLOG_Q08 Reference](../../images/q8_1.png)
 
 ---
 
@@ -632,7 +632,7 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q09 Reference](../../../images/q9_1.png)
+![SEC01_TEST_SYLLOG_Q09 Reference](../../images/q9_1.png)
 
 ---
 
@@ -676,7 +676,7 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q10 Reference](../../../images/q10_1.png)
+![SEC01_TEST_SYLLOG_Q10 Reference](../../images/q10_1.png)
 
 ---
 
@@ -723,7 +723,7 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q11 Reference](../../../images/q11_1.png)
+![SEC01_TEST_SYLLOG_Q11 Reference](../../images/q11_1.png)
 
 ---
 
@@ -768,7 +768,7 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q12 Reference](../../../images/q12_1.png)
+![SEC01_TEST_SYLLOG_Q12 Reference](../../images/q12_1.png)
 
 ---
 
@@ -813,7 +813,7 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q13 Reference](../../../images/q13_1.png)
+![SEC01_TEST_SYLLOG_Q13 Reference](../../images/q13_1.png)
 
 ---
 
@@ -858,7 +858,7 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q14 Reference](../../../images/q14_1.png)
+![SEC01_TEST_SYLLOG_Q14 Reference](../../images/q14_1.png)
 
 ---
 
@@ -903,7 +903,7 @@ Official solution from Syllogisms Topic Test 01. Symmetrical, rotational, or ded
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q15 Reference](../../../images/q15_1.png)
+![SEC01_TEST_SYLLOG_Q15 Reference](../../images/q15_1.png)
 
 ---
 
@@ -945,7 +945,7 @@ This is the solution
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q01 Reference](../../../images/q1_1.png)
+![SEC01_TEST_SYLLOG_Q01 Reference](../../images/q1_1.png)
 
 ---
 
@@ -983,7 +983,7 @@ This is the solution
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q02 Reference](../../../images/q2_1.png)
+![SEC01_TEST_SYLLOG_Q02 Reference](../../images/q2_1.png)
 
 ---
 
@@ -1021,7 +1021,7 @@ This is the solution
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q03 Reference](../../../images/q3_1.png)
+![SEC01_TEST_SYLLOG_Q03 Reference](../../images/q3_1.png)
 
 ---
 
@@ -1061,7 +1061,7 @@ This is the solution
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q04 Reference](../../../images/q4_1.png)
+![SEC01_TEST_SYLLOG_Q04 Reference](../../images/q4_1.png)
 
 ---
 
@@ -1097,7 +1097,7 @@ This is the solution
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q05 Reference](../../../images/q5_1.png)
+![SEC01_TEST_SYLLOG_Q05 Reference](../../images/q5_1.png)
 
 ---
 
@@ -1133,7 +1133,7 @@ This is the solution
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q06 Reference](../../../images/q6_1.png)
+![SEC01_TEST_SYLLOG_Q06 Reference](../../images/q6_1.png)
 
 ---
 
@@ -1169,7 +1169,7 @@ This is the solution
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q07 Reference](../../../images/q7_1.png)
+![SEC01_TEST_SYLLOG_Q07 Reference](../../images/q7_1.png)
 
 ---
 
@@ -1205,7 +1205,7 @@ This is the solution
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q08 Reference](../../../images/q8_1.png)
+![SEC01_TEST_SYLLOG_Q08 Reference](../../images/q8_1.png)
 
 ---
 
@@ -1243,7 +1243,7 @@ This is the solution
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q09 Reference](../../../images/q9_1.png)
+![SEC01_TEST_SYLLOG_Q09 Reference](../../images/q9_1.png)
 
 ---
 
@@ -1279,7 +1279,7 @@ This is the solution
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q10 Reference](../../../images/q10_1.png)
+![SEC01_TEST_SYLLOG_Q10 Reference](../../images/q10_1.png)
 
 ---
 
@@ -1317,7 +1317,7 @@ This is the solution
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q11 Reference](../../../images/q11_1.png)
+![SEC01_TEST_SYLLOG_Q11 Reference](../../images/q11_1.png)
 
 ---
 
@@ -1355,7 +1355,7 @@ This is the solution
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q12 Reference](../../../images/q12_1.png)
+![SEC01_TEST_SYLLOG_Q12 Reference](../../images/q12_1.png)
 
 ---
 
@@ -1391,7 +1391,7 @@ This is the solution
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q13 Reference](../../../images/q13_1.png)
+![SEC01_TEST_SYLLOG_Q13 Reference](../../images/q13_1.png)
 
 ---
 
@@ -1429,7 +1429,7 @@ This is the solution
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q14 Reference](../../../images/q14_1.png)
+![SEC01_TEST_SYLLOG_Q14 Reference](../../images/q14_1.png)
 
 ---
 
@@ -1467,7 +1467,7 @@ This is the solution
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q15 Reference](../../../images/q15_1.png)
+![SEC01_TEST_SYLLOG_Q15 Reference](../../images/q15_1.png)
 
 ---
 
@@ -1513,7 +1513,7 @@ Official solution from Syllogisms Topic Test 02. Symmetrical, rotational, or ded
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q01 Reference](../../../images/q1_1.png)
+![SEC01_TEST_SYLLOG_Q01 Reference](../../images/q1_1.png)
 
 ---
 
@@ -1557,7 +1557,7 @@ Official solution from Syllogisms Topic Test 02. Symmetrical, rotational, or ded
 
 **Reference High-Resolution Figure / Slide:**
 
-![SEC01_TEST_SYLLOG_Q02 Reference](../../../images/q2_1.png)
+![SEC01_TEST_SYLLOG_Q02 Reference](../../images/q2_1.png)
 
 ---
 
