@@ -1,0 +1,2992 @@
+{
+  "_id": "6aaff422894ef0040559d75f",
+  "settings": {
+    "fonts": {
+      "include": "https://cms-gcp.classplusapp.com/parser/v3/css/combined?face=Consolas,serif",
+      "fonts": [
+        {
+          "face": "Consolas",
+          "supported": true
+        },
+        {
+          "face": "serif",
+          "supported": true
+        }
+      ]
+    },
+    "grades": {
+      "A": {
+        "max": 100,
+        "min": 70
+      },
+      "B": {
+        "max": 69,
+        "min": 50
+      },
+      "C": {
+        "max": 49,
+        "min": 35
+      },
+      "D": {
+        "max": 34,
+        "min": 20
+      },
+      "E": {
+        "max": 19,
+        "min": 10
+      },
+      "F": {
+        "max": 9,
+        "min": 0
+      }
+    },
+    "hasOptionalQuestions": false,
+    "settingsForRTG": {},
+    "generateBatchRank": true,
+    "defaultFont": null,
+    "generateInstitutionalRank": true,
+    "generatePercentile": true,
+    "showQuestionWiseTime": true,
+    "allowResultSharing": true,
+    "showQuestionTimer": true,
+    "calculatorType": "sci",
+    "enableLetterGrading": true,
+    "generateRandomTest": false,
+    "isSectionSwitchingEnabled": false,
+    "isSectionalSubmit": false,
+    "shuffleQuestions": true,
+    "showAnswers": true,
+    "isSolutionMultipleViewEnabled": true,
+    "shuffleOptions": false,
+    "revealCorrectAnswers": "all",
+    "revealAnswersTime": "now",
+    "parseMathJax": false
+  },
+  "isReadyToLink": true,
+  "isLinked": true,
+  "instructions": "",
+  "isSectionEnable": true,
+  "isReloadRequired": false,
+  "totalNumberOfQuestions": 60,
+  "totalMarks": 76,
+  "isAttempted": true,
+  "testFormat": "DEFAULT",
+  "isTemplateSelected": true,
+  "isCdnUpdated": false,
+  "languageList": [],
+  "lastAttemptedAt": "2026-10-09T09:12:19.428Z",
+  "name": "Infosys Full Length Mock Test- 2",
+  "duration": 7200000,
+  "createdBy": "5fddea8f5322c45a088d6898",
+  "parentFolder": "68de1aa07a4e3e23832138d1",
+  "sections": [
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 1500000,
+      "sectionMarks": 15,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "6aaff422894ef058e359d758",
+      "name": "Reasoning",
+      "order": 1,
+      "numberOfQuestions": 15,
+      "questions": [
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">A</span></p>",
+              "nameText": "A",
+              "order": 1,
+              "_id": "6ab0047d43900396c1b1d80f"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">B</span></p>\n ",
+              "nameText": "\n B\n ",
+              "order": 2,
+              "_id": "6ab0047d4390032c6eb1d810"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">C</span></p>\n ",
+              "nameText": "\n C\n ",
+              "order": 3,
+              "_id": "6ab0047d439003d522b1d811"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A and B equal</span></p>\n ",
+              "nameText": "\n A and B equal\n ",
+              "order": 4,
+              "_id": "6ab0047d4390036f15b1d812"
+            }
+          ],
+          "_id": "6ab0047d4390031ab2b1d813",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Refer to the table in Question 7. Which\n product had the highest total sales over the three months?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Refer to the table in Question 7. Which\n product had the highest total sales over the three months?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 8,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">30</span></p>\n ",
+              "nameText": "\n 30\n ",
+              "order": 1,
+              "_id": "6ab0047d4390032323b1d81e"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">33</span></p>\n ",
+              "nameText": "\n 33\n ",
+              "order": 2,
+              "_id": "6ab0047d439003b0feb1d81f"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">35</span></p>",
+              "nameText": "35",
+              "order": 3,
+              "_id": "6ab0047d4390031d09b1d820"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">36</span></p>\n ",
+              "nameText": "\n 36\n ",
+              "order": 4,
+              "_id": "6ab0047d439003273ab1d821"
+            }
+          ],
+          "_id": "6ab0047d4390038d40b1d822",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">If 1 + 2 = 3, 2 + 3 = 8, 3 + 4 = 15 and 4 +\n 5 = 24, then 5 + 6 = ?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n If 1 + 2 = 3, 2 + 3 = 8, 3 + 4 = 15 and 4 +\n 5 = 24, then 5 + 6 = ?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 11,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Only I follows</span></p>\n ",
+              "nameText": "\n Only I follows\n ",
+              "order": 1,
+              "_id": "6ab0047d4390032682b1d7ec"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Only II follows</span></p>",
+              "nameText": "Only II follows",
+              "order": 2,
+              "_id": "6ab0047d439003754db1d7ed"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Both I and II follow</span></p>\n ",
+              "nameText": "\n Both I and II follow\n ",
+              "order": 3,
+              "_id": "6ab0047d4390038cc0b1d7ee"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Neither I nor II follows</span></p>\n ",
+              "nameText": "\n Neither I nor II follows\n ",
+              "order": 4,
+              "_id": "6ab0047d4390033641b1d7ef"
+            }
+          ],
+          "_id": "6ab0047d439003e054b1d7f0",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statements: All servers are machines. Some\n machines are laptops. No laptop is a tablet. Conclusions: I. Some\n servers are laptops. II. Some machines are not tablets.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Statements: All servers are machines. Some\n machines are laptops. No laptop is a tablet. Conclusions: I. Some\n servers are laptops. II. Some machines are not tablets.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">PSCJU</span></p>",
+              "nameText": "PSCJU",
+              "order": 1,
+              "_id": "6ab0047d439003232cb1d819"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">NQAHS</span></p>\n ",
+              "nameText": "\n NQAHS\n ",
+              "order": 2,
+              "_id": "6ab0047d439003be8bb1d81a"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">PSCJT</span></p>\n ",
+              "nameText": "\n PSCJT\n ",
+              "order": 3,
+              "_id": "6ab0047d439003060ab1d81b"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">PSBJU</span></p>\n ",
+              "nameText": "\n PSBJU\n ",
+              "order": 4,
+              "_id": "6ab0047d4390036769b1d81c"
+            }
+          ],
+          "_id": "6ab0047d439003709ab1d81d",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">If PLANET is coded as QMBOFU, how is ORBIT\n coded?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n If PLANET is coded as QMBOFU, how is ORBIT\n coded?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 10,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">6</span></p>\n ",
+              "nameText": "\n 6\n ",
+              "order": 1,
+              "_id": "6ab004edb69ac0e83a28c805"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">7</span></p>",
+              "nameText": "7",
+              "order": 2,
+              "_id": "6ab004edb69ac0113d28c806"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">8</span></p>\n ",
+              "nameText": "\n 8\n ",
+              "order": 3,
+              "_id": "6ab004edb69ac0a63828c807"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">9</span></p>\n ",
+              "nameText": "\n 9\n ",
+              "order": 4,
+              "_id": "6ab004edb69ac098fd28c808"
+            }
+          ],
+          "_id": "6ab0047d439003d45ab1d82c",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\">Find the missing number in the figure.</span></p>\n<table class=\"MsoNormalTable\" style=\"width: 117.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"156\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border: 1pt solid #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">5</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">7</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">9</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">4</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">6</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">8</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">3</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">5</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39.0pt; border-top: none; border-left: none; border-bottom: solid #4B5563 1.0pt; border-right: solid #4B5563 1.0pt; mso-border-top-alt: solid #4B5563 1.0pt; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.5pt 2.0pt 2.5pt 2.0pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.96px; line-height: 115%;\"></p>",
+          "paragraph": null,
+          "nameText": "Find the missing number in the figure.\n\n\n\n\n5\n\n\n7\n\n\n9\n\n\n\n\n4\n\n\n6\n\n\n8\n\n\n\n\n3\n\n\n5\n\n\n?\n\n\n\n\n",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 13,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">3</span></p>\n ",
+              "nameText": "\n 3\n ",
+              "order": 1,
+              "_id": "6ab0047d4390031d6eb1d82d"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">4</span></p>\n ",
+              "nameText": "\n 4\n ",
+              "order": 2,
+              "_id": "6ab0047d439003e966b1d82e"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">5</span></p>",
+              "nameText": "5",
+              "order": 3,
+              "_id": "6ab0047d4390034b02b1d82f"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">6</span></p>\n ",
+              "nameText": "\n 6\n ",
+              "order": 4,
+              "_id": "6ab0047d439003c645b1d830"
+            }
+          ],
+          "_id": "6ab0047d43900315a1b1d831",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A square figure series adds one\n diagonal-style mark in each step: Step 1 has 1 line, Step 2 has 2\n lines, Step 3 has 3 lines. How many lines does Step 5 contain?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n A square figure series adds one\n diagonal-style mark in each step: Step 1 has 1 line, Step 2 has 2\n lines, Step 3 has 3 lines. How many lines does Step 5 contain?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 14,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statement 1 alone is sufficient, but\n Statement 2 alone is not</span></p>\n ",
+              "nameText": "\n Statement 1 alone is sufficient, but\n Statement 2 alone is not\n ",
+              "order": 1,
+              "_id": "6ab0047d4390035d74b1d805"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Statement 2 alone is sufficient, but Statement 1 alone is not</span></p>",
+              "nameText": "Statement 2 alone is sufficient, but Statement 1 alone is not",
+              "order": 2,
+              "_id": "6ab0047d4390033c97b1d806"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Either statement alone is sufficient</span></p>\n ",
+              "nameText": "\n Either statement alone is sufficient\n ",
+              "order": 3,
+              "_id": "6ab0047d4390032740b1d807"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Both statements together are needed</span></p>\n ",
+              "nameText": "\n Both statements together are needed\n ",
+              "order": 4,
+              "_id": "6ab0047d439003647bb1d808"
+            }
+          ],
+          "_id": "6ab0047d439003abd2b1d809",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">What is the value of x + y? Statement 1: x −\n y = 4. Statement 2: 2x + 2y = 20.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What is the value of x + y? Statement 1: x −\n y = 4. Statement 2: 2x + 2y = 20.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 6,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">10</span></p>\n ",
+              "nameText": "\n 10\n ",
+              "order": 1,
+              "_id": "6ab0050337e18d0b1986949e"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">18</span></p>\n ",
+              "nameText": "\n 18\n ",
+              "order": 2,
+              "_id": "6ab0050337e18d625686949f"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">21</span></p>",
+              "nameText": "21",
+              "order": 3,
+              "_id": "6ab0050337e18d4c258694a0"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">24</span></p>\n ",
+              "nameText": "\n 24\n ",
+              "order": 4,
+              "_id": "6ab0050337e18d447e8694a1"
+            }
+          ],
+          "_id": "6ab0047d4390032045b1d836",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\">Find the missing number in the figure.</span></p>\n<table class=\"MsoNormalTable\" style=\"width: 117.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"156\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border: 1pt solid #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">2</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">6</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">3</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">4</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">20</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">5</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">3</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39.0pt; border-top: none; border-left: none; border-bottom: solid #4B5563 1.0pt; border-right: solid #4B5563 1.0pt; mso-border-top-alt: solid #4B5563 1.0pt; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.5pt 2.0pt 2.5pt 2.0pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">7</span></strong><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.96px; line-height: 115%;\"></p>",
+          "paragraph": null,
+          "nameText": "Find the missing number in the figure.\n\n\n\n\n2\n\n\n6\n\n\n3\n\n\n\n\n4\n\n\n20\n\n\n5\n\n\n\n\n3\n\n\n?\n\n\n7\n\n\n\n\n",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 15,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">10%</span></p>\n ",
+              "nameText": "\n 10%\n ",
+              "order": 1,
+              "_id": "6ab0047d439003fdbfb1d814"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">20%</span></p>\n ",
+              "nameText": "\n 20%\n ",
+              "order": 2,
+              "_id": "6ab0047d439003d660b1d815"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">25%</span></p>",
+              "nameText": "25%",
+              "order": 3,
+              "_id": "6ab0047d4390034a8db1d816"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">30%</span></p>\n ",
+              "nameText": "\n 30%\n ",
+              "order": 4,
+              "_id": "6ab0047d4390036e9fb1d817"
+            }
+          ],
+          "_id": "6ab0047d439003d2fbb1d818",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Refer to the table in Question 7. The\n increase in Product A from January to March is what percent of the\n January figure?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Refer to the table in Question 7. The\n increase in Product A from January to March is what percent of the\n January figure?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 9,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">90</span></p>\n ",
+              "nameText": "\n 90\n ",
+              "order": 1,
+              "_id": "6ab004bfa63e8e4192db67ed"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">100</span></p>",
+              "nameText": "100",
+              "order": 2,
+              "_id": "6ab004bfa63e8e629bdb67ee"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">110</span></p>\n ",
+              "nameText": "\n 110\n ",
+              "order": 3,
+              "_id": "6ab004bfa63e8e88d9db67ef"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">115</span></p>\n ",
+              "nameText": "\n 115\n ",
+              "order": 4,
+              "_id": "6ab004bfa63e8e9d93db67f0"
+            }
+          ],
+          "_id": "6ab0047d4390039669b1d80e",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\">The table shows units sold. What were the total units sold in February?</span></p>\n<table class=\"MsoNormalTable\" style=\"width: 220.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"293\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 55pt; border: 1pt solid #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">Product</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">Jan</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">Feb</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">Mar</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 55pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">A</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">40</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">45</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">50</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; page-break-inside: avoid;\">\n<td style=\"width: 55pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">B</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">30</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">35</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">30</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 3; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 55pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">C</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">25</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">20</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">35</span></strong><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.96px; line-height: 115%;\"></p>",
+          "paragraph": null,
+          "nameText": "The table shows units sold. What were the total units sold in February?\n\n\n\n\nProduct\n\n\nJan\n\n\nFeb\n\n\nMar\n\n\n\n\nA\n\n\n40\n\n\n45\n\n\n50\n\n\n\n\nB\n\n\n30\n\n\n35\n\n\n30\n\n\n\n\nC\n\n\n25\n\n\n20\n\n\n35\n\n\n\n\n",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 7,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Only I follows</span></p>\n ",
+              "nameText": "\n Only I follows\n ",
+              "order": 1,
+              "_id": "6ab0047d4390032970b1d7f6"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Only II follows</span></p>\n ",
+              "nameText": "\n Only II follows\n ",
+              "order": 2,
+              "_id": "6ab0047d43900385a7b1d7f7"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Both I and II follow</span></p>",
+              "nameText": "Both I and II follow",
+              "order": 3,
+              "_id": "6ab0047d439003151bb1d7f8"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Neither I nor II follows</span></p>\n ",
+              "nameText": "\n Neither I nor II follows\n ",
+              "order": 4,
+              "_id": "6ab0047d4390030a97b1d7f9"
+            }
+          ],
+          "_id": "6ab0047d4390039cd6b1d7fa",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statements: Some codes are bugs. All bugs\n are tickets. No ticket is closed. Conclusions: I. Some codes are\n tickets. II. No bug is closed.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Statements: Some codes are bugs. All bugs\n are tickets. No ticket is closed. Conclusions: I. Some codes are\n tickets. II. No bug is closed.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statement 1 alone is sufficient, but\n Statement 2 alone is not</span></p>\n ",
+              "nameText": "\n Statement 1 alone is sufficient, but\n Statement 2 alone is not\n ",
+              "order": 1,
+              "_id": "6ab0047d4390033d91b1d7fb"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statement 2 alone is sufficient, but\n Statement 1 alone is not</span></p>\n ",
+              "nameText": "\n Statement 2 alone is sufficient, but\n Statement 1 alone is not\n ",
+              "order": 2,
+              "_id": "6ab0047d4390038717b1d7fc"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Either statement alone is sufficient</span></p>",
+              "nameText": "Either statement alone is sufficient",
+              "order": 3,
+              "_id": "6ab0047d439003527eb1d7fd"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Both statements together are needed</span></p>\n ",
+              "nameText": "\n Both statements together are needed\n ",
+              "order": 4,
+              "_id": "6ab0047d43900316b8b1d7fe"
+            }
+          ],
+          "_id": "6ab0047d4390039ca6b1d7ff",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">What is A’s rank from the top in a\n class of 40? Statement 1: A is 8 ranks above B, who is 15th from\n the bottom. Statement 2: C is 10th from the top and A is 5 ranks\n below C.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What is A’s rank from the top in a\n class of 40? Statement 1: A is 8 ranks above B, who is 15th from\n the bottom. Statement 2: C is 10th from the top and A is 5 ranks\n below C.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statement 1 alone is sufficient, but\n Statement 2 alone is not</span></p>\n ",
+              "nameText": "\n Statement 1 alone is sufficient, but\n Statement 2 alone is not\n ",
+              "order": 1,
+              "_id": "6ab0047d4390038118b1d800"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statement 2 alone is sufficient, but\n Statement 1 alone is not</span></p>\n ",
+              "nameText": "\n Statement 2 alone is sufficient, but\n Statement 1 alone is not\n ",
+              "order": 2,
+              "_id": "6ab0047d439003555eb1d801"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Either statement alone is sufficient</span></p>",
+              "nameText": "Either statement alone is sufficient",
+              "order": 3,
+              "_id": "6ab0047d43900349cab1d802"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Both statements together are needed</span></p>\n ",
+              "nameText": "\n Both statements together are needed\n ",
+              "order": 4,
+              "_id": "6ab0047d4390032ba1b1d803"
+            }
+          ],
+          "_id": "6ab0047d4390039d9cb1d804",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Is the integer n even? Statement 1: n is\n divisible by 4. Statement 2: n + 1 is odd.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Is the integer n even? Statement 1: n is\n divisible by 4. Statement 2: n + 1 is odd.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 5,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">MPHJD</span></p>",
+              "nameText": "MPHJD",
+              "order": 1,
+              "_id": "6ab0047d43900302ecb1d823"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">KNFHB</span></p>\n ",
+              "nameText": "\n KNFHB\n ",
+              "order": 2,
+              "_id": "6ab0047d439003fe15b1d824"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">MPGJD</span></p>\n ",
+              "nameText": "\n MPGJD\n ",
+              "order": 3,
+              "_id": "6ab0047d43900315f8b1d825"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">NPHJD</span></p>\n ",
+              "nameText": "\n NPHJD\n ",
+              "order": 4,
+              "_id": "6ab0047d4390035f41b1d826"
+            }
+          ],
+          "_id": "6ab0047d4390034355b1d827",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">If REACH is coded as SFBDI, how is LOGIC\n coded?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n If REACH is coded as SFBDI, how is LOGIC\n coded?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 12,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Only I follows</span></p>",
+              "nameText": "Only I follows",
+              "order": 1,
+              "_id": "6ab0047d43900350cbb1d7f1"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Only II follows</span></p>\n ",
+              "nameText": "\n Only II follows\n ",
+              "order": 2,
+              "_id": "6ab0047d439003aff6b1d7f2"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Both I and II follow</span></p>\n ",
+              "nameText": "\n Both I and II follow\n ",
+              "order": 3,
+              "_id": "6ab0047d4390037d58b1d7f3"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Neither I nor II follows</span></p>\n ",
+              "nameText": "\n Neither I nor II follows\n ",
+              "order": 4,
+              "_id": "6ab0047d4390039b57b1d7f4"
+            }
+          ],
+          "_id": "6ab0047d4390030e2eb1d7f5",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statements: All interns are graduates. All\n graduates are employees. Some employees are managers. Conclusions:\n I. All interns are employees. II. Some managers are interns.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Statements: All interns are graduates. All\n graduates are employees. Some employees are managers. Conclusions:\n I. All interns are employees. II. Some managers are interns.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    },
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 2100000,
+      "sectionMarks": 10,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "6aaff422894ef0d98859d759",
+      "name": "Aptitude (Technical Ability)",
+      "order": 2,
+      "numberOfQuestions": 10,
+      "questions": [
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">6 days</span></p>\n ",
+              "nameText": "\n 6 days\n ",
+              "order": 1,
+              "_id": "6ab006813612ca60b7f513ee"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">7.2 days</span></p>",
+              "nameText": "7.2 days",
+              "order": 2,
+              "_id": "6ab006813612ca0c4ef513ef"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">8 days</span></p>\n ",
+              "nameText": "\n 8 days\n ",
+              "order": 3,
+              "_id": "6ab006813612caa7b8f513f0"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">9 days</span></p>\n ",
+              "nameText": "\n 9 days\n ",
+              "order": 4,
+              "_id": "6ab006813612caecadf513f1"
+            }
+          ],
+          "_id": "6ab006813612ca6af5f513f2",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A can finish a job in 12 days and B can\n finish the same job in 18 days. How many days will they take\n working together?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n A can finish a job in 12 days and B can\n finish the same job in 18 days. How many days will they take\n working together?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 9,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹700</span></p>\n ",
+              "nameText": "\n ₹700\n ",
+              "order": 1,
+              "_id": "6ab006813612ca1797f513e9"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹750</span></p>\n ",
+              "nameText": "\n ₹750\n ",
+              "order": 2,
+              "_id": "6ab006813612cae1b9f513ea"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">₹800</span></p>",
+              "nameText": "₹800",
+              "order": 3,
+              "_id": "6ab006813612ca5d6af513eb"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹850</span></p>\n ",
+              "nameText": "\n ₹850\n ",
+              "order": 4,
+              "_id": "6ab006813612ca0bc5f513ec"
+            }
+          ],
+          "_id": "6ab006813612ca43cbf513ed",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A trader sells an item at 8% loss. If he had\n sold it for ₹96 more, he would have gained 4%. What is the\n cost price of the item?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n A trader sells an item at 8% loss. If he had\n sold it for ₹96 more, he would have gained 4%. What is the\n cost price of the item?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 8,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">64</span></p>\n ",
+              "nameText": "\n 64\n ",
+              "order": 1,
+              "_id": "6ab006813612ca4dc8f513cb"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">70</span></p>\n ",
+              "nameText": "\n 70\n ",
+              "order": 2,
+              "_id": "6ab006813612ca79eef513cc"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">74</span></p>",
+              "nameText": "74",
+              "order": 3,
+              "_id": "6ab006813612ca75e4f513cd"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">84</span></p>\n ",
+              "nameText": "\n 84\n ",
+              "order": 4,
+              "_id": "6ab006813612ca1e31f513ce"
+            }
+          ],
+          "_id": "6ab006813612ca089ef513cf",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A team of 3 is to be chosen from 5\n developers and 4 testers. In how many ways can the team be formed\n if it must include at least 1 tester?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n A team of 3 is to be chosen from 5\n developers and 4 testers. In how many ways can the team be formed\n if it must include at least 1 tester?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">120</span></p>\n ",
+              "nameText": "\n 120\n ",
+              "order": 1,
+              "_id": "6ab006813612ca6d58f513d0"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">180</span></p>",
+              "nameText": "180",
+              "order": 2,
+              "_id": "6ab006813612ca0aaef513d1"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">240</span></p>\n ",
+              "nameText": "\n 240\n ",
+              "order": 3,
+              "_id": "6ab006813612cad760f513d2"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">720</span></p>\n ",
+              "nameText": "\n 720\n ",
+              "order": 4,
+              "_id": "6ab006813612ca8776f513d3"
+            }
+          ],
+          "_id": "6ab006813612ca7fe2f513d4",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">In how many distinct ways can the letters of\n the word SERVER be arranged?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n In how many distinct ways can the letters of\n the word SERVER be arranged?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">12%</span></p>\n ",
+              "nameText": "\n 12%\n ",
+              "order": 1,
+              "_id": "6ab006813612ca4369f513df"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">15%</span></p>",
+              "nameText": "15%",
+              "order": 2,
+              "_id": "6ab006813612ca5b77f513e0"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">18%</span></p>\n ",
+              "nameText": "\n 18%\n ",
+              "order": 3,
+              "_id": "6ab006813612ca1471f513e1"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">20%</span></p>\n ",
+              "nameText": "\n 20%\n ",
+              "order": 4,
+              "_id": "6ab006813612ca0fccf513e2"
+            }
+          ],
+          "_id": "6ab006813612ca0df9f513e3",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">An article is bought for ₹800 and sold\n for ₹920. What is the profit percentage?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n An article is bought for ₹800 and sold\n for ₹920. What is the profit percentage?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 6,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">20 days</span></p>\n ",
+              "nameText": "\n 20 days\n ",
+              "order": 1,
+              "_id": "6ab006813612ca87ebf513f3"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">25 days</span></p>\n ",
+              "nameText": "\n 25 days\n ",
+              "order": 2,
+              "_id": "6ab006813612ca42b7f513f4"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">30 days</span></p>",
+              "nameText": "30 days",
+              "order": 3,
+              "_id": "6ab006813612caf180f513f5"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">45 days</span></p>\n ",
+              "nameText": "\n 45 days\n ",
+              "order": 4,
+              "_id": "6ab006813612ca27c6f513f6"
+            }
+          ],
+          "_id": "6ab006813612ca8d17f513f7",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A and B together can do a piece of work in\n 10 days. A alone can do it in 15 days. In how many days can B\n alone do the same work?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n A and B together can do a piece of work in\n 10 days. A alone can do it in 15 days. In how many days can B\n alone do the same work?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 10,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">10%</span></p>\n ",
+              "nameText": "\n 10%\n ",
+              "order": 1,
+              "_id": "6ab006813612cabaeef513e4"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">12.5%</span></p>",
+              "nameText": "12.5%",
+              "order": 2,
+              "_id": "6ab006813612ca8049f513e5"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">15%</span></p>\n ",
+              "nameText": "\n 15%\n ",
+              "order": 3,
+              "_id": "6ab006813612ca013df513e6"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">20%</span></p>\n ",
+              "nameText": "\n 20%\n ",
+              "order": 4,
+              "_id": "6ab006813612ca09d0f513e7"
+            }
+          ],
+          "_id": "6ab006813612ca61d5f513e8",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The marked price of a laptop is ₹40,000.\n After a discount of 10%, it is sold. If the cost price is ₹32,000,\n what is the profit percentage?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n The marked price of a laptop is ₹40,000.\n After a discount of 10%, it is sold. If the cost price is ₹32,000,\n what is the profit percentage?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 7,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">120</span></p>\n ",
+              "nameText": "\n 120\n ",
+              "order": 1,
+              "_id": "6ab006813612caf91ff513c6"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">240</span></p>\n ",
+              "nameText": "\n 240\n ",
+              "order": 2,
+              "_id": "6ab006813612cabcd5f513c7"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">360</span></p>",
+              "nameText": "360",
+              "order": 3,
+              "_id": "6ab006813612ca7e08f513c8"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">720</span></p>\n ",
+              "nameText": "\n 720\n ",
+              "order": 4,
+              "_id": "6ab006813612ca6ac3f513c9"
+            }
+          ],
+          "_id": "6ab006813612ca8c25f513ca",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">How many 4-letter codes can be formed from\n the letters of the word ORANGE if no letter is repeated?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n How many 4-letter codes can be formed from\n the letters of the word ORANGE if no letter is repeated?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">2/15</span></p>",
+              "nameText": "2/15",
+              "order": 1,
+              "_id": "6ab006813612ca5164f513da"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">1/5</span></p>\n ",
+              "nameText": "\n 1/5\n ",
+              "order": 2,
+              "_id": "6ab006813612ca143bf513db"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">4/15</span></p>\n ",
+              "nameText": "\n 4/15\n ",
+              "order": 3,
+              "_id": "6ab006813612ca624df513dc"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">2/9</span></p>\n ",
+              "nameText": "\n 2/9\n ",
+              "order": 4,
+              "_id": "6ab006813612ca2ba6f513dd"
+            }
+          ],
+          "_id": "6ab006813612ca4cc3f513de",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A bag contains 4 red and 6 blue balls. Two\n balls are drawn at random without replacement. What is the\n probability that both are red?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n A bag contains 4 red and 6 blue balls. Two\n balls are drawn at random without replacement. What is the\n probability that both are red?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 5,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">1/12</span></p>\n ",
+              "nameText": "\n 1/12\n ",
+              "order": 1,
+              "_id": "6ab006813612ca68d3f513d5"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">1/9</span></p>",
+              "nameText": "1/9",
+              "order": 2,
+              "_id": "6ab006813612caf23bf513d6"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">1/8</span></p>\n ",
+              "nameText": "\n 1/8\n ",
+              "order": 3,
+              "_id": "6ab006813612cad755f513d7"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">1/6</span></p>\n ",
+              "nameText": "\n 1/6\n ",
+              "order": 4,
+              "_id": "6ab006813612caea68f513d8"
+            }
+          ],
+          "_id": "6ab006813612ca1e07f513d9",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Two fair dice are thrown. What is the\n probability that the sum is 9?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Two fair dice are thrown. What is the\n probability that the sum is 9?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    },
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 1200000,
+      "sectionMarks": 20,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "6aaff422894ef0350a59d75a",
+      "name": "Verbal Ability",
+      "order": 3,
+      "numberOfQuestions": 20,
+      "questions": [
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The news are not good this morning.</span></p>\n ",
+              "nameText": "\n The news are not good this morning.\n ",
+              "order": 1,
+              "_id": "6ab0023bb281e4096a637519"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">The news is not good this morning.</span></p>",
+              "nameText": "The news is not good this morning.",
+              "order": 2,
+              "_id": "6ab0023bb281e40b4e63751a"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The news have not good this morning.</span></p>\n ",
+              "nameText": "\n The news have not good this morning.\n ",
+              "order": 3,
+              "_id": "6ab0023bb281e42edb63751b"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The new is not good this morning.</span></p>\n ",
+              "nameText": "\n The new is not good this morning.\n ",
+              "order": 4,
+              "_id": "6ab0023bb281e44d7d63751c"
+            }
+          ],
+          "_id": "6ab0023bb281e4de1d63751d",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the grammatically correct sentence.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Choose the grammatically correct sentence.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 9,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">They make error messages weaker.</span></p>\n ",
+              "nameText": "\n They make error messages weaker.\n ",
+              "order": 1,
+              "_id": "6ab0023bb281e45ad96374fb"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Long queues delay releases and harsh comments discourage early drafts.</span></p>",
+              "nameText": "Long queues delay releases and harsh comments discourage early drafts.",
+              "order": 2,
+              "_id": "6ab0023bb281e40ee06374fc"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">They stop teams from using any tools.</span></p>\n ",
+              "nameText": "\n They stop teams from using any tools.\n ",
+              "order": 3,
+              "_id": "6ab0023bb281e435a86374fd"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">They force every patch to be rewritten\n twice.</span></p>\n ",
+              "nameText": "\n They force every patch to be rewritten\n twice.\n ",
+              "order": 4,
+              "_id": "6ab0023bb281e47a8b6374fe"
+            }
+          ],
+          "_id": "6ab0023bb281e43b7c6374ff",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.384px;\"><span style=\"color: #1f2937;\"><span style=\"font-size: 13px;\"><strong>Passage</strong></span></span></p>\n<p style=\"margin-top: 0.288px;\"></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\">Many software companies now treat code reviews as a daily habit rather than a last-minute check. A second pair of eyes often finds defects that automated tests miss, especially unclear names, missing edge cases and weak error messages. Reviews also spread knowledge: a junior engineer who reads a senior colleague&rsquo;s change learns the team&rsquo;s style faster than by studying a handbook. The practice has a cost. Long review queues delay releases, and harsh comments discourage people from sharing early drafts. Teams that keep reviews short, set a response-time target and discuss design before large patches are written usually keep both quality and speed. Tools help, but they cannot replace an agreed standard of courtesy and focus.</span></span></p>\n<p style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\">Which of the following is mentioned as a cost of code reviews?</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Passage\n\nMany software companies now treat code reviews as a daily habit rather than a last-minute check. A second pair of eyes often finds defects that automated tests miss, especially unclear names, missing edge cases and weak error messages. Reviews also spread knowledge: a junior engineer who reads a senior colleague’s change learns the team’s style faster than by studying a handbook. The practice has a cost. Long review queues delay releases, and harsh comments discourage people from sharing early drafts. Teams that keep reviews short, set a response-time target and discuss design before large patches are written usually keep both quality and speed. Tools help, but they cannot replace an agreed standard of courtesy and focus.\nWhich of the following is mentioned as a cost of code reviews?",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">void</span></p>\n ",
+              "nameText": "\n void\n ",
+              "order": 1,
+              "_id": "6ab0023bb281e4a9c0637550"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">provisional</span></p>",
+              "nameText": "provisional",
+              "order": 2,
+              "_id": "6ab0023bb281e4140e637551"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">permanent</span></p>\n ",
+              "nameText": "\n permanent\n ",
+              "order": 3,
+              "_id": "6ab0023bb281e45934637552"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">obsolete</span></p>\n ",
+              "nameText": "\n obsolete\n ",
+              "order": 4,
+              "_id": "6ab0023bb281e4aa47637553"
+            }
+          ],
+          "_id": "6ab0023bb281e45077637554",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Fill in the blank: The contract is _____\n until both parties sign it.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Fill in the blank: The contract is _____\n until both parties sign it.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 20,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Scarcely she had entered when the fire alarm\n rang.</span></p>\n ",
+              "nameText": "\n Scarcely she had entered when the fire alarm\n rang.\n ",
+              "order": 1,
+              "_id": "6ab0023bb281e414c5637514"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Scarcely had she entered when the fire alarm rang.</span></p>",
+              "nameText": "Scarcely had she entered when the fire alarm rang.",
+              "order": 2,
+              "_id": "6ab0023bb281e45cd9637515"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Scarcely she entered than the fire alarm\n rang.</span></p>\n ",
+              "nameText": "\n Scarcely she entered than the fire alarm\n rang.\n ",
+              "order": 3,
+              "_id": "6ab0023bb281e41c3a637516"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Scarcely had she entered then the fire alarm\n rang.</span></p>\n ",
+              "nameText": "\n Scarcely had she entered then the fire alarm\n rang.\n ",
+              "order": 4,
+              "_id": "6ab0023bb281e43bd8637517"
+            }
+          ],
+          "_id": "6ab0023bb281e41439637518",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the grammatically correct sentence.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Choose the grammatically correct sentence.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 8,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The committee have decided to postpone the\n launch.</span></p>\n ",
+              "nameText": "\n The committee have decided to postpone the\n launch.\n ",
+              "order": 1,
+              "_id": "6ab0023bb281e457c363750a"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">The committee has decided to postpone the launch.</span></p>",
+              "nameText": "The committee has decided to postpone the launch.",
+              "order": 2,
+              "_id": "6ab0023bb281e447a163750b"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The committee have decide to postpone the\n launch.</span></p>\n ",
+              "nameText": "\n The committee have decide to postpone the\n launch.\n ",
+              "order": 3,
+              "_id": "6ab0023bb281e4181863750c"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The committee has decide to postpone the\n launch.</span></p>\n ",
+              "nameText": "\n The committee has decide to postpone the\n launch.\n ",
+              "order": 4,
+              "_id": "6ab0023bb281e4d6fc63750d"
+            }
+          ],
+          "_id": "6ab0023bb281e46fa163750e",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the grammatically correct sentence.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Choose the grammatically correct sentence.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 6,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Q S P R</span></p>",
+              "nameText": "Q S P R",
+              "order": 1,
+              "_id": "6ab0023bb281e42aa263752d"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q P S R</span></p>\n ",
+              "nameText": "\n Q P S R\n ",
+              "order": 2,
+              "_id": "6ab0023bb281e4279663752e"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">P Q R S</span></p>\n ",
+              "nameText": "\n P Q R S\n ",
+              "order": 3,
+              "_id": "6ab0023bb281e4749263752f"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S Q P R</span></p>\n ",
+              "nameText": "\n S Q P R\n ",
+              "order": 4,
+              "_id": "6ab0023bb281e4b32b637530"
+            }
+          ],
+          "_id": "6ab0023bb281e42252637531",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Arrange the sentences to form a coherent\n paragraph. P: A weekly demo forces that conversation to happen on\n a fixed day. Q: Product work stalls when developers and users\n rarely meet. R: Feedback then arrives early enough to change the\n next sprint. S: Waiting until the final release is usually too\n late.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Arrange the sentences to form a coherent\n paragraph. P: A weekly demo forces that conversation to happen on\n a fixed day. Q: Product work stalls when developers and users\n rarely meet. R: Feedback then arrives early enough to change the\n next sprint. S: Waiting until the final release is usually too\n late.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 13,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Careless</span></p>\n ",
+              "nameText": "\n Careless\n ",
+              "order": 1,
+              "_id": "6ab0023bb281e4b46e63753c"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Thorough</span></p>",
+              "nameText": "Thorough",
+              "order": 2,
+              "_id": "6ab0023bb281e42ffd63753d"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Hasty</span></p>\n ",
+              "nameText": "\n Hasty\n ",
+              "order": 3,
+              "_id": "6ab0023bb281e4116963753e"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Rough</span></p>\n ",
+              "nameText": "\n Rough\n ",
+              "order": 4,
+              "_id": "6ab0023bb281e4825c63753f"
+            }
+          ],
+          "_id": "6ab0023bb281e444ec637540",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the word most similar in meaning to\n \"meticulous.\"</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Choose the word most similar in meaning to\n \"meticulous.\"\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 16,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Outdated</span></p>\n ",
+              "nameText": "\n Outdated\n ",
+              "order": 1,
+              "_id": "6ab0023bb281e426c3637541"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Current</span></p>",
+              "nameText": "Current",
+              "order": 2,
+              "_id": "6ab0023bb281e4c6a5637542"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Abandoned</span></p>\n ",
+              "nameText": "\n Abandoned\n ",
+              "order": 3,
+              "_id": "6ab0023bb281e48d92637543"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Expired</span></p>\n ",
+              "nameText": "\n Expired\n ",
+              "order": 4,
+              "_id": "6ab0023bb281e450db637544"
+            }
+          ],
+          "_id": "6ab0023bb281e47dc6637545",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the word most opposite in meaning to\n \"obsolete.\"</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Choose the word most opposite in meaning to\n \"obsolete.\"\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 17,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">replace the need to write any tests</span></p>\n ",
+              "nameText": "\n replace the need to write any tests\n ",
+              "order": 1,
+              "_id": "6ab0023bb281e46e866374f6"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">learn the team&rsquo;s style faster by reading real changes</span></p>",
+              "nameText": "learn the team’s style faster by reading real changes",
+              "order": 2,
+              "_id": "6ab0023bb281e450c76374f7"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">are allowed to skip handbooks forever</span></p>\n ",
+              "nameText": "\n are allowed to skip handbooks forever\n ",
+              "order": 3,
+              "_id": "6ab0023bb281e436fe6374f8"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">receive only automated comments</span></p>\n ",
+              "nameText": "\n receive only automated comments\n ",
+              "order": 4,
+              "_id": "6ab0023bb281e45bbd6374f9"
+            }
+          ],
+          "_id": "6ab0023bb281e4295a6374fa",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.384px;\"><span style=\"color: #1f2937;\"><span style=\"font-size: 13px;\"><strong>Passage</strong></span></span></p>\n<p style=\"margin-top: 0.288px;\"></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\">Many software companies now treat code reviews as a daily habit rather than a last-minute check. A second pair of eyes often finds defects that automated tests miss, especially unclear names, missing edge cases and weak error messages. Reviews also spread knowledge: a junior engineer who reads a senior colleague&rsquo;s change learns the team&rsquo;s style faster than by studying a handbook. The practice has a cost. Long review queues delay releases, and harsh comments discourage people from sharing early drafts. Teams that keep reviews short, set a response-time target and discuss design before large patches are written usually keep both quality and speed. Tools help, but they cannot replace an agreed standard of courtesy and focus.</span></span></p>\n<p style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\">According to the passage, reviews help junior engineers mainly because they</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Passage\n\nMany software companies now treat code reviews as a daily habit rather than a last-minute check. A second pair of eyes often finds defects that automated tests miss, especially unclear names, missing edge cases and weak error messages. Reviews also spread knowledge: a junior engineer who reads a senior colleague’s change learns the team’s style faster than by studying a handbook. The practice has a cost. Long review queues delay releases, and harsh comments discourage people from sharing early drafts. Teams that keep reviews short, set a response-time target and discuss design before large patches are written usually keep both quality and speed. Tools help, but they cannot replace an agreed standard of courtesy and focus.\nAccording to the passage, reviews help junior engineers mainly because they",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">He is one of the engineers who works night\n shifts.</span></p>\n ",
+              "nameText": "\n He is one of the engineers who works night\n shifts.\n ",
+              "order": 1,
+              "_id": "6ab0023bb281e437b363750f"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">He is one of the engineers who work night shifts.</span></p>",
+              "nameText": "He is one of the engineers who work night shifts.",
+              "order": 2,
+              "_id": "6ab0023bb281e4826f637510"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">He is one of the engineer who work night\n shifts.</span></p>\n ",
+              "nameText": "\n He is one of the engineer who work night\n shifts.\n ",
+              "order": 3,
+              "_id": "6ab0023bb281e42e3b637511"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">He is one of the engineers who has work\n night shifts.</span></p>\n ",
+              "nameText": "\n He is one of the engineers who has work\n night shifts.\n ",
+              "order": 4,
+              "_id": "6ab0023bb281e42758637512"
+            }
+          ],
+          "_id": "6ab0023bb281e4d900637513",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the grammatically correct sentence.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Choose the grammatically correct sentence.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 7,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">S Q P R</span></p>",
+              "nameText": "S Q P R",
+              "order": 1,
+              "_id": "6ab0023bb281e49bdf637537"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q S R P</span></p>\n ",
+              "nameText": "\n Q S R P\n ",
+              "order": 2,
+              "_id": "6ab0023bb281e4082e637538"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S P Q R</span></p>\n ",
+              "nameText": "\n S P Q R\n ",
+              "order": 3,
+              "_id": "6ab0023bb281e4442b637539"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">R S Q P</span></p>\n ",
+              "nameText": "\n R S Q P\n ",
+              "order": 4,
+              "_id": "6ab0023bb281e442ae63753a"
+            }
+          ],
+          "_id": "6ab0023bb281e4462c63753b",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Arrange the sentences to form a coherent\n paragraph. P: Small test cases catch those errors before the full\n run. Q: A single off-by-one mistake can ruin a whole report. R:\n Careful engineers therefore write checks for empty lists and last\n rows. S: Spreadsheet formulas look simple until the data set\n grows.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Arrange the sentences to form a coherent\n paragraph. P: Small test cases catch those errors before the full\n run. Q: A single off-by-one mistake can ruin a whole report. R:\n Careful engineers therefore write checks for empty lists and last\n rows. S: Spreadsheet formulas look simple until the data set\n grows.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 15,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">server downtime and network outages</span></p>\n ",
+              "nameText": "\n server downtime and network outages\n ",
+              "order": 1,
+              "_id": "6ab0023bb281e41f96637505"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">unclear names, missing edge cases and weak error messages</span></p>",
+              "nameText": "unclear names, missing edge cases and weak error messages",
+              "order": 2,
+              "_id": "6ab0023bb281e41d77637506"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">payroll errors and invoice totals</span></p>\n ",
+              "nameText": "\n payroll errors and invoice totals\n ",
+              "order": 3,
+              "_id": "6ab0023bb281e429ab637507"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">office-seating plans</span></p>\n ",
+              "nameText": "\n office-seating plans\n ",
+              "order": 4,
+              "_id": "6ab0023bb281e419c4637508"
+            }
+          ],
+          "_id": "6ab0023bb281e4426f637509",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.384px;\"><span style=\"color: #1f2937;\"><span style=\"font-size: 13px;\"><strong>Passage</strong></span></span></p>\n<p style=\"margin-top: 0.288px;\"></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\">Many software companies now treat code reviews as a daily habit rather than a last-minute check. A second pair of eyes often finds defects that automated tests miss, especially unclear names, missing edge cases and weak error messages. Reviews also spread knowledge: a junior engineer who reads a senior colleague&rsquo;s change learns the team&rsquo;s style faster than by studying a handbook. The practice has a cost. Long review queues delay releases, and harsh comments discourage people from sharing early drafts. Teams that keep reviews short, set a response-time target and discuss design before large patches are written usually keep both quality and speed. Tools help, but they cannot replace an agreed standard of courtesy and focus.</span></span></p>\n<p style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\">Reviews often catch defects that tests miss, such as</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Passage\n\nMany software companies now treat code reviews as a daily habit rather than a last-minute check. A second pair of eyes often finds defects that automated tests miss, especially unclear names, missing edge cases and weak error messages. Reviews also spread knowledge: a junior engineer who reads a senior colleague’s change learns the team’s style faster than by studying a handbook. The practice has a cost. Long review queues delay releases, and harsh comments discourage people from sharing early drafts. Teams that keep reviews short, set a response-time target and discuss design before large patches are written usually keep both quality and speed. Tools help, but they cannot replace an agreed standard of courtesy and focus.\nReviews often catch defects that tests miss, such as",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 5,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Q P R S</span></p>",
+              "nameText": "Q P R S",
+              "order": 1,
+              "_id": "6ab0023bb281e4f304637528"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">P Q S R</span></p>\n ",
+              "nameText": "\n P Q S R\n ",
+              "order": 2,
+              "_id": "6ab0023bb281e4841a637529"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q R P S</span></p>\n ",
+              "nameText": "\n Q R P S\n ",
+              "order": 3,
+              "_id": "6ab0023bb281e4113163752a"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S Q P R</span></p>\n ",
+              "nameText": "\n S Q P R\n ",
+              "order": 4,
+              "_id": "6ab0023bb281e4878463752b"
+            }
+          ],
+          "_id": "6ab0023bb281e4fa2063752c",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Arrange the sentences to form a coherent\n paragraph. P: Rainwater then collects and floods the next heavy\n shower. Q: Plastic bags block roadside drains in many cities. R:\n Civic teams therefore run clean-up drives before the monsoon. S:\n The cheaper fix is to stop dumping waste into open gutters.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Arrange the sentences to form a coherent\n paragraph. P: Rainwater then collects and floods the next heavy\n shower. Q: Plastic bags block roadside drains in many cities. R:\n Civic teams therefore run clean-up drives before the monsoon. S:\n The cheaper fix is to stop dumping waste into open gutters.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 12,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">I laid down for an hour after the interview.</span></p>\n ",
+              "nameText": "\n I laid down for an hour after the interview.\n ",
+              "order": 1,
+              "_id": "6ab0023bb281e40b8263751e"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">I lay down for an hour after the interview.</span></p>",
+              "nameText": "I lay down for an hour after the interview.",
+              "order": 2,
+              "_id": "6ab0023bb281e415b563751f"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">I lied down for an hour after the interview.</span></p>\n ",
+              "nameText": "\n I lied down for an hour after the interview.\n ",
+              "order": 3,
+              "_id": "6ab0023bb281e44b2d637520"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">I lain down for an hour after the interview.</span></p>\n ",
+              "nameText": "\n I lain down for an hour after the interview.\n ",
+              "order": 4,
+              "_id": "6ab0023bb281e4fc04637521"
+            }
+          ],
+          "_id": "6ab0023bb281e4a6c1637522",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the grammatically correct sentence.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Choose the grammatically correct sentence.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 10,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Waste fuel at night</span></p>\n ",
+              "nameText": "\n Waste fuel at night\n ",
+              "order": 1,
+              "_id": "6ab0023bb281e4ef74637546"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Work or study late into the night</span></p>",
+              "nameText": "Work or study late into the night",
+              "order": 2,
+              "_id": "6ab0023bb281e40bee637547"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Start a fire after dark</span></p>\n ",
+              "nameText": "\n Start a fire after dark\n ",
+              "order": 3,
+              "_id": "6ab0023bb281e437d0637548"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Leave the office early</span></p>\n ",
+              "nameText": "\n Leave the office early\n ",
+              "order": 4,
+              "_id": "6ab0023bb281e41580637549"
+            }
+          ],
+          "_id": "6ab0023bb281e47cca63754a",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the correct meaning of the idiom\n \"burn the midnight oil.\"</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Choose the correct meaning of the idiom\n \"burn the midnight oil.\"\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 18,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Q S P R</span></p>",
+              "nameText": "Q S P R",
+              "order": 1,
+              "_id": "6ab0023bb281e44e9c637532"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S Q P R</span></p>\n ",
+              "nameText": "\n S Q P R\n ",
+              "order": 2,
+              "_id": "6ab0023bb281e4d4b9637533"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q P S R</span></p>\n ",
+              "nameText": "\n Q P S R\n ",
+              "order": 3,
+              "_id": "6ab0023bb281e46794637534"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">R Q S P</span></p>\n ",
+              "nameText": "\n R Q S P\n ",
+              "order": 4,
+              "_id": "6ab0023bb281e41954637535"
+            }
+          ],
+          "_id": "6ab0023bb281e4e844637536",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Arrange the sentences to form a coherent\n paragraph. P: Sleep debt then shows up as slower thinking the next\n day. Q: Late-night screen use delays the body’s sleep\n signal. R: Many offices now ask staff to mute work chat after a\n set hour. S: Blue light from phones is one reason that signal\n slips.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Arrange the sentences to form a coherent\n paragraph. P: Sleep debt then shows up as slower thinking the next\n day. Q: Late-night screen use delays the body’s sleep\n signal. R: Many offices now ask staff to mute work chat after a\n set hour. S: Blue light from phones is one reason that signal\n slips.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 14,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">R Q P S</span></p>",
+              "nameText": "R Q P S",
+              "order": 1,
+              "_id": "6ab0023bb281e44661637523"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q R S P</span></p>\n ",
+              "nameText": "\n Q R S P\n ",
+              "order": 2,
+              "_id": "6ab0023bb281e45185637524"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">P Q R S</span></p>\n ",
+              "nameText": "\n P Q R S\n ",
+              "order": 3,
+              "_id": "6ab0023bb281e440fd637525"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">R P Q S</span></p>\n ",
+              "nameText": "\n R P Q S\n ",
+              "order": 4,
+              "_id": "6ab0023bb281e46c56637526"
+            }
+          ],
+          "_id": "6ab0023bb281e47ff6637527",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Arrange the sentences to form a coherent\n paragraph. P: Those logs later save hours when a defect appears in\n production. Q: Good engineers write a short note on why a change\n was made. R: Code alone rarely records the reason behind a\n decision. S: The habit looks slow on a busy afternoon, but it is\n cheap insurance.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Arrange the sentences to form a coherent\n paragraph. P: Those logs later save hours when a defect appears in\n production. Q: Good engineers write a short note on why a change\n was made. R: Code alone rarely records the reason behind a\n decision. S: The habit looks slow on a busy afternoon, but it is\n cheap insurance.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 11,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Veteran</span></p>\n ",
+              "nameText": "\n Veteran\n ",
+              "order": 1,
+              "_id": "6ab0023bb281e4521963754b"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Novice</span></p>",
+              "nameText": "Novice",
+              "order": 2,
+              "_id": "6ab0023bb281e45e4e63754c"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Expert</span></p>\n ",
+              "nameText": "\n Expert\n ",
+              "order": 3,
+              "_id": "6ab0023bb281e4028463754d"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Mentor</span></p>\n ",
+              "nameText": "\n Mentor\n ",
+              "order": 4,
+              "_id": "6ab0023bb281e4242763754e"
+            }
+          ],
+          "_id": "6ab0023bb281e45f2f63754f",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the one-word substitute: A person who\n is new to a job or activity.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Choose the one-word substitute: A person who\n is new to a job or activity.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 19,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">can replace courtesy and focus</span></p>\n ",
+              "nameText": "\n can replace courtesy and focus\n ",
+              "order": 1,
+              "_id": "6ab0023bb281e4e8c2637500"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">are useless in code reviews</span></p>\n ",
+              "nameText": "\n are useless in code reviews\n ",
+              "order": 2,
+              "_id": "6ab0023bb281e4bb2f637501"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">help but cannot replace agreed standards of courtesy and focus</span></p>",
+              "nameText": "help but cannot replace agreed standards of courtesy and focus",
+              "order": 3,
+              "_id": "6ab0023bb281e4f4ce637502"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">should be banned from daily reviews</span></p>\n ",
+              "nameText": "\n should be banned from daily reviews\n ",
+              "order": 4,
+              "_id": "6ab0023bb281e483c5637503"
+            }
+          ],
+          "_id": "6ab0023bb281e434ee637504",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.384px;\"><span style=\"color: #1f2937;\"><span style=\"font-size: 13px;\"><strong>Passage</strong></span></span></p>\n<p style=\"margin-top: 0.288px;\"></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\">Many software companies now treat code reviews as a daily habit rather than a last-minute check. A second pair of eyes often finds defects that automated tests miss, especially unclear names, missing edge cases and weak error messages. Reviews also spread knowledge: a junior engineer who reads a senior colleague&rsquo;s change learns the team&rsquo;s style faster than by studying a handbook. The practice has a cost. Long review queues delay releases, and harsh comments discourage people from sharing early drafts. Teams that keep reviews short, set a response-time target and discuss design before large patches are written usually keep both quality and speed. Tools help, but they cannot replace an agreed standard of courtesy and focus.</span></span></p>\n<p style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\">The author suggests that tools</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Passage\n\nMany software companies now treat code reviews as a daily habit rather than a last-minute check. A second pair of eyes often finds defects that automated tests miss, especially unclear names, missing edge cases and weak error messages. Reviews also spread knowledge: a junior engineer who reads a senior colleague’s change learns the team’s style faster than by studying a handbook. The practice has a cost. Long review queues delay releases, and harsh comments discourage people from sharing early drafts. Teams that keep reviews short, set a response-time target and discuss design before large patches are written usually keep both quality and speed. Tools help, but they cannot replace an agreed standard of courtesy and focus.\nThe author suggests that tools",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Automated tests have made human code reviews\n unnecessary.</span></p>\n ",
+              "nameText": "\n Automated tests have made human code reviews\n unnecessary.\n ",
+              "order": 1,
+              "_id": "6ab0023bb281e438cf6374f1"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Code reviews improve quality and learning if teams manage time and tone.</span></p>",
+              "nameText": "Code reviews improve quality and learning if teams manage time and tone.",
+              "order": 2,
+              "_id": "6ab0023bb281e442536374f2"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Junior engineers should never review senior\n engineers’ work.</span></p>\n ",
+              "nameText": "\n Junior engineers should never review senior\n engineers’ work.\n ",
+              "order": 3,
+              "_id": "6ab0023bb281e4246e6374f3"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Review tools can fully replace agreed team\n standards.</span></p>\n ",
+              "nameText": "\n Review tools can fully replace agreed team\n standards.\n ",
+              "order": 4,
+              "_id": "6ab0023bb281e4ad136374f4"
+            }
+          ],
+          "_id": "6ab0023bb281e4469f6374f5",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.384px;\"><span style=\"color: #1f2937;\"><span style=\"font-size: 13px;\"><strong>Passage</strong></span></span></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\">Many software companies now treat code reviews as a daily habit rather than a last-minute check. A second pair of eyes often finds defects that automated tests miss, especially unclear names, missing edge cases and weak error messages. Reviews also spread knowledge: a junior engineer who reads a senior colleague&rsquo;s change learns the team&rsquo;s style faster than by studying a handbook. The practice has a cost. Long review queues delay releases, and harsh comments discourage people from sharing early drafts. Teams that keep reviews short, set a response-time target and discuss design before large patches are written usually keep both quality and speed. Tools help, but they cannot replace an agreed standard of courtesy and focus.</span></span></p>\n<p style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\">What is the main idea of the passage?</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Passage\nMany software companies now treat code reviews as a daily habit rather than a last-minute check. A second pair of eyes often finds defects that automated tests miss, especially unclear names, missing edge cases and weak error messages. Reviews also spread knowledge: a junior engineer who reads a senior colleague’s change learns the team’s style faster than by studying a handbook. The practice has a cost. Long review queues delay releases, and harsh comments discourage people from sharing early drafts. Teams that keep reviews short, set a response-time target and discuss design before large patches are written usually keep both quality and speed. Tools help, but they cannot replace an agreed standard of courtesy and focus.\nWhat is the main idea of the passage?",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    },
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 600000,
+      "sectionMarks": 10,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "6aaff422894ef03e5459d75b",
+      "name": "Pseudo Code",
+      "order": 4,
+      "numberOfQuestions": 5,
+      "questions": [
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">4</span></p>\n ",
+              "nameText": "\n 4\n ",
+              "order": 1,
+              "_id": "6aafffe858b8cb6477b4b012"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">8</span></p>\n ",
+              "nameText": "\n 8\n ",
+              "order": 2,
+              "_id": "6aafffe858b8cb176ab4b013"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">10</span></p>",
+              "nameText": "10",
+              "order": 3,
+              "_id": "6aafffe858b8cb771bb4b014"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">16</span></p>\n ",
+              "nameText": "\n 16\n ",
+              "order": 4,
+              "_id": "6aafffe858b8cb6959b4b015"
+            }
+          ],
+          "_id": "6aafffe858b8cb5fc6b4b016",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.384px\">\n <span style=\"color: #111827\">What is printed by the following Pseudo\n Code?</span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Integer\n i, j, count</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Set\n count = 0</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">for\n i = 1 to 4 do</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">for\n j = 1 to i do</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n        <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">count\n = count + 1</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">end\n for</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">end\n for</span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Print\n count</span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What is printed by the following Pseudo\n Code?\n Integer\n i, j, count\n Set\n count = 0\n for\n i = 1 to 4 do\n \n    for\n j = 1 to i do\n \n        count\n = count + 1\n \n    end\n for\n end\n for\n Print\n count\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">4</span></p>\n ",
+              "nameText": "\n 4\n ",
+              "order": 1,
+              "_id": "6aafffe858b8cbcd03b4b00d"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">12</span></p>",
+              "nameText": "12",
+              "order": 2,
+              "_id": "6aafffe858b8cb8960b4b00e"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">13</span></p>\n ",
+              "nameText": "\n 13\n ",
+              "order": 3,
+              "_id": "6aafffe858b8cb6627b4b00f"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">14</span></p>\n ",
+              "nameText": "\n 14\n ",
+              "order": 4,
+              "_id": "6aafffe858b8cb8e98b4b010"
+            }
+          ],
+          "_id": "6aafffe858b8cb35a9b4b011",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.384px\">\n <span style=\"color: #111827\">What is the output of the following Pseudo\n Code?</span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Integer\n a, b</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Set\n a = 9, b = 5</span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Print\n a ^ b</span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What is the output of the following Pseudo\n Code?\n Integer\n a, b\n Set\n a = 9, b = 5\n Print\n a ^ b\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">5</span></p>\n ",
+              "nameText": "\n 5\n ",
+              "order": 1,
+              "_id": "6aafffe858b8cb67e1b4b008"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">8</span></p>",
+              "nameText": "8",
+              "order": 2,
+              "_id": "6aafffe858b8cb3584b4b009"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">13</span></p>\n ",
+              "nameText": "\n 13\n ",
+              "order": 3,
+              "_id": "6aafffe858b8cb4bf1b4b00a"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">21</span></p>\n ",
+              "nameText": "\n 21\n ",
+              "order": 4,
+              "_id": "6aafffe858b8cb2b9bb4b00b"
+            }
+          ],
+          "_id": "6aafffe858b8cb1340b4b00c",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.384px\">\n <span style=\"color: #111827\">What value is printed by the following\n Pseudo Code?</span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Function\n F(n)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">if\n n == 0 then return 0</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">if\n n == 1 then return 1</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">return\n F(n - 1) + F(n - 2)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">End\n Function</span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Print\n F(6)</span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What value is printed by the following\n Pseudo Code?\n Function\n F(n)\n \n    if\n n == 0 then return 0\n \n    if\n n == 1 then return 1\n \n    return\n F(n - 1) + F(n - 2)\n End\n Function\n Print\n F(6)\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">2</span></p>\n ",
+              "nameText": "\n 2\n ",
+              "order": 1,
+              "_id": "6aafffe858b8cb7292b4b017"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">4</span></p>",
+              "nameText": "4",
+              "order": 2,
+              "_id": "6aafffe858b8cbc112b4b018"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">6</span></p>\n ",
+              "nameText": "\n 6\n ",
+              "order": 3,
+              "_id": "6aafffe858b8cb03b3b4b019"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">8</span></p>\n ",
+              "nameText": "\n 8\n ",
+              "order": 4,
+              "_id": "6aafffe858b8cb1217b4b01a"
+            }
+          ],
+          "_id": "6aafffe858b8cb6bb7b4b01b",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.384px\">\n <span style=\"color: #111827\">A queue follows FIFO. What is printed by the\n following Pseudo Code?</span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Queue\n Q</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">enqueue(Q,\n 2)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">enqueue(Q,\n 4)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">enqueue(Q,\n 6)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">dequeue(Q)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">enqueue(Q,\n 8)</span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Print\n front(Q)</span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n A queue follows FIFO. What is printed by the\n following Pseudo Code?\n Queue\n Q\n enqueue(Q,\n 2)\n enqueue(Q,\n 4)\n enqueue(Q,\n 6)\n dequeue(Q)\n enqueue(Q,\n 8)\n Print\n front(Q)\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 5,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">3</span></p>\n ",
+              "nameText": "\n 3\n ",
+              "order": 1,
+              "_id": "6aafffe858b8cbb3b6b4b003"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">5</span></p>\n ",
+              "nameText": "\n 5\n ",
+              "order": 2,
+              "_id": "6aafffe858b8cb63feb4b004"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">7</span></p>",
+              "nameText": "7",
+              "order": 3,
+              "_id": "6aafffe858b8cb803cb4b005"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">8</span></p>\n ",
+              "nameText": "\n 8\n ",
+              "order": 4,
+              "_id": "6aafffe858b8cbd374b4b006"
+            }
+          ],
+          "_id": "6aafffe858b8cbb106b4b007",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.384px\">\n <span style=\"color: #111827\">A stack follows LIFO. What is printed by the\n following Pseudo Code?</span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Stack\n S</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">push(S,\n 5)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">push(S,\n 8)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">push(S,\n 3)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">pop(S)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">push(S,\n 7)</span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Print\n peek(S)</span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n A stack follows LIFO. What is printed by the\n following Pseudo Code?\n Stack\n S\n push(S,\n 5)\n push(S,\n 8)\n push(S,\n 3)\n pop(S)\n push(S,\n 7)\n Print\n peek(S)\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    },
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 600000,
+      "sectionMarks": 10,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "6aaff422894ef0a90859d75c",
+      "name": "Numerical Puzzles",
+      "order": 5,
+      "numberOfQuestions": 4,
+      "questions": [
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">47</span></p>\n ",
+              "nameText": "\n 47\n ",
+              "order": 1,
+              "_id": "6aaffad7bd862c5e6533f29b"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%;\"><span style=\"color: #111827;\">49</span></p>",
+              "nameText": "49",
+              "order": 2,
+              "_id": "6aaffad7bd862c155333f29c"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">51</span></p>\n ",
+              "nameText": "\n 51\n ",
+              "order": 3,
+              "_id": "6aaffad7bd862c5ca133f29d"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">54</span></p>\n ",
+              "nameText": "\n 54\n ",
+              "order": 4,
+              "_id": "6aaffad7bd862c89c433f29e"
+            }
+          ],
+          "_id": "6aaff98eb26d37a71160da61",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\">Find the missing number in the 3 &times; 3 matrix.</span></p>\n<table class=\"MsoNormalTable\" style=\"width: 111.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"148\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 37pt; border: 1pt solid #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">16</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">21</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">29</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 37pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">25</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">30</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">38</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 37pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">36</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">41</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37.0pt; border-top: none; border-left: none; border-bottom: solid #4B5563 1.0pt; border-right: solid #4B5563 1.0pt; mso-border-top-alt: solid #4B5563 1.0pt; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.5pt 1.5pt 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.192px; line-height: 108%;\"></p>",
+          "paragraph": null,
+          "nameText": "Find the missing number in the 3 × 3 matrix.\n\n\n\n\n16\n\n\n21\n\n\n29\n\n\n\n\n25\n\n\n30\n\n\n38\n\n\n\n\n36\n\n\n41\n\n\n?\n\n\n\n\n",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 3,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">46</span></p>\n ",
+              "nameText": "\n 46\n ",
+              "order": 1,
+              "_id": "6aaffae38868cdeaa440cd5c"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%;\"><span style=\"color: #111827;\">48</span></p>",
+              "nameText": "48",
+              "order": 2,
+              "_id": "6aaffae38868cd041840cd5d"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">49</span></p>\n ",
+              "nameText": "\n 49\n ",
+              "order": 3,
+              "_id": "6aaffae38868cd71c140cd5e"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">50</span></p>\n ",
+              "nameText": "\n 50\n ",
+              "order": 4,
+              "_id": "6aaffae38868cde82940cd5f"
+            }
+          ],
+          "_id": "6aaff98eb26d3718b260da5c",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\">Find the next number in the pattern sequence.</span></p>\n<table class=\"MsoNormalTable\" style=\"width: 222.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"296\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 37pt; border: 1pt solid #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">3</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">8</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">15</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">24</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">35</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37.0pt; border: solid #4B5563 1.0pt; border-left: none; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.5pt 1.5pt 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.192px; line-height: 108%;\"></p>",
+          "paragraph": null,
+          "nameText": "Find the next number in the pattern sequence.\n\n\n\n\n3\n\n\n8\n\n\n15\n\n\n24\n\n\n35\n\n\n?\n\n\n\n\n",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">28</span></p>\n ",
+              "nameText": "\n 28\n ",
+              "order": 1,
+              "_id": "6aaffaee2e697f26fb304a9b"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">30</span></p>\n ",
+              "nameText": "\n 30\n ",
+              "order": 2,
+              "_id": "6aaffaee2e697fa289304a9c"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%;\"><span style=\"color: #111827;\">32</span></p>",
+              "nameText": "32",
+              "order": 3,
+              "_id": "6aaffaee2e697f5c61304a9d"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">36</span></p>\n ",
+              "nameText": "\n 36\n ",
+              "order": 4,
+              "_id": "6aaffaee2e697f749a304a9e"
+            }
+          ],
+          "_id": "6aaff98eb26d37041f60da57",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\">Find the missing number in the 3 &times; 3 matrix.</span></p>\n<table class=\"MsoNormalTable\" style=\"width: 111.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"148\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 37pt; border: 1pt solid #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">2</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">5</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">12</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 37pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">3</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">6</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">21</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 37pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">4</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">7</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37.0pt; border-top: none; border-left: none; border-bottom: solid #4B5563 1.0pt; border-right: solid #4B5563 1.0pt; mso-border-top-alt: solid #4B5563 1.0pt; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.5pt 1.5pt 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.192px; line-height: 108%;\"></p>",
+          "paragraph": null,
+          "nameText": "Find the missing number in the 3 × 3 matrix.\n\n\n\n\n2\n\n\n5\n\n\n12\n\n\n\n\n3\n\n\n6\n\n\n21\n\n\n\n\n4\n\n\n7\n\n\n?\n\n\n\n\n",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 3,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">16</span></p>\n ",
+              "nameText": "\n 16\n ",
+              "order": 1,
+              "_id": "6aaffe5c4d21d4c4ffb2f2f6"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">18</span></p>\n ",
+              "nameText": "\n 18\n ",
+              "order": 2,
+              "_id": "6aaffe5c4d21d4684eb2f2f7"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%;\"><span style=\"color: #111827;\">20</span></p>",
+              "nameText": "20",
+              "order": 3,
+              "_id": "6aaffe5c4d21d44f7fb2f2f8"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">24</span></p>\n ",
+              "nameText": "\n 24\n ",
+              "order": 4,
+              "_id": "6aaffe5c4d21d4127bb2f2f9"
+            }
+          ],
+          "_id": "6aaff98eb26d37d15460da52",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\">Each figure is a circular wheel: four numbers sit on the rim and one sits at the centre. The same rule applies to both wheels. Find the missing centre number.</span></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.288px;\"><span style=\"color: #4b5563;\"><span style=\"font-size: 12px;\"><em>Wheel A</em></span></span></p>\n<table class=\"MsoNormalTable\" style=\"width: 105.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"140\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 35pt; border: 1pt white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" style=\"margin: .8pt 0cm .8pt 0cm;\"><o:p>&nbsp;</o:p></p>\n</td>\n<td style=\"width: 35pt; border-width: 1pt 1pt 1pt medium; border-style: inset; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">6</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 35pt; border-width: 1pt 1pt 1pt medium; border-style: none; border-color: white white white currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" style=\"margin: .8pt 0cm .8pt 0cm;\"><o:p>&nbsp;</o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 35pt; border-width: medium 1pt 1pt; border-style: inset; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">8</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 35pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">18</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 35pt; border-width: medium 1pt 1pt medium; border-style: inset; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">10</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 35pt; border-width: medium 1pt 1pt; border-style: none; border-color: currentcolor white white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" style=\"margin: .8pt 0cm .8pt 0cm;\"><o:p>&nbsp;</o:p></p>\n</td>\n<td style=\"width: 35pt; border-width: medium 1pt 1pt medium; border-style: inset; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">12</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 35pt; border-bottom: 1pt white; border-right: 1pt white; border-top-style: none; border-left-style: none; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" style=\"margin: .8pt 0cm .8pt 0cm;\"><o:p>&nbsp;</o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><em style=\"color: #4b5563; font-size: 12px;\">Wheel B</em></p>\n<p></p>\n<table class=\"MsoNormalTable\" style=\"width: 105.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"140\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 35pt; border: 1pt white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><span style=\"font-size: 11.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n<td style=\"width: 35pt; border-width: 1pt 1pt 1pt medium; border-style: inset; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">5</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 35pt; border-width: 1pt 1pt 1pt medium; border-style: none; border-color: white white white currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><span style=\"font-size: 11.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 35pt; border-width: medium 1pt 1pt; border-style: ridge; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">9</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 35.0pt; border-top: none; border-left: none; border-bottom: solid #4B5563 1.0pt; border-right: solid #4B5563 1.0pt; mso-border-top-alt: solid #4B5563 1.0pt; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.5pt 1.5pt 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 35pt; border-width: medium 1pt 1pt medium; border-style: inset; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">11</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 35pt; border-width: medium 1pt 1pt; border-style: none; border-color: currentcolor white white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><span style=\"font-size: 11.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n<td style=\"width: 35pt; border-width: medium 1pt 1pt medium; border-style: inset; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">15</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 35pt; border-bottom: 1pt white; border-right: 1pt white; border-top-style: none; border-left-style: none; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><span style=\"font-size: 11.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>",
+          "paragraph": null,
+          "nameText": "Each figure is a circular wheel: four numbers sit on the rim and one sits at the centre. The same rule applies to both wheels. Find the missing centre number.\nWheel A\n\n\n\n\n \n\n\n6\n\n\n \n\n\n\n\n8\n\n\n18\n\n\n10\n\n\n\n\n \n\n\n12\n\n\n \n\n\n\n\nWheel B\n\n\n\n\n\n \n\n\n5\n\n\n \n\n\n\n\n9\n\n\n?\n\n\n11\n\n\n\n\n \n\n\n15\n\n\n \n\n\n\n",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    },
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 600000,
+      "sectionMarks": 10,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "6aaff422894ef0562559d75d",
+      "name": "English Grammar",
+      "order": 6,
+      "numberOfQuestions": 5,
+      "questions": [
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">worked on</span></p>\n ",
+              "nameText": "\n worked on\n ",
+              "order": 1,
+              "_id": "6aaff7a3062a2d73c14fcd9e"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">am working on</span></p>\n ",
+              "nameText": "\n am working on\n ",
+              "order": 2,
+              "_id": "6aaff7a3062a2d53314fcd9f"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">have been working on</span></p>",
+              "nameText": "have been working on",
+              "order": 3,
+              "_id": "6aaff7a3062a2d20544fcda0"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">had worked on</span></p>\n ",
+              "nameText": "\n had worked on\n ",
+              "order": 4,
+              "_id": "6aaff7a3062a2dfa5a4fcda1"
+            }
+          ],
+          "_id": "6aaff7a3062a2d52384fcda2",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">I _____ this module since 9 a.m. and I still\n have two test cases left.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n I _____ this module since 9 a.m. and I still\n have two test cases left.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Everybody in</span></p>\n ",
+              "nameText": "\n Everybody in\n ",
+              "order": 1,
+              "_id": "6aaff7a3062a2dd4e74fcdad"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">the two project teams</span></p>\n ",
+              "nameText": "\n the two project teams\n ",
+              "order": 2,
+              "_id": "6aaff7a3062a2d400f4fcdae"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">have submitted the timesheet</span></p>",
+              "nameText": "have submitted the timesheet",
+              "order": 3,
+              "_id": "6aaff7a3062a2d3ed44fcdaf"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">No error</span></p>\n ",
+              "nameText": "\n No error\n ",
+              "order": 4,
+              "_id": "6aaff7a3062a2d85ea4fcdb0"
+            }
+          ],
+          "_id": "6aaff7a3062a2d41dd4fcdb1",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Identify the part that contains an error:\n Everybody in the two project teams have submitted the timesheet.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Identify the part that contains an error:\n Everybody in the two project teams have submitted the timesheet.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 5,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">are</span></p>\n ",
+              "nameText": "\n are\n ",
+              "order": 1,
+              "_id": "6aaff7a3062a2d3ddd4fcd99"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">were</span></p>\n ",
+              "nameText": "\n were\n ",
+              "order": 2,
+              "_id": "6aaff7a3062a2d46e64fcd9a"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">is</span></p>",
+              "nameText": "is",
+              "order": 3,
+              "_id": "6aaff7a3062a2d6b534fcd9b"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">have been</span></p>\n ",
+              "nameText": "\n have been\n ",
+              "order": 4,
+              "_id": "6aaff7a3062a2d24484fcd9c"
+            }
+          ],
+          "_id": "6aaff7a3062a2d29ad4fcd9d",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A bouquet of roses _____ placed on the\n reception desk every morning.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n A bouquet of roses _____ placed on the\n reception desk every morning.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">She did not knew</span></p>",
+              "nameText": "She did not knew",
+              "order": 1,
+              "_id": "6aaff7a3062a2d248d4fcda8"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">that the meeting</span></p>\n ",
+              "nameText": "\n that the meeting\n ",
+              "order": 2,
+              "_id": "6aaff7a3062a2df06d4fcda9"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">had been postponed</span></p>\n ",
+              "nameText": "\n had been postponed\n ",
+              "order": 3,
+              "_id": "6aaff7a3062a2d200a4fcdaa"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">No error</span></p>\n ",
+              "nameText": "\n No error\n ",
+              "order": 4,
+              "_id": "6aaff7a3062a2dfdf64fcdab"
+            }
+          ],
+          "_id": "6aaff7a3062a2df7d54fcdac",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Identify the part that contains an error:\n She did not knew that the meeting had been postponed.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Identify the part that contains an error:\n She did not knew that the meeting had been postponed.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">until</span></p>",
+              "nameText": "until",
+              "order": 1,
+              "_id": "6aaff7a3062a2d271d4fcda3"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">since</span></p>\n ",
+              "nameText": "\n since\n ",
+              "order": 2,
+              "_id": "6aaff7a3062a2d6a984fcda4"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">for</span></p>\n ",
+              "nameText": "\n for\n ",
+              "order": 3,
+              "_id": "6aaff7a3062a2d80434fcda5"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">at</span></p>\n ",
+              "nameText": "\n at\n ",
+              "order": 4,
+              "_id": "6aaff7a3062a2d20fe4fcda6"
+            }
+          ],
+          "_id": "6aaff7a3062a2d83214fcda7",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The offer letter is valid _____ 30 September\n 2026.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n The offer letter is valid _____ 30 September\n 2026.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    },
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 600000,
+      "sectionMarks": 1,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "6aaff422894ef0d3dd59d75e",
+      "name": "Essay Writting",
+      "order": 7,
+      "numberOfQuestions": 1,
+      "questions": [
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "order": 1,
+              "solution": [
+                "Type your option"
+              ],
+              "type": "constants",
+              "_id": "6aaebc29b76f448a03662927"
+            }
+          ],
+          "_id": "6aaff422894ef011dd59d76b",
+          "isGlobal": false,
+          "name": "<p>Impact of Artificial Intelligence on Students and Education<img id=\"3\" src=\"images/img_7c5be902b402.jpeg\" /></p>",
+          "nameText": "Impact of Artificial Intelligence on Students and Education",
+          "paragraph": null,
+          "type": "fill_ups",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 1,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isGpscType": false,
+          "isBookmark": false
+        }
+      ]
+    }
+  ],
+  "practiceTestUrls": [],
+  "answerSheetAttachments": [],
+  "updateAfterSync": {},
+  "currentSection": "6aaff422894ef058e359d758",
+  "testTotalDuration": 7200000,
+  "examStartDate": "2026-10-10T17:47:51.677Z"
+}

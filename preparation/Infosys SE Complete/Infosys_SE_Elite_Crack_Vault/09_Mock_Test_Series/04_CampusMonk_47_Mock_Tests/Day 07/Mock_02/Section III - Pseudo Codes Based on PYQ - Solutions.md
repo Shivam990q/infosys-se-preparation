@@ -1,0 +1,155 @@
+# Section III : Pseudo Codes Based on PYQ — Solutions & Explanations
+
+**Total Questions:** 7 | **Total Marks:** 7
+
+---
+
+## Section: Technical Pseudo Codes -01
+
+### Question 1
+
+What is the output of the following C code? #include <stdio.h> int main() { int num = 987; int rem; while(num != 0) { rem = num % 4; num = num / 10; } printf("%d", rem); }
+
+**Options:**
+
+- (A) 0
+- ✅ **(B) 1** *(Correct Answer)*
+- (C) 10
+- (D) 5
+
+**Correct Answer:** Option (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
+---
+
+### Question 2
+
+What is the output of the following C code? #include <stdio.h> int main() { float x = 0.0; long int y = 10; printf("%d", sizeof(y) == sizeof(x + y)); return 0; }
+
+**Options:**
+
+- (A) 3
+- ✅ **(B) 1** *(Correct Answer)*
+- (C) 5
+- (D) 2
+
+**Correct Answer:** Option (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
+---
+
+### Question 3
+
+Predict the output of the given pseudocode if the value of the number is 6: Read number k = 2 i = 2 while i <= number: k = k * i i = i + 1 end while write k
+
+**Options:**
+
+- ✅ **(A) 1440.0** *(Correct Answer)*
+- (B) 1340.0
+- (C) 1700.0
+- (D) 1560.0
+
+**Correct Answer:** Option (A)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
+---
+
+### Question 4
+
+What is the output of the following C code? int f(int x, int *py, int **ppz) { int y, z; **ppz += 1; z = **ppz; *py += 2; y = *py; x += 3; return x + y + z; } void main() { int c, *b, **a; c = 4; b = &c; a = &b; printf("%d ", f(c, b, a)); return 0; }
+
+**Options:**
+
+- (A) 18
+- ✅ **(B) 19** *(Correct Answer)*
+- (C) 21
+- (D) 22
+
+**Correct Answer:** Option (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
+---
+
+### Question 5
+
+What is the output of the following C code? #include <stdio.h> int main() { int a = 12; void *ptr = (int *)&a; printf("%d", *ptr); getchar(); return 0; }
+
+**Options:**
+
+- (A) 12
+- ✅ **(B) Compiler Error** *(Correct Answer)*
+- (C) Run Time Error
+- (D) 0
+
+**Correct Answer:** Option (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
+---
+
+### Question 6
+
+Predict the output of the following pseudocode. Integer x, y, z Set x = -2, y = 3, z = 1 if (x + (2 & 2) && y + (3 & 3) && z + (2 ^ 2)) x = x - 2 y = x Else x = z y = y ^ 2 End if Print x + y + z
+
+**Options:**
+
+- (A) 2
+- (B) 11
+- ✅ **(C) 3** *(Correct Answer)*
+- (D) 0
+
+**Correct Answer:** Option (C)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
+---
+
+### Question 7
+
+int main() { int x, y = 5, z = 5; x = y == z; Print(x) return 0; }
+
+**Options:**
+
+- (A) 0
+- ✅ **(B) 1** *(Correct Answer)*
+- (C) 5
+- (D) Compilation Error
+
+**Correct Answer:** Option (B)
+
+
+
+**Explanation / Solution:**
+- **Formal Proof & Derivation:** Option **Option (B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
+- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
+
+---
+

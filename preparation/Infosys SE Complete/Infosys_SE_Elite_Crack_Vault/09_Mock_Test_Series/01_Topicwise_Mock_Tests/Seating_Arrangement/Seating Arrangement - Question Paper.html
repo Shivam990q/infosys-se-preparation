@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Seating Arrangement - Question Paper</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; max-width: 900px; margin: 30px auto; padding: 0 20px; color: #222; background: #f8fafc; }
+  .header { background: #fff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 25px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.04); }
+  .header h1 { margin: 0 0 10px 0; color: #0284c7; }
+  .meta { display: flex; gap: 15px; font-weight: 600; color: #475569; flex-wrap: wrap; }
+  .meta span { background: #f1f5f9; padding: 6px 14px; border-radius: 6px; font-size: 0.9em; }
+  .section-title { font-size: 1.3em; font-weight: bold; margin: 30px 0 15px; color: #1e293b; border-bottom: 2px solid #0284c7; padding-bottom: 6px; }
+  .q-card { background: #fff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 24px; margin-bottom: 25px; box-shadow: 0 2px 4px rgba(0,0,0,0.03); }
+  .q-header { display: flex; justify-content: space-between; font-weight: bold; margin-bottom: 14px; font-size: 1.1em; color: #0f172a; border-bottom: 1px solid #f1f5f9; padding-bottom: 8px; }
+  .q-text { margin-bottom: 18px; font-size: 1.05em; color: #334155; }
+  .options { list-style-type: none; padding-left: 0; margin: 0; }
+  .options li { padding: 10px 14px; margin-bottom: 8px; background: #fff; border: 1px solid #cbd5e1; border-radius: 6px; display: flex; align-items: baseline; }
+  .opt-badge { font-weight: bold; margin-right: 12px; min-width: 28px; color: #0284c7; }
+  img { max-width: 100%; height: auto; display: inline-block; vertical-align: middle; border-radius: 4px; }
+  .q-text img { max-width: 95%; margin: 12px auto; display: block; border: 1px solid #e2e8f0; padding: 6px; background: #fff; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,0.05); }
+  .options img { max-width: 85%; margin: 6px 0; display: inline-block; vertical-align: middle; }
+  @media print { body { margin: 0; padding: 0; max-width: 100%; background: #fff; } .q-card { break-inside: avoid; border: 1px solid #ccc; } }
+</style>
+<script>
+  window.MathJax = {
+    tex: { inlineMath: [['$', '$'], ['\\(', '\\)']], displayMath: [['$$', '$$'], ['\\[', '\\]']], processEscapes: true },
+    svg: { fontCache: 'global' }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+</head>
+<body>
+  <div class="header">
+    <h1>Seating Arrangement</h1>
+    <div class="meta">
+      <span>Total Questions: 20</span>
+      <span>Total Marks: 80</span>
+      <span>Duration: 1500000 Minutes</span>
+    </div>
+  </div>
+  <div class="section-title">Section: Seating Arrangement</div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 1</span><span>[Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]</span></div>
+    <div class="q-text"><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Eight
+ persons viz. A, B, C, D, E, F, G, and H are sitting around a
+ circular table such that all of them are facing towards the
+ center. The consecutive alphabetically named persons are not
+ sitting adjacent to each other. Two persons sit between A and C,
+ who faces E. Only one person sits between A and F. The number of
+ persons sitting between E and F is twice the number of persons
+ sitting between C and H when counted from the right of both F and
+ C. D sits exactly between B and G, who doesn’t sit adjacent
+ to E.</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">What
+ is the position of F with respect to H?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Fourth
+ to the right</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Immediate
+ left</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Second
+ to the left</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Third
+ to the right</span></span></span></span></p>
+ </div></li>
+    </ul>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 2</span><span>[Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]</span></div>
+    <div class="q-text"><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Each
+ of these questions are based on the information given below:</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">A
+ ,B, C, D and E are five men sitting in a line facing to south -
+ while M, N, O, P and Q are five ladies sitting in a second line
+ parallel to the first line and are facing to North.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">B
+ who is just next to the left of D, is opposite to Q.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">C
+ and N are diagonally opposite to each other.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">E
+ is opposite to O who is just next right of M.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">P
+ who is just to the left of Q, is opposite to D.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">M
+ is at one end of the line.</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Which
+ of the following pair is diagonally opposite to each other?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">EQ</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">BO</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">AN</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">AM</span></span></span></span></p>
+ </div></li>
+    </ul>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 3</span><span>[Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Six
+ friends P, Q, R, S, T and U are sitting around the hexagonal table
+ each at one corner and are facing the centre of the hexagonal. P
+ is second to the left of U. Q is neighbour of R and S. T is second
+ to the left of S. Which of the following are the neighbours of P ?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">U,P</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">U,R</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">T,R</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">None</span></span></span></span></p>
+ </div></li>
+    </ul>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 4</span><span>[Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Eight
+ persons – Amar, Ansh, Arun, Amit, Ashu, Anup, Arif and Anil,
+ are sitting around a circular table facing the centre but not
+ necessarily in the same order. Arif is to the immediate left of
+ Ashu. Anup is to the immediate left of Arun. Amar is the neighbour
+ of Ansh. Amit is between Anup and Ansh. Arif is not the neighbour
+ of Ansh or Anil. What is the position of Arif with respect to
+ Amit?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Third
+ to the right</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Second
+ to the left</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Fourth
+ to the right</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Fourth
+ to the left</span></span></span></span></p>
+ </div></li>
+    </ul>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 5</span><span>[Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]</span></div>
+    <div class="q-text"><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Six
+ persons namely P, R, S, T, W, and X are sitting around a
+ rectangular table such that one sits at each of the shorter sides
+ and two sit at each of the longer sides of the table facing
+ towards the center of the table.</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">W
+ sits on the longer side and two persons sit between P and W. R
+ sits opposite to X and is near P. T doesn't sit near W. X doesn't
+ sit immediately left of T. Pick the odd one out.</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">T</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">P</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">W</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">None</span></span></span></span></p>
+ </div></li>
+    </ul>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 6</span><span>[Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]</span></div>
+    <div class="q-text"><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Six
+ persons namely P, R, S, T, W, and X are sitting around a
+ rectangular table such that one sits at each of the shorter sides
+ and two sit at each of the longer sides of the table facing
+ towards the center of the table.</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">W
+ sits on the longer side and two persons sit between P and W. R
+ sits opposite to X and is near P. T doesn't sit near W. X doesn't
+ sit immediately left of T. How many persons sit between P and T
+ when counted from the left of P?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">1</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">2</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">3</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">4</span></span></span></span></p>
+ </div></li>
+    </ul>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 7</span><span>[Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">A,
+ P, R, X, S and Z are sitting in a row. S and Z are in the centre.
+ A and P are at the ends. R is sitting to the left of A. Who is to
+ the right of P ?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">X</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">S</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Z</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">A</span></span></span></span></p>
+ </div></li>
+    </ul>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 8</span><span>[Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Five
+ girls are sitting on a bench to be photographed. Seema is to the
+ left of Rani and to the right of Bindu. Mary is to the right of
+ Rani. Reeta is between Rani and Mary. Who is sitting immediate
+ right to Reeta ?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Bindu
+ </span></span></span></span>
+ </p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Rani</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Mary</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Seema</span></span></span></span></p>
+ </div></li>
+    </ul>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 9</span><span>[Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]</span></div>
+    <div class="q-text"><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Eight
+ persons viz. A, B, C, D, E, F, G, and H are sitting around a
+ circular table such that all of them are facing towards the
+ center. The consecutive alphabetically named persons are not
+ sitting adjacent to each other. Two persons sit between A and C,
+ who faces E. Only one person sits between A and F. The number of
+ persons sitting between E and F is twice the number of persons
+ sitting between C and H when counted from the right of both F and
+ C. D sits exactly between B and G, who doesn’t sit adjacent
+ to E.</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Who
+ among the following person sits second to the left of C?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">The
+ one who sits to the immediate right of E</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">G</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">The
+ one who sits third to the right of A</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">H</span></span></span></span></p>
+ </div></li>
+    </ul>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 10</span><span>[Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">A,
+ B, C, D and E are sitting on a bench. A is sitting next to B, C is
+ sitting next to D, D is not sitting with E who is on the left end
+ of the bench. C is on the second position from the right. A is to
+ the right of B and E. A and C are sitting together. In which
+ position A is sitting ?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Between
+ B and C</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Between
+ B and D</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Between
+ E and D</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Between
+ C and D</span></span></span></span></p>
+ </div></li>
+    </ul>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 11</span><span>[Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]</span></div>
+    <div class="q-text"><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Each
+ of these questions are based on the information given below:</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">A
+ ,B, C, D and E are five men sitting in a line facing to south -
+ while M, N, O, P and Q are five ladies sitting in a second line
+ parallel to the first line and are facing to North.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">B
+ who is just next to the left of D, is opposite to Q.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">C
+ and N are diagonally opposite to each other.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">E
+ is opposite to O who is just next right of M.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">P
+ who is just to the left of Q, is opposite to D.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">M
+ is at one end of the line.</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Who
+ is sitting just opposite to N ?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">B</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">A</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">C</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">D</span></span></span></span></p>
+ </div></li>
+    </ul>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 12</span><span>[Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Six
+ friends P, Q, R, S, T and U are sitting around the hexagonal table
+ each at one corner and are facing the centre of the hexagonal. P
+ is second to the left of U. Q is neighbour of R and S. T is second
+ to the left of S. Which one is sitting opposite to P ?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">R</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">S</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">T</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Q</span></span></span></span></p>
+ </div></li>
+    </ul>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 13</span><span>[Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]</span></div>
+    <div class="q-text"><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">In
+ a group discussion A, B, C, D, E and F are sitting around a
+ rectangular table.</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">A
+ is sitting on a side alone. B, C are sitting on the same side. F
+ is facing A. D is the immediate left of F. C is facing D. Who is
+ immediate right of A?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">B</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">F</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">D</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">E</span></span></span></span></p>
+ </div></li>
+    </ul>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 14</span><span>[Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]</span></div>
+    <div class="q-text"><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Eight
+ persons viz. A, B, C, D, E, F, G, and H are sitting around a
+ circular table such that all of them are facing towards the
+ center. The consecutive alphabetically named persons are not
+ sitting adjacent to each other. Two persons sit between A and C,
+ who faces E. Only one person sits between A and F. The number of
+ persons sitting between E and F is twice the number of persons
+ sitting between C and H when counted from the right of both F and
+ C. D sits exactly between B and G, who doesn’t sit adjacent
+ to E.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Find
+ out the series that follow the same logic.</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">DG
+ FA BC ___</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">HD</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">FE</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">HB</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">AG</span></span></span></span></p>
+ </div></li>
+    </ul>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 15</span><span>[Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]</span></div>
+    <div class="q-text"><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">In
+ a group discussion A, B, C, D, E and F are sitting around a
+ rectangular table.</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">A
+ is sitting on a side alone. B, C are sitting on the same side. F
+ is facing A. D is the immediate left of F. C is facing D. Who is
+ between B and F?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">C</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">D</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">A</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">E</span></span></span></span></p>
+ </div></li>
+    </ul>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 16</span><span>[Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Six
+ people - S, T, U, V, W and Z are sitting around a circular table
+ facing towards centre. Only one person is sitting between T and W.
+ Z is an immediate neighbour of W. S is sitting third to left of Z.
+ U is an immediate neighbour of W. V is not sitting immediate left
+ of T. How many people are sitting between U and Z, when counted
+ from the right of Z?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">1</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">2</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">3</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">4</span></span></span></span></p>
+ </div></li>
+    </ul>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 17</span><span>[Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Five
+ girls are sitting on a bench to be photographed. Seema is to the
+ left of Rani and to the right of Bindu. Mary is to the right of
+ Rani. Reeta is between Rani and Mary. Who is in the middle of the
+ photograph ?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Bindu</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Rani</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Seema</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Reeta</span></span></span></span></p>
+ </div></li>
+    </ul>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 18</span><span>[Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Eight
+ persons – Amar, Ansh, Arun, Amit, Ashu, Anup, Arif and Anil,
+ are sitting around a circular table facing the centre but not
+ necessarily in the same order. Arif is to the immediate left of
+ Ashu. Anup is to the immediate left of Arun. Amar is the neighbour
+ of Ansh. Amit is between Anup and Ansh. Arif is not the neighbour
+ of Ansh or Anil. How many persons were sitting between Amit and
+ Anil, when counted from the left of Anil?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">1</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">2</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">3</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">4</span></span></span></span></p>
+ </div></li>
+    </ul>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 19</span><span>[Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Eight
+ persons – Amar, Ansh, Arun, Amit, Ashu, Anup, Arif and Anil,
+ are sitting around a circular table facing the centre but not
+ necessarily in the same order. Arif is to the immediate left of
+ Ashu. Anup is to the immediate left of Arun. Amar is the neighbour
+ of Ansh. Amit is between Anup and Ansh. Arif is not the neighbour
+ of Ansh or Anil. Which of the following person sits opposite to
+ the one who sits third to the left of Anil?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Anup</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Arif</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Amar</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Arun</span></span></span></span></p>
+ </div></li>
+    </ul>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 20</span><span>[Marks: +{'positive': 4, 'negative': 1, 'negativeUnattempted': 0}]</span></div>
+    <div class="q-text"><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Six
+ persons namely P, R, S, T, W, and X are sitting around a
+ rectangular table such that one sits at each of the shorter sides
+ and two sit at each of the longer sides of the table facing
+ towards the center of the table.</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">W
+ sits on the longer side and two persons sit between P and W. R
+ sits opposite to X and is near P. T doesn't sit near W. X doesn't
+ sit immediately left of T. Who sits second to the right of P?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">T</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">R</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">X</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">S</span></span></span></span></p>
+ </div></li>
+    </ul>
+  </div>
+</body>
+</html>

@@ -1,0 +1,853 @@
+{
+  "_id": "61532320fd047509cafcf28e",
+  "settings": {
+    "fonts": {},
+    "grades": {
+      "A": {
+        "max": 100,
+        "min": 70
+      },
+      "B": {
+        "max": 69,
+        "min": 50
+      },
+      "C": {
+        "max": 49,
+        "min": 35
+      },
+      "D": {
+        "max": 34,
+        "min": 20
+      },
+      "E": {
+        "max": 19,
+        "min": 10
+      },
+      "F": {
+        "max": 9,
+        "min": 0
+      }
+    },
+    "hasOptionalQuestions": false,
+    "settingsForRTG": {},
+    "generateBatchRank": true,
+    "defaultFont": null,
+    "generateInstitutionalRank": true,
+    "generatePercentile": true,
+    "showQuestionWiseTime": true,
+    "allowResultSharing": true,
+    "showQuestionTimer": true,
+    "calculatorType": null,
+    "enableLetterGrading": true,
+    "generateRandomTest": false,
+    "isSectionSwitchingEnabled": true,
+    "isSectionalSubmit": null,
+    "shuffleQuestions": false,
+    "showAnswers": true,
+    "isSolutionMultipleViewEnabled": true,
+    "shuffleOptions": false,
+    "revealCorrectAnswers": "all",
+    "revealAnswersTime": "now",
+    "parseMathJax": false
+  },
+  "isReadyToLink": true,
+  "isLinked": true,
+  "instructions": "",
+  "isSectionEnable": false,
+  "isReloadRequired": false,
+  "totalNumberOfQuestions": 15,
+  "totalMarks": 15,
+  "isAttempted": true,
+  "name": "5 Ful length Verbal Ability",
+  "duration": 900000,
+  "createdBy": "609d141ffef055578d05892c",
+  "parentFolder": "60dc8db9b61a0f2a03adf11e",
+  "sections": [
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 0,
+      "sectionMarks": 15,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "6153233547e7edacadfaecfa",
+      "name": "Cocubes Verbal Aptitude",
+      "order": 1,
+      "numberOfQuestions": 15,
+      "questions": [
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">to let</span></p>",
+              "nameText": "to let",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "61533144246b2a1f26ff0520"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">for letting</span></p>",
+              "nameText": "for letting",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "61533144246b2a5d95ff0521"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">to be let out</span></p>",
+              "nameText": "to be let out",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "61533144246b2a4e27ff0522"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">no improvement</span></p>",
+              "nameText": "no improvement",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "61533144246b2acebcff0523"
+            }
+          ],
+          "_id": "61532340246b2a77affeee07",
+          "isGlobal": false,
+          "name": "<p><span style=\"font-size: 14pt;\"><strong>Direction: Improve the bracketed part of the sentence.</strong></span></p>\n<p><span style=\"font-size: 14pt;\"><strong>In the housing society where I live there is a nice house (to let out).</strong></span></p>",
+          "paragraph": null,
+          "nameText": "Direction: Improve the bracketed part of the sentence.\nIn the housing society where I live there is a nice house (to let out).",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">dearth</span></p>",
+              "nameText": "dearth",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "61533144246b2a8587ff052c"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">deficit</span></p>",
+              "nameText": "deficit",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "61533144246b2a21ceff052d"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">lack</span></p>",
+              "nameText": "lack",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "61533144246b2a4217ff052e"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">cache</span></p>",
+              "nameText": "cache",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "61533144246b2a164dff052f"
+            }
+          ],
+          "_id": "615323dd8c98b97b4f8ee2ac",
+          "isGlobal": false,
+          "name": "<p><span style=\"font-size: 18.6667px;\"><strong>Select the synonym of \"Stash\"</strong></span></p>",
+          "paragraph": null,
+          "nameText": "Select the synonym of \"Stash\"",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">Candidate</span></p>",
+              "nameText": "Candidate",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "61533144246b2ab9f9ff0544"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">Elect</span></p>",
+              "nameText": "Elect",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "61533144246b2afed5ff0545"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">Volunteer</span></p>",
+              "nameText": "Volunteer",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "61533144246b2a553fff0546"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">Nominator</span></p>",
+              "nameText": "Nominator",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "61533144246b2a5651ff0547"
+            }
+          ],
+          "_id": "615323deb26d01e9ff2eb471",
+          "isGlobal": false,
+          "name": "<p><span style=\"font-size: 18.6667px;\"><strong>Direction: In the following question, out of the four alternatives, select the alternative which is the best substitute of the phrase.</strong></span></p>\n<p><span style=\"font-size: 18.6667px;\"><strong>A person who applies for a job or is nominated for election.</strong></span></p>",
+          "paragraph": null,
+          "nameText": "Direction: In the following question, out of the four alternatives, select the alternative which is the best substitute of the phrase.\nA person who applies for a job or is nominated for election.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">QRP</span></p>",
+              "nameText": "QRP",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "61533144246b2a304cff0550"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">PQR</span></p>",
+              "nameText": "PQR",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "61533144246b2a2dcaff0551"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">RPQ</span></p>",
+              "nameText": "RPQ",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "61533144246b2a728cff0552"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">QPR</span></p>",
+              "nameText": "QPR",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "61533144246b2a6030ff0553"
+            }
+          ],
+          "_id": "615323de15d25c0f71f1dd91",
+          "isGlobal": false,
+          "name": "<p><span style=\"font-size: 18.6667px;\"><strong>Rearrange the parts of the sentence in correct order.</strong></span></p>\n<p><span style=\"font-size: 18.6667px;\"><strong>Ironically, in spite of a decline in poverty,</strong></span></p>\n<p><span style=\"font-size: 18.6667px;\"><strong>P. the proportion of</strong></span></p>\n<p><span style=\"font-size: 18.6667px;\"><strong>Q. the population receiving welfare</strong></span></p>\n<p><span style=\"font-size: 18.6667px;\"><strong>R. benefits has risen sharply</strong></span></p>",
+          "paragraph": null,
+          "nameText": "Rearrange the parts of the sentence in correct order.\nIronically, in spite of a decline in poverty,\nP. the proportion of\nQ. the population receiving welfare\nR. benefits has risen sharply",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">Sunny slipped at the turn as he was driving the car so fast.</span></p>",
+              "nameText": "Sunny slipped at the turn as he was driving the car so fast.",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "61533144246b2a2c2bff0538"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">So fast was Sunny driving the car that it slipped at the turn.</span></p>",
+              "nameText": "So fast was Sunny driving the car that it slipped at the turn.",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "61533144246b2a34e1ff0539"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">The car was being driven by Sunny so fast that it slipped at the turn</span></p>",
+              "nameText": "The car was being driven by Sunny so fast that it slipped at the turn",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "61533144246b2a2038ff053a"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">The car slipped at the turn as Sunny was driving it so fast.</span></p>",
+              "nameText": "The car slipped at the turn as Sunny was driving it so fast.",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "61533144246b2a76c4ff053b"
+            }
+          ],
+          "_id": "615323df28c2095b1198a9d4",
+          "isGlobal": false,
+          "name": "<p><span style=\"font-size: 18.6667px;\"><strong>In the following question, a sentence has been given in Active/Passive voice. Out of four alternatives suggested, select the one which best </strong></span><span style=\"font-size: 18.6667px;\"><strong>expresses the same sentence in Passive/Active voice.</strong></span></p>\n<p><span style=\"font-size: 18.6667px;\"><strong>Sunny was driving the car so fast that it slipped at the turn.</strong></span></p>",
+          "paragraph": null,
+          "nameText": "In the following question, a sentence has been given in Active/Passive voice. Out of four alternatives suggested, select the one which best expresses the same sentence in Passive/Active voice.\nSunny was driving the car so fast that it slipped at the turn.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 5,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">for</span></p>",
+              "nameText": "for",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "61533144246b2abe73ff0524"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">which</span></p>",
+              "nameText": "which",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "61533144246b2acebfff0525"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">that</span></p>",
+              "nameText": "that",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "61533144246b2a5951ff0526"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">of</span></p>",
+              "nameText": "of",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "61533144246b2a4be2ff0527"
+            }
+          ],
+          "_id": "615323dfb26d01ba262eb476",
+          "isGlobal": false,
+          "name": "<p><span style=\"font-size: 18.6667px;\"><strong>In the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out </strong></span><span style=\"font-size: 18.6667px;\"><strong>of the four alternatives.</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18.6667px;\"><strong>Sometimes the grand _______ </strong></span><span style=\"font-size: 18.6667px;\"><strong>of the Left and the Right do not seem to have any relationship with the lived experiences of ordinary Indians. For the past two </strong></span><span style=\"font-size: 18.6667px;\"><strong>decades, the Left has tried to expand social welfare programmes&nbsp;</strong></span><strong style=\"font-size: 18.6667px;\">_______ </strong><strong style=\"font-size: 18.6667px;\">the poor in the country by highlighting the growing&nbsp;</strong><strong style=\"font-size: 18.6667px;\">_______ </strong><strong style=\"font-size: 18.6667px;\">between the rich and the </strong><span style=\"font-size: 18.6667px;\"><strong>poor. The Right, on the other hand, points to the growing&nbsp;</strong></span><strong style=\"font-size: 18.6667px;\">_______&nbsp;</strong><strong style=\"font-size: 18.6667px;\">of politically driven welfare policies and emphasises the need for economic growth to</strong><span style=\"font-size: 18.6667px;\"><strong>&nbsp;</strong></span><strong style=\"font-size: 18.6667px;\">_______ </strong><strong style=\"font-size: 18.6667px;\">poverty and improve the lives of the poor.</strong></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18.6667px;\"><strong>Left has tried to expand social welfare programmes</strong></span><span style=\"font-size: 18.6667px;\"><strong>&nbsp;</strong></span><strong style=\"font-size: 18.6667px;\">_______ </strong><strong style=\"font-size: 18.6667px;\">the poor</strong></p>",
+          "paragraph": null,
+          "nameText": "In the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n \nSometimes the grand _______ of the Left and the Right do not seem to have any relationship with the lived experiences of ordinary Indians. For the past two decades, the Left has tried to expand social welfare programmes _______ the poor in the country by highlighting the growing _______ between the rich and the poor. The Right, on the other hand, points to the growing _______ of politically driven welfare policies and emphasises the need for economic growth to _______ poverty and improve the lives of the poor.\n \nLeft has tried to expand social welfare programmes _______ the poor",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 6,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">The cup was filled with dark filtered coffee by mother.</span></p>",
+              "nameText": "The cup was filled with dark filtered coffee by mother.",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "61533144246b2a0545ff053c"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">Mother filled in the cup coffee which was dark and filtered.</span></p>",
+              "nameText": "Mother filled in the cup coffee which was dark and filtered.",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "61533144246b2adc67ff053d"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">The cup was being filled by mother with dark filtered coffee.</span></p>",
+              "nameText": "The cup was being filled by mother with dark filtered coffee.",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "61533144246b2a76f5ff053e"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">The filtered coffee which was dark was filled into the cup by mother.</span></p>",
+              "nameText": "The filtered coffee which was dark was filled into the cup by mother.",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "61533144246b2a71d1ff053f"
+            }
+          ],
+          "_id": "615323e08c98b9e8bc8ee2b1",
+          "isGlobal": false,
+          "name": "<p><span style=\"font-size: 18.6667px;\"><strong>In the following question, a sentence has been given in Active/Passive voice. Out of four alternatives suggested, select the one which best</strong></span></p>\n<p><span style=\"font-size: 18.6667px;\"><strong>expresses the same sentence in Passive/Active voice.</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18.6667px;\"><strong>Mother filled dark filtered coffee in the cup.</strong></span></p>",
+          "paragraph": null,
+          "nameText": "In the following question, a sentence has been given in Active/Passive voice. Out of four alternatives suggested, select the one which best\nexpresses the same sentence in Passive/Active voice.\n \nMother filled dark filtered coffee in the cup.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 7,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">cease</span></p>",
+              "nameText": "cease",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "61533144246b2a393dff0530"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">terminate</span></p>",
+              "nameText": "terminate",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "61533144246b2a8429ff0531"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">gash</span></p>",
+              "nameText": "gash",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "61533144246b2a59a2ff0532"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">sew</span></p>",
+              "nameText": "sew",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "61533144246b2a32d9ff0533"
+            }
+          ],
+          "_id": "615323e0b26d01bd192eb47b",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"font-size: 14pt;\">Direction: Select the synonym 'Rip'</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Direction: Select the synonym 'Rip'",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 8,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">issue</span></p>",
+              "nameText": "issue",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "61533144246b2a2d6aff0548"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">matter</span></p>",
+              "nameText": "matter",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "61533144246b2a755dff0549"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">pain</span></p>",
+              "nameText": "pain",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "61533144246b2a16f2ff054a"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">burden</span></p>",
+              "nameText": "burden",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "61533144246b2a3604ff054b"
+            }
+          ],
+          "_id": "615323e18c98b92f498ee2b6",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"font-size: 14pt;\">Directon: In the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out </span></strong><strong><span style=\"font-size: 14pt;\">of the four alternatives.</span></strong></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-size: 14pt;\">Sometimes the grand _______ </span></strong><strong><span style=\"font-size: 14pt;\">of the Left and the Right do not seem to have any relationship with the lived experiences of ordinary Indians. For the past two </span></strong><strong><span style=\"font-size: 14pt;\">decades, the Left has tried to expand social welfare programmes</span></strong><strong style=\"font-size: 1.4rem;\"><span style=\"font-size: 14pt;\"> _______&nbsp;</span></strong><strong style=\"font-size: 1.4rem;\"><span style=\"font-size: 14pt;\">the poor in the country by highlighting the growing</span></strong><strong style=\"font-size: 1.4rem;\"><span style=\"font-size: 14pt;\"> _______&nbsp;</span></strong><strong style=\"font-size: 1.4rem;\"><span style=\"font-size: 14pt;\">between the rich and the</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">poor. The Right, on the other hand, points to the growing _______&nbsp;</span></strong><strong style=\"font-size: 1.4rem;\"><span style=\"font-size: 14pt;\">of politically driven welfare policies and emphasises the need for economic growth to _______ </span></strong><strong><span style=\"font-size: 14pt;\">poverty and improve the lives of the poor.</span></strong></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-size: 14pt;\">Points to the growing _______ </span></strong><strong><span style=\"font-size: 14pt;\">of politically driven welfare policies</span></strong></p>\n<p>&nbsp;</p>",
+          "paragraph": null,
+          "nameText": "Directon: In the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n \nSometimes the grand _______ of the Left and the Right do not seem to have any relationship with the lived experiences of ordinary Indians. For the past two decades, the Left has tried to expand social welfare programmes _______ the poor in the country by highlighting the growing _______ between the rich and the\npoor. The Right, on the other hand, points to the growing _______ of politically driven welfare policies and emphasises the need for economic growth to _______ poverty and improve the lives of the poor.\n \nPoints to the growing _______ of politically driven welfare policies\n ",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 9,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">terains</span></p>",
+              "nameText": "terains",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "61533144246b2a7e94ff0554"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">priestly</span></p>",
+              "nameText": "priestly",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "61533144246b2a6654ff0555"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">fereted</span></p>",
+              "nameText": "fereted",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "61533144246b2afd21ff0556"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">ablasion</span></p>",
+              "nameText": "ablasion",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "61533144246b2a5fbaff0557"
+            }
+          ],
+          "_id": "615323e115d25c46a6f1dd96",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"font-size: 14pt;\">Select the word with the correct spelling.</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Select the word with the correct spelling.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 10,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">QRP</span></p>",
+              "nameText": "QRP",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "61533144246b2a078fff0528"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">RQP</span></p>",
+              "nameText": "RQP",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "61533144246b2a5400ff0529"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">PRQ</span></p>",
+              "nameText": "PRQ",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "61533144246b2aa4d5ff052a"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">PQR</span></p>",
+              "nameText": "PQR",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "61533144246b2a9a58ff052b"
+            }
+          ],
+          "_id": "615323e128c20903a498a9de",
+          "isGlobal": false,
+          "name": "<p><span style=\"font-size: 18.6667px;\"><strong>Rearrange the parts of the sentence in correct order.</strong></span></p>\n<p><span style=\"font-size: 18.6667px;\"><strong>Senior officials</strong></span></p>\n<p><span style=\"font-size: 18.6667px;\"><strong>P-to negotiate a solution</strong></span></p>\n<p><span style=\"font-size: 18.6667px;\"><strong>Q-readiness</strong></span></p>\n<p><span style=\"font-size: 18.6667px;\"><strong>R-have signalled China's</strong></span></p>",
+          "paragraph": null,
+          "nameText": "Rearrange the parts of the sentence in correct order.\nSenior officials\nP-to negotiate a solution\nQ-readiness\nR-have signalled China's",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 11,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">depict</span></p>",
+              "nameText": "depict",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "61533144246b2a5157ff0540"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">enforce</span></p>",
+              "nameText": "enforce",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "61533144246b2af6e4ff0541"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">show</span></p>",
+              "nameText": "show",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "61533144246b2a4256ff0542"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">exercise</span></p>",
+              "nameText": "exercise",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "61533144246b2a76efff0543"
+            }
+          ],
+          "_id": "615323e2b26d0141c02eb480",
+          "isGlobal": false,
+          "name": "<p><span style=\"font-size: 18.6667px;\"><strong>Direction: In the following question, the sentence given with blank to be filled in with an appropriate word. Select the correct alternative out of the four and</strong></span></p>\n<p><span style=\"font-size: 18.6667px;\"><strong>indicate it by selecting the appropriate option.</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18.6667px;\"><strong>Politicians requested both the warring communities to --- </strong></span><span style=\"font-size: 18.6667px;\"><strong>restraint.</strong></span></p>",
+          "paragraph": null,
+          "nameText": "Direction: In the following question, the sentence given with blank to be filled in with an appropriate word. Select the correct alternative out of the four and\nindicate it by selecting the appropriate option.\n \nPoliticians requested both the warring communities to --- restraint.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 12,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">dissimilarities</span></p>",
+              "nameText": "dissimilarities",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "61533144246b2a586bff0534"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">discrepancies</span></p>",
+              "nameText": "discrepancies",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "61533144246b2adc39ff0535"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">disparities</span></p>",
+              "nameText": "disparities",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "61533144246b2aa74aff0536"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">disilusion</span></p>",
+              "nameText": "disilusion",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "61533144246b2a7723ff0537"
+            }
+          ],
+          "_id": "615323e215d25c3d0cf1dd9b",
+          "isGlobal": false,
+          "name": "<p><span style=\"font-size: 18.6667px;\"><strong>Direction: In the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out </strong></span><span style=\"font-size: 18.6667px;\"><strong>of the four alternatives.</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18.6667px;\"><strong>Sometimes the grand _______ </strong></span><span style=\"font-size: 18.6667px;\"><strong>of the Left and the Right do not seem to have any relationship with the lived experiences of ordinary Indians. For the past two </strong></span><span style=\"font-size: 18.6667px;\"><strong>decades, the Left has tried to expand social welfare programmes</strong></span><strong style=\"font-size: 18.6667px;\"> _______&nbsp;</strong><strong style=\"font-size: 18.6667px;\">the poor in the country by highlighting the growing</strong><strong style=\"font-size: 18.6667px;\"> _______&nbsp;</strong><strong style=\"font-size: 18.6667px;\">between the rich and the</strong></p>\n<p><span style=\"font-size: 18.6667px;\"><strong>poor. The Right, on the other hand, points to the growing</strong></span><strong style=\"font-size: 18.6667px;\"> _______&nbsp;</strong><strong style=\"font-size: 18.6667px;\">of politically driven welfare policies and emphasises the need for economic growth to _______ </strong><span style=\"font-size: 18.6667px;\"><strong>poverty and improve the lives of the poor.</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18.6667px;\"><strong>The growing _______ </strong></span><span style=\"font-size: 18.6667px;\"><strong>between the rich and the poor.</strong></span></p>\n<p>&nbsp;</p>",
+          "paragraph": null,
+          "nameText": "Direction: In the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n \nSometimes the grand _______ of the Left and the Right do not seem to have any relationship with the lived experiences of ordinary Indians. For the past two decades, the Left has tried to expand social welfare programmes _______ the poor in the country by highlighting the growing _______ between the rich and the\npoor. The Right, on the other hand, points to the growing _______ of politically driven welfare policies and emphasises the need for economic growth to _______ poverty and improve the lives of the poor.\n \nThe growing _______ between the rich and the poor.\n ",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 13,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">agitate</span></p>",
+              "nameText": "agitate",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "61533144246b2a6fc5ff054c"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">alleviate</span></p>",
+              "nameText": "alleviate",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "61533144246b2a4201ff054d"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">aggravate</span></p>",
+              "nameText": "aggravate",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "61533144246b2aee13ff054e"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">depress</span></p>",
+              "nameText": "depress",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "61533144246b2a9680ff054f"
+            }
+          ],
+          "_id": "615323e328c2092ead98a9e3",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"font-size: 14pt;\">Direction: </span></strong><span style=\"font-size: 18.6667px;\"><strong>In the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out </strong></span><span style=\"font-size: 18.6667px;\"><strong>of the four alternatives.</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18.6667px;\"><strong>Sometimes the grand _______ </strong></span><span style=\"font-size: 18.6667px;\"><strong>of the Left and the Right do not seem to have any relationship with the lived experiences of ordinary Indians. For the past two </strong></span><span style=\"font-size: 18.6667px;\"><strong>decades, the Left has tried to expand social welfare programmes _______ </strong></span><span style=\"font-size: 18.6667px;\"><strong>the poor in the country by highlighting the growing _______ </strong></span><span style=\"font-size: 18.6667px;\"><strong>between the rich and the </strong></span><span style=\"font-size: 18.6667px;\"><strong>poor The Right, on the other hand, points to the growing _______&nbsp;</strong></span><strong style=\"font-size: 18.6667px;\">of politically driven welfare policies and emphasises the need for economic growth to _______ </strong><span style=\"font-size: 18.6667px;\"><strong>poverty and improve the lives of the poor.</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18.6667px;\"><strong>Need for economic growth to _______ </strong></span><span style=\"font-size: 18.6667px;\"><strong>poverty and improve the lives of the poor.</strong></span></p>\n<p>&nbsp;</p>",
+          "paragraph": null,
+          "nameText": "Direction: In the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n \nSometimes the grand _______ of the Left and the Right do not seem to have any relationship with the lived experiences of ordinary Indians. For the past two decades, the Left has tried to expand social welfare programmes _______ the poor in the country by highlighting the growing _______ between the rich and the poor The Right, on the other hand, points to the growing _______ of politically driven welfare policies and emphasises the need for economic growth to _______ poverty and improve the lives of the poor.\n \nNeed for economic growth to _______ poverty and improve the lives of the poor.\n ",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 14,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">histories</span></p>",
+              "nameText": "histories",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "61533144246b2ab05eff0558"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">plots</span></p>",
+              "nameText": "plots",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "61533144246b2aea49ff0559"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">versions</span></p>",
+              "nameText": "versions",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "61533144246b2a5da9ff055a"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">narratives</span></p>",
+              "nameText": "narratives",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "61533144246b2a7e55ff055b"
+            }
+          ],
+          "_id": "615323e3b26d0132842eb487",
+          "isGlobal": false,
+          "name": "<p><span style=\"font-size: 18.6667px;\"><strong>Direction: In the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out </strong></span><span style=\"font-size: 18.6667px;\"><strong>of the four alternatives.</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18.6667px;\"><strong>Sometimes the grand _______ </strong></span><span style=\"font-size: 18.6667px;\"><strong>of the Left and the Right do not seem to have any relationship with the lived experiences of ordinary Indians. For the past two </strong></span><span style=\"font-size: 18.6667px;\"><strong>decades, the Left has tried to expand social welfare programmes _______ </strong></span><span style=\"font-size: 18.6667px;\"><strong>the poor in the country by highlighting the growing _______ </strong></span><span style=\"font-size: 18.6667px;\"><strong>between the rich and the </strong></span><span style=\"font-size: 18.6667px;\"><strong>poor. The Right, on the other hand, points to the growing _______&nbsp;</strong></span><strong style=\"font-size: 18.6667px;\">of politically driven welfare policies and emphasises the need for economic growth to _______ </strong><span style=\"font-size: 18.6667px;\"><strong>poverty and improve the lives of the poor.</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18.6667px;\"><strong>Sometimes the grand _______ </strong></span><span style=\"font-size: 18.6667px;\"><strong>of the left and the Right</strong></span></p>",
+          "paragraph": null,
+          "nameText": "Direction: In the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n \nSometimes the grand _______ of the Left and the Right do not seem to have any relationship with the lived experiences of ordinary Indians. For the past two decades, the Left has tried to expand social welfare programmes _______ the poor in the country by highlighting the growing _______ between the rich and the poor. The Right, on the other hand, points to the growing _______ of politically driven welfare policies and emphasises the need for economic growth to _______ poverty and improve the lives of the poor.\n \nSometimes the grand _______ of the left and the Right",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 15,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    }
+  ],
+  "practiceTestUrls": [],
+  "updateAfterSync": {},
+  "isCdnUpdated": false,
+  "lastAttemptedAt": "2026-09-12T19:45:57.557Z",
+  "currentSection": "6153233547e7edacadfaecfa",
+  "testTotalDuration": 900000,
+  "examStartDate": "2026-09-20T19:26:13.406Z"
+}

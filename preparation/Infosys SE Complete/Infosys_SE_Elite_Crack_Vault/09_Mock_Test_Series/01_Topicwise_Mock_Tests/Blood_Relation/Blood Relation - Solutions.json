@@ -1,0 +1,1306 @@
+{
+  "test": {
+    "name": "Blood Relation",
+    "testTotalDuration": 1500000,
+    "settings": {
+      "fonts": {
+        "fonts": [
+          {
+            "face": "Calibri",
+            "supported": true
+          },
+          {
+            "face": "serif",
+            "supported": true
+          },
+          {
+            "face": "Cambria",
+            "supported": true
+          }
+        ],
+        "include": "https://cms-gcp.classplusapp.com/parser/v3/css/combined?face=Calibri,serif,Cambria"
+      },
+      "isSectionSwitchingEnabled": true
+    },
+    "practiceTestUrls": [],
+    "testFormat": "DEFAULT"
+  },
+  "filters": {
+    "incorrect": 0,
+    "correct": 0,
+    "partiallyMarked": 0,
+    "unattempted": 1,
+    "markForReview": 0,
+    "graceMarked": 0,
+    "revaluated": 0
+  },
+  "timeTaken": 0,
+  "courseId": "58216",
+  "showReportQuestion": true,
+  "sectionWiseStats": [
+    {
+      "marksScored": 0,
+      "sectionMarks": 80,
+      "accuracy": 0,
+      "_id": "6aca7a1160536768345da7d7",
+      "totalQuestions": 20,
+      "attemptDuration": 0,
+      "correctAnswers": 0,
+      "inCorrectAnswers": 0,
+      "partiallyCorrectAnswers": 0,
+      "unAttempted": 20,
+      "name": "Blood Relation",
+      "order": 1,
+      "sectionDuration": 0,
+      "sectionId": "67b57876019ae864947770a9"
+    }
+  ],
+  "sections": [
+    {
+      "sectionDuration": 0,
+      "sectionMarks": 80,
+      "isActive": true,
+      "draftMode": false,
+      "sectionInstructions": " ",
+      "_id": "67b57876019ae864947770a9",
+      "hasOptionalQuestions": false,
+      "name": "Blood Relation",
+      "order": 1,
+      "createdAt": "2025-02-19T12:55:34.570Z",
+      "updatedAt": "2025-02-19T12:55:34.570Z",
+      "questions": [
+        {
+          "_id": "67b5788589e04a7ed9825d38",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n * B means B is wife of A.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n @ B means B is son of A.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">B\n $ A means A is father of B.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">B\n # A means A is brother of B.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n L @ M # Q * S is true for a family members, how is S related to L?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n A\n * B means B is wife of A.\n \n A\n @ B means B is son of A.\n \n B\n $ A means A is father of B.\n \n B\n # A means A is brother of B.\n If\n L @ M # Q * S is true for a family members, how is S related to L?\n ",
+          "sectionId": "67b57876019ae864947770a9",
+          "order": 1,
+          "questionSubmitOrder": 1,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Brother\n in law</span></span></span></span></p>\n ",
+              "nameText": "\n Brother\n in law\n ",
+              "isCorrect": false,
+              "_id": "67b578ca341505de79a29b3e",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Mother\n in law</span></span></span></span></p>\n ",
+              "nameText": "\n Mother\n in law\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415052ec8a29b3f",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Father\n in law</span></span></span></span></p>\n ",
+              "nameText": "\n Father\n in law\n ",
+              "isCorrect": false,
+              "_id": "67b578ca341505ef9da29b40",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Daughter\n in law</span></span></span></span></p>\n ",
+              "nameText": "\n Daughter\n in law\n ",
+              "isCorrect": true,
+              "_id": "67b578ca341505228ca29b41",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_ffd3c9bf5808.png\" name=\"Picture 8\" align=\"bottom\" width=\"150\" height=\"103\" border=\"0\">\n<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\"><br>\nAs\n we can observe from the blood relation tree below, S is daughter\n in law of L.</span></span></span></img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a11044418a5423427eb",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b5788589e04a743c825cfc",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Introducing\n Reeta, Sarika said, “She is the only daughter of my father’s\n only daughter.” How is Sarika related to Reeta?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Introducing\n Reeta, Sarika said, “She is the only daughter of my father’s\n only daughter.” How is Sarika related to Reeta?\n ",
+          "sectionId": "67b57876019ae864947770a9",
+          "order": 2,
+          "questionSubmitOrder": 2,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Aunt</span></span></span></span></p>\n ",
+              "nameText": "\n Aunt\n ",
+              "isCorrect": false,
+              "_id": "67b578ca34150558d8a29b36",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Niece</span></span></span></span></p>\n ",
+              "nameText": "\n Niece\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415056c34a29b37",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Cousin</span></span></span></span></p>\n ",
+              "nameText": "\n Cousin\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415055169a29b38",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Mother</span></span></span></span></p>\n ",
+              "nameText": "\n Mother\n ",
+              "isCorrect": true,
+              "_id": "67b578ca34150538e3a29b39",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_7fffb73a3eb1.jpg\" name=\"Picture 4\" align=\"bottom\" width=\"181\" height=\"190\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Sarika\n is Reeta’s mother</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a110444186d3e3427ec",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b5788589e04ab636825d24",
+          "name": "<p>X @ Y means X is son of Y</p>\n<p>X # Y means Y is father of X</p>\n<p>X? Y means Y is daughter of X</p>\n<p>X! Y means X is mother of Y</p>\n<p>X * Y means X is brother of Y.&nbsp;</p>\n<p>How is W related to K for the following expression?</p>\n<p>J@K!T*W?X#Z</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "X @ Y means X is son of Y\nX # Y means Y is father of X\nX? Y means Y is daughter of X\nX! Y means X is mother of Y\nX * Y means X is brother of Y. \nHow is W related to K for the following expression?\nJ@K!T*W?X#Z",
+          "sectionId": "67b57876019ae864947770a9",
+          "order": 3,
+          "questionSubmitOrder": 3,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Daughter</span></span></span></span></p>",
+              "nameText": "Daughter",
+              "isCorrect": true,
+              "_id": "67b578ca341505969aa29b2a",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Sister</span></span></span></span></p>",
+              "nameText": "Sister",
+              "isCorrect": false,
+              "_id": "67b578ca3415059835a29b2b",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Son</span></span></span></span></p>",
+              "nameText": "Son",
+              "isCorrect": false,
+              "_id": "67b578ca341505ef24a29b2c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Brother</span></span></span></span></p>",
+              "nameText": "Brother",
+              "isCorrect": false,
+              "_id": "67b578ca341505a06ba29b2d",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><img src=\"images/img_c02bddb67296.png\" alt=\"\" /></p>\n<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000; font-family: Cambria, serif;\"><span style=\"font-size: 19px;\">J is the son of K. K is the mother of T. T is the brother of W. X is the daughter of W. Z is the father of X.</span></span></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1104441814ce3427ed",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b5788589e04a3ef3825d56",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Micky\n is brother in law of Akku, who has two daughters but no son. Rinku\n is cousin of Quki and brother of Riku. Vicky has two daughters and\n one son. Unni has only one son and one daughter. Micky is the only\n sibling of Wiku. Tinu and Sanu are daughters of Xoxo. Donu is also\n the member of this family. Riku is granddaughter of Akku, who is\n married to Wiku. Unni and Vicky are sons in law of Wiku. How is\n Xoxo related to Sanu?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Micky\n is brother in law of Akku, who has two daughters but no son. Rinku\n is cousin of Quki and brother of Riku. Vicky has two daughters and\n one son. Unni has only one son and one daughter. Micky is the only\n sibling of Wiku. Tinu and Sanu are daughters of Xoxo. Donu is also\n the member of this family. Riku is granddaughter of Akku, who is\n married to Wiku. Unni and Vicky are sons in law of Wiku. How is\n Xoxo related to Sanu?\n ",
+          "sectionId": "67b57876019ae864947770a9",
+          "order": 4,
+          "questionSubmitOrder": 4,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Daughter</span></span></span></span></p>\n ",
+              "nameText": "\n Daughter\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415058602a29b32",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Mother</span></span></span></span></p>\n ",
+              "nameText": "\n Mother\n ",
+              "isCorrect": true,
+              "_id": "67b578ca341505abdda29b33",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Aunt</span></span></span></span></p>\n ",
+              "nameText": "\n Aunt\n ",
+              "isCorrect": false,
+              "_id": "67b578ca341505b404a29b34",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Can’t\n be determined</span></span></span></span></p>\n ",
+              "nameText": "\n Can’t\n be determined\n ",
+              "isCorrect": false,
+              "_id": "67b578ca341505e3c3a29b35",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_b3cb4b336f13.png\" name=\"Picture 19\" align=\"bottom\" width=\"253\" height=\"184\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1104441879f73427ee",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b5788589e04a33bb825d42",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">G\n is the mother of F, who is the spouse of D. M is the daughter of\n D, who is the only brother of C. E is the son of G, who is married\n to H. A is the niece of C, who has no sister. T is the father of D\n and has no daughter. V is the sister-in-law of F. G has only two\n children. M is the granddaughter of O. Find the odd one out?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n G\n is the mother of F, who is the spouse of D. M is the daughter of\n D, who is the only brother of C. E is the son of G, who is married\n to H. A is the niece of C, who has no sister. T is the father of D\n and has no daughter. V is the sister-in-law of F. G has only two\n children. M is the granddaughter of O. Find the odd one out?\n ",
+          "sectionId": "67b57876019ae864947770a9",
+          "order": 5,
+          "questionSubmitOrder": 5,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">V</span></span></span></span></p>\n ",
+              "nameText": "\n V\n ",
+              "isCorrect": false,
+              "_id": "67b578ca341505523ea29b16",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">O</span></span></span></span></p>\n ",
+              "nameText": "\n O\n ",
+              "isCorrect": true,
+              "_id": "67b578ca34150559eea29b17",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">D</span></span></span></span></p>\n ",
+              "nameText": "\n D\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415050afaa29b18",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">F</span></span></span></span></p>\n ",
+              "nameText": "\n F\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415056ac5a29b19",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_70938214278f.png\" name=\"Picture 15\" align=\"bottom\" width=\"255\" height=\"150\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">O\n does not belong to the second generation of the family like rest\n of the persons, thus the odd one out.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a110444180e933427ef",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b5788589e04a36ff825cf7",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">S\n is mother of T, T is husband of J, N is son of J, Z is\n father-In-law of J, K is brother of N. How K is related to Z?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n S\n is mother of T, T is husband of J, N is son of J, Z is\n father-In-law of J, K is brother of N. How K is related to Z?\n ",
+          "sectionId": "67b57876019ae864947770a9",
+          "order": 6,
+          "questionSubmitOrder": 6,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Son</span></span></span></span></p>\n ",
+              "nameText": "\n Son\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415053223a29b0a",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Grandson</span></span></span></span></p>\n ",
+              "nameText": "\n Grandson\n ",
+              "isCorrect": true,
+              "_id": "67b578ca34150519b9a29b0b",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Nephew</span></span></span></span></p>\n ",
+              "nameText": "\n Nephew\n ",
+              "isCorrect": false,
+              "_id": "67b578ca34150500cba29b0c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Uncle</span></span></span></span></p>\n ",
+              "nameText": "\n Uncle\n ",
+              "isCorrect": false,
+              "_id": "67b578ca34150554bea29b0d",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_9facdfa00d4f.jpg\" name=\"Picture 3\" align=\"bottom\" width=\"185\" height=\"171\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">K\n is grandson of Z.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a110444182dc23427f0",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b5788589e04a905f825d1f",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">B\n is father of Q. B has only two children. Q is the brother of R. R\n is the daughter of P. A is the granddaughter of P. S is the father\n of A. How is S related to Q?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n B\n is father of Q. B has only two children. Q is the brother of R. R\n is the daughter of P. A is the granddaughter of P. S is the father\n of A. How is S related to Q?\n ",
+          "sectionId": "67b57876019ae864947770a9",
+          "order": 7,
+          "questionSubmitOrder": 7,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Son</span></span></span></span></p>\n ",
+              "nameText": "\n Son\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415053a2ba29b3a",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Brother-in-law</span></span></span></span></p>\n ",
+              "nameText": "\n Brother-in-law\n ",
+              "isCorrect": true,
+              "_id": "67b578ca34150569c1a29b3b",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Son-in-law</span></span></span></span></p>\n ",
+              "nameText": "\n Son-in-law\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415058b5aa29b3c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Brother</span></span></span></span></p>\n ",
+              "nameText": "\n Brother\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415057c88a29b3d",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_acf28693cde4.png\" name=\"Picture 9\" align=\"bottom\" width=\"141\" height=\"162\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a11044418442a3427f1",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b5788589e04abb6d825d1a",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n girl introduces a boy as the son of the brother of her mother. How\n is the boy related to the girl?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n A\n girl introduces a boy as the son of the brother of her mother. How\n is the boy related to the girl?\n ",
+          "sectionId": "67b57876019ae864947770a9",
+          "order": 8,
+          "questionSubmitOrder": 8,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Uncle</span></span></span></span></p>\n ",
+              "nameText": "\n Uncle\n ",
+              "isCorrect": false,
+              "_id": "67b578ca341505799ea29b4a",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Son</span></span></span></span></p>\n ",
+              "nameText": "\n Son\n ",
+              "isCorrect": false,
+              "_id": "67b578ca341505555ca29b4b",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Nephew</span></span></span></span></p>\n ",
+              "nameText": "\n Nephew\n ",
+              "isCorrect": false,
+              "_id": "67b578ca341505181fa29b4c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Cousin</span></span></span></span></p>\n ",
+              "nameText": "\n Cousin\n ",
+              "isCorrect": true,
+              "_id": "67b578ca34150574bda29b4d",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Brother\n of mother — Uncle; Uncle’s son — Cousin.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1104441834303427f2",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b5788589e04af8ed825d15",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Introducing\n a girl. Ronit said, \" He is the daughter of the daughter of\n my grandfather's only son\", How is that girl related to\n Ronit?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Introducing\n a girl. Ronit said, \" He is the daughter of the daughter of\n my grandfather's only son\", How is that girl related to\n Ronit?\n ",
+          "sectionId": "67b57876019ae864947770a9",
+          "order": 9,
+          "questionSubmitOrder": 9,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Cousin</span></span></span></span></p>\n ",
+              "nameText": "\n Cousin\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415058437a29b1e",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Niece</span></span></span></span></p>\n ",
+              "nameText": "\n Niece\n ",
+              "isCorrect": true,
+              "_id": "67b578ca3415051779a29b1f",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Father-in-law</span></span></span></span></p>\n ",
+              "nameText": "\n Father-in-law\n ",
+              "isCorrect": false,
+              "_id": "67b578ca34150540bfa29b20",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Nephew</span></span></span></span></p>\n ",
+              "nameText": "\n Nephew\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415057042a29b21",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">\"\n He is the daughter of the daughter of my grandfather's only son\"</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">My\n grandfather's only Son - It means Ronit's father.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Daughter\n of my grandfather's only son - Ronit's father's daughter. It means\n Ronit's sister.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Daughter\n of the daughter of my grandfather - It means Ronit's sister's\n daughter.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence,\n that girl is a niece of Ronit.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a110444180fda3427f3",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b5788589e04acff7825d4c",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Eight\n persons – Sarin, Rahi, Akasa, Pavi, Preet, Gunjan, Taran and\n Namya belong to a family which consists of three generations and\n two married couples.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Preet\n is the sister of only son of Akasa. Pavi is the daughter in law of\n Sarin. Rahi is the mother of Akasa. Sarin is the grandfather of\n Taran who is the daughter of Pavi. Namya is the maternal uncle of\n Gunjan.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">How\n many male members are there in the family?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Eight\n persons – Sarin, Rahi, Akasa, Pavi, Preet, Gunjan, Taran and\n Namya belong to a family which consists of three generations and\n two married couples.\n \n Preet\n is the sister of only son of Akasa. Pavi is the daughter in law of\n Sarin. Rahi is the mother of Akasa. Sarin is the grandfather of\n Taran who is the daughter of Pavi. Namya is the maternal uncle of\n Gunjan.\n How\n many male members are there in the family?\n ",
+          "sectionId": "67b57876019ae864947770a9",
+          "order": 10,
+          "questionSubmitOrder": 10,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n ",
+              "nameText": "\n 3\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415051bbaa29b52",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n ",
+              "nameText": "\n 4\n ",
+              "isCorrect": true,
+              "_id": "67b578ca341505541aa29b53",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">5</span></span></span></span></p>\n ",
+              "nameText": "\n 5\n ",
+              "isCorrect": false,
+              "_id": "67b578ca341505b721a29b54",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">6</span></span></span></span></p>\n ",
+              "nameText": "\n 6\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415053f3aa29b55",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_a71423f4c3f6.png\" name=\"Picture 17\" align=\"bottom\" width=\"209\" height=\"135\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1104441884933427f4",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b5788589e04abff0825d06",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Rohit\n has two sons namely Bittu and Kittu. Bittu is husband of Gillu.\n Lata is the mother in law of Gillu and Sittu. Sittu is mother of\n Mitthu. How is Mitthu realted to Rohit?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Rohit\n has two sons namely Bittu and Kittu. Bittu is husband of Gillu.\n Lata is the mother in law of Gillu and Sittu. Sittu is mother of\n Mitthu. How is Mitthu realted to Rohit?\n ",
+          "sectionId": "67b57876019ae864947770a9",
+          "order": 11,
+          "questionSubmitOrder": 11,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Granddaughter</span></span></span></span></p>\n ",
+              "nameText": "\n Granddaughter\n ",
+              "isCorrect": false,
+              "_id": "67b578ca341505a98fa29b1a",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Grandson</span></span></span></span></p>\n ",
+              "nameText": "\n Grandson\n ",
+              "isCorrect": false,
+              "_id": "67b578ca34150550e2a29b1b",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Daughter\n in law</span></span></span></span></p>\n ",
+              "nameText": "\n Daughter\n in law\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415059a61a29b1c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Can't\n be determined</span></span></span></span></p>\n ",
+              "nameText": "\n Can't\n be determined\n ",
+              "isCorrect": true,
+              "_id": "67b578ca3415057a6da29b1d",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_d0c1ba8c265a.png\" name=\"Picture 2\" align=\"bottom\" width=\"253\" height=\"175\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Following\n the blood relation image, we cannot define Mitthu’s realtion\n with Rohit, as we don’t have gender information about\n Mitthu. It can be either granddaughter or grandson of of Rohit.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1104441850663427f5",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b5788589e04aecab825d10",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Aaru\n and Aash are sisters, Aaif and Aban are fathers. Aayu, who is only\n son in law of Aaru, is son of Aban and brother of Aans. Aali is\n daughter of Aaif and sister of Aarv, who is son of Aaru. There are\n three married couples. Marriage is allowed among close relatives\n in the family. How is Aash related to Aarv and also Aaif related\n to Aayu respectively?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Aaru\n and Aash are sisters, Aaif and Aban are fathers. Aayu, who is only\n son in law of Aaru, is son of Aban and brother of Aans. Aali is\n daughter of Aaif and sister of Aarv, who is son of Aaru. There are\n three married couples. Marriage is allowed among close relatives\n in the family. How is Aash related to Aarv and also Aaif related\n to Aayu respectively?\n ",
+          "sectionId": "67b57876019ae864947770a9",
+          "order": 12,
+          "questionSubmitOrder": 12,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Mother-in\n law, Father-in law</span></span></span></span></p>\n ",
+              "nameText": "\n Mother-in\n law, Father-in law\n ",
+              "isCorrect": false,
+              "_id": "67b578ca341505aadba29b0e",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Paternal\n Aunt, Uncle</span></span></span></span></p>\n ",
+              "nameText": "\n Paternal\n Aunt, Uncle\n ",
+              "isCorrect": false,
+              "_id": "67b578ca34150570ada29b0f",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Maternal\n Aunt, Father-in-law</span></span></span></span></p>\n ",
+              "nameText": "\n Maternal\n Aunt, Father-in-law\n ",
+              "isCorrect": true,
+              "_id": "67b578ca3415058ef3a29b10",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Maternal\n Aunt, Son-in-law</span></span></span></span></p>\n ",
+              "nameText": "\n Maternal\n Aunt, Son-in-law\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415051163a29b11",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_69a34138179c.png\" name=\"Picture 7\" align=\"bottom\" width=\"351\" height=\"111\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Following\n the common explanation, we get Aash is related to Aarv as his\n “Maternal Aunt and Aaif is related to Aayu as his\n Father-in-law”.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1104441811f83427f6",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b5788589e04a0d2e825d47",
+          "name": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">In a family of some persons Bhanu says that Reshma is the daughter of my sister Banti, who is the only daughter of Tamanna. Rahul is the child of Tamanna and Farhan, who is the grandmother of Harish. Krishna is the mother of Mohan, who is the only sister of Harish. Rahul is unmarried. If Sadiq is spouse of Banti, how is Krishna related to Sadiq?</span></span></span></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "In a family of some persons Bhanu says that Reshma is the daughter of my sister Banti, who is the only daughter of Tamanna. Rahul is the child of Tamanna and Farhan, who is the grandmother of Harish. Krishna is the mother of Mohan, who is the only sister of Harish. Rahul is unmarried. If Sadiq is spouse of Banti, how is Krishna related to Sadiq?",
+          "sectionId": "67b57876019ae864947770a9",
+          "order": 13,
+          "questionSubmitOrder": 13,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Sister</span></span></span></span></p>\n ",
+              "nameText": "\n Sister\n ",
+              "isCorrect": false,
+              "_id": "67b578ca341505adbfa29b26",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Sister-in-law</span></span></span></span></p>",
+              "nameText": "Sister-in-law",
+              "isCorrect": false,
+              "_id": "67b578ca341505a1f4a29b27",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Wife\n of Brother-in-law</span></span></span></span></p>\n ",
+              "nameText": "\n Wife\n of Brother-in-law\n ",
+              "isCorrect": true,
+              "_id": "67b578ca3415059454a29b28",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Cousin</span></span></span></span></p>\n ",
+              "nameText": "\n Cousin\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415054c90a29b29",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_134b0f597ed4.png\" name=\"Picture 16\" align=\"bottom\" width=\"266\" height=\"145\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Clearly,\n Krishna is the wife of Bhanu who is brother in law of Sadiq.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1104441810043427f7",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b5788589e04a0b80825d2e",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">O,\n M, P, Q, S and T are six members in a family. P is not mother of M\n but M is son of P. O and P are a married couple. S is the brother\n of P. T is brother of M. Q is daughter of O. How many children do\n O and P have?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n O,\n M, P, Q, S and T are six members in a family. P is not mother of M\n but M is son of P. O and P are a married couple. S is the brother\n of P. T is brother of M. Q is daughter of O. How many children do\n O and P have?\n ",
+          "sectionId": "67b57876019ae864947770a9",
+          "order": 14,
+          "questionSubmitOrder": 14,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n ",
+              "nameText": "\n 1\n ",
+              "isCorrect": false,
+              "_id": "67b578ca34150597a3a29b22",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415058d59a29b23",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n ",
+              "nameText": "\n 3\n ",
+              "isCorrect": true,
+              "_id": "67b578ca3415057c94a29b24",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n ",
+              "nameText": "\n 4\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415050d83a29b25",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_11315cb9906a.png\" name=\"Picture 13\" align=\"bottom\" width=\"157\" height=\"133\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Following\n the final family tree, we can say that T, M and Q are children of\n O and P.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a11044418726f3427f8",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b5788589e04a54c4825d29",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a family there are three fathers, two brothers, two sisters, one\n husband, one wife, two brothers-in-law, two daughters, three sons,\n three cousins, two nephews, one grandfather and a niece. How many\n female members are there in the family?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n In\n a family there are three fathers, two brothers, two sisters, one\n husband, one wife, two brothers-in-law, two daughters, three sons,\n three cousins, two nephews, one grandfather and a niece. How many\n female members are there in the family?\n ",
+          "sectionId": "67b57876019ae864947770a9",
+          "order": 15,
+          "questionSubmitOrder": 15,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n ",
+              "nameText": "\n 3\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415052253a29b12",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n ",
+              "nameText": "\n 4\n ",
+              "isCorrect": false,
+              "_id": "67b578ca341505f0aca29b13",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "isCorrect": true,
+              "_id": "67b578ca34150535b9a29b14",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n ",
+              "nameText": "\n 1\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415058989a29b15",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_46503eb44f40.png\" name=\"Picture 12\" align=\"bottom\" width=\"163\" height=\"174\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">As\n per the family tree it's evident that there are only 2 female\n members in the family.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a11044418042e3427f9",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b5788589e04a2de0825d51",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">There\n are eight family members Anupam, Bhuika, Mohini, Hitesh, Vishnu,\n Ruchika, Sanshlesh and Pritam. Vishnu is uncle of Sanshlesh, who\n is daughter of Pritam. There are two married couples in the family\n and two grandchildren in the family. Mohini has one daughter and\n one son. Anupam is granddaughter of Ruchika and sister of Bhumika.\n Ruchika is sister in law of Vishnu. Mohini is not a male.\n Sanshlesh has only one brother. How Bhumika is related to\n Sanshlesh?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n There\n are eight family members Anupam, Bhuika, Mohini, Hitesh, Vishnu,\n Ruchika, Sanshlesh and Pritam. Vishnu is uncle of Sanshlesh, who\n is daughter of Pritam. There are two married couples in the family\n and two grandchildren in the family. Mohini has one daughter and\n one son. Anupam is granddaughter of Ruchika and sister of Bhumika.\n Ruchika is sister in law of Vishnu. Mohini is not a male.\n Sanshlesh has only one brother. How Bhumika is related to\n Sanshlesh?\n ",
+          "sectionId": "67b57876019ae864947770a9",
+          "order": 16,
+          "questionSubmitOrder": 16,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Nephew</span></span></span></span></p>\n ",
+              "nameText": "\n Nephew\n ",
+              "isCorrect": true,
+              "_id": "67b578ca34150505bba29b42",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Niece</span></span></span></span></p>\n ",
+              "nameText": "\n Niece\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415052124a29b43",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Son\n </span></span></span></span>\n </p>\n ",
+              "nameText": "\n Son\n \n \n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415050c82a29b44",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Daughter</span></span></span></span></p>\n ",
+              "nameText": "\n Daughter\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415059774a29b45",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_61dc60df5759.png\" name=\"Picture 18\" align=\"bottom\" width=\"279\" height=\"175\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a11044418f6cb3427fa",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b5788589e04a843d825d0b",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">D\n is the mother of J and L. J is the brother of F. F is the son of\n K. K has only three children. Y is the son-in-law of D. M is the\n son of Y. M is the brother of S. As per the given information, how\n is D related to M?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n D\n is the mother of J and L. J is the brother of F. F is the son of\n K. K has only three children. Y is the son-in-law of D. M is the\n son of Y. M is the brother of S. As per the given information, how\n is D related to M?\n ",
+          "sectionId": "67b57876019ae864947770a9",
+          "order": 17,
+          "questionSubmitOrder": 17,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Mother-in-law</span></span></span></span></p>\n ",
+              "nameText": "\n Mother-in-law\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415052d20a29b46",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Grandmother</span></span></span></span></p>\n ",
+              "nameText": "\n Grandmother\n ",
+              "isCorrect": true,
+              "_id": "67b578ca341505a5b1a29b47",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Mother</span></span></span></span></p>\n ",
+              "nameText": "\n Mother\n ",
+              "isCorrect": false,
+              "_id": "67b578ca34150532a3a29b48",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Sister-in-law</span></span></span></span></p>\n ",
+              "nameText": "\n Sister-in-law\n ",
+              "isCorrect": false,
+              "_id": "67b578ca341505d6d8a29b49",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_3b7425a2e281.png\" name=\"Picture 6\" align=\"bottom\" width=\"141\" height=\"141\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a11044418264a3427fb",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b5788589e04aac77825d01",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A,\n B, C, I, J and K are six family members. J is son of I, who is not\n the mother of J. B is brother of I. K and I are a married couple.\n C is daughter of K, who is sister of A. How is J related to C?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n A,\n B, C, I, J and K are six family members. J is son of I, who is not\n the mother of J. B is brother of I. K and I are a married couple.\n C is daughter of K, who is sister of A. How is J related to C?\n ",
+          "sectionId": "67b57876019ae864947770a9",
+          "order": 18,
+          "questionSubmitOrder": 18,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Brother</span></span></span></span></p>\n ",
+              "nameText": "\n Brother\n ",
+              "isCorrect": true,
+              "_id": "67b578ca341505ac46a29b06",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Father</span></span></span></span></p>\n ",
+              "nameText": "\n Father\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415051520a29b07",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Sister</span></span></span></span></p>\n ",
+              "nameText": "\n Sister\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415053e30a29b08",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Mother</span></span></span></span></p>\n ",
+              "nameText": "\n Mother\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415052002a29b09",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_efa14112e74a.png\" name=\"Picture 1\" align=\"bottom\" width=\"175\" height=\"125\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence,\n J is brother of C.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a11044418777e3427fc",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b5788589e04a9e18825d33",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Seven\n family members namely Rekha, Tipu, Meena, Mohan, Duggu, Sandy and\n Krishna in a family are related to each other in the following\n way:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Krishna\n is uncle of Sandy who is only son of mohan. Duggu is brother of\n mohan who is husband of Meena. Rekha has only two sons. Sandy is\n grandson of Tipu. Rekha is wife of Tipu.</span></span> <span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">How\n is Krishna related to Sandy?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Seven\n family members namely Rekha, Tipu, Meena, Mohan, Duggu, Sandy and\n Krishna in a family are related to each other in the following\n way:\n Krishna\n is uncle of Sandy who is only son of mohan. Duggu is brother of\n mohan who is husband of Meena. Rekha has only two sons. Sandy is\n grandson of Tipu. Rekha is wife of Tipu. How\n is Krishna related to Sandy?\n ",
+          "sectionId": "67b57876019ae864947770a9",
+          "order": 19,
+          "questionSubmitOrder": 19,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Maternal\n Uncle</span></span></span></span></p>\n ",
+              "nameText": "\n Maternal\n Uncle\n ",
+              "isCorrect": true,
+              "_id": "67b578ca3415056f8ba29b4e",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Paternal\n Uncle</span></span></span></span></p>\n ",
+              "nameText": "\n Paternal\n Uncle\n ",
+              "isCorrect": false,
+              "_id": "67b578ca34150581aaa29b4f",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Niece</span></span></span></span></p>\n ",
+              "nameText": "\n Niece\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415056e27a29b50",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Nephew</span></span></span></span></p>\n ",
+              "nameText": "\n Nephew\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415054ce7a29b51",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_bb78d77b6b4d.png\" name=\"Picture 5\" align=\"bottom\" width=\"297\" height=\"152\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a11044418162d3427fd",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b5788589e04a429f825d3d",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">H\n is the brother of M, who is the only daughter of B. T is the only\n child of J, who is the sister of X. H is the brother-in-law of X.\n There are only two unmarried females in the family. Find how is T\n related to X?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n H\n is the brother of M, who is the only daughter of B. T is the only\n child of J, who is the sister of X. H is the brother-in-law of X.\n There are only two unmarried females in the family. Find how is T\n related to X?\n ",
+          "sectionId": "67b57876019ae864947770a9",
+          "order": 20,
+          "questionSubmitOrder": 20,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Nephew</span></span></span></span></p>\n ",
+              "nameText": "\n Nephew\n ",
+              "isCorrect": false,
+              "_id": "67b578ca341505747fa29b2e",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Maternal\n Aunt</span></span></span></span></p>\n ",
+              "nameText": "\n Maternal\n Aunt\n ",
+              "isCorrect": false,
+              "_id": "67b578ca3415054688a29b2f",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Niece</span></span></span></span></p>\n ",
+              "nameText": "\n Niece\n ",
+              "isCorrect": false,
+              "_id": "67b578ca341505a1d5a29b30",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n option A or C</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n option A or C\n ",
+              "isCorrect": true,
+              "_id": "67b578ca3415057195a29b31",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_3062ad2eda74.png\" name=\"Picture 11\" align=\"bottom\" width=\"205\" height=\"166\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1104441877563427fe",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        }
+      ],
+      "numberOfQuestions": 20
+    }
+  ],
+  "userDetails": {
+    "name": "Shivam Gupta",
+    "userId": 193594164,
+    "orgId": 78392
+  },
+  "sts": 1791654418261,
+  "region": {
+    "timeFormat": "hh:mm a",
+    "dateTimeStamp": "yyyy/MM/dd"
+  }
+}

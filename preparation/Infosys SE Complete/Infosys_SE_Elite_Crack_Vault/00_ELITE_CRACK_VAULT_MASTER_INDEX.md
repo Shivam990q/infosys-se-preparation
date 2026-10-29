@@ -146,3 +146,38 @@
 
 ---
 *Generated autonomously under the Shivam SEED Protocol. All materials verified against authentic live slot examination tables.*
+
+---
+
+## 🏛️ Comprehensive Source Integrations Directory (The 5 Core Ingestion Pillars)
+
+### 📌 Pillar 1: OnlineStudy4U Master Mock Tests & PYQ Bank (`09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests`)
+All 12 full-length mock tests covering **Reasoning, Mathematical Ability, Verbal, Pseudocode, and Puzzles** with full Question Papers, JSON schemas, HTML, Markdown, and PDFs:
+- [Infosys Full Length Mock Test-1](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/Infosys_Full_Length_Mock_Test-1/Infosys%20Full%20Length%20Mock%20Test-1%20-%20Question%20Paper.md) &nbsp;•&nbsp; [Solutions PDF](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/Infosys_Full_Length_Mock_Test-1/Infosys%20Full%20Length%20Mock%20Test-1%20-%20Solutions.pdf)
+- [Infosys Full Length Mock Test-2](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/Infosys_Full_Length_Mock_Test-_2/Infosys%20Full%20Length%20Mock%20Test-%202%20-%20Question%20Paper.md) &nbsp;•&nbsp; [Solutions PDF](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/Infosys_Full_Length_Mock_Test-_2/Infosys%20Full%20Length%20Mock%20Test-%202%20-%20Solutions.pdf)
+- [Infosys Full Length Mock Test-3](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/Infosys_Full_Length_Mock_Test-_3/Infosys%20Full%20Length%20Mock%20Test-%203%20-%20Question%20Paper.md) &nbsp;•&nbsp; [Solutions PDF](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/Infosys_Full_Length_Mock_Test-_3/Infosys%20Full%20Length%20Mock%20Test-%203%20-%20Solutions.pdf)
+- [Infosys Full Length Mock Test-4](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/Infosys_Full_Length_Mock_Test-_4/Infosys%20Full%20Length%20Mock%20Test-%204%20-%20Question%20Paper.md) &nbsp;•&nbsp; [Solutions PDF](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/Infosys_Full_Length_Mock_Test-_4/Infosys%20Full%20Length%20Mock%20Test-%204%20-%20Solutions.pdf)
+- [Infosys Full Length Mock Test-5](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/Infosys_Full_Length_Mock_Test-_5/Infosys%20Full%20Length%20Mock%20Test-%205%20-%20Question%20Paper.md) &nbsp;•&nbsp; [Solutions PDF](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/Infosys_Full_Length_Mock_Test-_5/Infosys%20Full%20Length%20Mock%20Test-%205%20-%20Solutions.pdf)
+- [Infosys Full Length Mock Test-6](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/Infosys_Full_Length_Mock_Test-_6/Infosys%20Full%20Length%20Mock%20Test-%206%20-%20Question%20Paper.md) &nbsp;•&nbsp; [Solutions PDF](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/Infosys_Full_Length_Mock_Test-_6/Infosys%20Full%20Length%20Mock%20Test-%206%20-%20Solutions.pdf)
+- [Infosys Full Length Mock Test-7](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/Infosys_Full_Length_Mock_Test-_7/Infosys%20Full%20Length%20Mock%20Test-%207%20-%20Question%20Paper.md) &nbsp;•&nbsp; [Solutions PDF](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/Infosys_Full_Length_Mock_Test-_7/Infosys%20Full%20Length%20Mock%20Test-%207%20-%20Solutions.pdf)
+- [Infosys Full Length Mock Test-8](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/Infosys_Full_Length_Mock_Test-_8/Infosys%20Full%20Length%20Mock%20Test-%208%20-%20Question%20Paper.md) &nbsp;•&nbsp; [Solutions PDF](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/Infosys_Full_Length_Mock_Test-_8/Infosys%20Full%20Length%20Mock%20Test-%208%20-%20Solutions.pdf)
+- [Infosys Full Length Mock Test-9](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/Infosys_Full_Length_Mock_Test-_9/Infosys%20Full%20Length%20Mock%20Test-%209%20-%20Question%20Paper.md) &nbsp;•&nbsp; [Solutions PDF](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/Infosys_Full_Length_Mock_Test-_9/Infosys%20Full%20Length%20Mock%20Test-%209%20-%20Solutions.pdf)
+- [Infosys Full Length Mock Test-10](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/Infosys_Full_Length_Mock_Test-_10/Infosys%20Full%20Length%20Mock%20Test-%2010%20-%20Question%20Paper.md) &nbsp;•&nbsp; [Solutions PDF](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/Infosys_Full_Length_Mock_Test-_10/Infosys%20Full%20Length%20Mock%20Test-%2010%20-%20Solutions.pdf)
+- [INFOSYS TEST SERIES-1](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/INFOSYS_TEST_SERIES-1/INFOSYS%20TEST%20SERIES-1%20-%20Question%20Paper.md) &nbsp;•&nbsp; [Solutions PDF](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/INFOSYS_TEST_SERIES-1/INFOSYS%20TEST%20SERIES-1%20-%20Solutions.pdf)
+- [INFOSYS TEST SERIES-2](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/INFOSYS_TEST_SERIES-2/INFOSYS%20TEST%20SERIES-2%20-%20Question%20Paper.md) &nbsp;•&nbsp; [Solutions PDF](09_Mock_Test_Series/05_OnlineStudy4U_Mock_Tests/INFOSYS_TEST_SERIES-2/INFOSYS%20TEST%20SERIES-2%20-%20Solutions.pdf)
+
+### 📌 Pillar 2: PrepInsta Reverse-Engineered Curriculum (`prepinsta infosys SE`)
+32 official modules extracted directly from PrepInsta's backend AJAX engine:
+- **Mathematical Ability (13 Modules)**: Percentages, Profit & Loss, P&C, Probability, Speed-Time-Distance, Time & Work, Ages, Divisibility Rules, Numbers & Decimals, Series & Progressions, LCM & HCF, Mensuration, and Data Interpretation.
+- **Logical Reasoning Ability (9 Modules)**: Syllogisms, Coding-Decoding, Linear/Circular Arrangements, Number/Letter Series, Clocks & Calendars, Data Sufficiency, Logical Deduction, Most Logical Choice, and Cryptarithmetic.
+- **Technical Pseudocode & Puzzles**: Comprehensive pseudocode logic and numeric/geometric puzzle suites.
+
+### 📌 Pillar 3: Topicwise Timed Practice Drills (`09_Mock_Test_Series/01_Topicwise_Mock_Tests`)
+11 timed topicwise tests (20 Questions each = 220 Questions) with complete step-by-step solutions:
+- Blood Relation &nbsp;•&nbsp; Coding Decoding &nbsp;•&nbsp; Critical Reasoning &nbsp;•&nbsp; Data Sufficiency &nbsp;•&nbsp; Direction Sense &nbsp;•&nbsp; Inequalities &nbsp;•&nbsp; Mirror Image &nbsp;•&nbsp; Number Series &nbsp;•&nbsp; Ranking Test &nbsp;•&nbsp; Seating Arrangement &nbsp;•&nbsp; Syllogisms.
+
+### 📌 Pillar 4: CampusMonk 47 Mock Test Series (`09_Mock_Test_Series/04_CampusMonk_47_Mock_Tests`)
+- Complete Day 01 to Day 09 full-length examination simulations covering all 5 core sections.
+
+### 📌 Pillar 5: College ITM External Exam Simulations (`09_Mock_Test_Series/06_College_ITM_and_External_Mocks`)
+- Master ITM Papers 01 to 07 full exam simulations with complete solution banks.
