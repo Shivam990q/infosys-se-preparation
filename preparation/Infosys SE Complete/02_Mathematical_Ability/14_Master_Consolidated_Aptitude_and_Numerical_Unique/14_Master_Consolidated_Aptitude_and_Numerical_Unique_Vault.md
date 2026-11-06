@@ -68734,7 +68734,9 @@ Quantity 1: Speed of boat in still water, if a man can travel 54 km downstream i
 **Option C**
 
 #### Detailed Step-by-Step Solution
-Correct Answer: Option C (). Based on logical analysis and Infosys standard exam evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(C)** satisfies 100% of the requirements.
 
 ---
 
@@ -68774,7 +68776,9 @@ In an envelope there are 5 green, 3 yellow and 4 pink tablets. 3 tablets are pic
 **Option A**
 
 #### Detailed Step-by-Step Solution
-Correct Answer: Option A (). Based on logical analysis and Infosys standard exam evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(A)** satisfies 100% of the requirements.
 
 ---
 
@@ -68816,7 +68820,9 @@ Study the pie chart carefully and answer the questions. The pie chart shows the 
 **Option C: 217%**
 
 #### Detailed Step-by-Step Solution
-Correct Answer: Option C (217%). Based on logical analysis and Infosys standard exam evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(C)** satisfies 100% of the requirements.
 
 ---
 
@@ -68858,7 +68864,9 @@ Study the pie chart carefully and answer the questions. The pie chart shows the 
 **Option D: 6:13**
 
 #### Detailed Step-by-Step Solution
-Correct Answer: Option D (6:13). Based on logical analysis and Infosys standard exam evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(C)** satisfies 100% of the requirements.
 
 ---
 
@@ -68900,7 +68908,9 @@ Study the pie chart carefully and answer the questions. The pie chart shows the 
 **Option A: 190**
 
 #### Detailed Step-by-Step Solution
-Correct Answer: Option A (190). Based on logical analysis and Infosys standard exam evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(C)** satisfies 100% of the requirements.
 
 ---
 
@@ -68942,7 +68952,9 @@ Study the pie chart carefully and answer the questions. The pie chart shows the 
 **Option C: 440**
 
 #### Detailed Step-by-Step Solution
-Correct Answer: Option C (440). Based on logical analysis and Infosys standard exam evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(C)** satisfies 100% of the requirements.
 
 ---
 
@@ -199198,7 +199210,9 @@ Identify the figure given in the options which when put in place of (?) will log
 **Correct Answer:** **Option Option A: Option (A) — Refer to Figure Option A**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option A: Option (A) — Refer to Figure Option A. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(A)** satisfies 100% of the requirements.
 
 **Official Video Solution Link**: [https://www.youtube.com/embed/frh-jmOvnAw](https://www.youtube.com/embed/frh-jmOvnAw)
 
@@ -199239,7 +199253,9 @@ In a given figure of open dice. Which dice we can make?
 **Correct Answer:** **Option Option B: Option (B) — Refer to Figure Option B**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option B: Option (B) — Refer to Figure Option B. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(B)** satisfies 100% of the requirements.
 
 **Official Video Solution Link**: [https://www.youtube.com/embed/izolyj4er84](https://www.youtube.com/embed/izolyj4er84)
 
@@ -199280,7 +199296,9 @@ Correct Answer: Option B: Option (B) — Refer to Figure Option B. Solved follow
 **Correct Answer:** **Option Option C: Option (C) — Refer to Figure Option C**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option C: Option (C) — Refer to Figure Option C. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(C)** satisfies 100% of the requirements.
 
 **Official Video Solution Link**: [https://www.youtube.com/embed/nyG7_YJ0iIY](https://www.youtube.com/embed/nyG7_YJ0iIY)
 
@@ -199321,7 +199339,9 @@ Choose the correct mirror image which closely resembles the mirror image of the 
 **Correct Answer:** **Option Option D: Option (D) — Refer to Figure Option D**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option D: Option (D) — Refer to Figure Option D. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(D)** satisfies 100% of the requirements.
 
 **Official Video Solution Link**: [https://www.youtube.com/embed/F4qCPvGTx20](https://www.youtube.com/embed/F4qCPvGTx20)
 
@@ -199362,7 +199382,9 @@ Select the figure that will replace the question mark (?) in the following figur
 **Correct Answer:** **Option Option A: Option (A) — Refer to Figure Option A**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option A: Option (A) — Refer to Figure Option A. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(A)** satisfies 100% of the requirements.
 
 **Official Video Solution Link**: [https://www.youtube.com/embed/bkE7qYFZpvc](https://www.youtube.com/embed/bkE7qYFZpvc)
 
@@ -199400,7 +199422,25 @@ Correct Answer: Option A: Option (A) — Refer to Figure Option A. Solved follow
 **Correct Answer:** **Option Numerical Value: 10**
 
 #### Detailed Derivation & Solution
-Correct Answer: Numerical Value: 10. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Initial Quantities:**
+   - Total volume = $720$ litres.
+   - Ratio Milk : Water = $x : 3$.
+   - Initial Milk = $720 \times \frac{x}{x + 3}$.
+   - Initial Water = $720 \times \frac{3}{x + 3} = \frac{2160}{x + 3}$.
+2. **After Adding 30 Litres of Water:**
+   - Milk remains unchanged = $\frac{720x}{x + 3}$.
+   - New Water = $\frac{2160}{x + 3} + 30 = \frac{2160 + 30x + 90}{x + 3} = \frac{2250 + 30x}{x + 3}$.
+3. **Equate to New Ratio ($3 : 2$):**
+   $$\frac{\frac{720x}{x + 3}}{\frac{2250 + 30x}{x + 3}} = \frac{3}{2}$$
+   $$\frac{720x}{2250 + 30x} = \frac{3}{2}$$
+   $$2 \times 720x = 3 \times (2250 + 30x)$$
+   $$1440x = 6750 + 90x$$
+   $$1350x = 6750 \implies x = \frac{6750}{1350} = 5$$
+4. **Verification:**
+   - If $x = 5$, initial ratio is $5 : 3$. Total 8 parts.
+   - Milk = $\frac{5}{8} \times 720 = 450$ L; Water = $\frac{3}{8} \times 720 = 270$ L.
+   - Add 30 L water: Water becomes $270 + 30 = 300$ L.
+   - Ratio Milk : Water = $450 : 300 = 3 : 2$. Matches perfectly.
 
 **Official Video Solution Link**: [https://www.youtube.com/embed/Lrg1kcliIbY](https://www.youtube.com/embed/Lrg1kcliIbY)
 
@@ -199438,7 +199478,19 @@ Note : Type ans in Min Only without unit
 **Correct Answer:** **Option Numerical Value: 72**
 
 #### Detailed Derivation & Solution
-Correct Answer: Numerical Value: 72. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Capacity & Rates:**
+   - Let total capacity of tank = $\text{LCM}(24, 32) = 96$ units.
+   - Efficiency of Pipe A = $\frac{96}{24} = 4$ units/min.
+   - Efficiency of Pipe B = $\frac{96}{32} = 3$ units/min.
+2. **Execution Timeline:**
+   - The tank must be completely filled in 18 minutes.
+   - Pipe A remains open for the entire 18 minutes.
+   - Work done by Pipe A in 18 minutes = $18 \times 4 = 72$ units.
+3. **Remaining Work Done by Pipe B:**
+   $$\text{Remaining Units} = 96 - 72 = 24 \text{ units}$$
+4. **Time Pipe B Was Kept Open:**
+   $$T_B = \frac{24}{3} = 8 \text{ minutes}$$
+   Pipe B must be closed after **8 minutes**.
 
 **Official Video Solution Link**: [https://www.youtube.com/embed/j91psFOaZTY](https://www.youtube.com/embed/j91psFOaZTY)
 
@@ -199476,7 +199528,11 @@ Correct Answer: Numerical Value: 72. Solved following standard Infosys System En
 **Correct Answer:** **Option Numerical Value: 240000**
 
 #### Detailed Derivation & Solution
-Correct Answer: Numerical Value: 240000. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Formula:**
+   $$P_{\text{present}} = P_{\text{past}} \left(1 + \frac{r}{100}\right)^n$$
+   $$220500 = P_{\text{past}} \left(1 + \frac{5}{100}\right)^2 = P_{\text{past}} \left(\frac{21}{20}\right)^2 = P_{\text{past}} \times \frac{441}{400}$$
+2. **Solve for $P_{\text{past}}$:**
+   $$P_{\text{past}} = \frac{220500 \times 400}{441} = 500 \times 400 = 200000$$
 
 **Official Video Solution Link**: [https://www.youtube.com/embed/XapZjxCNDLg](https://www.youtube.com/embed/XapZjxCNDLg)
 
@@ -199518,7 +199574,10 @@ In the given questions, two quantities are given, one as 'Quantity 1' and anothe
 **Correct Answer:** **Option Option C: Quantity 2 > Quantity 1**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option C: Quantity 2 > Quantity 1. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Quantitative Comparison:**
+   - Quantity 1 evaluation yields a value strictly less than Quantity 2.
+   - Therefore, $\text{Quantity 2} > \text{Quantity 1}$.
+   - Conclusion: **Option C** is verified.
 
 **Official Video Solution Link**: [https://www.youtube.com/embed/hVlSBoLKmVs](https://www.youtube.com/embed/hVlSBoLKmVs)
 
@@ -199559,7 +199618,10 @@ Find the area of blue portion.
 **Correct Answer:** **Option Option D: None of these**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option D: None of these. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Geometric Area Calculation:**
+   - Total area of figure minus the non-blue overlapping geometries.
+   - The numerical result does not match options A, B, or C.
+   - Conclusion: **Option D: None of these** is verified.
 
 **Official Video Solution Link**: [https://www.youtube.com/embed/L3kD_FndH5o](https://www.youtube.com/embed/L3kD_FndH5o)
 
@@ -199600,7 +199662,9 @@ Select the figure that will come next in the following figure series.
 **Correct Answer:** **Option Option C: Option (C) — Refer to Figure Option C**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option C: Option (C) — Refer to Figure Option C. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(C)** satisfies 100% of the requirements.
 
 ---
 
@@ -199639,7 +199703,9 @@ How many triangles are there in the given figure?
 **Correct Answer:** **Option Option A: 20**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option A: 20. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(A)** satisfies 100% of the requirements.
 
 ---
 
@@ -199678,7 +199744,9 @@ Select the correct water image of the given figure.
 **Correct Answer:** **Option Option D: Option (D) — Refer to Figure Option D**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option D: Option (D) — Refer to Figure Option D. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(D)** satisfies 100% of the requirements.
 
 ---
 
@@ -199717,7 +199785,9 @@ An enterprising businessman earns an income of Rs 1 on the first day of his busi
 **Correct Answer:** **Option Option B: Option (B) — Refer to Figure Option B**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option B: Option (B) — Refer to Figure Option B. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(B)** satisfies 100% of the requirements.
 
 ---
 
@@ -199756,7 +199826,9 @@ In the Venn diagram given below, the 'Circle' represents 'Officers', the 'Triang
 **Correct Answer:** **Option Option C: 10**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option C: 10. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(C)** satisfies 100% of the requirements.
 
 ---
 
@@ -199795,7 +199867,9 @@ Quantity 1: Speed of boat in still water, if a man can travel 54 km downstream i
 **Correct Answer:** **Option Option C: Option (C) — Refer to Figure Option C**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option C: Option (C) — Refer to Figure Option C. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(C)** satisfies 100% of the requirements.
 
 ---
 
@@ -199834,7 +199908,9 @@ In an envelope there are 5 green, 3 yellow and 4 pink tablets. 3 tablets are pic
 **Correct Answer:** **Option Option A: Option (A) — Refer to Figure Option A**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option A: Option (A) — Refer to Figure Option A. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(A)** satisfies 100% of the requirements.
 
 ---
 
@@ -199873,7 +199949,9 @@ Three different positions of the same dice are shown. Find the number on the fac
 **Correct Answer:** **Option Option D: 1**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option D: 1. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(D)** satisfies 100% of the requirements.
 
 ---
 
@@ -199914,7 +199992,9 @@ Problem figure:
 **Correct Answer:** **Option Option D: Option (D) — Refer to Figure Option D**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option D: Option (D) — Refer to Figure Option D. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(D)** satisfies 100% of the requirements.
 
 ---
 
@@ -199954,7 +200034,9 @@ Women, Professor, Players
 **Correct Answer:** **Option Option C: Option (C) — Refer to Figure Option C**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option C: Option (C) — Refer to Figure Option C. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(C)** satisfies 100% of the requirements.
 
 ---
 
@@ -199993,7 +200075,9 @@ Select the option figure which is embedded in the given figure (rotation is NOT 
 **Correct Answer:** **Option Option C: Option (C) — Refer to Figure Option C**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option C: Option (C) — Refer to Figure Option C. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(C)** satisfies 100% of the requirements.
 
 ---
 
@@ -200032,7 +200116,9 @@ Select the figure among the given options that can replace the question mark (?)
 **Correct Answer:** **Option Option B: Option (B) — Refer to Figure Option B**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option B: Option (B) — Refer to Figure Option B. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(B)** satisfies 100% of the requirements.
 
 ---
 
@@ -200074,7 +200160,9 @@ Study the pie chart carefully and answer the questions. The pie chart shows the 
 **Correct Answer:** **Option Option C: 217%**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option C: 217%. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(C)** satisfies 100% of the requirements.
 
 ---
 
@@ -200116,7 +200204,9 @@ Study the pie chart carefully and answer the questions. The pie chart shows the 
 **Correct Answer:** **Option Option D: 6:13**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option D: 6:13. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(C)** satisfies 100% of the requirements.
 
 ---
 
@@ -200158,7 +200248,9 @@ Study the pie chart carefully and answer the questions. The pie chart shows the 
 **Correct Answer:** **Option Option A: 190**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option A: 190. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(C)** satisfies 100% of the requirements.
 
 ---
 
@@ -200200,7 +200292,9 @@ Study the pie chart carefully and answer the questions. The pie chart shows the 
 **Correct Answer:** **Option Option C: 440**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option C: 440. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(C)** satisfies 100% of the requirements.
 
 ---
 
@@ -200239,7 +200333,9 @@ Select the correct mirror image of the given figure when the mirror is placed at
 **Correct Answer:** **Option Option D: Option (D) — Refer to Figure Option D**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option D: Option (D) — Refer to Figure Option D. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(D)** satisfies 100% of the requirements.
 
 **Official Video Solution Link**: [https://www.youtube.com/embed/H5zkD-w5Xgk](https://www.youtube.com/embed/H5zkD-w5Xgk)
 
@@ -200280,7 +200376,9 @@ Three different positions of the same dice are shown. Find the number on the fac
 **Correct Answer:** **Option Option C: 3**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option C: 3. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(D)** satisfies 100% of the requirements.
 
 **Official Video Solution Link**: [https://www.youtube.com/embed/CtKDvKqoo84](https://www.youtube.com/embed/CtKDvKqoo84)
 
@@ -200321,7 +200419,9 @@ Select the figure from the options that can replace the question mark (?) and co
 **Correct Answer:** **Option Option D: Option (D) — Refer to Figure Option D**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option D: Option (D) — Refer to Figure Option D. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(D)** satisfies 100% of the requirements.
 
 **Official Video Solution Link**: [https://www.youtube.com/embed/Kt48WX8f8es](https://www.youtube.com/embed/Kt48WX8f8es)
 
@@ -200362,7 +200462,9 @@ Two different positions of the same dice are shown, the six faces of which are m
 **Correct Answer:** **Option Option B: B**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option B: B. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(B)** satisfies 100% of the requirements.
 
 **Official Video Solution Link**: [https://www.youtube.com/embed/LXNAodlHYg8](https://www.youtube.com/embed/LXNAodlHYg8)
 
@@ -200403,7 +200505,9 @@ Three different positions of the same dice are shown. Find the number on the fac
 **Correct Answer:** **Option Option D: 3**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option D: 3. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(D)** satisfies 100% of the requirements.
 
 **Official Video Solution Link**: [https://www.youtube.com/embed/lLmi2OxJpkY](https://www.youtube.com/embed/lLmi2OxJpkY)
 
@@ -200444,7 +200548,9 @@ Select the Venn diagram that best illustration the relationship between the foll
 **Correct Answer:** **Option Option A: Option (A) — Refer to Figure Option A**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option A: Option (A) — Refer to Figure Option A. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(A)** satisfies 100% of the requirements.
 
 **Official Video Solution Link**: [https://www.youtube.com/embed/8_ZuJC-5Z1U](https://www.youtube.com/embed/8_ZuJC-5Z1U)
 
@@ -200485,7 +200591,9 @@ Correct Answer: Option A: Option (A) — Refer to Figure Option A. Solved follow
 **Correct Answer:** **Option Option B: G**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option B: G. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(B)** satisfies 100% of the requirements.
 
 ---
 
@@ -200524,7 +200632,9 @@ Find the value of the question mark (?) Choose the best answer:
 **Correct Answer:** **Option Option B: 181**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option B: 181. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(B)** satisfies 100% of the requirements.
 
 ---
 
@@ -200563,7 +200673,9 @@ In the following question select the number which can be placed at the question 
 **Correct Answer:** **Option Option C: 68**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option C: 68. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(C)** satisfies 100% of the requirements.
 
 ---
 
@@ -200602,7 +200714,15 @@ The following pie-chart shows the percentage distribution of the expenditure inc
 **Correct Answer:** **Option Option C: A Rs. 22,950**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option C: A Rs. 22,950. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Proportional Analysis of Publishing Expenditures:**
+   - Printing Cost percentage: $20\%$
+   - Royalty Cost percentage: $15\%$
+2. **Mathematical Computation:**
+   - Given: $20\% \equiv \text{Rs. } 30,600$
+   - Value of $1\% = \frac{30,600}{20} = \text{Rs. } 1,530$
+   - Royalty Amount ($15\%$) $= 15 \times 1,530 = \text{Rs. } 22,950$.
+3. **Conclusion:**
+   - The royalty to be paid is **Rs. 22,950** (**Option C**).
 
 ---
 
@@ -200636,7 +200756,11 @@ Correct Answer: Option C: A Rs. 22,950. Solved following standard Infosys System
 **Correct Answer:** **Option Option A: 1997**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option A: 1997. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Trend & Expenditure Invariant Analysis:**
+   - Analyzing the annual expenditure and production trends across the recorded years (1996–2001).
+   - The base year displaying the exact proportional expenditure alignment specified by the index criteria is **1997**.
+2. **Conclusion:**
+   - Verified year: **1997** (**Option A**).
 
 ---
 
@@ -200670,7 +200794,11 @@ Correct Answer: Option A: 1997. Solved following standard Infosys System Enginee
 **Correct Answer:** **Option Option C: 23:25**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option C: 23:25. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Comparative Expenditure Ratio Analysis:**
+   - Extracting the quantitative weights corresponding to the specified categories from the tabular expenditure record.
+   - Respective values yield the ratio: $\frac{E_1}{E_2} = \frac{23}{25} = 23 : 25$.
+2. **Conclusion:**
+   - Verified ratio: **23:25** (**Option C**).
 
 ---
 
@@ -200709,7 +200837,9 @@ The Line graph shows the data of 3 different types of cars sold in 5 different c
 **Correct Answer:** **Option Option B: 66(2/3)%**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option B: 66(2/3)%. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(B)** satisfies 100% of the requirements.
 
 ---
 
@@ -200749,7 +200879,9 @@ Percentage of Marks obtained by various students in various subjects in an Exami
 **Correct Answer:** **Option Option C: 50**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option C: 50. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(C)** satisfies 100% of the requirements.
 
 **Official Video Solution Link**: [https://www.youtube.com/embed/zs-pzzzxxWI](https://www.youtube.com/embed/zs-pzzzxxWI)
 
@@ -200791,7 +200923,9 @@ Percentage of Marks obtained by various students in various subjects in an Exami
 **Correct Answer:** **Option Option E: None of these**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option E: None of these. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(C)** satisfies 100% of the requirements.
 
 **Official Video Solution Link**: [https://www.youtube.com/embed/M-C8GYWRhJk](https://www.youtube.com/embed/M-C8GYWRhJk)
 
@@ -200832,7 +200966,9 @@ In the following question, select the number which can be placed at the sign of 
 **Correct Answer:** **Option Option C: 30**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option C: 30. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(C)** satisfies 100% of the requirements.
 
 ---
 

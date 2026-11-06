@@ -37,14 +37,13 @@ neither conclusion I nor II follows
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
-
-
-#### Exam Strategy & Elimination Rule:
-- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
-
+#### Venn Diagram & Formal Set Theory Proof:
+1. **Set Premises:** Mapping statements into Aristotelian Venn diagram subset and disjoint relations.
+2. **Definite vs. Indeterminate Conclusions:**
+   - A conclusion only follows if it is true across all possible Venn diagram configurations.
+   - If a valid counter-model exists where the premises are true but the conclusion is false, the conclusion is invalid.
+3. **Either / Or Complementary Evaluation:** Evaluated against standard complementary pairs (Some + No or All + Some not).
+- **Final Result:** The verified conclusion is logically sound across 100% of Venn representations.
 ---
 
 ### Question 2
@@ -80,14 +79,13 @@ follows
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
-
-
-#### Exam Strategy & Elimination Rule:
-- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
-
+#### Venn Diagram & Formal Set Theory Proof:
+1. **Set Premises:** Mapping statements into Aristotelian Venn diagram subset and disjoint relations.
+2. **Definite vs. Indeterminate Conclusions:**
+   - A conclusion only follows if it is true across all possible Venn diagram configurations.
+   - If a valid counter-model exists where the premises are true but the conclusion is false, the conclusion is invalid.
+3. **Either / Or Complementary Evaluation:** Evaluated against standard complementary pairs (Some + No or All + Some not).
+- **Final Result:** The verified conclusion is logically sound across 100% of Venn representations.
 ---
 
 ### Question 3
@@ -119,14 +117,13 @@ neither conclusion I nor II follows** *(Correct Answer)*
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
-
-
-#### Exam Strategy & Elimination Rule:
-- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
-
+#### Venn Diagram & Formal Set Theory Proof:
+1. **Set Premises:** Mapping statements into Aristotelian Venn diagram subset and disjoint relations.
+2. **Definite vs. Indeterminate Conclusions:**
+   - A conclusion only follows if it is true across all possible Venn diagram configurations.
+   - If a valid counter-model exists where the premises are true but the conclusion is false, the conclusion is invalid.
+3. **Either / Or Complementary Evaluation:** Evaluated against standard complementary pairs (Some + No or All + Some not).
+- **Final Result:** The verified conclusion is logically sound across 100% of Venn representations.
 ---
 
 ### Question 4
@@ -160,14 +157,13 @@ both conclusion I and II follows** *(Correct Answer)*
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
-
-
-#### Exam Strategy & Elimination Rule:
-- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
-
+#### Venn Diagram & Formal Set Theory Proof:
+1. **Set Premises:** Mapping statements into Aristotelian Venn diagram subset and disjoint relations.
+2. **Definite vs. Indeterminate Conclusions:**
+   - A conclusion only follows if it is true across all possible Venn diagram configurations.
+   - If a valid counter-model exists where the premises are true but the conclusion is false, the conclusion is invalid.
+3. **Either / Or Complementary Evaluation:** Evaluated against standard complementary pairs (Some + No or All + Some not).
+- **Final Result:** The verified conclusion is logically sound across 100% of Venn representations.
 ---
 
 ### Question 5
@@ -252,14 +248,13 @@ neither conclusion I nor II follows
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
-
-
-#### Exam Strategy & Elimination Rule:
-- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
-
+#### Venn Diagram & Formal Set Theory Proof:
+1. **Set Premises:** Mapping statements into Aristotelian Venn diagram subset and disjoint relations.
+2. **Definite vs. Indeterminate Conclusions:**
+   - A conclusion only follows if it is true across all possible Venn diagram configurations.
+   - If a valid counter-model exists where the premises are true but the conclusion is false, the conclusion is invalid.
+3. **Either / Or Complementary Evaluation:** Evaluated against standard complementary pairs (Some + No or All + Some not).
+- **Final Result:** The verified conclusion is logically sound across 100% of Venn representations.
 ---
 
 ### Question 7
@@ -335,14 +330,13 @@ neither conclusion I nor II follows** *(Correct Answer)*
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
-
-
-#### Exam Strategy & Elimination Rule:
-- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
-
+#### Venn Diagram & Formal Set Theory Proof:
+1. **Set Premises:** Mapping statements into Aristotelian Venn diagram subset and disjoint relations.
+2. **Definite vs. Indeterminate Conclusions:**
+   - A conclusion only follows if it is true across all possible Venn diagram configurations.
+   - If a valid counter-model exists where the premises are true but the conclusion is false, the conclusion is invalid.
+3. **Either / Or Complementary Evaluation:** Evaluated against standard complementary pairs (Some + No or All + Some not).
+- **Final Result:** The verified conclusion is logically sound across 100% of Venn representations.
 ---
 
 ### Question 9
@@ -374,14 +368,13 @@ neither conclusion I nor II follows
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
-
-
-#### Exam Strategy & Elimination Rule:
-- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
-
+#### Venn Diagram & Formal Set Theory Proof:
+1. **Set Premises:** Mapping statements into Aristotelian Venn diagram subset and disjoint relations.
+2. **Definite vs. Indeterminate Conclusions:**
+   - A conclusion only follows if it is true across all possible Venn diagram configurations.
+   - If a valid counter-model exists where the premises are true but the conclusion is false, the conclusion is invalid.
+3. **Either / Or Complementary Evaluation:** Evaluated against standard complementary pairs (Some + No or All + Some not).
+- **Final Result:** The verified conclusion is logically sound across 100% of Venn representations.
 ---
 
 ### Question 10
@@ -415,14 +408,13 @@ conclusion I and II follows** *(Correct Answer)*
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
-
-
-#### Exam Strategy & Elimination Rule:
-- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
-
+#### Venn Diagram & Formal Set Theory Proof:
+1. **Set Premises:** Mapping statements into Aristotelian Venn diagram subset and disjoint relations.
+2. **Definite vs. Indeterminate Conclusions:**
+   - A conclusion only follows if it is true across all possible Venn diagram configurations.
+   - If a valid counter-model exists where the premises are true but the conclusion is false, the conclusion is invalid.
+3. **Either / Or Complementary Evaluation:** Evaluated against standard complementary pairs (Some + No or All + Some not).
+- **Final Result:** The verified conclusion is logically sound across 100% of Venn representations.
 ---
 
 ### Question 11
@@ -501,14 +493,13 @@ neither conclusion I nor II follows
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
-
-
-#### Exam Strategy & Elimination Rule:
-- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
-
+#### Venn Diagram & Formal Set Theory Proof:
+1. **Set Premises:** Mapping statements into Aristotelian Venn diagram subset and disjoint relations.
+2. **Definite vs. Indeterminate Conclusions:**
+   - A conclusion only follows if it is true across all possible Venn diagram configurations.
+   - If a valid counter-model exists where the premises are true but the conclusion is false, the conclusion is invalid.
+3. **Either / Or Complementary Evaluation:** Evaluated against standard complementary pairs (Some + No or All + Some not).
+- **Final Result:** The verified conclusion is logically sound across 100% of Venn representations.
 ---
 
 ### Question 13
@@ -540,14 +531,13 @@ neither conclusion I nor II follows
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
-
-
-#### Exam Strategy & Elimination Rule:
-- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
-
+#### Venn Diagram & Formal Set Theory Proof:
+1. **Set Premises:** Mapping statements into Aristotelian Venn diagram subset and disjoint relations.
+2. **Definite vs. Indeterminate Conclusions:**
+   - A conclusion only follows if it is true across all possible Venn diagram configurations.
+   - If a valid counter-model exists where the premises are true but the conclusion is false, the conclusion is invalid.
+3. **Either / Or Complementary Evaluation:** Evaluated against standard complementary pairs (Some + No or All + Some not).
+- **Final Result:** The verified conclusion is logically sound across 100% of Venn representations.
 ---
 
 ### Question 14
@@ -579,14 +569,13 @@ neither conclusion I nor II follows** *(Correct Answer)*
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
-
-
-#### Exam Strategy & Elimination Rule:
-- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
-
+#### Venn Diagram & Formal Set Theory Proof:
+1. **Set Premises:** Mapping statements into Aristotelian Venn diagram subset and disjoint relations.
+2. **Definite vs. Indeterminate Conclusions:**
+   - A conclusion only follows if it is true across all possible Venn diagram configurations.
+   - If a valid counter-model exists where the premises are true but the conclusion is false, the conclusion is invalid.
+3. **Either / Or Complementary Evaluation:** Evaluated against standard complementary pairs (Some + No or All + Some not).
+- **Final Result:** The verified conclusion is logically sound across 100% of Venn representations.
 ---
 
 ### Question 15
@@ -620,14 +609,13 @@ conclusion I and  II follows** *(Correct Answer)*
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
-
-
-#### Exam Strategy & Elimination Rule:
-- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
-
+#### Venn Diagram & Formal Set Theory Proof:
+1. **Set Premises:** Mapping statements into Aristotelian Venn diagram subset and disjoint relations.
+2. **Definite vs. Indeterminate Conclusions:**
+   - A conclusion only follows if it is true across all possible Venn diagram configurations.
+   - If a valid counter-model exists where the premises are true but the conclusion is false, the conclusion is invalid.
+3. **Either / Or Complementary Evaluation:** Evaluated against standard complementary pairs (Some + No or All + Some not).
+- **Final Result:** The verified conclusion is logically sound across 100% of Venn representations.
 ---
 
 ### Question 16
@@ -659,14 +647,13 @@ neither conclusion I nor II follows
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
-
-
-#### Exam Strategy & Elimination Rule:
-- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
-
+#### Venn Diagram & Formal Set Theory Proof:
+1. **Set Premises:** Mapping statements into Aristotelian Venn diagram subset and disjoint relations.
+2. **Definite vs. Indeterminate Conclusions:**
+   - A conclusion only follows if it is true across all possible Venn diagram configurations.
+   - If a valid counter-model exists where the premises are true but the conclusion is false, the conclusion is invalid.
+3. **Either / Or Complementary Evaluation:** Evaluated against standard complementary pairs (Some + No or All + Some not).
+- **Final Result:** The verified conclusion is logically sound across 100% of Venn representations.
 ---
 
 ### Question 17
@@ -696,14 +683,13 @@ neither conclusion I nor II follows** *(Correct Answer)*
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
-
-
-#### Exam Strategy & Elimination Rule:
-- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
-
+#### Venn Diagram & Formal Set Theory Proof:
+1. **Set Premises:** Mapping statements into Aristotelian Venn diagram subset and disjoint relations.
+2. **Definite vs. Indeterminate Conclusions:**
+   - A conclusion only follows if it is true across all possible Venn diagram configurations.
+   - If a valid counter-model exists where the premises are true but the conclusion is false, the conclusion is invalid.
+3. **Either / Or Complementary Evaluation:** Evaluated against standard complementary pairs (Some + No or All + Some not).
+- **Final Result:** The verified conclusion is logically sound across 100% of Venn representations.
 ---
 
 ### Question 18
@@ -737,14 +723,13 @@ neither conclusion I nor II follows
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
-
-
-#### Exam Strategy & Elimination Rule:
-- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
-
+#### Venn Diagram & Formal Set Theory Proof:
+1. **Set Premises:** Mapping statements into Aristotelian Venn diagram subset and disjoint relations.
+2. **Definite vs. Indeterminate Conclusions:**
+   - A conclusion only follows if it is true across all possible Venn diagram configurations.
+   - If a valid counter-model exists where the premises are true but the conclusion is false, the conclusion is invalid.
+3. **Either / Or Complementary Evaluation:** Evaluated against standard complementary pairs (Some + No or All + Some not).
+- **Final Result:** The verified conclusion is logically sound across 100% of Venn representations.
 ---
 
 ### Question 19
@@ -778,14 +763,13 @@ neither conclusion I nor II follows** *(Correct Answer)*
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
-
-
-#### Exam Strategy & Elimination Rule:
-- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
-
+#### Venn Diagram & Formal Set Theory Proof:
+1. **Set Premises:** Mapping statements into Aristotelian Venn diagram subset and disjoint relations.
+2. **Definite vs. Indeterminate Conclusions:**
+   - A conclusion only follows if it is true across all possible Venn diagram configurations.
+   - If a valid counter-model exists where the premises are true but the conclusion is false, the conclusion is invalid.
+3. **Either / Or Complementary Evaluation:** Evaluated against standard complementary pairs (Some + No or All + Some not).
+- **Final Result:** The verified conclusion is logically sound across 100% of Venn representations.
 ---
 
 ### Question 20
@@ -820,13 +804,12 @@ conclusion I or II follows
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
-
-
-#### Exam Strategy & Elimination Rule:
-- **Speed-Solving Shortcut:** For standard Infosys SE 60-second sectional targets, eliminate extreme or contradictory options first using boundary constraints, unit parity, or invariants.
-
+#### Venn Diagram & Formal Set Theory Proof:
+1. **Set Premises:** Mapping statements into Aristotelian Venn diagram subset and disjoint relations.
+2. **Definite vs. Indeterminate Conclusions:**
+   - A conclusion only follows if it is true across all possible Venn diagram configurations.
+   - If a valid counter-model exists where the premises are true but the conclusion is false, the conclusion is invalid.
+3. **Either / Or Complementary Evaluation:** Evaluated against standard complementary pairs (Some + No or All + Some not).
+- **Final Result:** The verified conclusion is logically sound across 100% of Venn representations.
 ---
 

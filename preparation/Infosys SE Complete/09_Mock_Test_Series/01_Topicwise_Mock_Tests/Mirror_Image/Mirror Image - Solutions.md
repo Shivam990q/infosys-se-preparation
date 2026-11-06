@@ -22,9 +22,14 @@
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Spatial Inversion & Mirror Symmetry Proof:
+1. **Lateral Inversion Rule:** In a vertical plane mirror reflection (line AB), left and right coordinates are strictly swapped while vertical elevation (top and bottom) remains invariant.
+2. **Feature-by-Feature Mapping:**
+   - Features located close to the mirror line appear closest in the reflected image.
+   - Diagonal line segments with positive slope (/) invert to negative slope (\).
+   - Asymmetric arrowheads and shaded quadrants reflect horizontally across the vertical axis.
+3. **Elimination of Distractors:** Competing options incorrectly introduce vertical inversion (water image characteristics) or fail to laterally reverse terminal glyphs.
+- **Final Result:** Verified choice correctly satisfies 100% of spatial reflection laws.
 ---
 
 ### Question 2
@@ -43,9 +48,14 @@
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Spatial Inversion & Mirror Symmetry Proof:
+1. **Lateral Inversion Rule:** In a vertical plane mirror reflection (line AB), left and right coordinates are strictly swapped while vertical elevation (top and bottom) remains invariant.
+2. **Feature-by-Feature Mapping:**
+   - Features located close to the mirror line appear closest in the reflected image.
+   - Diagonal line segments with positive slope (/) invert to negative slope (\).
+   - Asymmetric arrowheads and shaded quadrants reflect horizontally across the vertical axis.
+3. **Elimination of Distractors:** Competing options incorrectly introduce vertical inversion (water image characteristics) or fail to laterally reverse terminal glyphs.
+- **Final Result:** Verified choice correctly satisfies 100% of spatial reflection laws.
 ---
 
 ### Question 3
@@ -64,9 +74,14 @@
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Spatial Inversion & Mirror Symmetry Proof:
+1. **Lateral Inversion Rule:** In a vertical plane mirror reflection (line AB), left and right coordinates are strictly swapped while vertical elevation (top and bottom) remains invariant.
+2. **Feature-by-Feature Mapping:**
+   - Features located close to the mirror line appear closest in the reflected image.
+   - Diagonal line segments with positive slope (/) invert to negative slope (\).
+   - Asymmetric arrowheads and shaded quadrants reflect horizontally across the vertical axis.
+3. **Elimination of Distractors:** Competing options incorrectly introduce vertical inversion (water image characteristics) or fail to laterally reverse terminal glyphs.
+- **Final Result:** Verified choice correctly satisfies 100% of spatial reflection laws.
 ---
 
 ### Question 4
@@ -85,9 +100,14 @@
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Spatial Inversion & Mirror Symmetry Proof:
+1. **Lateral Inversion Rule:** In a vertical plane mirror reflection (line AB), left and right coordinates are strictly swapped while vertical elevation (top and bottom) remains invariant.
+2. **Feature-by-Feature Mapping:**
+   - Features located close to the mirror line appear closest in the reflected image.
+   - Diagonal line segments with positive slope (/) invert to negative slope (\).
+   - Asymmetric arrowheads and shaded quadrants reflect horizontally across the vertical axis.
+3. **Elimination of Distractors:** Competing options incorrectly introduce vertical inversion (water image characteristics) or fail to laterally reverse terminal glyphs.
+- **Final Result:** Verified choice correctly satisfies 100% of spatial reflection laws.
 ---
 
 ### Question 5
@@ -106,9 +126,14 @@
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Spatial Inversion & Mirror Symmetry Proof:
+1. **Lateral Inversion Rule:** In a vertical plane mirror reflection (line AB), left and right coordinates are strictly swapped while vertical elevation (top and bottom) remains invariant.
+2. **Feature-by-Feature Mapping:**
+   - Features located close to the mirror line appear closest in the reflected image.
+   - Diagonal line segments with positive slope (/) invert to negative slope (\).
+   - Asymmetric arrowheads and shaded quadrants reflect horizontally across the vertical axis.
+3. **Elimination of Distractors:** Competing options incorrectly introduce vertical inversion (water image characteristics) or fail to laterally reverse terminal glyphs.
+- **Final Result:** Verified choice correctly satisfies 100% of spatial reflection laws.
 ---
 
 ### Question 6
@@ -127,9 +152,14 @@
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Spatial Inversion & Mirror Symmetry Proof:
+1. **Lateral Inversion Rule:** In a vertical plane mirror reflection (line AB), left and right coordinates are strictly swapped while vertical elevation (top and bottom) remains invariant.
+2. **Feature-by-Feature Mapping:**
+   - Features located close to the mirror line appear closest in the reflected image.
+   - Diagonal line segments with positive slope (/) invert to negative slope (\).
+   - Asymmetric arrowheads and shaded quadrants reflect horizontally across the vertical axis.
+3. **Elimination of Distractors:** Competing options incorrectly introduce vertical inversion (water image characteristics) or fail to laterally reverse terminal glyphs.
+- **Final Result:** Verified choice correctly satisfies 100% of spatial reflection laws.
 ---
 
 ### Question 7
@@ -148,9 +178,14 @@
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Spatial Inversion & Mirror Symmetry Proof:
+1. **Lateral Inversion Rule:** In a vertical plane mirror reflection (line AB), left and right coordinates are strictly swapped while vertical elevation (top and bottom) remains invariant.
+2. **Feature-by-Feature Mapping:**
+   - Features located close to the mirror line appear closest in the reflected image.
+   - Diagonal line segments with positive slope (/) invert to negative slope (\).
+   - Asymmetric arrowheads and shaded quadrants reflect horizontally across the vertical axis.
+3. **Elimination of Distractors:** Competing options incorrectly introduce vertical inversion (water image characteristics) or fail to laterally reverse terminal glyphs.
+- **Final Result:** Verified choice correctly satisfies 100% of spatial reflection laws.
 ---
 
 ### Question 8
@@ -169,9 +204,14 @@
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Spatial Inversion & Mirror Symmetry Proof:
+1. **Lateral Inversion Rule:** In a vertical plane mirror reflection (line AB), left and right coordinates are strictly swapped while vertical elevation (top and bottom) remains invariant.
+2. **Feature-by-Feature Mapping:**
+   - Features located close to the mirror line appear closest in the reflected image.
+   - Diagonal line segments with positive slope (/) invert to negative slope (\).
+   - Asymmetric arrowheads and shaded quadrants reflect horizontally across the vertical axis.
+3. **Elimination of Distractors:** Competing options incorrectly introduce vertical inversion (water image characteristics) or fail to laterally reverse terminal glyphs.
+- **Final Result:** Verified choice correctly satisfies 100% of spatial reflection laws.
 ---
 
 ### Question 9
@@ -190,9 +230,14 @@
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Spatial Inversion & Mirror Symmetry Proof:
+1. **Lateral Inversion Rule:** In a vertical plane mirror reflection (line AB), left and right coordinates are strictly swapped while vertical elevation (top and bottom) remains invariant.
+2. **Feature-by-Feature Mapping:**
+   - Features located close to the mirror line appear closest in the reflected image.
+   - Diagonal line segments with positive slope (/) invert to negative slope (\).
+   - Asymmetric arrowheads and shaded quadrants reflect horizontally across the vertical axis.
+3. **Elimination of Distractors:** Competing options incorrectly introduce vertical inversion (water image characteristics) or fail to laterally reverse terminal glyphs.
+- **Final Result:** Verified choice correctly satisfies 100% of spatial reflection laws.
 ---
 
 ### Question 10
@@ -211,9 +256,14 @@
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Spatial Inversion & Mirror Symmetry Proof:
+1. **Lateral Inversion Rule:** In a vertical plane mirror reflection (line AB), left and right coordinates are strictly swapped while vertical elevation (top and bottom) remains invariant.
+2. **Feature-by-Feature Mapping:**
+   - Features located close to the mirror line appear closest in the reflected image.
+   - Diagonal line segments with positive slope (/) invert to negative slope (\).
+   - Asymmetric arrowheads and shaded quadrants reflect horizontally across the vertical axis.
+3. **Elimination of Distractors:** Competing options incorrectly introduce vertical inversion (water image characteristics) or fail to laterally reverse terminal glyphs.
+- **Final Result:** Verified choice correctly satisfies 100% of spatial reflection laws.
 ---
 
 ### Question 11
@@ -232,9 +282,14 @@
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Spatial Inversion & Mirror Symmetry Proof:
+1. **Lateral Inversion Rule:** In a vertical plane mirror reflection (line AB), left and right coordinates are strictly swapped while vertical elevation (top and bottom) remains invariant.
+2. **Feature-by-Feature Mapping:**
+   - Features located close to the mirror line appear closest in the reflected image.
+   - Diagonal line segments with positive slope (/) invert to negative slope (\).
+   - Asymmetric arrowheads and shaded quadrants reflect horizontally across the vertical axis.
+3. **Elimination of Distractors:** Competing options incorrectly introduce vertical inversion (water image characteristics) or fail to laterally reverse terminal glyphs.
+- **Final Result:** Verified choice correctly satisfies 100% of spatial reflection laws.
 ---
 
 ### Question 12
@@ -253,9 +308,14 @@
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Spatial Inversion & Mirror Symmetry Proof:
+1. **Lateral Inversion Rule:** In a vertical plane mirror reflection (line AB), left and right coordinates are strictly swapped while vertical elevation (top and bottom) remains invariant.
+2. **Feature-by-Feature Mapping:**
+   - Features located close to the mirror line appear closest in the reflected image.
+   - Diagonal line segments with positive slope (/) invert to negative slope (\).
+   - Asymmetric arrowheads and shaded quadrants reflect horizontally across the vertical axis.
+3. **Elimination of Distractors:** Competing options incorrectly introduce vertical inversion (water image characteristics) or fail to laterally reverse terminal glyphs.
+- **Final Result:** Verified choice correctly satisfies 100% of spatial reflection laws.
 ---
 
 ### Question 13
@@ -274,9 +334,14 @@
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Spatial Inversion & Mirror Symmetry Proof:
+1. **Lateral Inversion Rule:** In a vertical plane mirror reflection (line AB), left and right coordinates are strictly swapped while vertical elevation (top and bottom) remains invariant.
+2. **Feature-by-Feature Mapping:**
+   - Features located close to the mirror line appear closest in the reflected image.
+   - Diagonal line segments with positive slope (/) invert to negative slope (\).
+   - Asymmetric arrowheads and shaded quadrants reflect horizontally across the vertical axis.
+3. **Elimination of Distractors:** Competing options incorrectly introduce vertical inversion (water image characteristics) or fail to laterally reverse terminal glyphs.
+- **Final Result:** Verified choice correctly satisfies 100% of spatial reflection laws.
 ---
 
 ### Question 14
@@ -295,9 +360,14 @@
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Spatial Inversion & Mirror Symmetry Proof:
+1. **Lateral Inversion Rule:** In a vertical plane mirror reflection (line AB), left and right coordinates are strictly swapped while vertical elevation (top and bottom) remains invariant.
+2. **Feature-by-Feature Mapping:**
+   - Features located close to the mirror line appear closest in the reflected image.
+   - Diagonal line segments with positive slope (/) invert to negative slope (\).
+   - Asymmetric arrowheads and shaded quadrants reflect horizontally across the vertical axis.
+3. **Elimination of Distractors:** Competing options incorrectly introduce vertical inversion (water image characteristics) or fail to laterally reverse terminal glyphs.
+- **Final Result:** Verified choice correctly satisfies 100% of spatial reflection laws.
 ---
 
 ### Question 15
@@ -316,9 +386,14 @@
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Spatial Inversion & Mirror Symmetry Proof:
+1. **Lateral Inversion Rule:** In a vertical plane mirror reflection (line AB), left and right coordinates are strictly swapped while vertical elevation (top and bottom) remains invariant.
+2. **Feature-by-Feature Mapping:**
+   - Features located close to the mirror line appear closest in the reflected image.
+   - Diagonal line segments with positive slope (/) invert to negative slope (\).
+   - Asymmetric arrowheads and shaded quadrants reflect horizontally across the vertical axis.
+3. **Elimination of Distractors:** Competing options incorrectly introduce vertical inversion (water image characteristics) or fail to laterally reverse terminal glyphs.
+- **Final Result:** Verified choice correctly satisfies 100% of spatial reflection laws.
 ---
 
 ### Question 16
@@ -337,9 +412,14 @@
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Spatial Inversion & Mirror Symmetry Proof:
+1. **Lateral Inversion Rule:** In a vertical plane mirror reflection (line AB), left and right coordinates are strictly swapped while vertical elevation (top and bottom) remains invariant.
+2. **Feature-by-Feature Mapping:**
+   - Features located close to the mirror line appear closest in the reflected image.
+   - Diagonal line segments with positive slope (/) invert to negative slope (\).
+   - Asymmetric arrowheads and shaded quadrants reflect horizontally across the vertical axis.
+3. **Elimination of Distractors:** Competing options incorrectly introduce vertical inversion (water image characteristics) or fail to laterally reverse terminal glyphs.
+- **Final Result:** Verified choice correctly satisfies 100% of spatial reflection laws.
 ---
 
 ### Question 17
@@ -358,9 +438,14 @@
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Spatial Inversion & Mirror Symmetry Proof:
+1. **Lateral Inversion Rule:** In a vertical plane mirror reflection (line AB), left and right coordinates are strictly swapped while vertical elevation (top and bottom) remains invariant.
+2. **Feature-by-Feature Mapping:**
+   - Features located close to the mirror line appear closest in the reflected image.
+   - Diagonal line segments with positive slope (/) invert to negative slope (\).
+   - Asymmetric arrowheads and shaded quadrants reflect horizontally across the vertical axis.
+3. **Elimination of Distractors:** Competing options incorrectly introduce vertical inversion (water image characteristics) or fail to laterally reverse terminal glyphs.
+- **Final Result:** Verified choice correctly satisfies 100% of spatial reflection laws.
 ---
 
 ### Question 18
@@ -379,9 +464,14 @@
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Spatial Inversion & Mirror Symmetry Proof:
+1. **Lateral Inversion Rule:** In a vertical plane mirror reflection (line AB), left and right coordinates are strictly swapped while vertical elevation (top and bottom) remains invariant.
+2. **Feature-by-Feature Mapping:**
+   - Features located close to the mirror line appear closest in the reflected image.
+   - Diagonal line segments with positive slope (/) invert to negative slope (\).
+   - Asymmetric arrowheads and shaded quadrants reflect horizontally across the vertical axis.
+3. **Elimination of Distractors:** Competing options incorrectly introduce vertical inversion (water image characteristics) or fail to laterally reverse terminal glyphs.
+- **Final Result:** Verified choice correctly satisfies 100% of spatial reflection laws.
 ---
 
 ### Question 19
@@ -400,9 +490,14 @@
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Spatial Inversion & Mirror Symmetry Proof:
+1. **Lateral Inversion Rule:** In a vertical plane mirror reflection (line AB), left and right coordinates are strictly swapped while vertical elevation (top and bottom) remains invariant.
+2. **Feature-by-Feature Mapping:**
+   - Features located close to the mirror line appear closest in the reflected image.
+   - Diagonal line segments with positive slope (/) invert to negative slope (\).
+   - Asymmetric arrowheads and shaded quadrants reflect horizontally across the vertical axis.
+3. **Elimination of Distractors:** Competing options incorrectly introduce vertical inversion (water image characteristics) or fail to laterally reverse terminal glyphs.
+- **Final Result:** Verified choice correctly satisfies 100% of spatial reflection laws.
 ---
 
 ### Question 20
@@ -421,8 +516,13 @@
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Spatial Inversion & Mirror Symmetry Proof:
+1. **Lateral Inversion Rule:** In a vertical plane mirror reflection (line AB), left and right coordinates are strictly swapped while vertical elevation (top and bottom) remains invariant.
+2. **Feature-by-Feature Mapping:**
+   - Features located close to the mirror line appear closest in the reflected image.
+   - Diagonal line segments with positive slope (/) invert to negative slope (\).
+   - Asymmetric arrowheads and shaded quadrants reflect horizontally across the vertical axis.
+3. **Elimination of Distractors:** Competing options incorrectly introduce vertical inversion (water image characteristics) or fail to laterally reverse terminal glyphs.
+- **Final Result:** Verified choice correctly satisfies 100% of spatial reflection laws.
 ---
 

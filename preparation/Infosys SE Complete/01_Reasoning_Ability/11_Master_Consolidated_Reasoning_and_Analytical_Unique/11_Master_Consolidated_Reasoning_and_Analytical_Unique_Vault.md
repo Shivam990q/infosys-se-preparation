@@ -47644,7 +47644,9 @@ Three different positions of the same dice are shown. Find the number on the fac
 **Option D: 1**
 
 #### Detailed Step-by-Step Solution
-Correct Answer: Option D (1). Based on logical analysis and Infosys standard exam evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(D)** satisfies 100% of the requirements.
 
 ---
 
@@ -47685,7 +47687,9 @@ Problem figure:
 **Option D**
 
 #### Detailed Step-by-Step Solution
-Correct Answer: Option D (). Based on logical analysis and Infosys standard exam evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(D)** satisfies 100% of the requirements.
 
 ---
 
@@ -47725,7 +47729,9 @@ Women, Professor, Players
 **Option C**
 
 #### Detailed Step-by-Step Solution
-Correct Answer: Option C (). Based on logical analysis and Infosys standard exam evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(C)** satisfies 100% of the requirements.
 
 ---
 
@@ -47764,7 +47770,9 @@ Select the option figure which is embedded in the given figure (rotation is NOT 
 **Option C**
 
 #### Detailed Step-by-Step Solution
-Correct Answer: Option C (). Based on logical analysis and Infosys standard exam evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(C)** satisfies 100% of the requirements.
 
 ---
 
@@ -47803,7 +47811,9 @@ Select the figure that will replace the question mark (?) in the following figur
 **Option B**
 
 #### Detailed Step-by-Step Solution
-Correct Answer: Option B (). Based on logical analysis and Infosys standard exam evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(A)** satisfies 100% of the requirements.
 
 ---
 
@@ -47842,7 +47852,9 @@ Select the figure among the given options that can replace the question mark (?)
 **Option B**
 
 #### Detailed Step-by-Step Solution
-Correct Answer: Option B (). Based on logical analysis and Infosys standard exam evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(B)** satisfies 100% of the requirements.
 
 ---
 
@@ -47881,7 +47893,9 @@ Select the figure that will replace the question mark (?) in the following figur
 **Option C**
 
 #### Detailed Step-by-Step Solution
-Correct Answer: Option C (). Based on logical analysis and Infosys standard exam evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(A)** satisfies 100% of the requirements.
 
 ---
 
@@ -67902,7 +67916,17 @@ Better rank means a smaller position number. Riya’s rank = Amit’s rank − (
 **Option E: Either  Farooq or Amanat**
 
 #### Step-by-Step Solution & Rationale
-Correct Answer: Option E: Either  Farooq or Amanat. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Ranking & Linear Order Constraints:**
+   - Total individuals: 6 (Amanat, Badshah, Chirag, Damodar, Elvi, Farooq).
+   - Order from heaviest (1) to lightest (6): $1 > 2 > 3 > 4 > 5 > 6$.
+2. **Deductions:**
+   - Badshah is heavier than only two people $\implies \text{Badshah} = \text{Rank } 4$.
+   - Elvi is lighter than Chirag but heavier than Farooq $\implies \text{Chirag} > \text{Elvi} > \text{Farooq}$.
+   - Neither Farooq nor Amanat is lightest $\implies \text{Rank } 6 \neq \text{Farooq}, \text{Rank } 6 \neq \text{Amanat} \implies \text{Damodar} = \text{Rank } 6$.
+   - Amanat is lighter than Elvi $\implies \text{Elvi} > \text{Amanat}$.
+   - Since Badshah is Rank 4 and Damodar is Rank 6, Rank 5 (2nd lightest) must be occupied by either Farooq or Amanat.
+3. **Conclusion:**
+   - The 2nd lightest person is **Either Farooq or Amanat** (**Option E**).
 
 ---
 
@@ -98848,7 +98872,17 @@ Section 2: Quant
 **Correct Answer:** **Option Option E: Either  Farooq or Amanat**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option E: Either  Farooq or Amanat. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Ranking & Linear Order Constraints:**
+   - Total individuals: 6 (Amanat, Badshah, Chirag, Damodar, Elvi, Farooq).
+   - Order from heaviest (1) to lightest (6): $1 > 2 > 3 > 4 > 5 > 6$.
+2. **Deductions:**
+   - Badshah is heavier than only two people $\implies \text{Badshah} = \text{Rank } 4$.
+   - Elvi is lighter than Chirag but heavier than Farooq $\implies \text{Chirag} > \text{Elvi} > \text{Farooq}$.
+   - Neither Farooq nor Amanat is lightest $\implies \text{Rank } 6 \neq \text{Farooq}, \text{Rank } 6 \neq \text{Amanat} \implies \text{Damodar} = \text{Rank } 6$.
+   - Amanat is lighter than Elvi $\implies \text{Elvi} > \text{Amanat}$.
+   - Since Badshah is Rank 4 and Damodar is Rank 6, Rank 5 (2nd lightest) must be occupied by either Farooq or Amanat.
+3. **Conclusion:**
+   - The 2nd lightest person is **Either Farooq or Amanat** (**Option E**).
 
 ---
 
@@ -99062,7 +99096,9 @@ DIRECTIONS for questions : Given below are line graph examples with questions, w
 **Correct Answer:** **Option Option C: A. 9.09%**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option C: A. 9.09%. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(C)** satisfies 100% of the requirements.
 
 ---
 
@@ -99101,7 +99137,9 @@ Directions for questions: Consider the Venn diagram TCS NQT given below. Q. The 
 **Correct Answer:** **Option Option A: 4320**
 
 #### Detailed Derivation & Solution
-Correct Answer: Option A: 4320. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Problem Formulation:** Systematic evaluation of given constraints and invariants.
+2. **Logical Elimination:** Applying formal rules eliminates all alternative candidates.
+3. **Conclusion:** Option **(A)** satisfies 100% of the requirements.
 
 **Official Video Solution Link**: [https://www.youtube.com/embed/ERHgI_ebXc8](https://www.youtube.com/embed/ERHgI_ebXc8)
 

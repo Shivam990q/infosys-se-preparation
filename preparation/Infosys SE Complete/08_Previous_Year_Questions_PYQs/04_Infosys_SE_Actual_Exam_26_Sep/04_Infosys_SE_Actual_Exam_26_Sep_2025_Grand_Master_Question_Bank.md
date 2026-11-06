@@ -10143,7 +10143,11 @@ Candiate Name astnwtn current VERBAL ABILITY TEST set No , Fill the blank With t
 **Screenshot Evidence**: [`pyq_26sep_0464_9a899938.jpeg`](images/pyq_26sep_0464_9a899938.jpeg)
 
 ```text
-Set No RJKthipati TECHNICAL ABILITY TEST estions once cannot be attempted again. Question 5 X was asking otner people to guess his age A satd that his age IS not more tnan 30. B said tnat his age iS greater than 20 ror sute C sag ns age ' were correct then What iS average possible value ot X? (Cnoose one solution) please provide your response betow 0 28 0 30 0 27
+Set No RJKthipati TECHNICAL ABILITY TEST estions once cannot be attempted again.
+Question 5 X was asking otner people to guess his age A satd that his age IS not
+more tnan 30. B said tnat his age iS greater than 20 ror sute C sag ns age '
+were correct then What iS average possible value ot X? (Cnoose one solution)
+please provide your response betow 0 28 0 30 0 27
 ```
 
 - **(A)** `Option detailed in authentic screenshot`
@@ -11911,7 +11915,9 @@ that unen interchangea vall make the equation true 56 9 p;ease provide your resp
 **Screenshot Evidence**: [`pyq_26sep_0584_bbed5635.jpeg`](images/pyq_26sep_0584_bbed5635.jpeg)
 
 ```text
-Set No TECHNICAL TEST Questions once cannot be attempted again. tam tte series 46.44. 48, AS, 48. (C,hcxlse one soulion) *ase provide your response below 0 44 Question 7
+Set No TECHNICAL TEST Questions once cannot be attempted again. tam tte series
+46.44. 48, AS, 48. (C,hcxlse one soulion) *ase provide your response below 0 44
+Question 7
 ```
 
 - **(A)** `Option detailed in authentic screenshot`
@@ -13991,7 +13997,10 @@ attempted again. Question 2 In this question, a statement has given, followed by
 **Screenshot Evidence**: [`pyq_26sep_0736_073507b6.jpeg`](images/pyq_26sep_0736_073507b6.jpeg)
 
 ```text
-Set NO Section once be att•m9ted apin. Question 4 40115 even d it seers to at vziarce tam camrrey kroon tacts. You have to dedde Of Chet d R*tøn bas on the prcceedings Ot tnhsser,'sz II. Tre otter CEI irq-irj against tre Chief Justice Ot Rajasthan YWre being
+Set NO Section once be att•m9ted apin. Question 4 40115 even d it seers to at
+vziarce tam camrrey kroon tacts. You have to dedde Of Chet d R*tøn bas on the
+prcceedings Ot tnhsser,'sz II. Tre otter CEI irq-irj against tre Chief Justice
+Ot Rajasthan YWre being
 ```
 
 - **(A)** `Option detailed in authentic screenshot`
@@ -14719,7 +14728,12 @@ tions once subrmttedlskin, In this question, a the assumptions is in the stateme
 **Screenshot Evidence**: [`pyq_26sep_0790_f3730f0b.jpeg`](images/pyq_26sep_0790_f3730f0b.jpeg)
 
 ```text
-Set Mo Current Section :antnat• REASONING ABILITY TEST Questions once submitted,'5kipped cannot attempted again. Question 2 in tms quesbon a statement has been given. by two assumpthns t and II You have to consider 'he statement and the assurngnrz ot rmp«-d •n staterTW1t. Staternent Only the students who puD1tsh artEEs on rntematjonai forums bring *Xid name to themsefves and 'or the Assumpt»ns- I 
+Set Mo Current Section :antnat• REASONING ABILITY TEST Questions once
+submitted,'5kipped cannot attempted again. Question 2 in tms quesbon a statement
+has been given. by two assumpthns t and II You have to consider 'he statement
+and the assurngnrz ot rmp«-d •n staterTW1t. Staternent Only the students who
+puD1tsh artEEs on rntematjonai forums bring *Xid name to themsefves and 'or the
+Assumpt»ns- I
 ```
 
 - **(A)** `Option detailed in authentic screenshot`
@@ -37053,7 +37067,9 @@ Questjc In the following question, select the odd letter group from the given al
 **Screenshot Evidence**: [`pyq_26sep_2441_bb2414b3.jpeg`](images/pyq_26sep_2441_bb2414b3.jpeg)
 
 ```text
-Set No VERBAL ABILITY TEST  Question 3 Out ot the qjuen option% are in a certam manner One option different "orn 'he others c:ncose the one mat is different (Ctms.eonesoMion)   being
+Set No VERBAL ABILITY TEST  Question 3 Out ot the qjuen option% are in a certam
+manner One option different "orn 'he others c:ncose the one mat is different
+(Ctms.eonesoMion)   being
 ```
 
 - **(A)** `Option detailed in authentic screenshot`

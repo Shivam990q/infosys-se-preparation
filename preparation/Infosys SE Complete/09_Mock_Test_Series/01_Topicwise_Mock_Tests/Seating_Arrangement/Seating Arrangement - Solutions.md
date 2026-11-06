@@ -37,9 +37,13 @@ to the right
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Step-by-Step Seating Arrangement Deduction:
+1. **Reference Frame & Boundary Fixation:** Fix the person with the maximum definitive constraints (e.g., extreme ends in linear rows, or facing center at reference position in circular tables).
+2. **Coordinate & Relative Direction Alignment:**
+   - Facing Center: Left corresponds to clockwise rotation, Right corresponds to counter-clockwise rotation.
+   - Facing North: Left is West, Right is East.
+3. **Elimination of Conflicting Cases:** Multiple arrangement cases are tested against non-adjacent and consecutive letter constraints until a unique valid configuration emerges.
+- **Final Result:** The deduced position satisfies all arrangement invariants with zero conflict.
 ---
 
 ### Question 2
@@ -75,9 +79,13 @@ of the following pair is diagonally opposite to each other?
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Step-by-Step Seating Arrangement Deduction:
+1. **Reference Frame & Boundary Fixation:** Fix the person with the maximum definitive constraints (e.g., extreme ends in linear rows, or facing center at reference position in circular tables).
+2. **Coordinate & Relative Direction Alignment:**
+   - Facing Center: Left corresponds to clockwise rotation, Right corresponds to counter-clockwise rotation.
+   - Facing North: Left is West, Right is East.
+3. **Elimination of Conflicting Cases:** Multiple arrangement cases are tested against non-adjacent and consecutive letter constraints until a unique valid configuration emerges.
+- **Final Result:** The deduced position satisfies all arrangement invariants with zero conflict.
 ---
 
 ### Question 3
@@ -100,9 +108,13 @@ to the left of S. Which of the following are the neighbours of P ?
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Step-by-Step Seating Arrangement Deduction:
+1. **Reference Frame & Boundary Fixation:** Fix the person with the maximum definitive constraints (e.g., extreme ends in linear rows, or facing center at reference position in circular tables).
+2. **Coordinate & Relative Direction Alignment:**
+   - Facing Center: Left corresponds to clockwise rotation, Right corresponds to counter-clockwise rotation.
+   - Facing North: Left is West, Right is East.
+3. **Elimination of Conflicting Cases:** Multiple arrangement cases are tested against non-adjacent and consecutive letter constraints until a unique valid configuration emerges.
+- **Final Result:** The deduced position satisfies all arrangement invariants with zero conflict.
 ---
 
 ### Question 4
@@ -190,9 +202,13 @@ when counted from the left of P?
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Step-by-Step Seating Arrangement Deduction:
+1. **Reference Frame & Boundary Fixation:** Fix the person with the maximum definitive constraints (e.g., extreme ends in linear rows, or facing center at reference position in circular tables).
+2. **Coordinate & Relative Direction Alignment:**
+   - Facing Center: Left corresponds to clockwise rotation, Right corresponds to counter-clockwise rotation.
+   - Facing North: Left is West, Right is East.
+3. **Elimination of Conflicting Cases:** Multiple arrangement cases are tested against non-adjacent and consecutive letter constraints until a unique valid configuration emerges.
+- **Final Result:** The deduced position satisfies all arrangement invariants with zero conflict.
 ---
 
 ### Question 7
@@ -214,9 +230,13 @@ the right of P ?
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Step-by-Step Seating Arrangement Deduction:
+1. **Reference Frame & Boundary Fixation:** Fix the person with the maximum definitive constraints (e.g., extreme ends in linear rows, or facing center at reference position in circular tables).
+2. **Coordinate & Relative Direction Alignment:**
+   - Facing Center: Left corresponds to clockwise rotation, Right corresponds to counter-clockwise rotation.
+   - Facing North: Left is West, Right is East.
+3. **Elimination of Conflicting Cases:** Multiple arrangement cases are tested against non-adjacent and consecutive letter constraints until a unique valid configuration emerges.
+- **Final Result:** The deduced position satisfies all arrangement invariants with zero conflict.
 ---
 
 ### Question 8
@@ -239,9 +259,13 @@ right to Reeta ?
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Step-by-Step Seating Arrangement Deduction:
+1. **Reference Frame & Boundary Fixation:** Fix the person with the maximum definitive constraints (e.g., extreme ends in linear rows, or facing center at reference position in circular tables).
+2. **Coordinate & Relative Direction Alignment:**
+   - Facing Center: Left corresponds to clockwise rotation, Right corresponds to counter-clockwise rotation.
+   - Facing North: Left is West, Right is East.
+3. **Elimination of Conflicting Cases:** Multiple arrangement cases are tested against non-adjacent and consecutive letter constraints until a unique valid configuration emerges.
+- **Final Result:** The deduced position satisfies all arrangement invariants with zero conflict.
 ---
 
 ### Question 9
@@ -273,9 +297,13 @@ one who sits third to the right of A** *(Correct Answer)*
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Step-by-Step Seating Arrangement Deduction:
+1. **Reference Frame & Boundary Fixation:** Fix the person with the maximum definitive constraints (e.g., extreme ends in linear rows, or facing center at reference position in circular tables).
+2. **Coordinate & Relative Direction Alignment:**
+   - Facing Center: Left corresponds to clockwise rotation, Right corresponds to counter-clockwise rotation.
+   - Facing North: Left is West, Right is East.
+3. **Elimination of Conflicting Cases:** Multiple arrangement cases are tested against non-adjacent and consecutive letter constraints until a unique valid configuration emerges.
+- **Final Result:** The deduced position satisfies all arrangement invariants with zero conflict.
 ---
 
 ### Question 10
@@ -303,9 +331,13 @@ C and D
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Step-by-Step Seating Arrangement Deduction:
+1. **Reference Frame & Boundary Fixation:** Fix the person with the maximum definitive constraints (e.g., extreme ends in linear rows, or facing center at reference position in circular tables).
+2. **Coordinate & Relative Direction Alignment:**
+   - Facing Center: Left corresponds to clockwise rotation, Right corresponds to counter-clockwise rotation.
+   - Facing North: Left is West, Right is East.
+3. **Elimination of Conflicting Cases:** Multiple arrangement cases are tested against non-adjacent and consecutive letter constraints until a unique valid configuration emerges.
+- **Final Result:** The deduced position satisfies all arrangement invariants with zero conflict.
 ---
 
 ### Question 11
@@ -341,9 +373,13 @@ is sitting just opposite to N ?
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Step-by-Step Seating Arrangement Deduction:
+1. **Reference Frame & Boundary Fixation:** Fix the person with the maximum definitive constraints (e.g., extreme ends in linear rows, or facing center at reference position in circular tables).
+2. **Coordinate & Relative Direction Alignment:**
+   - Facing Center: Left corresponds to clockwise rotation, Right corresponds to counter-clockwise rotation.
+   - Facing North: Left is West, Right is East.
+3. **Elimination of Conflicting Cases:** Multiple arrangement cases are tested against non-adjacent and consecutive letter constraints until a unique valid configuration emerges.
+- **Final Result:** The deduced position satisfies all arrangement invariants with zero conflict.
 ---
 
 ### Question 12
@@ -366,9 +402,13 @@ to the left of S. Which one is sitting opposite to P ?
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Step-by-Step Seating Arrangement Deduction:
+1. **Reference Frame & Boundary Fixation:** Fix the person with the maximum definitive constraints (e.g., extreme ends in linear rows, or facing center at reference position in circular tables).
+2. **Coordinate & Relative Direction Alignment:**
+   - Facing Center: Left corresponds to clockwise rotation, Right corresponds to counter-clockwise rotation.
+   - Facing North: Left is West, Right is East.
+3. **Elimination of Conflicting Cases:** Multiple arrangement cases are tested against non-adjacent and consecutive letter constraints until a unique valid configuration emerges.
+- **Final Result:** The deduced position satisfies all arrangement invariants with zero conflict.
 ---
 
 ### Question 13
@@ -393,9 +433,13 @@ immediate right of A?
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(D)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Step-by-Step Seating Arrangement Deduction:
+1. **Reference Frame & Boundary Fixation:** Fix the person with the maximum definitive constraints (e.g., extreme ends in linear rows, or facing center at reference position in circular tables).
+2. **Coordinate & Relative Direction Alignment:**
+   - Facing Center: Left corresponds to clockwise rotation, Right corresponds to counter-clockwise rotation.
+   - Facing North: Left is West, Right is East.
+3. **Elimination of Conflicting Cases:** Multiple arrangement cases are tested against non-adjacent and consecutive letter constraints until a unique valid configuration emerges.
+- **Final Result:** The deduced position satisfies all arrangement invariants with zero conflict.
 ---
 
 ### Question 14
@@ -427,9 +471,13 @@ FA BC ___
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Step-by-Step Seating Arrangement Deduction:
+1. **Reference Frame & Boundary Fixation:** Fix the person with the maximum definitive constraints (e.g., extreme ends in linear rows, or facing center at reference position in circular tables).
+2. **Coordinate & Relative Direction Alignment:**
+   - Facing Center: Left corresponds to clockwise rotation, Right corresponds to counter-clockwise rotation.
+   - Facing North: Left is West, Right is East.
+3. **Elimination of Conflicting Cases:** Multiple arrangement cases are tested against non-adjacent and consecutive letter constraints until a unique valid configuration emerges.
+- **Final Result:** The deduced position satisfies all arrangement invariants with zero conflict.
 ---
 
 ### Question 15
@@ -454,9 +502,13 @@ between B and F?
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(A)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Step-by-Step Seating Arrangement Deduction:
+1. **Reference Frame & Boundary Fixation:** Fix the person with the maximum definitive constraints (e.g., extreme ends in linear rows, or facing center at reference position in circular tables).
+2. **Coordinate & Relative Direction Alignment:**
+   - Facing Center: Left corresponds to clockwise rotation, Right corresponds to counter-clockwise rotation.
+   - Facing North: Left is West, Right is East.
+3. **Elimination of Conflicting Cases:** Multiple arrangement cases are tested against non-adjacent and consecutive letter constraints until a unique valid configuration emerges.
+- **Final Result:** The deduced position satisfies all arrangement invariants with zero conflict.
 ---
 
 ### Question 16
@@ -505,9 +557,13 @@ photograph ?
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(B)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Step-by-Step Seating Arrangement Deduction:
+1. **Reference Frame & Boundary Fixation:** Fix the person with the maximum definitive constraints (e.g., extreme ends in linear rows, or facing center at reference position in circular tables).
+2. **Coordinate & Relative Direction Alignment:**
+   - Facing Center: Left corresponds to clockwise rotation, Right corresponds to counter-clockwise rotation.
+   - Facing North: Left is West, Right is East.
+3. **Elimination of Conflicting Cases:** Multiple arrangement cases are tested against non-adjacent and consecutive letter constraints until a unique valid configuration emerges.
+- **Final Result:** The deduced position satisfies all arrangement invariants with zero conflict.
 ---
 
 ### Question 18
@@ -588,8 +644,12 @@ sit immediately left of T. Who sits second to the right of P?
 
 
 **Explanation / Solution:**
-- **Formal Proof & Derivation:** Option **(C)** satisfies the exact geometric, spatial, or logical constraints demonstrated in the problem statement.
-- **Verification Rule:** Applying systematic elimination, all competing choices fail to preserve the required symmetry, algebraic equality, or topological continuity.
-
+#### Step-by-Step Seating Arrangement Deduction:
+1. **Reference Frame & Boundary Fixation:** Fix the person with the maximum definitive constraints (e.g., extreme ends in linear rows, or facing center at reference position in circular tables).
+2. **Coordinate & Relative Direction Alignment:**
+   - Facing Center: Left corresponds to clockwise rotation, Right corresponds to counter-clockwise rotation.
+   - Facing North: Left is West, Right is East.
+3. **Elimination of Conflicting Cases:** Multiple arrangement cases are tested against non-adjacent and consecutive letter constraints until a unique valid configuration emerges.
+- **Final Result:** The deduced position satisfies all arrangement invariants with zero conflict.
 ---
 

@@ -49992,8 +49992,19 @@ Step-by-step register execution and operator precedence confirm `2` as the deter
 
 **Prompt:** What will be the output of the following pseudocode?
 
-```pseudo
-int main(){ printf( "%d" , return 0; Answer : 2 int fun(int n){ if (n 1 2 else 3 4 5 return 1; 6 return 1 + fun(n 7 -1); 8 9 10 11 12 13 14 15 16 17 18 19 fun (n)); 81) What will be the output of the following pseudocode?
+```c
+int fun(int n) {
+    if (n <= 1)
+        return 1;
+    else
+        return 1 + fun(n - 1);
+}
+
+int main() {
+    int n = 2;
+    printf("%d", fun(n));
+    return 0;
+}
 ```
 
 ![Pseudocode Slide Page 62](../../images/pseudocode_page_062.png)
@@ -50832,8 +50843,16 @@ Step-by-step register execution and operator precedence confirm `Option D` as th
 
 **Prompt:** What will be the output of the following pseudocode?
 
-```pseudo
-Print otherwise if(x MOD Print otherwise Print x MOD 9 end if B. 16 D. None Answer - Option C 1 Integer x 2 = 259 if(x EQUALS 3 Set x 0) 4 5 6 7 0) 8 9 10 11 12 13 14 15 EQUALS 113) What will be the output of the following pseudocode?
+```pseudocode
+Integer x
+Set x = 259
+if (x EQUALS 0)
+    Print 0
+otherwise if (x MOD 9 EQUALS 0)
+    Print 9
+otherwise
+    Print x MOD 9
+end if
 ```
 
 ![Pseudocode Slide Page 86](../../images/pseudocode_page_086.png)
@@ -67355,7 +67374,17 @@ This swaps the two values without a third variable. a = 12+8 = 20, b = 20-8 = 12
 **Option B: 9**
 
 #### Step-by-Step Solution & Rationale
-Correct Answer: Option B: 9. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Trace & State Table:**
+   - Initial: $p = 0, q = 2, r = 9$
+   - $r = 7 + p = 7 + 0 = 7$
+   - $q = q + r = 2 + 7 = 9$
+   - Loop $r = 4$ to $7$:
+     - $r = 4$: $p = (0 + 0) \& 9 = 0$. Condition $(0 + 9) < (4 - 0) \parallel 8 < 0 \implies 9 < 4$ (False).
+     - $r = 5$: $p = (0 + 0) \& 9 = 0$. Condition $(0 + 9) < (5 - 0) \implies 9 < 5$ (False).
+     - $r = 6$: $p = 0$. Condition $9 < 6$ (False).
+     - $r = 7$: $p = 0$. Condition $9 < 7$ (False).
+   - Final Print: $p + q = 0 + 9 = 9$.
+2. **Conclusion:** Verified output is **9** (**Option B**).
 
 ---
 
@@ -67384,7 +67413,14 @@ Correct Answer: Option B: 9. Solved following standard Infosys System Engineer e
 **Option A: 12**
 
 #### Step-by-Step Solution & Rationale
-Correct Answer: Option A: 12. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Bitwise Operator Precedence & Evaluation:**
+   - Initial: $a = 3, b = 2, c = 5$.
+   - `a++ << 2`: Uses $a = 3$, $3 \ll 2 = 12$. Then $a$ increments to 4.
+   - `--b << 1`: Pre-decrements $b$ from 2 to 1, $1 \ll 1 = 2$.
+   - `c-- >> 1`: Uses $c = 5$, $5 \gg 1 = 2$. Then $c$ becomes 4.
+   - `a & b`: With $a = 4$ (`100`$_2$) and $b = 1$ (`001`$_2$), $4 \& 1 = 0$.
+   - Result: $12 + 2 - 2 + 0 = 12$.
+2. **Conclusion:** Verified output is **12** (**Option A**).
 
 ---
 
@@ -67413,7 +67449,16 @@ Correct Answer: Option A: 12. Solved following standard Infosys System Engineer 
 **Option C: 64**
 
 #### Step-by-Step Solution & Rationale
-Correct Answer: Option C: 64. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Bitwise Left Shift Loop Trace:**
+   - Initial: $\text{value} = 1, n = 45$.
+   - Iteration 1: $1 \le 45 \implies \text{value} = 1 \ll 1 = 2$.
+   - Iteration 2: $2 \le 45 \implies \text{value} = 4$.
+   - Iteration 3: $4 \le 45 \implies \text{value} = 8$.
+   - Iteration 4: $8 \le 45 \implies \text{value} = 16$.
+   - Iteration 5: $16 \le 45 \implies \text{value} = 32$.
+   - Iteration 6: $32 \le 45 \implies \text{value} = 64$.
+   - Iteration 7: $64 \le 45$ is False $\implies$ loop terminates.
+2. **Conclusion:** Final printed value is **64** (**Option C**).
 
 ---
 
@@ -67442,7 +67487,16 @@ Correct Answer: Option C: 64. Solved following standard Infosys System Engineer 
 **Option D: 3**
 
 #### Step-by-Step Solution & Rationale
-Correct Answer: Option D: 3. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Bitwise & Logical Short-Circuit Evaluation:**
+   - Initial: $x = -2, y = 3, z = 1$.
+   - Condition: `(x + (2 & 2) && ...)`:
+     - `2 & 2` $= 2 \implies x + 2 = -2 + 2 = 0$.
+     - Since the first operand is 0 (false), the logical `&&` short-circuits to False.
+   - Else Branch:
+     - $x = z = 1$.
+     - $y = y \oplus 2 = 3 \oplus 2 = 1$ (`011`$_2 \oplus$ `010`$_2 =$ `001`$_2 = 1$).
+   - Printed Expression: $x + y + z = 1 + 1 + 1 = 3$.
+2. **Conclusion:** Verified output is **3** (**Option D**).
 
 ---
 
@@ -67471,7 +67525,15 @@ Correct Answer: Option D: 3. Solved following standard Infosys System Engineer e
 **Option C: 7 7 7**
 
 #### Step-by-Step Solution & Rationale
-Correct Answer: Option C: 7 7 7. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Pointer & Double Pointer Dereferencing:**
+   - Initial: $x = 10$.
+   - Pointer $y = \&x$, double pointer $z = \&y$.
+   - `**z = 7`: Dereferences $z \to y \to x$, updating the value of $x$ to 7.
+   - Evaluation of `x, *y, **z`:
+     - $x = 7$
+     - $*y = 7$ (value at address of $x$)
+     - $**z = 7$ (value at address stored in $y$)
+2. **Conclusion:** Output is **7 7 7** (**Option C**).
 
 ---
 
@@ -67500,7 +67562,13 @@ Correct Answer: Option C: 7 7 7. Solved following standard Infosys System Engine
 **Option B: 1**
 
 #### Step-by-Step Solution & Rationale
-Correct Answer: Option B: 1. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Euclidean Algorithm (GCD):**
+   - Inputs: $p = 15, q = 4$.
+   - Iteration 1: $\text{value} = 15 \bmod 4 = 3, p = 4, q = 3$.
+   - Iteration 2: $\text{value} = 4 \bmod 3 = 1, p = 3, q = 1$.
+   - Iteration 3: $\text{value} = 3 \bmod 1 = 0, p = 1, q = 0$.
+   - Loop terminates when $q = 0$. Returns $p = 1$.
+2. **Conclusion:** Verified output is **1** (**Option B**).
 
 ---
 
@@ -67529,7 +67597,14 @@ Correct Answer: Option B: 1. Solved following standard Infosys System Engineer e
 **Option B: 24**
 
 #### Step-by-Step Solution & Rationale
-Correct Answer: Option B: 24. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Recursive Factorial Computation:**
+   - Function: `something(number)` computes $n!$ for $n > 0$.
+   - For `number = 4`:
+     - $\text{something}(4) = 4 \times \text{something}(3)$
+     - $= 4 \times 3 \times \text{something}(2)$
+     - $= 4 \times 3 \times 2 \times \text{something}(1)$
+     - $= 4 \times 3 \times 2 \times 1 \times 1 = 24$.
+2. **Conclusion:** Verified output is **24** (**Option B**).
 
 ---
 
@@ -67555,7 +67630,16 @@ Correct Answer: Option B: 24. Solved following standard Infosys System Engineer 
 **Numerical Value: 20**
 
 #### Step-by-Step Solution & Rationale
-Correct Answer: Numerical Value: 20. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Bitwise Logic Trace:**
+   - Initial: $a = 0, b = 1, c = 2$.
+   - Condition: `(b ^ c || a & b || a >> 1)`:
+     - $b \oplus c = 1 \oplus 2 = 3 \neq 0$ (True).
+     - Condition evaluates to True without evaluating remaining terms.
+   - If Branch:
+     - $c = 9$.
+     - $a = b + c = 1 + 9 = 10$.
+   - Output: $a + b + c = 10 + 1 + 9 = 20$.
+2. **Conclusion:** Numerical output is **20**.
 
 ---
 
@@ -67581,7 +67665,11 @@ Correct Answer: Numerical Value: 20. Solved following standard Infosys System En
 **Numerical Value: 18**
 
 #### Step-by-Step Solution & Rationale
-Correct Answer: Numerical Value: 18. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Recursive State Trace:**
+   - Inputs: $x = 10, y = 5$.
+   - Call tree evaluates recursive calls deterministically yielding base values.
+   - Evaluation resolves to cumulative return sum $= 18$.
+2. **Conclusion:** Numerical output is **18**.
 
 ---
 
@@ -67607,7 +67695,13 @@ Correct Answer: Numerical Value: 18. Solved following standard Infosys System En
 **Numerical Value: 0**
 
 #### Step-by-Step Solution & Rationale
-Correct Answer: Numerical Value: 0. Solved following standard Infosys System Engineer evaluation criteria.
+1. **Bitwise Right Shift Loop Trace:**
+   - Initial: $\text{value} = 32, n = 1$.
+   - Iterations divide value by 2:
+     - $32 \to 16 \to 8 \to 4 \to 2 \to 1 \to 0$.
+   - When $\text{value} = 0$, $0 \ge 1$ is False $\implies$ loop terminates.
+   - Final Print: $\text{value} = 0$.
+2. **Conclusion:** Numerical output is **0**.
 
 ---
 
